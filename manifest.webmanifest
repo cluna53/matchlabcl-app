@@ -1,0 +1,21 @@
+{
+  "name": "MatchLab Football Intelligence",
+  "short_name": "MatchLab",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1210",
+  "theme_color": "#101a17",
+  "description": "Análisis de fútbol basado en datos",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
