@@ -1,7 +1,7 @@
 
 name: Actualizar datos de fútbol
 
-on:
+'on':
   workflow_dispatch:
   schedule:
     - cron: '15 7,19 * * *'
