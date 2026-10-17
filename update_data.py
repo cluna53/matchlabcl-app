@@ -19,7 +19,7 @@ LEAGUES = {'PD': 'LaLiga', 'PL': 'Premier', 'ELC': 'Championship', 'CL': 'Champi
 TOKEN = os.getenv('FOOTBALL_DATA_TOKEN', '').strip()
 
 def get(endpoint):
-    req = urllib.request.Request(API + endpoint, headers={'X-Auth-Token': TOKEN, 'User-Agent': 'MatchLab/0.4'})
+    req = urllib.request.Request(API + endpoint, headers={'X-Auth-Token': TOKEN, 'User-Agent': 'MatchLab/0.5'})
     for attempt in range(3):
         try:
             with urllib.request.urlopen(req, timeout=25) as response:
@@ -41,7 +41,7 @@ def main():
         return 2
     today = dt.datetime.now(dt.timezone.utc).date()
     end = today + dt.timedelta(days=14)
-    snapshot = {'source': 'football-data.org', 'updatedAt': dt.datetime.now(dt.timezone.utc).isoformat(), 'leagues': {}, 'matches': [], 'standings': {}, 'errors': {}}
+    snapshot = {'source': 'football-data.org', 'updatedAt': dt.datetime.now(dt.timezone.utc).isoformat(), 'leagues': {}, 'matches': [], 'standings': {}, 'history': {}, 'errors': {}}
     successful = 0
     for code, name in LEAGUES.items():
         try:
@@ -72,6 +72,23 @@ def main():
             } for r in (total or {}).get('table', [])]
         except Exception as e:
             snapshot['errors'][name + ' standings'] = str(e)
+        time.sleep(7)
+        # Historical completed matches, with actual final scores only.
+        try:
+            start_history = today - dt.timedelta(days=120)
+            history_params = urllib.parse.urlencode({'dateFrom': start_history.isoformat(), 'dateTo': (today - dt.timedelta(days=1)).isoformat(), 'status': 'FINISHED'})
+            historical = get(f'/competitions/{code}/matches?{history_params}')
+            records = []
+            for match in historical.get('matches', []):
+                full = (match.get('score') or {}).get('fullTime') or {}
+                home_goals, away_goals = full.get('home'), full.get('away')
+                home_id = (match.get('homeTeam') or {}).get('id')
+                away_id = (match.get('awayTeam') or {}).get('id')
+                if match.get('status') == 'FINISHED' and all(isinstance(v, int) and not isinstance(v, bool) for v in (home_goals, away_goals, home_id, away_id)):
+                    records.append({'id': match.get('id'), 'date': match.get('utcDate'), 'homeId': home_id, 'awayId': away_id, 'homeGoals': home_goals, 'awayGoals': away_goals})
+            snapshot['history'][name] = records
+        except Exception as e:
+            snapshot['errors'][name + ' history'] = str(e)
         time.sleep(7)
     if not successful:
         print('No competition fixtures could be fetched; keeping previous snapshot.', file=sys.stderr)

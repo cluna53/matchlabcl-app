@@ -15,8 +15,8 @@
   <section class="hero">
     <div class="eyebrow"><span class="live-dot"></span> TU CENTRO DE ANÁLISIS</div>
     <h1>Menos intuición.<br><span>Más datos.</span></h1>
-    <p>Partidos, resultados y tendencias basadas en datos reales.</p>
-    <div class="hero-meta"><span>⚽ 3 ligas con cobertura gratuita</span><span>◷ Bajo demanda</span></div>
+    <p>Partidos reales y estimaciones estadísticas explicadas.</p>
+    <div class="hero-meta"><span>⚽ 6 competiciones configuradas</span><span>◷ Bajo demanda</span></div>
   </section>
   <section class="section" id="filters">
     <div class="section-head"><div><div class="eyebrow">PERSONALIZA TU ANÁLISIS</div><h2>Filtros</h2></div><button class="text-button" id="resetFilters">Restablecer</button></div>
@@ -45,9 +45,9 @@
     <div class="date-strip"><span>PRÓXIMOS ENCUENTROS</span><span id="dateLabel">Actualización programada</span></div>
     <div id="dataStatus" class="data-status" role="status">Comprobando datos publicados…</div><div id="matches" class="matches"></div>
   </section>
-  <section class="notice"><span class="notice-icon">ⓘ</span><div><strong>Transparencia primero</strong><p>Partidos, resultados y clasificación proceden de football-data.org cuando la sincronización está configurada. No hay cuotas, córners, tarjetas, estadísticas de jugadores ni noticias en este plan. La disponibilidad de cada competición depende del acceso concedido por la API. No se generan probabilidades sin un modelo validado. Datos sujetos a retrasos y disponibilidad.</p></div></section>
+  <section class="notice"><span class="notice-icon">ⓘ</span><div><strong>Transparencia primero</strong><p>Partidos, resultados y clasificación proceden de football-data.org cuando la sincronización está configurada. No hay cuotas, córners, tarjetas, estadísticas de jugadores ni noticias en este plan. La disponibilidad de cada competición depende del acceso concedido por la API. Las probabilidades 1X2, goles y BTTS proceden de un modelo Poisson experimental sin validación histórica. No son cuotas ni consejos de apuesta. Datos sujetos a retrasos y disponibilidad.</p></div></section>
 </main>
 <nav class="bottom-nav"><button class="selected"><span>⌂</span>Inicio</button><button id="navMarkets"><span>▦</span>Filtros</button><button id="navSaved"><span>☆</span>Guardados</button><button id="navInfo"><span>ⓘ</span>Datos</button></nav>
-<div class="modal-backdrop" id="modal" hidden><div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><button class="close" id="closeModal">×</button><div class="eyebrow" id="modalLeague">ANÁLISIS DE PARTIDO</div><h2 id="modalTitle">Local vs Visitante</h2><p class="muted" id="modalSub">Datos de demostración</p><div id="modalContent"></div><div class="modal-note">Datos informativos, no pronósticos ni recomendaciones de apuesta. Las cifras dependen de la última actualización publicada.</div></div></div>
+<div class="modal-backdrop" id="modal" hidden><div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><button class="close" id="closeModal">×</button><div class="eyebrow" id="modalLeague">ANÁLISIS DE PARTIDO</div><h2 id="modalTitle">Local vs Visitante</h2><p class="muted" id="modalSub">Datos de demostración</p><div id="modalContent"></div><div class="modal-note">Probabilidades experimentales no validadas, no recomendaciones de apuesta. No incluyen cuotas, lesiones ni alineaciones.</div></div></div>
 <script src="app.js"></script>
 </body></html>
