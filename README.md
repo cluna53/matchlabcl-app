@@ -1,25 +1,36 @@
-# MatchLab — versión 0.2 (nombre provisional)
+# MatchLab v0.4 — partidos reales (GitHub Pages)
 
-Web app móvil lista para publicar como **sitio estático en GitHub Pages**. Sin build, sin dependencias y sin claves API.
+Web móvil/PWA estática con partidos, escudos, fechas y clasificación de **football-data.org**. No hay datos ficticios. Los datos aparecen **después de configurar** una cuenta gratuita y ejecutar GitHub Actions. No necesita servidor propio ni mostrar la clave API en la web.
 
-## Novedades
-- Filtros multiselección de **4 ligas** y **6 mercados** en la pantalla de inicio.
-- Selecciones persistentes en `localStorage` del navegador.
-- Escudos remotos de varios clubes de ejemplo, con insignias de iniciales cuando el escudo no está disponible. Los escudos son propiedad de sus respectivos titulares y se descargan de un proveedor externo; para un producto público habrá que revisar sus condiciones de uso.
-- El detalle de cada partido muestra únicamente los mercados seleccionados.
-- PWA para añadir a la pantalla de inicio del móvil.
+## Instalación y actualización del repositorio
 
-## Subir a GitHub Pages
-1. Crea un repositorio **público** nuevo en GitHub, por ejemplo `matchlab-app`.
-2. En **Add file → Upload files**, sube **el contenido de esta carpeta**, no el ZIP ni una carpeta contenedora. `index.html` debe quedar en la raíz del repositorio.
-3. En el repositorio, abre **Settings → Pages**.
-4. En **Build and deployment**, elige **Deploy from a branch**, rama **main**, carpeta **/(root)** y pulsa **Save**.
-5. Cuando GitHub termine la publicación, abre `https://TU-USUARIO.github.io/matchlab-app/` (sustituye el usuario y nombre del repositorio).
-6. En iPhone: Safari → Compartir → **Añadir a pantalla de inicio**.
+1. Descomprime este ZIP y sube **todo su contenido** a la raíz de tu repositorio existente en GitHub. `index.html`, `app.js`, `data/` y `.github/` deben quedar en la raíz. Si GitHub pregunta, confirma la sustitución de los archivos anteriores.
+2. Crea una cuenta gratuita en https://www.football-data.org/client/register y obtén tu token.
+3. En tu repositorio de GitHub abre **Settings → Secrets and variables → Actions → New repository secret**. Nombre exacto: `FOOTBALL_DATA_TOKEN`. Pega el token como valor. **Nunca** lo pegues en `app.js`, en un issue ni en archivos públicos.
+4. Abre **Actions → Actualizar datos de fútbol → Run workflow → Run workflow**. Espera a que la ejecución termine en verde. Se creará/actualizará `data/football.json` con partidos reales.
+5. Mantén GitHub Pages en **Settings → Pages → Deploy from a branch → main / (root)**. Recarga tu URL publicada en Safari. Las actualizaciones se programan aproximadamente dos veces al día (GitHub puede retrasar ejecuciones).
+6. Si GitHub Actions falla con `403` al intentar hacer push: **Settings → Actions → General → Workflow permissions → Read and write permissions**. En repositorios u organizaciones con políticas restrictivas, el propietario debe permitirlo.
 
-Si editas archivos después, súbelos con el mismo nombre y espera la actualización de Pages. El service worker usa caché y puede tardar unos segundos en refrescar.
+**Importante para iPhone:** GitHub puede ocultar carpetas que comienzan con punto, como `.github`, al elegir archivos desde Safari. Si no se sube `.github/workflows/update-football.yml`, el workflow no aparecerá en Actions. En ese caso crea el archivo desde GitHub (Add file → Create new file) con la ruta `.github/workflows/update-football.yml` y copia el contenido del ZIP, o realiza la subida desde un ordenador.
 
-## Aviso importante
-**Todo el calendario y todos los porcentajes son ficticios.** Esta versión NO consulta partidos reales, noticias, cuotas, ni bases de datos. Los escudos que se cargan no prueban que esos clubes jueguen esos encuentros o competiciones. No utilizar para apostar.
+## Cobertura y limitaciones
 
-Para la siguiente fase: conectar un backend y un proveedor de datos, validar cobertura de LaLiga, Segunda, Premier y Championship y licencias de escudos. **No incluyas claves privadas en `app.js` ni en un repositorio público.**
+| Competición | Gratis |
+|---|---|
+| LaLiga (PD) | Sí |
+| Premier League (PL) | Sí |
+| Championship (ELC) | Sí |
+| Champions League (CL) | Sujeto a disponibilidad de la cuenta gratuita |
+| Serie A (SA) | Sujeto a disponibilidad de la cuenta gratuita |
+| Eredivisie (DED) | Sujeto a disponibilidad de la cuenta gratuita |
+
+- **Sí:** próximos encuentros (14 días), escudos cuando los suministre la API, resultados si están disponibles, clasificación y totales de temporada.
+- **No:** directo fiable, cuotas, noticias, alineaciones, córners, tarjetas, tiros, estadísticas individuales ni predicciones validadas. Los datos del plan gratuito pueden ir retrasados.
+- **Cuota:** 10 solicitudes/minuto. El script realiza hasta doce solicitudes (partidos + clasificación por seis competiciones) con pausas.
+- **Privacidad:** el token se guarda en GitHub Actions Secrets; el JSON público no lo contiene.
+- **Transparencia:** si no hay sincronización, la web muestra una explicación, **no partidos inventados**. Una liga que falle se señala; nunca se sustituye por datos simulados.
+- **Fuentes:** https://www.football-data.org/pricing ; https://www.football-data.org/coverage ; https://www.football-data.org/documentation/quickstart
+
+Data provided by football-data.org
+
+**Nota sobre Champions League:** la clasificación y el formato de fases pueden diferir de una liga doméstica; si el proveedor no devuelve una tabla TOTAL, se mostrará sin clasificación. Las competiciones no habilitadas por el plan gratuito generarán una advertencia visible en la app, sin datos ficticios.
