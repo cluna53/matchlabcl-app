@@ -1,8 +1,9 @@
-/* MatchLab v0.7. Real fixtures and transparent experimental Poisson probabilities. */
+/* MatchLab v0.8. Real fixtures and transparent experimental Poisson probabilities. */
 const ALL_LEAGUES=['LaLiga','Premier','Championship','Champions League','Serie A','Eredivisie'];
 const ALL_MARKETS=['1X2','Goles','BTTS','Córners','Tarjetas','Jugadores'];
 const STORAGE_KEY='matchlab-filters-v4';
 let snapshot=null;
+let predictionArchive={records:{}};
 let filters=loadFilters();
 function loadFilters(){try{const f=JSON.parse(localStorage.getItem(STORAGE_KEY));if(f&&Array.isArray(f.leagues)&&Array.isArray(f.markets))return {leagues:new Set(f.leagues.filter(x=>ALL_LEAGUES.includes(x))),markets:new Set(f.markets.filter(x=>ALL_MARKETS.includes(x)))};}catch{}return {leagues:new Set(ALL_LEAGUES),markets:new Set(ALL_MARKETS)};}
 function saveFilters(){try{localStorage.setItem(STORAGE_KEY,JSON.stringify({leagues:[...filters.leagues],markets:[...filters.markets]}));}catch{}}
@@ -71,6 +72,17 @@ function explainPrediction(x,p,m){
  const local=x.name==='Victoria local',winner=local?hn:an,own=local?p.xh:p.xa,other=local?p.xa:p.xh;
  return `${winner} tiene una expectativa de <b>${own.toFixed(2)}</b> goles frente a <b>${other.toFixed(2)}</b> de su rival. El porcentaje suma los marcadores simulados en los que <b>${winner} gana</b>.`;
 }
+function teamHistory(m,market,side){
+ const id=side==='home'?m.home?.id:m.away?.id;
+ const relevant=Object.values(predictionArchive.records||{}).filter(r=>r.id!==m.id&&r.league===m.league&&r[side+'Id']===id&&r.result&&typeof r.result.hits?.[market]==='boolean');
+ const hits=relevant.filter(r=>r.result.hits[market]).length;
+ return {hits,total:relevant.length};
+}
+function marketHistory(m,market){
+ const h=teamHistory(m,market,'home'),a=teamHistory(m,market,'away');
+ const label=r=>r.total?`${r.hits} de ${r.total} (${Math.round(100*r.hits/r.total)}%)`:'Sin resultados evaluados';
+ return `<div class="prediction-history"><div class="prediction-history-title">Historial de aciertos del modelo · ${esc(market)}</div><div class="prediction-history-team"><span>${esc(m.home?.name)} <small>como local</small></span><strong>${label(h)}</strong></div><div class="prediction-history-team"><span>${esc(m.away?.name)} <small>como visitante</small></span><strong>${label(a)}</strong></div><small>Solo pronósticos registrados antes del inicio y partidos finalizados. Las muestras pequeñas no prueban fiabilidad.</small></div>`;
+}
 function openMatch(m){
   document.querySelector('#modalLeague').textContent=m.league.toUpperCase()+' · MODELO EXPERIMENTAL';
   document.querySelector('#modalTitle').textContent=`${m.home?.name||'Local'} vs ${m.away?.name||'Visitante'}`;
@@ -85,7 +97,7 @@ function openMatch(m){
     html+=`<div class="prediction-summary prediction-summary-v6"><div class="prediction-summary-top"><span class="eyebrow">PROYECCIÓN DE GOLES</span><span class="sample-pill">${p.limited?'Muestra reducida':'Modelo experimental'}</span></div><div class="expected-total"><strong>${(p.xh+p.xa).toFixed(2).replace('.',',')}</strong><span>goles esperados<br>en total</span></div><div class="expected-split"><div><span>${esc(m.home?.name)}</span><b>${p.xh.toFixed(2).replace('.',',')}</b></div><div class="expected-divider">+</div><div><span>${esc(m.away?.name)}</span><b>${p.xa.toFixed(2).replace('.',',')}</b></div></div><small>Basado en ${p.total} resultados de la competición, ${p.homeCount} del local y ${p.awayCount} del visitante (histórico disponible de hasta 120 días). ${p.limited?'La muestra por equipo es reducida: incertidumbre elevada.':'El modelo todavía no está calibrado con resultados futuros.'}</small></div>`;
     html+=`<details class="model-breakdown"><summary>¿Cómo se calculan estos goles? <span>Ver estadísticas</span></summary><div class="model-breakdown-grid"><div><span>Media de la liga (local / visitante)</span><b>${p.leagueHome.toFixed(2)} / ${p.leagueAway.toFixed(2)}</b></div><div><span>${esc(m.home?.name)} en casa: goles a favor / en contra*</span><b>${p.hFor.toFixed(2)} / ${p.hAgainst.toFixed(2)}</b></div><div><span>${esc(m.away?.name)} fuera: goles a favor / en contra*</span><b>${p.aFor.toFixed(2)} / ${p.aAgainst.toFixed(2)}</b></div><div><span>Partidos en casa / fuera disponibles</span><b>${p.venueHomeCount} / ${p.venueAwayCount}</b></div></div><p>*Tasas suavizadas con la forma general del equipo y la media de la liga. Los partidos recientes pesan más (semivida 45 días). ${p.adjusted?'Se ha limitado una estimación extrema para reducir inestabilidad.':''} Son estimaciones experimentales sin validación retrospectiva.</p></details>`;
     html+='<h3 class="prediction-heading">Hasta cinco pronósticos</h3>';
-    html+=p.selected.map((x,i)=>`<article class="prediction-card"><div class="prediction-card-top"><span class="prediction-market">${esc(x.market==='BTTS'?'AMBOS MARCAN':x.market==='Goles'?'GOLES':'RESULTADO 1X2')}</span><span class="prediction-number">0${i+1}</span></div><div class="prediction-card-main"><strong>${esc(x.name)}</strong><span class="prediction-percent">${Math.round(x.p*100)}%</span></div><div class="prediction-meter" aria-hidden="true"><span style="width:${Math.max(0,Math.min(100,x.p*100)).toFixed(1)}%"></span></div><p class="prediction-explanation">${explainPrediction(x,p,m)}</p></article>`).join('');
+    html+=p.selected.map((x,i)=>`<article class="prediction-card"><div class="prediction-card-top"><span class="prediction-market">${esc(x.market==='BTTS'?'AMBOS MARCAN':x.market==='Goles'?'GOLES':'RESULTADO 1X2')}</span><span class="prediction-number">0${i+1}</span></div><div class="prediction-card-main"><strong>${esc(x.name)}</strong><span class="prediction-percent">${Math.round(x.p*100)}%</span></div><div class="prediction-meter" aria-hidden="true"><span style="width:${Math.max(0,Math.min(100,x.p*100)).toFixed(1)}%"></span></div><p class="prediction-explanation">${explainPrediction(x,p,m)}</p>${marketHistory(m,x.name)}</article>`).join('');
     html+='<p class="analysis-paragraph">Los resultados 1X2, las opciones de goles y BTTS pueden estar correlacionados. El orden por probabilidad no mide rentabilidad ni valor frente a cuotas.</p>';
   }
   html+=`<h3 class="prediction-heading">Estadísticas de temporada</h3><div class="analysis-row"><strong>${esc(m.home?.name)}</strong><span>vs</span><strong>${esc(m.away?.name)}</strong></div>`;
@@ -94,7 +106,7 @@ function openMatch(m){
   html+='<p class="analysis-paragraph">Córners, tarjetas y jugadores no tienen datos suficientes en esta API. El modelo usa un supuesto Poisson independiente, no incorpora alineaciones, lesiones ni cuotas, y no está validado con backtesting.</p>';
   document.querySelector('#modalContent').innerHTML=html;document.querySelector('#modal').hidden=false;
 }
-async function refresh(){const box=document.querySelector('#dataStatus');box.textContent='Cargando la última publicación…';try{const response=await fetch(`./data/football.json?refresh=${Date.now()}`,{cache:'no-store'});if(!response.ok)throw new Error(`HTTP ${response.status}`);const data=await response.json();if(!data||!Array.isArray(data.matches))throw new Error('Formato de datos inválido');snapshot=data;render();}catch(e){snapshot=null;render();box.innerHTML=`<strong>No se pudieron cargar los datos.</strong><div>${esc(e.message)}. Comprueba que data/football.json está publicado en GitHub Pages.</div>`;}}
+async function refresh(){const box=document.querySelector('#dataStatus');box.textContent='Cargando la última publicación…';try{const response=await fetch(`./data/football.json?refresh=${Date.now()}`,{cache:'no-store'});if(!response.ok)throw new Error(`HTTP ${response.status}`);const data=await response.json();if(!data||!Array.isArray(data.matches))throw new Error('Formato de datos inválido');snapshot=data;try{const historyResponse=await fetch(`./data/prediction_history.json?refresh=${Date.now()}`,{cache:'no-store'});if(historyResponse.ok){const archive=await historyResponse.json();predictionArchive=archive&&archive.records?archive:{records:{}};}else predictionArchive={records:{}};}catch{predictionArchive={records:{}};}render();}catch(e){snapshot=null;render();box.innerHTML=`<strong>No se pudieron cargar los datos.</strong><div>${esc(e.message)}. Comprueba que data/football.json está publicado en GitHub Pages.</div>`;}}
 document.querySelectorAll('[data-league]').forEach(b=>b.addEventListener('click',()=>{const k=b.dataset.league;filters.leagues.has(k)?filters.leagues.delete(k):filters.leagues.add(k);saveFilters();render();}));
 document.querySelectorAll('[data-market]').forEach(b=>b.addEventListener('click',()=>{const k=b.dataset.market;filters.markets.has(k)?filters.markets.delete(k):filters.markets.add(k);saveFilters();render();}));
 document.querySelector('#resetFilters').addEventListener('click',()=>{filters={leagues:new Set(ALL_LEAGUES),markets:new Set(ALL_MARKETS)};saveFilters();render();});

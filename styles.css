@@ -42,3 +42,11 @@
 
 /* MatchLab 0.7 — transparent model detail */
 .model-breakdown{margin:14px 0 26px;padding:15px;border:1px solid #42604e;border-radius:16px;background:#152b20;color:#d9eadc}.model-breakdown summary{cursor:pointer;font-weight:750;list-style-position:inside}.model-breakdown summary span{float:right;color:#b7e898;font-size:.75rem;font-weight:600}.model-breakdown-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:17px}.model-breakdown-grid div{padding:10px;background:#1c382a;border-radius:10px;display:flex;flex-direction:column;gap:6px}.model-breakdown-grid span{font-size:.73rem;color:#b8cbbf}.model-breakdown-grid b{font-size:1rem;color:#d0ff9a}.model-breakdown p{font-size:.76rem;line-height:1.6;color:#bdcfc2}@media(max-width:480px){.model-breakdown-grid{grid-template-columns:1fr}}
+
+/* MatchLab 0.8: per-team, per-market verified history */
+.prediction-history{margin-top:16px;padding:13px;border:1px solid rgba(168,228,155,.24);background:rgba(8,26,17,.35);border-radius:14px;color:#d8e9db}
+.prediction-history-title{font-weight:750;font-size:.85rem;margin-bottom:9px;color:#b7e9a5}
+.prediction-history-team{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:8px 0;border-top:1px solid rgba(255,255,255,.09);font-size:.85rem}
+.prediction-history-team span small{display:block;color:#a7bfb0;font-size:.73rem;margin-top:3px}
+.prediction-history-team strong{text-align:right;color:#c7ff89;font-size:.85rem;white-space:nowrap}
+.prediction-history>small{display:block;margin-top:9px;line-height:1.5;color:#a7bfb0;font-size:.72rem}
