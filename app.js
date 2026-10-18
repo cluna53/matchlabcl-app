@@ -1,4 +1,4 @@
-/* MatchLab v0.6. Real fixtures and transparent experimental Poisson probabilities. */
+/* MatchLab v0.7. Real fixtures and transparent experimental Poisson probabilities. */
 const ALL_LEAGUES=['LaLiga','Premier','Championship','Champions League','Serie A','Eredivisie'];
 const ALL_MARKETS=['1X2','Goles','BTTS','Córners','Tarjetas','Jugadores'];
 const STORAGE_KEY='matchlab-filters-v4';
@@ -17,7 +17,8 @@ function fmt(v){return Number.isFinite(v)?String(v):'—';}
 function factorial(n){let out=1;for(let i=2;i<=n;i++)out*=i;return out;}
 function poisson(k,lambda){return Math.exp(-lambda)*Math.pow(lambda,k)/factorial(k);}
 function predict(m){
-  const history=(snapshot?.history?.[m.league]||[]).filter(r=>Number.isInteger(r.homeGoals)&&Number.isInteger(r.awayGoals)&&Number.isInteger(r.homeId)&&Number.isInteger(r.awayId));
+  const kickoff=Date.parse(m.utcDate||'');
+  const history=(snapshot?.history?.[m.league]||[]).filter(r=>Number.isInteger(r.homeGoals)&&Number.isInteger(r.awayGoals)&&Number.isInteger(r.homeId)&&Number.isInteger(r.awayId)&&Number.isFinite(Date.parse(r.date))&&(!Number.isFinite(kickoff)||Date.parse(r.date)<kickoff));
   const hId=m.home?.id,aId=m.away?.id;
   const home=history.filter(r=>r.homeId===hId||r.awayId===hId);
   const away=history.filter(r=>r.homeId===aId||r.awayId===aId);
@@ -25,20 +26,36 @@ function predict(m){
   const leagueHome=history.reduce((s,r)=>s+r.homeGoals,0)/history.length;
   const leagueAway=history.reduce((s,r)=>s+r.awayGoals,0)/history.length;
   if(leagueHome<=0||leagueAway<=0)return {error:'No hay suficientes goles registrados para estimar el partido.'};
-  function average(arr,fn,prior){return (arr.reduce((s,r)=>s+fn(r),0)+5*prior)/(arr.length+5);}
-  const homeFor=average(home,r=>r.homeId===hId?r.homeGoals:r.awayGoals,(leagueHome+leagueAway)/2);
-  const homeAgainst=average(home,r=>r.homeId===hId?r.awayGoals:r.homeGoals,(leagueHome+leagueAway)/2);
-  const awayFor=average(away,r=>r.awayId===aId?r.awayGoals:r.homeGoals,(leagueHome+leagueAway)/2);
-  const awayAgainst=average(away,r=>r.awayId===aId?r.homeGoals:r.awayGoals,(leagueHome+leagueAway)/2);
+  const leagueAvg=(leagueHome+leagueAway)/2;
+  const venueHome=home.filter(r=>r.homeId===hId),venueAway=away.filter(r=>r.awayId===aId);
+  const now=Number.isFinite(kickoff)?kickoff:Date.now();
+  function weightedRate(rows,fn,prior,priorWeight){
+    let sum=0,wSum=0;
+    for(const r of rows){const days=Math.max(0,(now-Date.parse(r.date))/86400000);const w=Math.pow(0.5,days/45);sum+=w*fn(r);wSum+=w;}
+    return (sum+priorWeight*prior)/(wSum+priorWeight);
+  }
+  // Combine venue-specific evidence with overall team form. Both are shrunk toward league norms.
+  const overallHomeFor=weightedRate(home,r=>r.homeId===hId?r.homeGoals:r.awayGoals,leagueAvg,5);
+  const overallHomeAgainst=weightedRate(home,r=>r.homeId===hId?r.awayGoals:r.homeGoals,leagueAvg,5);
+  const overallAwayFor=weightedRate(away,r=>r.awayId===aId?r.awayGoals:r.homeGoals,leagueAvg,5);
+  const overallAwayAgainst=weightedRate(away,r=>r.awayId===aId?r.homeGoals:r.awayGoals,leagueAvg,5);
+  const hFor=weightedRate(venueHome,r=>r.homeGoals,overallHomeFor,5);
+  const hAgainst=weightedRate(venueHome,r=>r.awayGoals,overallHomeAgainst,5);
+  const aFor=weightedRate(venueAway,r=>r.awayGoals,overallAwayFor,5);
+  const aAgainst=weightedRate(venueAway,r=>r.homeGoals,overallAwayAgainst,5);
   const clamp=(v,lo,hi)=>Math.max(lo,Math.min(hi,v));
-  const xh=clamp(leagueHome*(homeFor/((leagueHome+leagueAway)/2))*(awayAgainst/((leagueHome+leagueAway)/2)),0.2,4);
-  const xa=clamp(leagueAway*(awayFor/((leagueHome+leagueAway)/2))*(homeAgainst/((leagueHome+leagueAway)/2)),0.2,4);
-  const ph=Array.from({length:13},(_,k)=>poisson(k,xh)),pa=Array.from({length:13},(_,k)=>poisson(k,xa));
+  // Geometric combination avoids amplifying both attack and defence ratios multiplicatively.
+  const rawHome=leagueHome*Math.sqrt((hFor/leagueHome)*(aAgainst/leagueHome));
+  const rawAway=leagueAway*Math.sqrt((aFor/leagueAway)*(hAgainst/leagueAway));
+  const xh=clamp(rawHome,0.35,Math.min(3.5,leagueHome*1.9));
+  const xa=clamp(rawAway,0.35,Math.min(3.5,leagueAway*1.9));
+  const ph=Array.from({length:16},(_,k)=>poisson(k,xh)),pa=Array.from({length:16},(_,k)=>poisson(k,xa));
   let win=0,draw=0,loss=0,over=0,btts=0;
-  for(let i=0;i<13;i++)for(let j=0;j<13;j++){const pr=ph[i]*pa[j];if(i>j)win+=pr;else if(i===j)draw+=pr;else loss+=pr;if(i+j>=3)over+=pr;if(i>0&&j>0)btts+=pr;}
+  for(let i=0;i<16;i++)for(let j=0;j<16;j++){const pr=ph[i]*pa[j];if(i>j)win+=pr;else if(i===j)draw+=pr;else loss+=pr;if(i+j>=3)over+=pr;if(i>0&&j>0)btts+=pr;}
   const candidates=[{market:'1X2',name:'Victoria local',p:win},{market:'1X2',name:'Empate',p:draw},{market:'1X2',name:'Victoria visitante',p:loss},{market:'Goles',name:'Más de 2,5 goles',p:over},{market:'Goles',name:'Menos de 2,5 goles',p:1-over},{market:'BTTS',name:'Ambos marcan · Sí',p:btts},{market:'BTTS',name:'Ambos marcan · No',p:1-btts}];
   const selected=candidates.filter(x=>filters.markets.has(x.market)).sort((a,b)=>b.p-a.p).slice(0,5);
-  return {selected,xh,xa,homeCount:home.length,awayCount:away.length,total:history.length,limited:Math.min(home.length,away.length)<10};
+  const limited=Math.min(home.length,away.length)<10||Math.min(venueHome.length,venueAway.length)<4;
+  return {selected,xh,xa,homeCount:home.length,awayCount:away.length,total:history.length,limited,venueHomeCount:venueHome.length,venueAwayCount:venueAway.length,leagueHome,leagueAway,hFor,hAgainst,aFor,aAgainst,adjusted:Math.abs(xh-rawHome)>0.001||Math.abs(xa-rawAway)>0.001};
 }
 function explainPrediction(x,p,m){
  const total=p.xh+p.xa;
@@ -65,7 +82,8 @@ function openMatch(m){
   if(p.error){html+=`<div class="prediction-warning"><strong>Sin pronóstico</strong><p>${esc(p.error)}</p></div>`;}
   else if(!p.selected.length){html+='<div class="prediction-warning">Selecciona 1X2, Goles o BTTS en los filtros para ver predicciones.</div>';}
   else{
-    html+=`<div class="prediction-summary prediction-summary-v6"><div class="prediction-summary-top"><span class="eyebrow">PROYECCIÓN DE GOLES</span><span class="sample-pill">${p.limited?'Muestra reducida':'Modelo experimental'}</span></div><div class="expected-total"><strong>${(p.xh+p.xa).toFixed(2).replace('.',',')}</strong><span>goles esperados<br>en total</span></div><div class="expected-split"><div><span>${esc(m.home?.name)}</span><b>${p.xh.toFixed(2).replace('.',',')}</b></div><div class="expected-divider">+</div><div><span>${esc(m.away?.name)}</span><b>${p.xa.toFixed(2).replace('.',',')}</b></div></div><small>Basado en ${p.total} resultados de la competición, ${p.homeCount} del local y ${p.awayCount} del visitante (últimos 120 días). ${p.limited?'La muestra por equipo es reducida: incertidumbre elevada.':'El modelo todavía no está calibrado con resultados futuros.'}</small></div>`;
+    html+=`<div class="prediction-summary prediction-summary-v6"><div class="prediction-summary-top"><span class="eyebrow">PROYECCIÓN DE GOLES</span><span class="sample-pill">${p.limited?'Muestra reducida':'Modelo experimental'}</span></div><div class="expected-total"><strong>${(p.xh+p.xa).toFixed(2).replace('.',',')}</strong><span>goles esperados<br>en total</span></div><div class="expected-split"><div><span>${esc(m.home?.name)}</span><b>${p.xh.toFixed(2).replace('.',',')}</b></div><div class="expected-divider">+</div><div><span>${esc(m.away?.name)}</span><b>${p.xa.toFixed(2).replace('.',',')}</b></div></div><small>Basado en ${p.total} resultados de la competición, ${p.homeCount} del local y ${p.awayCount} del visitante (histórico disponible de hasta 120 días). ${p.limited?'La muestra por equipo es reducida: incertidumbre elevada.':'El modelo todavía no está calibrado con resultados futuros.'}</small></div>`;
+    html+=`<details class="model-breakdown"><summary>¿Cómo se calculan estos goles? <span>Ver estadísticas</span></summary><div class="model-breakdown-grid"><div><span>Media de la liga (local / visitante)</span><b>${p.leagueHome.toFixed(2)} / ${p.leagueAway.toFixed(2)}</b></div><div><span>${esc(m.home?.name)} en casa: goles a favor / en contra*</span><b>${p.hFor.toFixed(2)} / ${p.hAgainst.toFixed(2)}</b></div><div><span>${esc(m.away?.name)} fuera: goles a favor / en contra*</span><b>${p.aFor.toFixed(2)} / ${p.aAgainst.toFixed(2)}</b></div><div><span>Partidos en casa / fuera disponibles</span><b>${p.venueHomeCount} / ${p.venueAwayCount}</b></div></div><p>*Tasas suavizadas con la forma general del equipo y la media de la liga. Los partidos recientes pesan más (semivida 45 días). ${p.adjusted?'Se ha limitado una estimación extrema para reducir inestabilidad.':''} Son estimaciones experimentales sin validación retrospectiva.</p></details>`;
     html+='<h3 class="prediction-heading">Hasta cinco pronósticos</h3>';
     html+=p.selected.map((x,i)=>`<article class="prediction-card"><div class="prediction-card-top"><span class="prediction-market">${esc(x.market==='BTTS'?'AMBOS MARCAN':x.market==='Goles'?'GOLES':'RESULTADO 1X2')}</span><span class="prediction-number">0${i+1}</span></div><div class="prediction-card-main"><strong>${esc(x.name)}</strong><span class="prediction-percent">${Math.round(x.p*100)}%</span></div><div class="prediction-meter" aria-hidden="true"><span style="width:${Math.max(0,Math.min(100,x.p*100)).toFixed(1)}%"></span></div><p class="prediction-explanation">${explainPrediction(x,p,m)}</p></article>`).join('');
     html+='<p class="analysis-paragraph">Los resultados 1X2, las opciones de goles y BTTS pueden estar correlacionados. El orden por probabilidad no mide rentabilidad ni valor frente a cuotas.</p>';
