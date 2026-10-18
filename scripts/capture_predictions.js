@@ -4,7 +4,12 @@ const root=require('path').resolve(__dirname,'..');
 const code=fs.readFileSync(root+'/app.js','utf8').split('function explainPrediction(')[0].replace('.sort((a,b)=>b.p-a.p).slice(0,5)', '.sort((a,b)=>b.p-a.p)');
 const snapshot=JSON.parse(fs.readFileSync(root+'/data/football.json','utf8'));
 const sandbox={localStorage:{getItem:()=>null},console,Date,Math,Set,JSON};
-vm.createContext(sandbox);vm.runInContext(code+'\nthis.capture=(m)=>{filters.markets=new Set(["1X2","Goles","BTTS"]);return predict(m)};',sandbox);
+vm.createContext(sandbox);
+vm.runInContext(
+  code+'\nthis.capture=(m)=>{snapshot=globalThis.footballSnapshot;filters.markets=new Set(["1X2","Goles","BTTS"]);return predict(m)};',
+  sandbox
+);
+sandbox.footballSnapshot=snapshot;
 const result={};
 for(const m of snapshot.matches||[]){
  const p=sandbox.capture(m);
