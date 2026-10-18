@@ -1,4 +1,4 @@
-/* MatchLab v0.5. Real fixtures and transparent experimental Poisson probabilities. */
+/* MatchLab v0.6. Real fixtures and transparent experimental Poisson probabilities. */
 const ALL_LEAGUES=['LaLiga','Premier','Championship','Champions League','Serie A','Eredivisie'];
 const ALL_MARKETS=['1X2','Goles','BTTS','Córners','Tarjetas','Jugadores'];
 const STORAGE_KEY='matchlab-filters-v4';
@@ -40,6 +40,20 @@ function predict(m){
   const selected=candidates.filter(x=>filters.markets.has(x.market)).sort((a,b)=>b.p-a.p).slice(0,5);
   return {selected,xh,xa,homeCount:home.length,awayCount:away.length,total:history.length,limited:Math.min(home.length,away.length)<10};
 }
+function explainPrediction(x,p,m){
+ const total=p.xh+p.xa;
+ const hn=esc(m.home?.name||'El local'),an=esc(m.away?.name||'El visitante');
+ const t=total.toFixed(2).replace('.',',');
+ if(x.market==='Goles')return x.name.startsWith('Más')
+  ? `Se esperan <b>${t} goles</b> entre ambos equipos. Con esa media, el modelo calcula la probabilidad de que haya <b>3 o más goles</b>. No es una garantía de un partido goleador.`
+  : `Se esperan <b>${t} goles</b> en total. Esta opción requiere <b>0, 1 o 2 goles</b>; por eso su probabilidad disminuye cuando sube la expectativa total.`;
+ if(x.market==='BTTS')return x.name.endsWith('Sí')
+  ? `${hn} tiene una expectativa de <b>${p.xh.toFixed(2)}</b> goles y ${an} de <b>${p.xa.toFixed(2)}</b>. El porcentaje estima la posibilidad de que <b>ambos marquen al menos una vez</b>.`
+  : `La probabilidad refleja que <b>al menos uno de los dos equipos no marque</b>, según las expectativas individuales de ${p.xh.toFixed(2)} y ${p.xa.toFixed(2)} goles.`;
+ if(x.name==='Empate')return `El modelo calcula la probabilidad de que ambos terminen <b>con los mismos goles</b>. Las expectativas son ${p.xh.toFixed(2)} para ${hn} y ${p.xa.toFixed(2)} para ${an}.`;
+ const local=x.name==='Victoria local',winner=local?hn:an,own=local?p.xh:p.xa,other=local?p.xa:p.xh;
+ return `${winner} tiene una expectativa de <b>${own.toFixed(2)}</b> goles frente a <b>${other.toFixed(2)}</b> de su rival. El porcentaje suma los marcadores simulados en los que <b>${winner} gana</b>.`;
+}
 function openMatch(m){
   document.querySelector('#modalLeague').textContent=m.league.toUpperCase()+' · MODELO EXPERIMENTAL';
   document.querySelector('#modalTitle').textContent=`${m.home?.name||'Local'} vs ${m.away?.name||'Visitante'}`;
@@ -51,9 +65,9 @@ function openMatch(m){
   if(p.error){html+=`<div class="prediction-warning"><strong>Sin pronóstico</strong><p>${esc(p.error)}</p></div>`;}
   else if(!p.selected.length){html+='<div class="prediction-warning">Selecciona 1X2, Goles o BTTS en los filtros para ver predicciones.</div>';}
   else{
-    html+=`<div class="prediction-summary"><strong>Goles esperados (modelo)</strong><div>${esc(m.home?.name)}: <b>${p.xh.toFixed(2)}</b> · ${esc(m.away?.name)}: <b>${p.xa.toFixed(2)}</b></div><small>Base: ${p.total} resultados de la competición; ${p.homeCount} del local y ${p.awayCount} del visitante (últimos 120 días). ${p.limited?'Muestra reducida: incertidumbre elevada.':'No se ha validado la calibración.'}</small></div>`;
+    html+=`<div class="prediction-summary prediction-summary-v6"><div class="prediction-summary-top"><span class="eyebrow">PROYECCIÓN DE GOLES</span><span class="sample-pill">${p.limited?'Muestra reducida':'Modelo experimental'}</span></div><div class="expected-total"><strong>${(p.xh+p.xa).toFixed(2).replace('.',',')}</strong><span>goles esperados<br>en total</span></div><div class="expected-split"><div><span>${esc(m.home?.name)}</span><b>${p.xh.toFixed(2).replace('.',',')}</b></div><div class="expected-divider">+</div><div><span>${esc(m.away?.name)}</span><b>${p.xa.toFixed(2).replace('.',',')}</b></div></div><small>Basado en ${p.total} resultados de la competición, ${p.homeCount} del local y ${p.awayCount} del visitante (últimos 120 días). ${p.limited?'La muestra por equipo es reducida: incertidumbre elevada.':'El modelo todavía no está calibrado con resultados futuros.'}</small></div>`;
     html+='<h3 class="prediction-heading">Hasta cinco pronósticos</h3>';
-    html+=p.selected.map((x,i)=>`<div class="prediction-item"><div><span class="prediction-market">${esc(x.market)}</span><strong>${i+1}. ${esc(x.name)}</strong><small>Modelo Poisson · goles esperados ${p.xh.toFixed(2)}–${p.xa.toFixed(2)}; resultados recientes y ajuste hacia la media de la liga.</small></div><span class="prediction-percent">${Math.round(x.p*100)}%</span></div>`).join('');
+    html+=p.selected.map((x,i)=>`<article class="prediction-card"><div class="prediction-card-top"><span class="prediction-market">${esc(x.market==='BTTS'?'AMBOS MARCAN':x.market==='Goles'?'GOLES':'RESULTADO 1X2')}</span><span class="prediction-number">0${i+1}</span></div><div class="prediction-card-main"><strong>${esc(x.name)}</strong><span class="prediction-percent">${Math.round(x.p*100)}%</span></div><div class="prediction-meter" aria-hidden="true"><span style="width:${Math.max(0,Math.min(100,x.p*100)).toFixed(1)}%"></span></div><p class="prediction-explanation">${explainPrediction(x,p,m)}</p></article>`).join('');
     html+='<p class="analysis-paragraph">Los resultados 1X2, las opciones de goles y BTTS pueden estar correlacionados. El orden por probabilidad no mide rentabilidad ni valor frente a cuotas.</p>';
   }
   html+=`<h3 class="prediction-heading">Estadísticas de temporada</h3><div class="analysis-row"><strong>${esc(m.home?.name)}</strong><span>vs</span><strong>${esc(m.away?.name)}</strong></div>`;
