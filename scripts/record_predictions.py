@@ -50,7 +50,7 @@ for key,record in new_predictions.items():
     except (ValueError,TypeError,KeyError):continue
     if kickoff<=now or key in records or key in finished:continue
     # Only record a model result if all seven candidate markets can be computed.
-    if len(record['predictions'])<5:continue
+    if len(record['predictions'])<1:continue
     record['capturedAt']=now.isoformat()
     record['result']=None
     records[key]=record
