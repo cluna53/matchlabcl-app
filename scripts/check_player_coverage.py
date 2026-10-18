@@ -21,7 +21,7 @@ result['status']={'authorized':bool(account),'dailyLimit':requests.get('limit_da
 # Query a handful of recent finished fixtures from two leagues, then inspect statistics availability.
 for label,league in [('LaLiga',140),('Premier League',39)]:
     season=2024
-    fixtures=get(f'/fixtures?league={league}&season={season}&last=1&status=FT')
+fixtures=get(f'/fixtures?league={league}&season={season}&from=2024-08-16&to=2024-08-18')
     items=fixtures.get('response') or []
     check={'leagueId':league,'season':season,'fixtureAvailable':bool(items),'fixtureErrors':fixtures.get('errors') or {}}
     if items:
