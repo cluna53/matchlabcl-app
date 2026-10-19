@@ -1,4 +1,4 @@
-/* MatchLab v0.8. Real fixtures and transparent experimental Poisson probabilities. */
+/* MatchLab v1.0. Real fixtures and transparent experimental Poisson probabilities. */
 const ALL_LEAGUES=['LaLiga','Premier','Championship','Champions League','Serie A','Eredivisie'];
 const ALL_MARKETS=['1X2','Goles','BTTS','Córners','Tarjetas','Jugadores'];
 const STORAGE_KEY='matchlab-filters-v4';
@@ -55,7 +55,8 @@ function predict(m){
   let win=0,draw=0,loss=0,over=0,btts=0;
   for(let i=0;i<16;i++)for(let j=0;j<16;j++){const pr=ph[i]*pa[j];if(i>j)win+=pr;else if(i===j)draw+=pr;else loss+=pr;if(i+j>=3)over+=pr;if(i>0&&j>0)btts+=pr;}
   const candidates=[{market:'1X2',name:'Victoria local',p:win},{market:'1X2',name:'Empate',p:draw},{market:'1X2',name:'Victoria visitante',p:loss},{market:'Goles',name:'Más de 2,5 goles',p:over},{market:'Goles',name:'Menos de 2,5 goles',p:1-over},{market:'BTTS',name:'Ambos marcan · Sí',p:btts},{market:'BTTS',name:'Ambos marcan · No',p:1-btts}];
-  const selected=candidates.filter(x=>filters.markets.has(x.market)).sort((a,b)=>b.p-a.p).slice(0,5);
+  const selected=['1X2','BTTS','Goles'].filter(market=>filters.markets.has(market)).map(market=>candidates.filter(x=>x.market===market).sort((a,b)=>b.p-a.p)[0]).filter(Boolean);
+  // Cards and corners require verified event-level data and a separately validated model.
   const limited=Math.min(home.length,away.length)<10||Math.min(venueHome.length,venueAway.length)<4;
   return {selected,xh,xa,homeCount:home.length,awayCount:away.length,total:history.length,limited,venueHomeCount:venueHome.length,venueAwayCount:venueAway.length,leagueHome,leagueAway,hFor,hAgainst,aFor,aAgainst,adjusted:Math.abs(xh-rawHome)>0.001||Math.abs(xa-rawAway)>0.001};
 }
@@ -75,7 +76,7 @@ function explainPrediction(x,p,m){
 }
 function teamHistory(m,market,side){
  const id=side==='home'?m.home?.id:m.away?.id;
- const relevant=Object.values(predictionArchive.records||{}).filter(r=>r.id!==m.id&&r.league===m.league&&r[side+'Id']===id&&r.result&&typeof r.result.hits?.[market]==='boolean');
+ const relevant=Object.values(predictionArchive.records||{}).filter(r=>r.model==='poisson-v10'&&r.id!==m.id&&r.league===m.league&&r[side+'Id']===id&&r.result&&typeof r.result.hits?.[market]==='boolean');
  const hits=relevant.filter(r=>r.result.hits[market]).length;
  return {hits,total:relevant.length};
 }
@@ -97,9 +98,9 @@ function openMatch(m){
   else{
     html+=`<div class="prediction-summary prediction-summary-v6"><div class="prediction-summary-top"><span class="eyebrow">PROYECCIÓN DE GOLES</span><span class="sample-pill">${p.limited?'Muestra reducida':'Modelo experimental'}</span></div><div class="expected-total"><strong>${(p.xh+p.xa).toFixed(2).replace('.',',')}</strong><span>goles esperados<br>en total</span></div><div class="expected-split"><div><span>${esc(m.home?.name)}</span><b>${p.xh.toFixed(2).replace('.',',')}</b></div><div class="expected-divider">+</div><div><span>${esc(m.away?.name)}</span><b>${p.xa.toFixed(2).replace('.',',')}</b></div></div><small>Basado en ${p.total} resultados de la competición, ${p.homeCount} del local y ${p.awayCount} del visitante (histórico disponible de hasta 120 días). ${p.limited?'La muestra por equipo es reducida: incertidumbre elevada.':'El modelo todavía no está calibrado con resultados futuros.'}</small></div>`;
     html+=`<details class="model-breakdown"><summary>¿Cómo se calculan estos goles? <span>Ver estadísticas</span></summary><div class="model-breakdown-grid"><div><span>Media de la liga (local / visitante)</span><b>${p.leagueHome.toFixed(2)} / ${p.leagueAway.toFixed(2)}</b></div><div><span>${esc(m.home?.name)} en casa: goles a favor / en contra*</span><b>${p.hFor.toFixed(2)} / ${p.hAgainst.toFixed(2)}</b></div><div><span>${esc(m.away?.name)} fuera: goles a favor / en contra*</span><b>${p.aFor.toFixed(2)} / ${p.aAgainst.toFixed(2)}</b></div><div><span>Partidos en casa / fuera disponibles</span><b>${p.venueHomeCount} / ${p.venueAwayCount}</b></div></div><p>*Tasas suavizadas con la forma general del equipo y la media de la liga. Los partidos recientes pesan más (semivida 45 días). ${p.adjusted?'Se ha limitado una estimación extrema para reducir inestabilidad.':''} Son estimaciones experimentales sin validación retrospectiva.</p></details>`;
-    html+='<h3 class="prediction-heading">Hasta cinco pronósticos</h3>';
+    html+='<h3 class="prediction-heading">Pronósticos por mercado</h3>';
     html+=p.selected.map((x,i)=>`<article class="prediction-card"><div class="prediction-card-top"><span class="prediction-market">${esc(x.market==='BTTS'?'AMBOS MARCAN':x.market==='Goles'?'GOLES':'RESULTADO 1X2')}</span><span class="prediction-number">0${i+1}</span></div><div class="prediction-card-main"><strong>${esc(x.name)}</strong><span class="prediction-percent">${Math.round(x.p*100)}%</span></div><div class="prediction-meter" aria-hidden="true"><span style="width:${Math.max(0,Math.min(100,x.p*100)).toFixed(1)}%"></span></div><p class="prediction-explanation">${explainPrediction(x,p,m)}</p>${marketHistory(m,x.name)}</article>`).join('');
-    html+='<p class="analysis-paragraph">Los resultados 1X2, las opciones de goles y BTTS pueden estar correlacionados. El orden por probabilidad no mide rentabilidad ni valor frente a cuotas.</p>';
+    html+='<p class="analysis-paragraph">Una selección por mercado: 1X2, ambos marcan y goles. Tarjetas y córners se añadirán cuando existan datos contrastados. Las probabilidades no garantizan aciertos ni representan valor frente a cuotas.</p>';
   }
   html+=`<h3 class="prediction-heading">Estadísticas de temporada</h3><div class="analysis-row"><strong>${esc(m.home?.name)}</strong><span>vs</span><strong>${esc(m.away?.name)}</strong></div>`;
   html+=rows.map(([label,field])=>`<div class="analysis-row"><b>${fmt(home?.[field])}</b><span>${esc(label)}</span><b>${fmt(away?.[field])}</b></div>`).join('');
@@ -119,18 +120,27 @@ function matchDateVisible(m){
  return t>=plus(0)&&t<plus(7);
 }
 function marketGroup(name){if(name.startsWith('Victoria')||name==='Empate')return '1X2';if(name.includes('2,5 goles'))return 'Goles';if(name.startsWith('Ambos marcan'))return 'BTTS';return 'Otro'}
+function canonicalMarket(name){return marketGroup(name);}
+function canonicalEntries(record){
+ const entries=Object.entries(record.predictions||{}).filter(([name,p])=>['1X2','Goles','BTTS'].includes(canonicalMarket(name))&&Number.isFinite(Number(p)));
+ // Legacy archives saved both sides of the same market. Display only the most probable
+ // original option per market, without rewriting or changing the stored historical record.
+ return ['1X2','BTTS','Goles'].map(group=>entries.filter(([name])=>canonicalMarket(name)===group).sort((a,b)=>Number(b[1])-Number(a[1]))[0]).filter(Boolean);
+}
 function renderHistory(){
  const all=Object.values(predictionArchive.records||{}).filter(r=>filters.leagues.has(r.league)).sort((a,b)=>Date.parse(b.utcDate||0)-Date.parse(a.utcDate||0));
  const evaluated=all.filter(r=>r.result&&r.result.hits);
- const markets=evaluated.flatMap(r=>Object.entries(r.result.hits||{}).filter(([name,hit])=>typeof hit==='boolean'&&filters.markets.has(marketGroup(name))).map(([name,hit])=>hit));
- const hits=markets.filter(Boolean).length;
+ const current=evaluated.filter(r=>r.model==='poisson-v10');
+ const results=current.flatMap(r=>canonicalEntries(r).filter(([name])=>filters.markets.has(canonicalMarket(name))&&typeof r.result.hits?.[name]==='boolean').map(([name])=>r.result.hits[name]));
+ const hits=results.filter(Boolean).length;
  document.querySelector('#historyCount').textContent=`(${all.length})`;
- document.querySelector('#historySummary').innerHTML=`<div class="history-stat"><b>${evaluated.length}</b><span>Partidos evaluados</span></div><div class="history-stat"><b>${markets.length?Math.round(hits/markets.length*100)+'%':'—'}</b><span>Aciertos por mercado · ${hits}/${markets.length}</span></div>`;
+ document.querySelector('#historySummary').innerHTML=`<div class="history-stat"><b>${current.length}</b><span>Partidos evaluados · modelo v1.0</span></div><div class="history-stat"><b>${results.length?Math.round(hits/results.length*100)+'%':'—'}</b><span>Aciertos v1.0 · ${hits}/${results.length} mercados</span></div>`;
  const rows=all.filter(r=>historyFilter==='all'||(historyFilter==='settled'?!!r.result:!r.result));
  document.querySelector('#historyList').innerHTML=rows.length?rows.map(r=>{
   const done=!!r.result,score=done?`${r.result.homeGoals}–${r.result.awayGoals}`:'Pendiente';
-  const entries=Object.entries(r.predictions||{}).filter(([name])=>filters.markets.has(marketGroup(name)));
-  return `<details class="history-card"><summary><div class="history-top"><span class="league-label">${esc(r.league||'')}</span><span class="kickoff">${esc(formatDate(r.utcDate))}</span></div><div class="history-title">${esc(r.homeName||'Local')} – ${esc(r.awayName||'Visitante')}</div><div class="history-top"><span>${esc(score)}</span><span>Ver ${entries.length} mercados ▾</span></div></summary><div class="history-markets">${entries.map(([name,prob])=>{const hit=r.result?.hits?.[name],state=hit===true?'hit':hit===false?'miss':'pending';return `<div class="history-market ${state}"><div><strong>${esc(name)}</strong><small>${Number.isFinite(Number(prob))?Math.round(Number(prob)*100)+'%':'—'} antes del partido</small></div><span>${state==='hit'?'✓ Acertado':state==='miss'?'✕ Fallado':'◷ Pendiente'}</span></div>`}).join('')||'<p>Sin mercados seleccionados.</p>'}</div></details>`;
+  const entries=canonicalEntries(r).filter(([name])=>filters.markets.has(canonicalMarket(name)));
+  const legacy=r.model!=='poisson-v10';
+  return `<details class="history-card"><summary><div class="history-top"><span class="league-label">${esc(r.league||'')}</span><span class="kickoff">${esc(formatDate(r.utcDate))}</span></div><div class="history-title">${esc(r.homeName||'Local')} – ${esc(r.awayName||'Visitante')}</div><div class="history-top"><span>${esc(score)}</span><span>${legacy?'Histórico anterior · ':''}Ver ${entries.length} mercados ▾</span></div></summary><div class="history-markets">${legacy?'<p class="history-legacy">Registro de una versión anterior. Se muestra la opción de mayor probabilidad por mercado; no se incluye en el porcentaje de aciertos de v1.0.</p>':''}${entries.map(([name,prob])=>{const hit=r.result?.hits?.[name],state=hit===true?'hit':hit===false?'miss':'pending';return `<div class="history-market ${state}"><div><strong>${esc(name)}</strong><small>${Math.round(Number(prob)*100)}% antes del partido</small></div><span>${state==='hit'?'✓ Acertado':state==='miss'?'✕ Fallado':'◷ Pendiente'}</span></div>`}).join('')||'<p>Sin mercados seleccionados.</p>'}</div></details>`;
  }).join(''):'<div class="empty-state">No hay pronósticos en esta categoría. Los partidos se evalúan después de finalizar.</div>';
 }
 document.querySelectorAll('[data-day]').forEach(b=>b.addEventListener('click',()=>{dateFilter=b.dataset.day;document.querySelectorAll('[data-day]').forEach(x=>x.classList.toggle('active',x===b));render()}));
