@@ -1,0 +1,12 @@
+/* MatchLab dashboard: append after existing styles.css */
+#datosSection{scroll-margin-top:85px;padding-bottom:18px}
+.md-panel{background:#101b16;border:1px solid #34483c;border-radius:20px;padding:20px 16px}
+.md-header{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:18px}
+.md-header h2{margin:7px 0 0;font-size:25px}.md-version{font-size:11px;color:#cbd9cf;background:#27332c;border-radius:30px;padding:7px 10px}
+.md-filters{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:16px 0 20px}
+.md-filters label{display:flex;flex-direction:column;gap:8px;color:#bbcebf;font-size:11px;font-weight:700}
+.md-filters select{min-width:0;width:100%;background:#1d2b23;color:#f1fff3;border:1px solid #44604d;border-radius:11px;padding:11px 7px;font:inherit;font-size:12px}
+.md-kpis{display:grid;grid-template-columns:1fr 1fr;gap:10px}.md-kpi{background:#202d25;border:1px solid #334638;border-radius:16px;padding:17px 13px;min-width:0}
+.md-kpi strong{display:block;font-size:clamp(23px,6vw,32px);line-height:1.15;color:#d3ff9c;letter-spacing:-.04em}.md-kpi span{display:block;font-size:11px;line-height:1.4;color:#b3c7b9;margin-top:8px}
+.md-breakdown{border-top:1px solid #334639;margin-top:22px;padding-top:18px}.md-breakdown h3{font-size:17px;margin:0 0 18px}.md-bar-row{margin-bottom:16px}.md-bar-row>div:first-child{display:flex;justify-content:space-between;gap:10px;font-size:12px;margin-bottom:8px}.md-bar-row>div:first-child span:last-child{color:#b8c9bc;white-space:nowrap}.md-bar{height:7px;border-radius:30px;background:#314038;overflow:hidden}.md-bar span{display:block;height:100%;background:#a7e66d;border-radius:30px}.md-disclaimer,.md-empty{font-size:11px;line-height:1.6;color:#a9bcaf;margin:18px 0 0}
+@media(max-width:360px){.md-filters{grid-template-columns:1fr}}
