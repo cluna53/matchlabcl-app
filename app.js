@@ -1,4 +1,4 @@
-/* MatchLab v1.0. Real fixtures and transparent experimental Poisson probabilities. */
+/* MatchLab v1.2. Real fixtures and transparent experimental Poisson probabilities. */
 const ALL_LEAGUES=['LaLiga','Premier','Championship','Champions League','Serie A','Eredivisie'];
 const ALL_MARKETS=['1X2','Goles','BTTS','Córners','Tarjetas','Jugadores'];
 const STORAGE_KEY='matchlab-filters-v4';
@@ -74,16 +74,29 @@ function explainPrediction(x,p,m){
  const local=x.name==='Victoria local',winner=local?hn:an,own=local?p.xh:p.xa,other=local?p.xa:p.xh;
  return `${winner} tiene una expectativa de <b>${own.toFixed(2)}</b> goles frente a <b>${other.toFixed(2)}</b> de su rival. El porcentaje suma los marcadores simulados en los que <b>${winner} gana</b>.`;
 }
-function teamHistory(m,market,side){
+function teamHistory(m,market,side,venueOnly=false,model=null){
  const id=side==='home'?m.home?.id:m.away?.id;
- const relevant=Object.values(predictionArchive.records||{}).filter(r=>r.model==='poisson-v10'&&r.id!==m.id&&r.league===m.league&&r[side+'Id']===id&&r.result&&typeof r.result.hits?.[market]==='boolean');
+ const relevant=Object.values(predictionArchive.records||{}).filter(r=>{
+  if(r.id===m.id||r.league!==m.league||!r.result||!r.result.hits)return false;
+  if(model!==null&&r.model!==model)return false;
+  if(venueOnly?r[side+'Id']!==id:(r.homeId!==id&&r.awayId!==id))return false;
+  // Count the actual prematch choice, not both opposing options saved by v0.7.
+  const choice=canonicalEntries(r).find(([name])=>canonicalMarket(name)===canonicalMarket(market));
+  return choice&&choice[0]===market&&typeof r.result.hits[market]==='boolean';
+ });
  const hits=relevant.filter(r=>r.result.hits[market]).length;
  return {hits,total:relevant.length};
 }
 function marketHistory(m,market){
- const h=teamHistory(m,market,'home'),a=teamHistory(m,market,'away');
  const label=r=>r.total?`${r.hits} de ${r.total} (${Math.round(100*r.hits/r.total)}%)`:'Sin resultados evaluados';
- return `<div class="prediction-history"><div class="prediction-history-title">Historial de aciertos del modelo · ${esc(market)}</div><div class="prediction-history-team"><span>${esc(m.home?.name)} <small>como local</small></span><strong>${label(h)}</strong></div><div class="prediction-history-team"><span>${esc(m.away?.name)} <small>como visitante</small></span><strong>${label(a)}</strong></div><small>Solo pronósticos registrados antes del inicio y partidos finalizados. Las muestras pequeñas no prueban fiabilidad.</small></div>`;
+ const team=(side)=>{
+  const name=esc(m[side]?.name);
+  const general=teamHistory(m,market,side,false);
+  const venue=teamHistory(m,market,side,true);
+  const older=teamHistory(m,market,side,false,'poisson-v07');
+  return `<div class="prediction-history-team"><span>${name}<small>Todos sus partidos · ${esc(market)}</small></span><strong>${label(general)}</strong></div><div class="prediction-history-team"><span>${name}<small>Solo como ${side==='home'?'local':'visitante'}</small></span><strong>${label(venue)}</strong></div>${older.total?`<small>${name}: ${older.total} registro(s) del modelo anterior incluidos en el total general.</small>`:''}`;
+ };
+ return `<div class="prediction-history"><div class="prediction-history-title">Historial de aciertos · ${esc(market)}</div>${team('home')}${team('away')}<small>Una selección original por mercado y partido. Se incluyen modelos anteriores, sin confundirlos con el rendimiento exclusivo de v1.0. El histórico mide aciertos de esta selección, no todas las predicciones del equipo. Las muestras pequeñas no prueban fiabilidad.</small></div>`;
 }
 function openMatch(m){
   document.querySelector('#modalLeague').textContent=m.league.toUpperCase()+' · MODELO EXPERIMENTAL';
