@@ -1,0 +1,60 @@
+
+name: Comprobar estadísticas de partidos
+
+'on':
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Consultar estadísticas
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import urllib.request
+          import urllib.error
+
+          token = os.environ.get("FOOTBALL_DATA_TOKEN", "")
+          if not token:
+              raise SystemExit("Falta FOOTBALL_DATA_TOKEN")
+
+          url = "https://api.football-data.org/v4/matches/564709"
+          req = urllib.request.Request(
+              url,
+              headers={"X-Auth-Token": token}
+          )
+
+          try:
+              with urllib.request.urlopen(req, timeout=30) as response:
+                  data = json.load(response)
+          except urllib.error.HTTPError as e:
+              print(f"Error HTTP {e.code}")
+              raise SystemExit(1)
+
+          print("Partido:", data.get("homeTeam", {}).get("name"),
+                "vs", data.get("awayTeam", {}).get("name"))
+
+          print("Estado:", data.get("status"))
+
+          for side in ("homeTeam", "awayTeam"):
+              team = data.get(side, {})
+              print(f"\n{side}:")
+              for field in (
+                  "statistics",
+                  "corner_kicks",
+                  "yellow_cards",
+                  "red_cards"
+              ):
+                  print(field, ":", team.get(field, "NO DISPONIBLE"))
+
+          print("\nCampos principales de la respuesta:")
+          print(", ".join(sorted(data.keys())))
+          PY
