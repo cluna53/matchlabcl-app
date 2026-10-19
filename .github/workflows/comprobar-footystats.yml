@@ -1,0 +1,66 @@
+
+name: Comprobar FootyStats
+
+'on':
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Verificar Premier League
+        env:
+          FOOTYSTATS_API_KEY: ${{ secrets.FOOTYSTATS_API_KEY }}
+        run: |
+          python - <<'PY'
+          import os
+          import json
+          import urllib.request
+          import urllib.parse
+
+          key = os.getenv("FOOTYSTATS_API_KEY")
+          if not key:
+              raise SystemExit("Falta FOOTYSTATS_API_KEY")
+
+          url = (
+              "https://api.football-data-api.com/league-list?"
+              + urllib.parse.urlencode({
+                  "key": key,
+                  "chosen_leagues_only": "true"
+              })
+          )
+
+          try:
+              with urllib.request.urlopen(url, timeout=30) as r:
+                  response = json.load(r)
+          except Exception:
+              raise SystemExit("Error al consultar FootyStats")
+
+          if response.get("success") is not True:
+              print("La API no confirmó el acceso")
+              print("Respuesta:", response.get("message", "Sin detalle"))
+              raise SystemExit(1)
+
+          leagues = response.get("data") or []
+          print("Competiciones disponibles:")
+
+          found = False
+          for league in leagues:
+              name = league.get("name", "")
+              if "premier league" in name.lower():
+                  found = True
+                  print("\nLiga:", name)
+                  for season in league.get("season", []):
+                      if season.get("year") in (2025, 2026):
+                          print("Temporada:", season.get("year"))
+                          print("Season ID:", season.get("id"))
+
+          if not found:
+              print("Premier League no aparece en las ligas seleccionadas")
+
+          print("\nComprobación terminada")
+          PY
