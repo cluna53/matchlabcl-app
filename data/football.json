@@ -1,6 +1,6 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-10-19T07:56:51.175030+00:00",
+  "updatedAt": "2026-10-19T19:44:51.823064+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
@@ -32,7 +32,7 @@
       "id": 558576,
       "league": "Serie A",
       "utcDate": "2026-10-19T16:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 7,
       "home": {
         "id": 5911,
@@ -45,15 +45,15 @@
         "crest": "https://crests.football-data.org/104.png"
       },
       "score": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 0
       }
     },
     {
       "id": 558578,
       "league": "Serie A",
       "utcDate": "2026-10-19T18:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 7,
       "home": {
         "id": 112,
@@ -66,15 +66,15 @@
         "crest": "https://crests.football-data.org/586.png"
       },
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       }
     },
     {
       "id": 564717,
       "league": "LaLiga",
       "utcDate": "2026-10-19T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 9,
       "home": {
         "id": 82,
@@ -87,8 +87,8 @@
         "crest": "https://crests.football-data.org/87.png"
       },
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       }
     },
     {
@@ -2987,8 +2987,19 @@
         "points": 11
       },
       {
-        "teamId": 79,
+        "teamId": 87,
         "position": 10,
+        "played": 8,
+        "won": 3,
+        "draw": 2,
+        "lost": 3,
+        "goalsFor": 12,
+        "goalsAgainst": 16,
+        "points": 11
+      },
+      {
+        "teamId": 79,
+        "position": 11,
         "played": 9,
         "won": 3,
         "draw": 2,
@@ -2999,7 +3010,7 @@
       },
       {
         "teamId": 77,
-        "position": 11,
+        "position": 12,
         "played": 7,
         "won": 2,
         "draw": 3,
@@ -3010,7 +3021,7 @@
       },
       {
         "teamId": 94,
-        "position": 12,
+        "position": 13,
         "played": 9,
         "won": 2,
         "draw": 3,
@@ -3021,7 +3032,7 @@
       },
       {
         "teamId": 80,
-        "position": 13,
+        "position": 14,
         "played": 9,
         "won": 2,
         "draw": 2,
@@ -3031,25 +3042,14 @@
         "points": 8
       },
       {
-        "teamId": 87,
-        "position": 14,
-        "played": 7,
-        "won": 2,
-        "draw": 2,
-        "lost": 3,
-        "goalsFor": 11,
-        "goalsAgainst": 16,
-        "points": 8
-      },
-      {
         "teamId": 82,
         "position": 15,
-        "played": 8,
+        "played": 9,
         "won": 2,
         "draw": 2,
-        "lost": 4,
+        "lost": 5,
         "goalsFor": 4,
-        "goalsAgainst": 10,
+        "goalsAgainst": 11,
         "points": 8
       },
       {
@@ -3275,19 +3275,30 @@
         "points": 6
       },
       {
-        "teamId": 1076,
+        "teamId": 73,
         "position": 16,
-        "played": 6,
+        "played": 7,
+        "won": 1,
+        "draw": 3,
+        "lost": 3,
+        "goalsFor": 4,
+        "goalsAgainst": 9,
+        "points": 6
+      },
+      {
+        "teamId": 1076,
+        "position": 17,
+        "played": 7,
         "won": 2,
         "draw": 0,
-        "lost": 4,
+        "lost": 5,
         "goalsFor": 5,
-        "goalsAgainst": 11,
+        "goalsAgainst": 12,
         "points": 6
       },
       {
         "teamId": 63,
-        "position": 17,
+        "position": 18,
         "played": 7,
         "won": 1,
         "draw": 2,
@@ -3298,7 +3309,7 @@
       },
       {
         "teamId": 351,
-        "position": 18,
+        "position": 19,
         "played": 7,
         "won": 1,
         "draw": 2,
@@ -3309,7 +3320,7 @@
       },
       {
         "teamId": 71,
-        "position": 19,
+        "position": 20,
         "played": 7,
         "won": 1,
         "draw": 1,
@@ -3317,17 +3328,6 @@
         "goalsFor": 6,
         "goalsAgainst": 14,
         "points": 4
-      },
-      {
-        "teamId": 73,
-        "position": 20,
-        "played": 6,
-        "won": 0,
-        "draw": 3,
-        "lost": 3,
-        "goalsFor": 3,
-        "goalsAgainst": 9,
-        "points": 3
       }
     ],
     "Championship": [
@@ -4064,12 +4064,12 @@
       {
         "teamId": 104,
         "position": 7,
-        "played": 6,
+        "played": 7,
         "won": 4,
         "draw": 1,
-        "lost": 1,
+        "lost": 2,
         "goalsFor": 6,
-        "goalsAgainst": 3,
+        "goalsAgainst": 7,
         "points": 13
       },
       {
@@ -4095,8 +4095,19 @@
         "points": 10
       },
       {
-        "teamId": 102,
+        "teamId": 586,
         "position": 10,
+        "played": 7,
+        "won": 3,
+        "draw": 1,
+        "lost": 3,
+        "goalsFor": 9,
+        "goalsAgainst": 9,
+        "points": 10
+      },
+      {
+        "teamId": 102,
+        "position": 11,
         "played": 7,
         "won": 3,
         "draw": 0,
@@ -4107,7 +4118,7 @@
       },
       {
         "teamId": 5890,
-        "position": 11,
+        "position": 12,
         "played": 7,
         "won": 3,
         "draw": 0,
@@ -4118,7 +4129,7 @@
       },
       {
         "teamId": 471,
-        "position": 12,
+        "position": 13,
         "played": 7,
         "won": 2,
         "draw": 2,
@@ -4128,19 +4139,19 @@
         "points": 8
       },
       {
-        "teamId": 586,
-        "position": 13,
-        "played": 6,
+        "teamId": 5911,
+        "position": 14,
+        "played": 7,
         "won": 2,
         "draw": 1,
-        "lost": 3,
-        "goalsFor": 7,
-        "goalsAgainst": 9,
+        "lost": 4,
+        "goalsFor": 13,
+        "goalsAgainst": 15,
         "points": 7
       },
       {
         "teamId": 103,
-        "position": 14,
+        "position": 15,
         "played": 7,
         "won": 1,
         "draw": 2,
@@ -4150,30 +4161,8 @@
         "points": 5
       },
       {
-        "teamId": 5911,
-        "position": 15,
-        "played": 6,
-        "won": 1,
-        "draw": 1,
-        "lost": 4,
-        "goalsFor": 9,
-        "goalsAgainst": 15,
-        "points": 4
-      },
-      {
-        "teamId": 112,
-        "position": 16,
-        "played": 6,
-        "won": 1,
-        "draw": 1,
-        "lost": 4,
-        "goalsFor": 4,
-        "goalsAgainst": 10,
-        "points": 4
-      },
-      {
         "teamId": 115,
-        "position": 17,
+        "position": 16,
         "played": 7,
         "won": 1,
         "draw": 1,
@@ -4184,13 +4173,24 @@
       },
       {
         "teamId": 107,
-        "position": 18,
+        "position": 17,
         "played": 7,
         "won": 1,
         "draw": 1,
         "lost": 5,
         "goalsFor": 5,
         "goalsAgainst": 13,
+        "points": 4
+      },
+      {
+        "teamId": 112,
+        "position": 18,
+        "played": 7,
+        "won": 1,
+        "draw": 1,
+        "lost": 5,
+        "goalsFor": 4,
+        "goalsAgainst": 12,
         "points": 4
       },
       {
