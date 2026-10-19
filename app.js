@@ -4,6 +4,7 @@ const ALL_MARKETS=['1X2','Goles','BTTS','Córners','Tarjetas','Jugadores'];
 const STORAGE_KEY='matchlab-filters-v4';
 let snapshot=null;
 let predictionArchive={records:{}};
+let dateFilter="7",historyFilter="all";
 let filters=loadFilters();
 function loadFilters(){try{const f=JSON.parse(localStorage.getItem(STORAGE_KEY));if(f&&Array.isArray(f.leagues)&&Array.isArray(f.markets))return {leagues:new Set(f.leagues.filter(x=>ALL_LEAGUES.includes(x))),markets:new Set(f.markets.filter(x=>ALL_MARKETS.includes(x)))};}catch{}return {leagues:new Set(ALL_LEAGUES),markets:new Set(ALL_MARKETS)};}
 function saveFilters(){try{localStorage.setItem(STORAGE_KEY,JSON.stringify({leagues:[...filters.leagues],markets:[...filters.markets]}));}catch{}}
@@ -12,7 +13,7 @@ function crest(team){const name=team?.name||'Equipo';const initials=name.split('
 function formatDate(value){if(!value)return 'Hora pendiente';const d=new Date(value);return Number.isNaN(d.valueOf())?'Hora pendiente':new Intl.DateTimeFormat('es-ES',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'Europe/Madrid'}).format(d)+' (España)';}
 function syncFilters(){document.querySelectorAll('[data-league]').forEach(b=>{const on=filters.leagues.has(b.dataset.league);b.classList.toggle('active',on);b.setAttribute('aria-pressed',String(on));});document.querySelectorAll('[data-market]').forEach(b=>{const on=filters.markets.has(b.dataset.market);b.classList.toggle('active',on);b.setAttribute('aria-pressed',String(on));});document.querySelector('#leagueCount').textContent=`${filters.leagues.size} seleccionadas`;document.querySelector('#marketCount').textContent=`${filters.markets.size} seleccionados`;}
 function statusMessage(){const box=document.querySelector('#dataStatus');if(!snapshot||!snapshot.updatedAt){box.innerHTML='<strong>Configuración pendiente</strong><div>Para mostrar partidos reales, añade la clave gratuita en GitHub → Settings → Secrets and variables → Actions y ejecuta la actualización. No mostramos partidos inventados.</div>';return;}const time=new Date(snapshot.updatedAt);const stamp=Number.isNaN(time.valueOf())?'desconocida':time.toLocaleString('es-ES',{dateStyle:'medium',timeStyle:'short'});const errors=Object.keys(snapshot.errors||{});box.innerHTML=`<strong>Datos reales · ${esc(snapshot.source||'football-data.org')}</strong><div>Última sincronización: ${esc(stamp)}. Calendario de los próximos 14 días; no es información en directo.</div>${errors.length?`<div>Advertencia: algunos datos no se pudieron obtener (${esc(errors.join(', '))}).</div>`:''}<div>La disponibilidad de cada competición depende de la cobertura y permisos de tu cuenta API.</div>`;}
-function render(){syncFilters();statusMessage();const list=(snapshot?.matches||[]).filter(m=>filters.leagues.has(m.league));document.querySelector('#resultCount').textContent=`(${list.length})`;document.querySelector('#matches').innerHTML=list.length?list.map(m=>`<article class="match-card"><div class="match-top"><span class="league-label">${esc(m.league.toUpperCase())}</span><span class="kickoff">${esc(formatDate(m.utcDate))}</span></div><div class="teams"><div class="team">${crest(m.home)}<span>${esc(m.home?.name)}</span></div><span class="vs">VS</span><div class="team away"><span>${esc(m.away?.name)}</span>${crest(m.away)}</div></div><div class="match-bottom"><span class="demo-chip">${esc(m.status==='FINISHED'?'FINALIZADO':'PARTIDO REAL')}</span><button class="analyze" data-match="${esc(m.id)}">Ver análisis ↗</button></div></article>`).join(''):`<div class="empty-state">${!snapshot?.updatedAt?'Todavía no hay datos sincronizados. Configura la API en GitHub.':!filters.leagues.size?'Selecciona alguna liga.':'No hay encuentros disponibles para los filtros elegidos en los próximos 14 días. Comprueba el estado de la sincronización y la cobertura de tu cuenta API.'}</div>`;document.querySelectorAll('[data-match]').forEach(b=>b.addEventListener('click',()=>{const m=list.find(x=>String(x.id)===b.dataset.match);if(m)openMatch(m);}));}
+function render(){syncFilters();statusMessage();const list=(snapshot?.matches||[]).filter(m=>filters.leagues.has(m.league)&&matchDateVisible(m));document.querySelector('#resultCount').textContent=`(${list.length})`;document.querySelector('#matches').innerHTML=list.length?list.map(m=>`<article class="match-card"><div class="match-top"><span class="league-label">${esc(m.league.toUpperCase())}</span><span class="kickoff">${esc(formatDate(m.utcDate))}</span></div><div class="teams"><div class="team">${crest(m.home)}<span>${esc(m.home?.name)}</span></div><span class="vs">VS</span><div class="team away"><span>${esc(m.away?.name)}</span>${crest(m.away)}</div></div><div class="match-bottom"><span class="demo-chip">${esc(m.status==='FINISHED'?'FINALIZADO':'PARTIDO REAL')}</span><button class="analyze" data-match="${esc(m.id)}">Ver análisis ↗</button></div></article>`).join(''):`<div class="empty-state">${!snapshot?.updatedAt?'Todavía no hay datos sincronizados. Configura la API en GitHub.':!filters.leagues.size?'Selecciona alguna liga.':'No hay encuentros disponibles para los filtros elegidos en los próximos 14 días. Comprueba el estado de la sincronización y la cobertura de tu cuenta API.'}</div>`;document.querySelectorAll('[data-match]').forEach(b=>b.addEventListener('click',()=>{const m=list.find(x=>String(x.id)===b.dataset.match);if(m)openMatch(m);}));renderHistory();}
 function tableRow(m,side){const id=m[side]?.id;return (snapshot?.standings?.[m.league]||[]).find(r=>r.teamId===id);}
 function fmt(v){return Number.isFinite(v)?String(v):'—';}
 function factorial(n){let out=1;for(let i=2;i<=n;i++)out*=i;return out;}
@@ -107,6 +108,34 @@ function openMatch(m){
   document.querySelector('#modalContent').innerHTML=html;document.querySelector('#modal').hidden=false;
 }
 async function refresh(){const box=document.querySelector('#dataStatus');box.textContent='Cargando la última publicación…';try{const response=await fetch(`./data/football.json?refresh=${Date.now()}`,{cache:'no-store'});if(!response.ok)throw new Error(`HTTP ${response.status}`);const data=await response.json();if(!data||!Array.isArray(data.matches))throw new Error('Formato de datos inválido');snapshot=data;try{const historyResponse=await fetch(`./data/prediction_history.json?refresh=${Date.now()}`,{cache:'no-store'});if(historyResponse.ok){const archive=await historyResponse.json();predictionArchive=archive&&archive.records?archive:{records:{}};}else predictionArchive={records:{}};}catch{predictionArchive={records:{}};}render();}catch(e){snapshot=null;render();box.innerHTML=`<strong>No se pudieron cargar los datos.</strong><div>${esc(e.message)}. Comprueba que data/football.json está publicado en GitHub Pages.</div>`;}}
+
+function matchDateVisible(m){
+ if(dateFilter==='all')return true;
+ const t=Date.parse(m.utcDate);if(!Number.isFinite(t))return false;
+ const now=new Date(),start=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+ const plus=n=>{const d=new Date(start);d.setDate(d.getDate()+n);return d.getTime()};
+ if(dateFilter==='today')return t>=plus(0)&&t<plus(1);
+ if(dateFilter==='tomorrow')return t>=plus(1)&&t<plus(2);
+ return t>=plus(0)&&t<plus(7);
+}
+function marketGroup(name){if(name.startsWith('Victoria')||name==='Empate')return '1X2';if(name.includes('2,5 goles'))return 'Goles';if(name.startsWith('Ambos marcan'))return 'BTTS';return 'Otro'}
+function renderHistory(){
+ const all=Object.values(predictionArchive.records||{}).filter(r=>filters.leagues.has(r.league)).sort((a,b)=>Date.parse(b.utcDate||0)-Date.parse(a.utcDate||0));
+ const evaluated=all.filter(r=>r.result&&r.result.hits);
+ const markets=evaluated.flatMap(r=>Object.entries(r.result.hits||{}).filter(([name,hit])=>typeof hit==='boolean'&&filters.markets.has(marketGroup(name))).map(([name,hit])=>hit));
+ const hits=markets.filter(Boolean).length;
+ document.querySelector('#historyCount').textContent=`(${all.length})`;
+ document.querySelector('#historySummary').innerHTML=`<div class="history-stat"><b>${evaluated.length}</b><span>Partidos evaluados</span></div><div class="history-stat"><b>${markets.length?Math.round(hits/markets.length*100)+'%':'—'}</b><span>Aciertos por mercado · ${hits}/${markets.length}</span></div>`;
+ const rows=all.filter(r=>historyFilter==='all'||(historyFilter==='settled'?!!r.result:!r.result));
+ document.querySelector('#historyList').innerHTML=rows.length?rows.map(r=>{
+  const done=!!r.result,score=done?`${r.result.homeGoals}–${r.result.awayGoals}`:'Pendiente';
+  const entries=Object.entries(r.predictions||{}).filter(([name])=>filters.markets.has(marketGroup(name)));
+  return `<details class="history-card"><summary><div class="history-top"><span class="league-label">${esc(r.league||'')}</span><span class="kickoff">${esc(formatDate(r.utcDate))}</span></div><div class="history-title">${esc(r.homeName||'Local')} – ${esc(r.awayName||'Visitante')}</div><div class="history-top"><span>${esc(score)}</span><span>Ver ${entries.length} mercados ▾</span></div></summary><div class="history-markets">${entries.map(([name,prob])=>{const hit=r.result?.hits?.[name],state=hit===true?'hit':hit===false?'miss':'pending';return `<div class="history-market ${state}"><div><strong>${esc(name)}</strong><small>${Number.isFinite(Number(prob))?Math.round(Number(prob)*100)+'%':'—'} antes del partido</small></div><span>${state==='hit'?'✓ Acertado':state==='miss'?'✕ Fallado':'◷ Pendiente'}</span></div>`}).join('')||'<p>Sin mercados seleccionados.</p>'}</div></details>`;
+ }).join(''):'<div class="empty-state">No hay pronósticos en esta categoría. Los partidos se evalúan después de finalizar.</div>';
+}
+document.querySelectorAll('[data-day]').forEach(b=>b.addEventListener('click',()=>{dateFilter=b.dataset.day;document.querySelectorAll('[data-day]').forEach(x=>x.classList.toggle('active',x===b));render()}));
+document.querySelectorAll('[data-hstatus]').forEach(b=>b.addEventListener('click',()=>{historyFilter=b.dataset.hstatus;document.querySelectorAll('[data-hstatus]').forEach(x=>x.classList.toggle('active',x===b));renderHistory()}));
+
 document.querySelectorAll('[data-league]').forEach(b=>b.addEventListener('click',()=>{const k=b.dataset.league;filters.leagues.has(k)?filters.leagues.delete(k):filters.leagues.add(k);saveFilters();render();}));
 document.querySelectorAll('[data-market]').forEach(b=>b.addEventListener('click',()=>{const k=b.dataset.market;filters.markets.has(k)?filters.markets.delete(k):filters.markets.add(k);saveFilters();render();}));
 document.querySelector('#resetFilters').addEventListener('click',()=>{filters={leagues:new Set(ALL_LEAGUES),markets:new Set(ALL_MARKETS)};saveFilters();render();});
@@ -115,7 +144,7 @@ document.querySelector('#modal').addEventListener('click',e=>{if(e.target.id==='
 document.addEventListener('keydown',e=>{if(e.key==='Escape')document.querySelector('#modal').hidden=true;});
 document.querySelector('#refresh').addEventListener('click',refresh);
 document.querySelector('#navMarkets').addEventListener('click',()=>document.querySelector('#filters').scrollIntoView({behavior:'smooth'}));
-document.querySelector('#navSaved').addEventListener('click',()=>alert('Los guardados se añadirán en otra versión.'));
+document.querySelector('#navSaved').addEventListener('click',()=>document.querySelector('#historySection').scrollIntoView({behavior:'smooth'}));
 document.querySelector('#navInfo').addEventListener('click',()=>document.querySelector('.notice').scrollIntoView({behavior:'smooth'}));
 refresh();
 if('serviceWorker'in navigator&&location.protocol.startsWith('http'))navigator.serviceWorker.register('./sw.js').catch(()=>{});

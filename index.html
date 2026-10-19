@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#101a17"><meta name="description" content="MatchLab: análisis de fútbol basado en datos">
-<link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="styles.css?v=8">
+<link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="styles.css?v=9">
 <title>MatchLab · Football insights</title>
 </head>
 <body>
@@ -42,12 +42,12 @@
   </section>
   <section class="section" id="games">
     <div class="section-head"><div><div class="eyebrow">DATOS DE FOOTBALL-DATA.ORG</div><h2>Partidos <span class="result-count" id="resultCount"></span></h2></div><button class="text-button" id="refresh">↻ Actualizar</button></div>
-    <div class="date-strip"><span>PRÓXIMOS ENCUENTROS</span><span id="dateLabel">Actualización programada</span></div>
+    <div class="filter-label">FECHA</div><div class="filter-options" id="dateFilters"><button class="filter-chip" data-day="today">Hoy</button><button class="filter-chip" data-day="tomorrow">Mañana</button><button class="filter-chip active" data-day="7">7 días</button><button class="filter-chip" data-day="all">Todos</button></div><div class="date-strip"><span>PRÓXIMOS ENCUENTROS</span><span id="dateLabel">Actualización programada</span></div>
     <div id="dataStatus" class="data-status" role="status">Comprobando datos publicados…</div><div id="matches" class="matches"></div>
   </section>
-  <section class="notice"><span class="notice-icon">ⓘ</span><div><strong>Transparencia primero</strong><p>Partidos, resultados y clasificación proceden de football-data.org cuando la sincronización está configurada. No hay cuotas, córners, tarjetas, estadísticas de jugadores ni noticias en este plan. La disponibilidad de cada competición depende del acceso concedido por la API. Las probabilidades 1X2, goles y BTTS proceden de un modelo Poisson experimental sin validación histórica. No son cuotas ni consejos de apuesta. Datos sujetos a retrasos y disponibilidad.</p></div></section>
+  <section class="section" id="historySection"><div class="section-head"><div><div class="eyebrow">PRONÓSTICOS REGISTRADOS</div><h2>Histórico <span class="result-count" id="historyCount"></span></h2></div></div><div class="filter-options"><button class="filter-chip active" data-hstatus="all">Todos</button><button class="filter-chip" data-hstatus="settled">Evaluados</button><button class="filter-chip" data-hstatus="pending">Pendientes</button></div><div id="historySummary" class="history-summary"></div><div id="historyList" class="history-list"></div></section><section class="notice"><span class="notice-icon">ⓘ</span><div><strong>Transparencia primero</strong><p>Partidos, resultados y clasificación proceden de football-data.org cuando la sincronización está configurada. No hay cuotas, córners, tarjetas, estadísticas de jugadores ni noticias en este plan. La disponibilidad de cada competición depende del acceso concedido por la API. Las probabilidades 1X2, goles y BTTS proceden de un modelo Poisson experimental sin validación histórica. No son cuotas ni consejos de apuesta. Datos sujetos a retrasos y disponibilidad.</p></div></section>
 </main>
-<nav class="bottom-nav"><button class="selected"><span>⌂</span>Inicio</button><button id="navMarkets"><span>▦</span>Filtros</button><button id="navSaved"><span>☆</span>Guardados</button><button id="navInfo"><span>ⓘ</span>Datos</button></nav>
+<nav class="bottom-nav"><button class="selected"><span>⌂</span>Inicio</button><button id="navMarkets"><span>▦</span>Filtros</button><button id="navSaved"><span>◷</span>Histórico</button><button id="navInfo"><span>ⓘ</span>Datos</button></nav>
 <div class="modal-backdrop" id="modal" hidden><div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><button class="close" id="closeModal">×</button><div class="eyebrow" id="modalLeague">ANÁLISIS DE PARTIDO</div><h2 id="modalTitle">Local vs Visitante</h2><p class="muted" id="modalSub">Datos de demostración</p><div id="modalContent"></div><div class="modal-note">Probabilidades experimentales no validadas, no recomendaciones de apuesta. No incluyen cuotas, lesiones ni alineaciones.</div></div></div>
-<script src="app.js?v=8"></script>
+<script src="app.js?v=9"></script>
 </body></html>
