@@ -1,0 +1,26 @@
+name: Actualizar noticias deportivas
+'on':
+  workflow_dispatch:
+  schedule:
+    - cron: '35 7,13,19 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: noticias-matchlab
+  cancel-in-progress: false
+jobs:
+  noticias:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Consultar titulares RSS
+        run: python scripts/update_news.py
+      - name: Publicar noticias
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git diff --cached --quiet || (git commit -m "Actualizar noticias deportivas" && git pull --rebase && git push)
