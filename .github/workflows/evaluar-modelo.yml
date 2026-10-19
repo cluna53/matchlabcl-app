@@ -1,0 +1,32 @@
+
+name: Evaluar precisión MatchLab
+
+'on':
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  evaluar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Evaluar pronósticos
+        run: |
+          python scripts/evaluate_model.py
+
+      - name: Guardar informe
+        uses: actions/upload-artifact@v4
+        with:
+          name: informe-precision-matchlab
+          path: data/model_evaluation.json
+          if-no-files-found: error
