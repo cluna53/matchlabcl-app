@@ -1,14 +1,14 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-10-18T19:35:11.650658+00:00",
+  "updatedAt": "2026-10-19T07:56:51.175030+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
-      "count": 25
+      "count": 22
     },
     "Premier": {
       "code": "PL",
-      "count": 24
+      "count": 21
     },
     "Championship": {
       "code": "ELC",
@@ -20,371 +20,14 @@
     },
     "Serie A": {
       "code": "SA",
-      "count": 34
+      "count": 32
     },
     "Eredivisie": {
       "code": "DED",
-      "count": 23
+      "count": 18
     }
   },
   "matches": [
-    {
-      "id": 558867,
-      "league": "Eredivisie",
-      "utcDate": "2026-10-18T10:15:00Z",
-      "status": "FINISHED",
-      "matchday": 9,
-      "home": {
-        "id": 684,
-        "name": "Zwolle",
-        "crest": "https://crests.football-data.org/684.png"
-      },
-      "away": {
-        "id": 718,
-        "name": "Go Ahead",
-        "crest": "https://crests.football-data.org/718.png"
-      },
-      "score": {
-        "home": 4,
-        "away": 1
-      }
-    },
-    {
-      "id": 558574,
-      "league": "Serie A",
-      "utcDate": "2026-10-18T10:30:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "home": {
-        "id": 115,
-        "name": "Udinese",
-        "crest": "https://crests.football-data.org/115.png"
-      },
-      "away": {
-        "id": 5890,
-        "name": "Lecce",
-        "crest": "https://crests.football-data.org/5890.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 3
-      }
-    },
-    {
-      "id": 564715,
-      "league": "LaLiga",
-      "utcDate": "2026-10-18T12:00:00Z",
-      "status": "FINISHED",
-      "matchday": 9,
-      "home": {
-        "id": 79,
-        "name": "Osasuna",
-        "crest": "https://crests.football-data.org/79.png"
-      },
-      "away": {
-        "id": 5335,
-        "name": "Santander",
-        "crest": "https://crests.football-data.org/5335.png"
-      },
-      "score": {
-        "home": 2,
-        "away": 0
-      }
-    },
-    {
-      "id": 558865,
-      "league": "Eredivisie",
-      "utcDate": "2026-10-18T12:30:00Z",
-      "status": "FINISHED",
-      "matchday": 9,
-      "home": {
-        "id": 1909,
-        "name": "Cambuur",
-        "crest": "https://crests.football-data.org/1909.png"
-      },
-      "away": {
-        "id": 682,
-        "name": "AZ",
-        "crest": "https://crests.football-data.org/682.png"
-      },
-      "score": {
-        "home": 2,
-        "away": 2
-      }
-    },
-    {
-      "id": 560604,
-      "league": "Premier",
-      "utcDate": "2026-10-18T13:00:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "home": {
-        "id": 1044,
-        "name": "Bournemouth",
-        "crest": "https://crests.football-data.org/bournemouth.png"
-      },
-      "away": {
-        "id": 71,
-        "name": "Sunderland",
-        "crest": "https://crests.football-data.org/71.png"
-      },
-      "score": {
-        "home": 2,
-        "away": 0
-      }
-    },
-    {
-      "id": 560605,
-      "league": "Premier",
-      "utcDate": "2026-10-18T13:00:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "home": {
-        "id": 341,
-        "name": "Leeds United",
-        "crest": "https://crests.football-data.org/341.png"
-      },
-      "away": {
-        "id": 66,
-        "name": "Man United",
-        "crest": "https://crests.football-data.org/66.png"
-      },
-      "score": {
-        "home": 1,
-        "away": 1
-      }
-    },
-    {
-      "id": 560609,
-      "league": "Premier",
-      "utcDate": "2026-10-18T13:00:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "home": {
-        "id": 397,
-        "name": "Brighton Hove",
-        "crest": "https://crests.football-data.org/397.png"
-      },
-      "away": {
-        "id": 354,
-        "name": "Crystal Palace",
-        "crest": "https://crests.football-data.org/354.png"
-      },
-      "score": {
-        "home": 5,
-        "away": 0
-      }
-    },
-    {
-      "id": 558577,
-      "league": "Serie A",
-      "utcDate": "2026-10-18T13:00:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "home": {
-        "id": 99,
-        "name": "Fiorentina",
-        "crest": "https://crests.football-data.org/99.png"
-      },
-      "away": {
-        "id": 7397,
-        "name": "Como 1907",
-        "crest": "https://crests.football-data.org/7397.png"
-      },
-      "score": {
-        "home": 1,
-        "away": 3
-      }
-    },
-    {
-      "id": 564712,
-      "league": "LaLiga",
-      "utcDate": "2026-10-18T14:15:00Z",
-      "status": "FINISHED",
-      "matchday": 9,
-      "home": {
-        "id": 558,
-        "name": "Celta",
-        "crest": "https://crests.football-data.org/558.png"
-      },
-      "away": {
-        "id": 263,
-        "name": "Alavés",
-        "crest": "https://crests.football-data.org/263.png"
-      },
-      "score": {
-        "home": 2,
-        "away": 1
-      }
-    },
-    {
-      "id": 558864,
-      "league": "Eredivisie",
-      "utcDate": "2026-10-18T14:45:00Z",
-      "status": "FINISHED",
-      "matchday": 9,
-      "home": {
-        "id": 677,
-        "name": "Groningen",
-        "crest": "https://crests.football-data.org/677.png"
-      },
-      "away": {
-        "id": 678,
-        "name": "Ajax",
-        "crest": "https://crests.football-data.org/678.png"
-      },
-      "score": {
-        "home": 2,
-        "away": 5
-      }
-    },
-    {
-      "id": 560608,
-      "league": "Premier",
-      "utcDate": "2026-10-18T15:30:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "home": {
-        "id": 351,
-        "name": "Nottingham",
-        "crest": "https://crests.football-data.org/351.png"
-      },
-      "away": {
-        "id": 57,
-        "name": "Arsenal",
-        "crest": "https://crests.football-data.org/57.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 1
-      }
-    },
-    {
-      "id": 558569,
-      "league": "Serie A",
-      "utcDate": "2026-10-18T16:00:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "home": {
-        "id": 98,
-        "name": "Milan",
-        "crest": "https://crests.football-data.org/98.png"
-      },
-      "away": {
-        "id": 102,
-        "name": "Atalanta",
-        "crest": "https://crests.football-data.org/102.png"
-      },
-      "score": {
-        "home": 3,
-        "away": 2
-      }
-    },
-    {
-      "id": 564714,
-      "league": "LaLiga",
-      "utcDate": "2026-10-18T16:30:00Z",
-      "status": "FINISHED",
-      "matchday": 9,
-      "home": {
-        "id": 84,
-        "name": "Málaga",
-        "crest": "https://crests.football-data.org/84.png"
-      },
-      "away": {
-        "id": 92,
-        "name": "Real Sociedad",
-        "crest": "https://crests.football-data.org/92.png"
-      },
-      "score": {
-        "home": 2,
-        "away": 5
-      }
-    },
-    {
-      "id": 558866,
-      "league": "Eredivisie",
-      "utcDate": "2026-10-18T18:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 9,
-      "home": {
-        "id": 666,
-        "name": "Twente",
-        "crest": "https://crests.football-data.org/666.png"
-      },
-      "away": {
-        "id": 676,
-        "name": "Utrecht",
-        "crest": "https://crests.football-data.org/676.png"
-      },
-      "score": {
-        "home": 1,
-        "away": 2
-      }
-    },
-    {
-      "id": 558870,
-      "league": "Eredivisie",
-      "utcDate": "2026-10-18T18:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 9,
-      "home": {
-        "id": 1915,
-        "name": "NEC",
-        "crest": "https://crests.football-data.org/1915.png"
-      },
-      "away": {
-        "id": 1920,
-        "name": "Sittard",
-        "crest": "https://crests.football-data.org/1920.png"
-      },
-      "score": {
-        "home": 1,
-        "away": 2
-      }
-    },
-    {
-      "id": 558570,
-      "league": "Serie A",
-      "utcDate": "2026-10-18T18:45:00Z",
-      "status": "IN_PLAY",
-      "matchday": 7,
-      "home": {
-        "id": 109,
-        "name": "Juventus",
-        "crest": "https://crests.football-data.org/109.png"
-      },
-      "away": {
-        "id": 110,
-        "name": "Lazio",
-        "crest": "https://crests.football-data.org/110.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 1
-      }
-    },
-    {
-      "id": 564709,
-      "league": "LaLiga",
-      "utcDate": "2026-10-18T19:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 9,
-      "home": {
-        "id": 86,
-        "name": "Real Madrid",
-        "crest": "https://crests.football-data.org/86.png"
-      },
-      "away": {
-        "id": 559,
-        "name": "Sevilla FC",
-        "crest": "https://crests.football-data.org/559.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 0
-      }
-    },
     {
       "id": 558576,
       "league": "Serie A",
@@ -3156,6 +2799,90 @@
         "home": null,
         "away": null
       }
+    },
+    {
+      "id": 558541,
+      "league": "Serie A",
+      "utcDate": "2026-11-02T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 10,
+      "home": {
+        "id": 471,
+        "name": "Sassuolo",
+        "crest": "https://crests.football-data.org/471.png"
+      },
+      "away": {
+        "id": 99,
+        "name": "Fiorentina",
+        "crest": "https://crests.football-data.org/99.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 558545,
+      "league": "Serie A",
+      "utcDate": "2026-11-02T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 10,
+      "home": {
+        "id": 102,
+        "name": "Atalanta",
+        "crest": "https://crests.football-data.org/102.png"
+      },
+      "away": {
+        "id": 112,
+        "name": "Parma",
+        "crest": "https://crests.football-data.org/112.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 564731,
+      "league": "LaLiga",
+      "utcDate": "2026-11-02T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "home": {
+        "id": 560,
+        "name": "Deportivo",
+        "crest": "https://crests.football-data.org/560.png"
+      },
+      "away": {
+        "id": 79,
+        "name": "Osasuna",
+        "crest": "https://crests.football-data.org/79.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 560622,
+      "league": "Premier",
+      "utcDate": "2026-11-02T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 9,
+      "home": {
+        "id": 67,
+        "name": "Newcastle",
+        "crest": "https://crests.football-data.org/67.png"
+      },
+      "away": {
+        "id": 62,
+        "name": "Everton",
+        "crest": "https://crests.football-data.org/62.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
     }
   ],
   "standings": {
@@ -3186,12 +2913,12 @@
         "teamId": 86,
         "position": 3,
         "played": 9,
-        "won": 6,
-        "draw": 1,
+        "won": 7,
+        "draw": 0,
         "lost": 2,
-        "goalsFor": 19,
-        "goalsAgainst": 8,
-        "points": 19
+        "goalsFor": 23,
+        "goalsAgainst": 9,
+        "points": 21
       },
       {
         "teamId": 90,
@@ -3220,11 +2947,11 @@
         "position": 6,
         "played": 9,
         "won": 4,
-        "draw": 3,
-        "lost": 2,
-        "goalsFor": 13,
-        "goalsAgainst": 12,
-        "points": 15
+        "draw": 2,
+        "lost": 3,
+        "goalsFor": 14,
+        "goalsAgainst": 16,
+        "points": 14
       },
       {
         "teamId": 263,
@@ -4286,7 +4013,7 @@
         "won": 6,
         "draw": 1,
         "lost": 0,
-        "goalsFor": 12,
+        "goalsFor": 14,
         "goalsAgainst": 4,
         "points": 19
       },
@@ -4353,7 +4080,7 @@
         "draw": 2,
         "lost": 2,
         "goalsFor": 9,
-        "goalsAgainst": 6,
+        "goalsAgainst": 8,
         "points": 11
       },
       {
@@ -4549,12 +4276,12 @@
         "teamId": 1920,
         "position": 6,
         "played": 9,
-        "won": 5,
-        "draw": 2,
+        "won": 4,
+        "draw": 3,
         "lost": 2,
         "goalsFor": 16,
-        "goalsAgainst": 16,
-        "points": 17
+        "goalsAgainst": 17,
+        "points": 15
       },
       {
         "teamId": 677,
@@ -4616,11 +4343,11 @@
         "position": 12,
         "played": 9,
         "won": 2,
-        "draw": 3,
-        "lost": 4,
-        "goalsFor": 14,
+        "draw": 4,
+        "lost": 3,
+        "goalsFor": 15,
         "goalsAgainst": 16,
-        "points": 9
+        "points": 10
       },
       {
         "teamId": 6806,
@@ -5355,6 +5082,38 @@
         "awayId": 77,
         "homeGoals": 0,
         "awayGoals": 0
+      },
+      {
+        "id": 564715,
+        "date": "2026-10-18T12:00:00Z",
+        "homeId": 79,
+        "awayId": 5335,
+        "homeGoals": 2,
+        "awayGoals": 0
+      },
+      {
+        "id": 564712,
+        "date": "2026-10-18T14:15:00Z",
+        "homeId": 558,
+        "awayId": 263,
+        "homeGoals": 2,
+        "awayGoals": 1
+      },
+      {
+        "id": 564714,
+        "date": "2026-10-18T16:30:00Z",
+        "homeId": 84,
+        "awayId": 92,
+        "homeGoals": 2,
+        "awayGoals": 5
+      },
+      {
+        "id": 564709,
+        "date": "2026-10-18T19:00:00Z",
+        "homeId": 86,
+        "awayId": 559,
+        "homeGoals": 4,
+        "awayGoals": 1
       }
     ],
     "Premier": [
@@ -5875,6 +5634,38 @@
         "date": "2026-10-17T16:30:00Z",
         "homeId": 67,
         "awayId": 58,
+        "homeGoals": 0,
+        "awayGoals": 1
+      },
+      {
+        "id": 560604,
+        "date": "2026-10-18T13:00:00Z",
+        "homeId": 1044,
+        "awayId": 71,
+        "homeGoals": 2,
+        "awayGoals": 0
+      },
+      {
+        "id": 560605,
+        "date": "2026-10-18T13:00:00Z",
+        "homeId": 341,
+        "awayId": 66,
+        "homeGoals": 1,
+        "awayGoals": 1
+      },
+      {
+        "id": 560609,
+        "date": "2026-10-18T13:00:00Z",
+        "homeId": 397,
+        "awayId": 354,
+        "homeGoals": 5,
+        "awayGoals": 0
+      },
+      {
+        "id": 560608,
+        "date": "2026-10-18T15:30:00Z",
+        "homeId": 351,
+        "awayId": 57,
         "homeGoals": 0,
         "awayGoals": 1
       }
@@ -7731,6 +7522,38 @@
         "awayId": 107,
         "homeGoals": 2,
         "awayGoals": 0
+      },
+      {
+        "id": 558574,
+        "date": "2026-10-18T10:30:00Z",
+        "homeId": 115,
+        "awayId": 5890,
+        "homeGoals": 0,
+        "awayGoals": 3
+      },
+      {
+        "id": 558577,
+        "date": "2026-10-18T13:00:00Z",
+        "homeId": 99,
+        "awayId": 7397,
+        "homeGoals": 1,
+        "awayGoals": 3
+      },
+      {
+        "id": 558569,
+        "date": "2026-10-18T16:00:00Z",
+        "homeId": 98,
+        "awayId": 102,
+        "homeGoals": 3,
+        "awayGoals": 2
+      },
+      {
+        "id": 558570,
+        "date": "2026-10-18T18:45:00Z",
+        "homeId": 109,
+        "awayId": 110,
+        "homeGoals": 0,
+        "awayGoals": 3
       }
     ],
     "Eredivisie": [
@@ -8340,6 +8163,46 @@
         "homeId": 6806,
         "awayId": 672,
         "homeGoals": 3,
+        "awayGoals": 2
+      },
+      {
+        "id": 558867,
+        "date": "2026-10-18T10:15:00Z",
+        "homeId": 684,
+        "awayId": 718,
+        "homeGoals": 4,
+        "awayGoals": 1
+      },
+      {
+        "id": 558865,
+        "date": "2026-10-18T12:30:00Z",
+        "homeId": 1909,
+        "awayId": 682,
+        "homeGoals": 2,
+        "awayGoals": 2
+      },
+      {
+        "id": 558864,
+        "date": "2026-10-18T14:45:00Z",
+        "homeId": 677,
+        "awayId": 678,
+        "homeGoals": 2,
+        "awayGoals": 5
+      },
+      {
+        "id": 558866,
+        "date": "2026-10-18T18:00:00Z",
+        "homeId": 666,
+        "awayId": 676,
+        "homeGoals": 1,
+        "awayGoals": 2
+      },
+      {
+        "id": 558870,
+        "date": "2026-10-18T18:00:00Z",
+        "homeId": 1915,
+        "awayId": 1920,
+        "homeGoals": 2,
         "awayGoals": 2
       }
     ]
