@@ -166,8 +166,13 @@ document.querySelector('#closeModal').addEventListener('click',()=>document.quer
 document.querySelector('#modal').addEventListener('click',e=>{if(e.target.id==='modal')e.currentTarget.hidden=true;});
 document.addEventListener('keydown',e=>{if(e.key==='Escape')document.querySelector('#modal').hidden=true;});
 document.querySelector('#refresh').addEventListener('click',refresh);
-document.querySelector('#navMarkets').addEventListener('click',()=>document.querySelector('#filters').scrollIntoView({behavior:'smooth'}));
-document.querySelector('#navSaved').addEventListener('click',()=>document.querySelector('#historySection').scrollIntoView({behavior:'smooth'}));
-document.querySelector('#navInfo').addEventListener('click',()=>document.querySelector('.notice').scrollIntoView({behavior:'smooth'}));
+function showView(view){
+ document.querySelectorAll('.app-view').forEach(el=>el.hidden=el.id!==view);
+ const links={viewInicio:'navHome',viewFiltros:'navMarkets',viewHistorico:'navSaved',viewDatos:'navInfo'};
+ document.querySelectorAll('.bottom-nav button').forEach(el=>{const active=el.id===links[view];el.classList.toggle('selected',active);el.setAttribute('aria-current',active?'page':'false');});
+ window.scrollTo({top:0,behavior:'instant'});
+ if(view==='viewDatos'&&typeof window.matchlabLoadDashboard==='function')window.matchlabLoadDashboard();
+}
+[['navHome','viewInicio'],['navMarkets','viewFiltros'],['navSaved','viewHistorico'],['navInfo','viewDatos']].forEach(([id,view])=>document.getElementById(id).addEventListener('click',()=>showView(view)));
 refresh();
-if('serviceWorker'in navigator&&location.protocol.startsWith('http'))navigator.serviceWorker.register('./sw.js').catch(()=>{});
+if('serviceWorker' in navigator&&location.protocol.startsWith('http'))navigator.serviceWorker.register('./sw.js').catch(()=>{});
