@@ -1,13 +1,23 @@
 {
-  "updatedAt": "2026-10-20T08:06:56.496387+00:00",
+  "updatedAt": "2026-10-20T14:09:46.248036+00:00",
   "source": "Google News RSS headlines",
   "items": [
     {
       "title": "Alineaciones Stuttgart vs Atlético, Champions League 2026/2027 - Diario AS",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmp0bklWT0VRdURNR0VUZTQzV29oa0hOSm9zcUlRRUpNN2JxZTdrNXNnM1FuUnpMb0gxcDM5Vk1qbjFSZThld0lwMFJpZHVwY2VRUEZHY20zcVlLRHNsUG85cXlCeXFtZS04amRQZVFOc2tvRUlJMmhJcHpmX3k3VkJSNlVxOTdONXVkM1hrdUJCMTFZa1ZvMUdvUkp1djNaaF9hbA?oc=5",
       "source": "Diario AS",
-      "published": "2026-10-20T08:05:49+00:00",
+      "published": "2026-10-20T14:08:48+00:00",
       "team": "Stuttgart",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones Liverpool vs Villarreal, Champions League 2026/2027 - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2NRV25IX0taNVZQbVQ4cHR3THVQWmhOMXZLOFhRRzFvOXJicjBNdXNVdDE3VzVGVmM1UUF3TG42R0stUndLSklTejc2blFqb1JaaHhweTBtSkhPMjk4LUJlNjFpS3c0SUgtNlplZDhKcm8tLVp5YnVUbzYxbTNlejQ3RnZlb2ZYX0dHX1g5OF9iVVNOM1U5UkpveWtxdlRwOG1kcA?oc=5",
+      "source": "Diario AS",
+      "published": "2026-10-20T12:51:37+00:00",
+      "team": "Liverpool",
       "league": "Champions League",
       "category": "general",
       "status": "unverified"
@@ -16,10 +26,30 @@
       "title": "Borja Cortina: \"Con la lesión he aprendido a valorar que entrenar con el grupo es un regalo\" - Levante UD | Web Oficial",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2swQWx1My1ET0IzcURlMzliQ2RXbXlabkxKbFU2dHJLMTRDcm9xTXB4M1NfSEpNMTl2cDZQRFBjaWluRENvSlpjZGZhRk1kMVNwaUc3aExYY185eEUtOFEwSWV5QkpBTEFhSzlzQ0RYaVBJOFlzcExoUlc2TDkzTE53VGdyUVhWaGJjdy14NTJaNzFPNWxjS0lpdTFZSzBJUUhpQU5qeEVGbEpCZ3pwOEw2RzMxREdXeDZzX1c3RFdUUQ?oc=5",
       "source": "Levante UD | Web Oficial",
-      "published": "2026-10-20T08:00:52+00:00",
+      "published": "2026-10-20T08:59:57+00:00",
       "team": "Levante",
       "league": "LaLiga",
       "category": "lesion",
+      "status": "unverified"
+    },
+    {
+      "title": "Previa Fenerbahçe vs Slavia Praha: forma, alineaciones y cuotas - Sofascore",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOGhnWkpXU1VLRUpablFiZlBUSjFKLS1UeVgtNXBONHdUN2taMDViOXc0cjRoVjZ6ZjRvNEdHcDRaQlJNdk5pR2NJV0Nla1NXLTBVODlDTmVQQV9BODhLVWwwSkI2cWVmQnRQdTRBcWttVVNXRnFFM0Jaa2xSNFZpWkstZWdpc3hrTVlHUHpvMFpRV0dKWDJCaVlIdw?oc=5",
+      "source": "Sofascore",
+      "published": "2026-10-20T08:46:49+00:00",
+      "team": "Fenerbahçe",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "La posible alineación titular del Liverpool para enfrentar al Villarreal - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEZzN3NaS3VkMEV2VmRfbTJ0ZHRlRUxCWUpIMDFSZmdqWVRvSjBYMmxlUWxMUnRNczZ0VWdfc1FPRG9tdzVqeGhkTFpmSlloNHd2b1E1Rm9zMTl1V3FnMzlOMFFQYksyUDBWd3doWUoySmlsMEhGU2FwcUJBYXF6blcxVlp2ZW1FcUpVcmpJRzN5UGQyV2lFRVFOYVgtVkNCNDNLcVM2RGZCZGQw?oc=5",
+      "source": "Sports Illustrated",
+      "published": "2026-10-20T08:19:09+00:00",
+      "team": "Liverpool",
+      "league": "Champions League",
+      "category": "alineacion",
       "status": "unverified"
     },
     {
@@ -33,11 +63,31 @@
       "status": "unverified"
     },
     {
+      "title": "El posible once del Barça ante el PSG - Mundo Deportivo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHJYR1M5ZUZvQTRRaGdZSWowZ2lYT1BQMFJfc3JXT3poTUpFVWVTOUVmWmdXRzlkWHhSS2paWXZ0N0dVNEZZZTdVV3cxVDQwN21XZHZaWEZuU3JFdVNFRWNiYkhXcVgtdFdZRHF1Q01UdTNQWG9lOGVwNURhanZWNk11QWVDdnZVWUw3b2lUVUhtbFQ5amVucjZscEVMZjjSAawBQVVfeXFMTkRMOXlzWjRhUnV5MXo4cGNrMzdpU2FjWjhNTVd5VWVHejd2TWpTYnRIZ09wZS13OVJLQVNFRnVldkI2MzJselRVcHhPVGhhT0JiSl9HSVFtWFpOcmFINmJ4NGFvTkp3cS1HRUJGSkZ5dmRuNGU1aWFGMUpKSk9YZHBHVmJUcVY2V0dCOXM2YndfRVQxUkhyTm9WeUlPaUozcHp1emZxS1dVSWNpZA?oc=5",
+      "source": "Mundo Deportivo",
+      "published": "2026-10-20T07:35:25+00:00",
+      "team": "Barça",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "El Nápoles, sin margen de error ante el Bodo/Glimt - Mundo Deportivo",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU1lfNkZvOGxyTG9lcHVBWlhpN0Q2SkVSdnBGVV9Ha3FrUkg5bF9MWjRGdEFodE96UGRNaTRSS2xVSzhCTjBkdkl6UmdySlF6ZlNjS0pmc2dZNFlxd1M4cjg3RjNaZkpFQVB2ZGxzTDE2VTlaWEpIeWpRbDNBODZRdHd4UGNzR211a1dMZTNRbkV0dDV6V0huMkFvLVhua2wzdDVwOU1NVGFrN1RLdW1iTF9lcEdpc3lJS2FJYnBR0gG-AUFVX3lxTE1TWV82Rm84bHJMb2VwdUFaWGk3RDZKRVJ2cEZVX0drcWtSSDlsX0xaNEZ0QWh0T3pQZE1pNFJLbFVLOEJOMGR2SXpSZ3JKUXpmU2NLSmZzZ1k0WXF3UzhyODdGM1pmSkVBUHZkbHNMMTZVOVpYSkh5alFsM0E4NlF0d3hQY3NHbXVrV0xlM1FuRXR0NXpXSG4yQW8tWG5rbDN0NXA5TU1UYWs3VEt1bWJMX2VwR2lzeUlLYUlicFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPelIxWEtuRVNfLU12WlJUbU1XeXdoM1hUOTJocS14WWhLRWhOWTRFNmRfcWM5UVRCaVhRb0g0QjBhenlIT2Z5QWUyMms4VUsyOUROMWJJdjRzYzE5ZG1zNEExVUVoMW9hWUtCVll1QmplV0JNTVk3amdaMFJYWUlCYVc2azQ3bUZVNm9jNlBST2xDQlRBTnBZZEVGbmVXZ29kTC1aczg5RWJCVS1HbFREd9IBvgFBVV95cUxNU1lfNkZvOGxyTG9lcHVBWlhpN0Q2SkVSdnBGVV9Ha3FrUkg5bF9MWjRGdEFodE96UGRNaTRSS2xVSzhCTjBkdkl6UmdySlF6ZlNjS0pmc2dZNFlxd1M4cjg3RjNaZkpFQVB2ZGxzTDE2VTlaWEpIeWpRbDNBODZRdHd4UGNzR211a1dMZTNRbkV0dDV6V0huMkFvLVhua2wzdDVwOU1NVGFrN1RLdW1iTF9lcEdpc3lJS2FJYnBR?oc=5",
       "source": "Mundo Deportivo",
       "published": "2026-10-20T05:00:00+00:00",
       "team": "Bodø/Glimt",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Cómo ver Sabah FK vs Borussia Dortmund: Detalles del partido, cadenas de TV, streaming en direct y más - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcHpKWjFIU3UtaWZvN2pSekgtNE1udTFJZ1VwUUdNM0FsbVFnRl9udzFvSWV3NnFpUVlSeU9yQjk5SUxmeFVHUGFZOTMtamphbV9lTkV2WWs2NUFWNUFLejlFdXFESTVwaUJ4d3N0NHhreUpkN0hsRldlSElqeG03Z1dabGVTYzNZekhjYkxmZGNRdkVKQmI3YWYwNGZTTEl4?oc=5",
+      "source": "Goal.com",
+      "published": "2026-10-20T04:45:03+00:00",
+      "team": "Sabah FK",
       "league": "Champions League",
       "category": "general",
       "status": "unverified"
@@ -57,7 +107,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2JyU0FlNmF6NzlOQkpvWkpmdjVYc1ZBeGZ4R1VYU1FhR1lyZ0NVWFVMcTA0UlFMWGl5b1VOWEgtdXN4N3Z2ZWRDcExKX2RjWHJHc3JnZzhZNlIycXFpSVNlQnpRTC1XTEhzYkdqR1hramJsdjNBVWxvM08wb0ctOWJhbHVXczNzc1E?oc=5",
       "source": "Diario AS",
       "published": "2026-10-20T04:06:03+00:00",
-      "team": "Napoli",
+      "team": "Bodø/Glimt",
       "league": "Champions League",
       "category": "general",
       "status": "unverified"
@@ -153,16 +203,6 @@
       "status": "unverified"
     },
     {
-      "title": "Posibles alineaciones del Atlético vs Stuttgart por Champions League - 365Scores",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbU42SjF2czVwTkRKSXpLVTd0Sk1tOWExaWg2dE41bGplSlYzbXRDYWpVR3JlUlB3bnFpRU81TXJEX1B3b1ZHTDRQTkJYSFZsQVdIeTdMSjJpdmZZX2ZXQUpGSG5leXE1QVFBZ1ZLQnM2S3dibjBGTFVMNnNxbDRITQ?oc=5",
-      "source": "365Scores",
-      "published": "2026-10-19T19:07:47+00:00",
-      "team": "Stuttgart",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Esta sería la posible sanción deportiva para el Manchester City - Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb0Z0eFh0OURRX1dYMElUQ1NpSnVYNURmaHNDVDhSU3FOU3puTGstVVZQNHZFcnhiVUhMTGJBUUNvcmJnZXhqUmRvSHVTTDJVWGtRdEZNV2oyRFNxU01YRWZydlk3cWRka296UXVyeFZNYzlyWVQ0eDBKZERHaThfNTI2NE80NUZ4OU1qTmMtOWgzUQ?oc=5",
       "source": "Sports Illustrated",
@@ -183,11 +223,51 @@
       "status": "unverified"
     },
     {
+      "title": "PREVIA STUTTGART-ATLETI: VUELVE JOHNNY | LESIÓN de CUTI | La SITUACIÓN de PUBILL y JONATHAN DAVID - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9LbnVSUXFQQmk0ajByVmJCX0RtTVMzT1N1cl9rbVJVTEh5WjFMeWljZGEyWnRFTExBSkFad0RDQjlqUQ?oc=5",
+      "source": "YouTube",
+      "published": "2026-10-19T17:53:26+00:00",
+      "team": "Atleti",
+      "league": "Champions League",
+      "category": "lesion",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones de Lille contra Galatasaray - rcdm.es",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zTFYyTWZQYWx2VFlRWURPS1RFQ3FoOUtZRFg3U0x2dVQ5MDBpUHRsNEJ5MGNuTndKa3g1Z21UNG5vUXVJdThDbFFIMEpacWhfSUlTcXRJdHhuQmdtdlNiUnllM1N1cmY5?oc=5",
+      "source": "rcdm.es",
+      "published": "2026-10-19T17:46:15+00:00",
+      "team": "Lille",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Toni Doblas: \"Estoy disfrutando más de esta Champions que la de 2005, soy más consciente\" - Howl.link",
       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE84Q3o5QjdWdTRCdjJmV0ZERGNQMjRrRU5Za2tfRVJfZmpMOHBlek9wNmZ5ZGZuVllUVVlV?oc=5",
       "source": "Howl.link",
       "published": "2026-10-19T17:43:01+00:00",
       "team": "PAE AEK",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "¿A qué hora se juega el Roma - Slovan Bratislava? TV, horario, dónde y cómo ver hoy la Champions online - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUmtwbUFoaHBkUk93WHFEamRHYzVfdnhiUzd4d3Q1Vk1Ta25rTk9qbVBDNWNCUW14V3hzS2gwMnhXaFhtdDdERFF2WXlCNThVNEJRdk41cGpLMHQyYXJpVDg4ZE1VaEF3YnhCbGtqd3NULXl5MW40eThHOTUwZ2J5aW9pNHM2Ql9GVnVuOHptV3I2ZlQyN1BnbnlacVh5S19feTVZMWpKc2xIdjZhRzBlNlhYLTRzajhpNFk0Rm9ua2Zod2p5bHVWcFQwakJ0d3NxREVRSkswONIB6wFBVV95cUxQai1JUk9Wd3pESzZPMDdQVVZBdE9JWDlWQmdLODI1UmgyX0gxd3hvWUliY0FDRE9tRWg5QVdoYlZrQjZ2TnFRUGtRaUJLM3RhQTBBMFFwVlV3Y2tXUkw0eE1KT1Nab0lVMUlIVkdIN1FHU01NZ0ZOOWpuN0syWUxaRFcwMzVGOHI3c05nN2ZmZ0dnQzg4Q1dCN2JqU08ydDA5c0tJTFZlQV9TaVdnd2ZrWFdvSGxSTDFtWl9SVmVvZEs4c3E0UlBscmZHSHZuOVY4WTdNblFNWXNKb3QyQ0w1M1BFT01tcTlfZkpz?oc=5",
+      "source": "Diario AS",
+      "published": "2026-10-19T17:13:46+00:00",
+      "team": "Sl. Bratislava",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones probables del PSG - Barça de la tercera jornada de la Champions League - MARCA",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakFFZlVCdnA3bmZNeDZlZFRaLXlNUkQwLVlndVlfbUVCWmRyT3NpSjdVODZQd0ZzQmRnaXotbFJrXzkyS202T3pRRW9aMVhseFJETkxFSWthcTQ4WXdKYW94QXBuWHZtQ2dLOHgwZ1FDTEktY3h0eXZlOTA2Z29RUkJQYldXNVNwVXJ0elRGS2wwa2Z1SE5fdHBIT0JNOU90RVNDTE9ZUTlvTk5ibjFHNDZvc0ppbW8ySS1uX9IBvAFBVV95cUxPOFB0LXBNOGphczU1UmtDRzNyQkx5SWwzZjhjbGQxTFhyODd2NDZSLW0zY2R2bG5RVTVROHFnQlFSaG00UjN3c0p0TTFhdmF0aEpYNThPTjhsQkxvUDhZdFNCZFpIRndGRm5STjFjWE1vRk9JbW9QM0U0NDNLdXVBUjBoTk9RYUNldHRrV3dhbFpOM243VVBUOE4wZFdrQVhMSlh1SUQxcDFoNU56ZEotcGllUl8wMGpMbl9kTg?oc=5",
+      "source": "MARCA",
+      "published": "2026-10-19T17:00:08+00:00",
+      "team": "Barça",
       "league": "Champions League",
       "category": "general",
       "status": "unverified"
@@ -223,16 +303,6 @@
       "status": "unverified"
     },
     {
-      "title": "La posible alineación titular del Liverpool para enfrentar al Villarreal - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEZzN3NaS3VkMEV2VmRfbTJ0ZHRlRUxCWUpIMDFSZmdqWVRvSjBYMmxlUWxMUnRNczZ0VWdfc1FPRG9tdzVqeGhkTFpmSlloNHd2b1E1Rm9zMTl1V3FnMzlOMFFQYksyUDBWd3doWUoySmlsMEhGU2FwcUJBYXF6blcxVlp2ZW1FcUpVcmpJRzN5UGQyV2lFRVFOYVgtVkNCNDNLcVM2RGZCZGQw?oc=5",
-      "source": "Sports Illustrated",
-      "published": "2026-10-19T14:26:38+00:00",
-      "team": "Liverpool",
-      "league": "Champions League",
-      "category": "alineacion",
-      "status": "unverified"
-    },
-    {
       "title": "Se confirma el peor presagio con la lesión de Gorka Guruzeta en el Athletic: parte médico y tiempo de baja - El Desmarque",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTWlfRVRhejR3REU1aHdfY2pMUzdHMkl3RzdkMVcteHRCaGZ2eVMtb0lMeTZyN0Q2MzF4VDBSVkFyNzIza3B4dzZ5cFl4SDR0SFR1aWZDbE1qdFBOOUFtQnJGaXRBSlhyeHpXM2FxUGNKUVp1ZmZ1S09rejVBT2ZsRlhqeEY0Q1JwaXRjV2hGQmNtY1pFYTlaZEhOakFsd3ViUmRXMmp6eFhHQVlBeXdpd1dBVDVsT0RGUHpRdjdyZFE4V3EtQnZKeExB?oc=5",
       "source": "El Desmarque",
@@ -263,11 +333,31 @@
       "status": "unverified"
     },
     {
+      "title": "'Cuti' Romero, baja en el Atlético ante el Stuttgart por una distensión muscular - Europa Press",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUjdRekNzaHNncTYzUXhQaXVjMG5ocW5IVXFpWW1tVGNfRjdlTWtsSmN6dkFyaEtRdE1mTUphb0FIa05YWU04QUJXS1NyTl9WSkNNMk90d0o1MnJ2Z3AtN3lzTVdRMVJOWk1xZFVfSUhpdnFZWjJVT3QxaGJjaGRYcnhaWVEwanBlaDlwRkRJU3Z3MFBQeDJKeml5QlZEdmVySG1LS0xTMExUSTVaTU1oR0VOYVcxcG5TN2MtVjBpNlp5REc3WXpra01BMHg?oc=5",
+      "source": "Europa Press",
+      "published": "2026-10-19T09:01:33+00:00",
+      "team": "Stuttgart",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Como vs Manchester United: previa, predicciones y alineaciones - Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMDNNbFhfajlpaXdwMTZLaWlSNmQ4aDNIQnk2bHQ2SUx0bmN3d1FZWmNETkNFdUxwS0F4VVdIRWNETWZzR3dSSEw2NnREZEJDQXM1eUx2V2o5SE1zR2NoUWpsWjU4eXA0NXd0WmpCZHZacGNpbktrb2gtR1NOVWRhNEtKUktKQXJ0dlhMNlhidjVlNzZ5ZlhaNzhPZGY?oc=5",
       "source": "Sports Illustrated",
       "published": "2026-10-19T08:16:36+00:00",
       "team": "Como 1907",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Sabah FK vs Dortmund - marcador en vivo, alineaciones previstas y estadísticas H2H - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZXZNVnhJc1VoSERJLWJsV0tQbTFuZV9BTEgyWWhxdEZxbmd0bUNJM0swZHVrTnA1b25WOTFvVURuNHhtTlIxcnpvTk9WT3l0aHRqRy1oTGdZSXhGeDNWNVZHTV93eGdDeTNqN3lVZW0wdWlFdDFRNGdIVDBHQ2tmdnBR?oc=5",
+      "source": "FotMob",
+      "published": "2026-10-19T08:07:18+00:00",
+      "team": "Sabah FK",
       "league": "Champions League",
       "category": "general",
       "status": "unverified"
@@ -287,16 +377,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnR5OTFENzBxQktEMkRBOFBTelk1OFVPRjFRcThRN05EWVREcFRodXAyZDdCQmpVNUR3MDJiXzAxdGltb1NLU291UFZ2alA4M2FxTUdLYnlXNFpaNnI5dGFLTXl6UzljNzlTYlVPUVN0OW9ITVJrQ2M2SXpIV2N6RTgyT1VlV28waE9oZHNXaXZWOWRFcnJ1eDhORGRUWURxQk80WnFGWnM?oc=5",
       "source": "Caracol Radio",
       "published": "2026-10-19T01:38:00+00:00",
-      "team": "Sl. Bratislava",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Roma - Slovan Bratislava | Pronóstico y cuotas 20.10.2026 - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWE9URUt6NjRxemlySDIzam9DbDhRV1ZZWTl5RUxya0plMFd5RkZ0bTF2MFdZem01ZmNuM0dRVTkwdnlYc3BoQVFRR0F2Y0FaYnlyTnlDZUxTVnVsX3pveTdYOHZtRjFIdWNFV3lGYWVnQllRNVBUcFcyMXNMeHN3VW84YVlNdklXM3JtOUVsdk8?oc=5",
-      "source": "Diario AS",
-      "published": "2026-10-19T00:25:31+00:00",
       "team": "Sl. Bratislava",
       "league": "Champions League",
       "category": "general",
@@ -323,36 +403,6 @@
       "status": "unverified"
     },
     {
-      "title": "Alineaciones de Sabah FK contra Borussia Dortmund - rcdm.es",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MRlhmajV3c3FWSTRaZzNXY3NEWnBnaWVsNk5vYThuU0czYWU1QlQxcWFwUFNXRC0zbkY4MUpOSENCLVh0dXc5aHRJNUhscjlUbW9SVUMxSEFOeTEwNk1MbUtqWHk4c3N6RVBNU2ZnT3ZBUjZo?oc=5",
-      "source": "rcdm.es",
-      "published": "2026-10-18T16:52:14+00:00",
-      "team": "Sabah FK",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Comunicado médico de Eric y Kounde - FC Barcelona",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaW9DLXI1eTE1ZEgwTTZNT2JTUE4xOWt5cFd2Nzh1dlQwYUVIYXFVVTB4R2lSOGtoeXRabGR6Q3JIaFV2ZlZCcExuSVdSSEo4Q3dxeERuQlVKT3NubHY2UEx3WklSTElHT3hDOHkxN2NNOEh3Y01BTmZ6SnAyQm5ZTXZJT1BKUHFpRGtZUWZLMVcxR3hCRjcyYW0yWFlHeXFtTEhuZw?oc=5",
-      "source": "FC Barcelona",
-      "published": "2026-10-18T16:19:52+00:00",
-      "team": "Barça",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Kosta Perovic vs SK Slavia Praha ERA NBK: estadísticas, registro de partidos - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLURobnRTNnVoeE1xMDNZVm1aeG9mUmJuTGhtRHhpTUQ5Y0lONnFnOVBxWWJ6YnZ1aWRjWDdCMnVlUTlhd2RVSklpSTV3VnY2cGhCdF9IVE1UZ3hpdW9RSXhJMTJWbTd3ZnVKb2E4bk00MnBZWkg1NkRGMlQ4U3FLYkJaVGIzeU9VZnUwYXFjWUxLV1d5U1g5MUZJcE1XSTNhclZmbVJB?oc=5",
-      "source": "BasketNews.com",
-      "published": "2026-10-18T14:02:01+00:00",
-      "team": "Slavia Praha",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Un nuevo escenario en el caso del Manchester City desata el pánico entre los clubes ingleses - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlNZa2FuUUZ0U2lNZHBCX0JkeXRSaE1kakxNMEsxTVZ1djV1czVRbDhfQzdFX2lic3pWSGZOQ2kzdnZDQ1U1Zk9qVm0teVJxSDc4WG54OFEzd2lDQWExTHJKY2tEdXRwOVNQelRBYWdEOVFQN2t1ZC1md3JDa1gtNElTTWhqRlRuNlN5OVN6YWdJVV9YaWtYWVd3?oc=5",
       "source": "Yahoo",
@@ -363,11 +413,11 @@
       "status": "unverified"
     },
     {
-      "title": "Como, Chalobah también KO: qué pasó - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPamc3YWloYkJBeVRzVTRzSzBnMHhGb1hYTWFqak04N2NmUG9lRGQ5QUZLdFdWNjhtTDhDLWFWX21aZnNSVUhybHdFX05Kblp0OHJkdlhwa2lQSUx5YlZnTlNFaGRHc2xzR1hYRUFGRWgyWnlUUGtkSy13d0hhM05FRUJtbEo?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-18T11:26:44+00:00",
-      "team": "Como 1907",
+      "title": "Napoli, De Laurentiis desconcertado por las decisiones de Allegri: Montella aparece como opción en caso de destitución - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMXAxd3RHcHBENHcwNzVZTnctQU1udV9GSDhrWTUxS1dxend4SVNyUTQ2QXJlNFo5UE1EblZBNDNIVmlQaGJIN3c4SUtjc2hNWDVUdDlMRTFtZFA1eDhJOURUWC1tQkJ5a09EcUUzSzRSU3RwZ2kyNHIxWFdVSzM5Tl9IbzQ0blpnejRvNVE1SEtSN2ZEZ2xYSHUydmloeEhrZS1ieHdIS3hraW5Qbk9rQXBvV3pmTzh0ejFkRi1XTWctRmZIclhMa0dOb2pBMDZISElkX3hTd3VMYS15VDd5OEdmY1I0UzdNdGY3LWtjMy1mM0dkQ3lkY012cVhhdw?oc=5",
+      "source": "Goal.com",
+      "published": "2026-10-18T10:17:01+00:00",
+      "team": "Napoli",
       "league": "Champions League",
       "category": "general",
       "status": "unverified"
@@ -473,11 +523,21 @@
       "status": "unverified"
     },
     {
-      "title": "Alineaciones de Brentford y Liverpool por la Premier League: formaciones probables - Bolavip",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNk9KUkRtWE9EQ1lSV3ZoOER3eDBYU19wR3pYSklodFpTdGhmRkdwaHBSUTRxU1ZPcjhBakJVdkpJVkVvQUgyR0ZiVHcyVFRwRUFNY0lPeXJtV2k4aWpkbkkwdnVSeTNIOW5lUm5udnJkSDI4emZrenVlYmlWYmkxU2pWYVpWUE9kODc4cVBvdlNSUmRvTlFyWFcxRnhGSzZ0S1dBMEptUDExeXBHYkRKN2FHQVFaTTTSAbwBQVVfeXFMTzlDazZkMnBQZ0hCbW40THdwUVBCSFNxYVkyVWgyNGFqYjZ1ZlZYOE5oSDd2M0prSllyZmlseFdjbGZKbElRVkRvWGNmangzY2IxQ1BCeDVKMHh1bmgzRGRJNmd1b1poTk9TaXBVcEl2SjVmWjQzOHpmS09PMHZOWEt0dXFKSHE4YWNoMXR2M0daaG9GaUdpa0tzNDN1Sy1pUG9JTHFtc0V1MGtyUTl2aFVuMDBsbGh3NjhjMWc?oc=5",
-      "source": "Bolavip",
-      "published": "2026-10-17T12:42:43+00:00",
-      "team": "Liverpool",
+      "title": "Matarazzo confirma una baja de última hora por lesión en la Real Sociedad: \"No queremos arriesgar\" - El Desmarque",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNczhZZVU5NlNHUjhRX3pFSmIxdnlZdlZKV24zS3EwaFJCdy1LdlUtSU1vdFUyTXlpYzJmcUhHVVhXWjZYdnpKRGdNSVRDaDh6QUx2Z2VPRTY1eXpEdTR3ZTk0N2R1NEVjZGFQdGpMSnVoUVZuQ254QUZ5cEdPRDQweFNOZ191WVdsS2VKZ2czUm1MTXZVUllnamlfeFY5dGdUR01NU3ZkOER0ZnJDNmZTVmE4Q0V0Vlp0NHR4REwxb2VuSEEwR2VGeUFn?oc=5",
+      "source": "El Desmarque",
+      "published": "2026-10-17T12:27:41+00:00",
+      "team": "Slavia Praha",
+      "league": "Champions League",
+      "category": "lesion",
+      "status": "unverified"
+    },
+    {
+      "title": "Giménez no tiene cláusula del miedo y podrá jugar ante el Atleti - Jornada Perfecta",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vWnVBUFpvc0d2bmZvLU9zd09hV0paUjVIUXE1ekJZZUx2TWU3SFI0ZnllbTl6Zk5CbUZfX2F3bTY1NnVFTXk5aXhYaUNLdVdKRFQ3RDBHSW9BS0F5ZXRadmk0U3U1MV9mREZYMlpXUG5BVVJyWE5OZTRWNGZ3UQ?oc=5",
+      "source": "Jornada Perfecta",
+      "published": "2026-10-17T11:36:06+00:00",
+      "team": "Atleti",
       "league": "Champions League",
       "category": "general",
       "status": "unverified"
@@ -533,16 +593,6 @@
       "status": "unverified"
     },
     {
-      "title": "El Atleti pierde a Koke por lesión - BeSoccer",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkI1UWJVeTVzU0FqdzFBNXQ5OFdYVG5rUzNPc2RzUVU5YnZ2UEl3WXlmaGNmUUN3MjFLM2dla0JWUFV2NkhQS01oZDVWb21fWTJpTzZ0SGRiR0xSWS1taTYyMlJYTzh2RlE0VG8xYzNUandoZ2pJdk1NU2UzZk5QeG9WcnpxbTR3djNVOU1QYVhNZkVET0RsdmgzbFlTWHU20gGgAUFVX3lxTE5WQjVRYlV5NXNTQWp3MUE1dDk4V1hUbmtTM09zZHNRVTlidnZQSXdZeWZoY2ZRQ3cyMUszZ2VrQlZQVXY2SFBLTWhkNVZvbV9ZMmlPNnRIZGJHTFJZLW1pNjIyUlhPOHZGUTRUbzFjM1Rqd2hnakl2TU1TZTNmTlB4b1ZyenFtNHd2M1U5TVBhWE1mRURPRGx2aDNsWVNYdTY?oc=5",
-      "source": "BeSoccer",
-      "published": "2026-10-16T21:19:37+00:00",
-      "team": "Atleti",
-      "league": "Champions League",
-      "category": "lesion",
-      "status": "unverified"
-    },
-    {
       "title": "Man City: ¿multa de $1332 millones y puntos descontados? La Premier, al límite - The Mirror US en Español",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUnowdXZwWjBWQVM2UDV3TXBxQmJROHlQdVo0THNoZ3R6eHo1YlpNNGJPNDJHTGhsNDJBRml5QnUzSHZpNE50eWhodkRTMkdJTmVzaHF4UzN4QlpvMHBiOVVvV1F3MlZHN044X2FIOU16S3pmbE5HenpsaWFQRGFGenNMT0F5UQ?oc=5",
       "source": "The Mirror US en Español",
@@ -550,16 +600,6 @@
       "team": "Man City",
       "league": "Champions League",
       "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "El Celta de Vigo señala el tiempo de baja de Borja Iglesias tras su nueva lesión - El Desmarque",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ29qa0VoVlc1ak5IV2VrZW9QSUF3Si0tcGxCOWJxMXBlSUR6bGw1dDlEaHlGaE5WSFNFeEJTY21QODBxOXVuZjBXOXFNcVNHMVNYcWdUTUl6cTk3eEpXUWFLRFpwRTJTcmtlV2RYRzlVUDMtZXl3dDk4Y2hDV2p4Wmdjank3Y29wa0ZNQ1IzSnY2YVVRb3ZsejhwVVRkZmdROE9qNFpHYm80VjlVQ29tS09xZTNFQ19uMWMyOTVnSnhNWmtlbFhxQjd3?oc=5",
-      "source": "El Desmarque",
-      "published": "2026-10-16T20:06:48+00:00",
-      "team": "Slavia Praha",
-      "league": "Champions League",
-      "category": "lesion",
       "status": "unverified"
     },
     {
@@ -753,16 +793,6 @@
       "status": "unverified"
     },
     {
-      "title": "Alineaciones oficiales del Aston Villa vs Fenerbahçe - bet365 - Apuestas deportivas en la red",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZDh5OWZiWE1xeExaZHdEUks0anZOVHg5TDBuUkZHdmZaRURnbDgza3lUTS1MWjFJWkVhU0FTeVJCTUxmYUdSUFItZXNDNmtFUFh6NVk3ZjBsQ0ZBell0ZGtUUno1dk9oQUVDZ3VFYjJVQmRoYW5HN3JhdDdfT211amZQSkZUY0tjVldpTGM4WDNuNUNjZXZjUTg3S2F6NWQtRV9hb3QyTmo?oc=5",
-      "source": "bet365 - Apuestas deportivas en la red",
-      "published": "2026-10-14T18:15:11+00:00",
-      "team": "Fenerbahçe",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "ÚLTIMA HORA: Malas noticias para Raúl y el Tri - TUDN",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMDFFVHpNaEJPNmNGbFBSMEY1ODA4X0RKX3A3THdPMm9ta2UtT1Uwa2ROMXdiWlZYZllZZTFOZWRCNWEzTkQtQ25ET2ZiWVZYNm1BbWxydTFNazRoWXFTMVF3RmhYTm1ObmhfZ0JEMGNnZV9rZndxaVpYdXp4b0JCRzItWGFlWXJrdnk5c1hoeHBPd2s1UTFXYzRXQkZLbGtja1hEQXdicUhza0lK?oc=5",
       "source": "TUDN",
@@ -863,6 +893,16 @@
       "status": "unverified"
     },
     {
+      "title": "Feyenoord vs. Como 1907 juegan hoy: todo lo que tenés que saber del partido de la Champions - dsports",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmlaMldwaVg0OFZlYUZQVTljQU52SWpVVW5ndHhNdnJHX3d4LWUwM0YxS3RGMFdNNTc2eGVVSUoyOUpwQXNTdUdQLWhnZzRhSmV1TWJaMi1PYURvQ29iTjVLYVRIaDllcmdrY0FOamF1MzdUcDNIdTVhVGs4MWdmMEFTTm9QSWk3Q2pDaS1VVXZxNVoxQU15Vm5XX3BoV1RpQTVMVVVmV1dzWjdtbWM4bjJvYWw4cFhyQkRidmdoY0NSOGlZclN6T1dBNHlnaTdvTW92eWgta09JM3lyTlVn0gHkAUFVX3lxTE1TdElvZmFFUFRyUG0xMUhJbkxVMDFxS09QeldXb09kVUVXNzBMTzZLS3I3OTBsdEFXcW42ekE5Y0xWWUdZTjdnQk9hZ1B3RFJZVnBXNGVSM093N3ZlUXF3VFctYzBTRUpuRmI0c1p5a3QtNkVfTDg3aS1PSHlRR19CcHk0OV9va3dsclJEczBiSHlFTVNOY3ZacW5EeEpteUlZWVhLTUlCUndWRUdtMC1Ha0M3a2otYWhXOWYyOUxkUVk2bmFBNno5SWR2ODFaSndENWhPWkdRZklQa2V6SkV3UTRpTg?oc=5",
+      "source": "dsports",
+      "published": "2026-10-14T09:34:02+00:00",
+      "team": "Como 1907",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Jon Guridi se lesiona: qué tiene, parte médico y tiempo de baja con el Sevilla - El Desmarque",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT0Y4RG5tLWtGbzdhUjhhZFgyZDRZNFc5T1ZxdHkwa1hRMElYWjhDM3VRX2stZkxRd3RQU282QXNVcHJfVUkwN2M1X0JkZjlNSDM0NWRweHhpWDJfSnF5UFVjNTNpM0RvNTlWcjVDRmp3dDZXQjVPbmszMWdJNlljSDB6dkJpV2ppT3RkYnlYVzgzcFBxZU1wX3RYSF9ZR3pGRUtkdVVmSDlRVnhHOE9DNnhfbnNadVFqTWtiX0xXYTBoSzByV2dyYUw5WEQ?oc=5",
       "source": "El Desmarque",
@@ -888,6 +928,16 @@
       "source": "Mundo Deportivo",
       "published": "2026-10-14T05:00:00+00:00",
       "team": "Fenerbahçe",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Atlético 2-0 Man United: Estadísticas de la UCL, Puntuación Sofascore - Sofascore",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnM3dlRacGtkeklkY3JxWWZjU1VoelFDWFFUWm5SeWJ4NVRVY1BPa3plaUhad1lxbG9vQmIyazNjSnZQUnJiX0Z5bUpfazBIbm9FZ1U0eGZDNzRHa1U4R0RZYWZwNHp4dXdPWXB4LWY5NDFEU0JUek1yZTBVWTNuRG52ZTQ4QXZrQVNoNkExUmIwZllaM3E0M1drSUxzTVJyQXVv?oc=5",
+      "source": "Sofascore",
+      "published": "2026-10-13T21:33:27+00:00",
+      "team": "Man United",
       "league": "Champions League",
       "category": "general",
       "status": "unverified"
@@ -1023,16 +1073,6 @@
       "status": "unverified"
     },
     {
-      "title": "Cómo ver Sabah FK vs Slavia Praga: previa del partido, canales, streaming en directo y más - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUE5fNVd0VlFjMUNhekM0RzhMSnpuVkZhd2MwMEtiTERvbWtaUVRzRFZHZEU1RW5YWGNLN2NUd0x6WlljTTRueW84Z19FSUZiM25mRl84TEVsNHI2Sk8xRmxrNkwxN0JDb1pvYzVzbEN5dEQ0aGRwVVNhU3Y0blFRalV2V2ZHLVY5Qkhia0IwUmdQM1FDS3JTLWl3?oc=5",
-      "source": "Goal.com",
-      "published": "2026-10-13T16:50:07+00:00",
-      "team": "Sabah FK",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Gulácsi, portero del Villarreal, es baja ante el Nápoles tras ser víctima de un robo a mano armada junto a su familia - El Mundo",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS1hoMTFFTDV1Q2xjWUFLUkVldFFQVjByeGZ5bEExZjZPelY0TXN2NEFLeU9raW4yMVFPb284OFkyeldpSG5TT1UwM1lrZzliLWpyWlkzRlhVZ1FJcTFUc3ptQnlTc19jV2ozbDN4cmd6YWtFTHZteW53TGVqQWZadkxwME4zQdIBhgFBVV95cUxNNXZsbDhtOUdmSkhCTjByVGFnMFM1ZllfNzgydGlnd3dvejBTcWktdVdVdlR1U28tdkI4VTBTYUZGUlRIRG9WRTBhTTQxa2ZhOVlaYUZlSktsd1JPUlhaU09LM0FfOGN0cmVqNkxGUGNXcjFjMEJIUG9yYndpeGxqQkh4cEVpUQ?oc=5",
       "source": "El Mundo",
@@ -1057,7 +1097,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGJSYm93eE5hOTdqRktnNUdxSmpkQkFXVlF2R2dOVzNsZV9nZ1diblMwVFhXc3Q5RmZka2tCNjZTeFdZWWhZd1ZPQTVaQWxLRFdBT0R5VFpsWmQyVlExb3pqYlRJTktKX0cyOWdCVWxZY0I0STY5V0IxLTdvVjlkZ0JGUE5wMGlmN1FsU2RCT0JSU1ppTXNOb0FVRmxraVVUNXpaN1pZUXg1MmvSAbgBQVVfeXFMTzhhWFpCWF8xU1MtdjU0N2lDQ2RLRU9ZbDAtcHg1MElyWTM1WnhBbmtaWWY5cXNEWUNXOWVYcHRoMmJDNWRIYU5qSzExRTZnZVluRDZ4WGFRd2Y0ZWxRaGVKR0FOSldfRU1nWFhyMGJlMFFBbjA1UDBMNk5mR2x6XzBiR1VSU3FlTXN4V3V5RFhWZTJ0ajJIS3FpbWVzaTZPV05aaGJwTVJ2aHhrUzVmM2drb1Bfb2JaVg?oc=5",
       "source": "Mundo Deportivo",
       "published": "2026-10-13T14:54:54+00:00",
-      "team": "Barça",
+      "team": "Galatasaray",
       "league": "Champions League",
       "category": "general",
       "status": "unverified"
@@ -1070,26 +1110,6 @@
       "team": "Lille",
       "league": "Champions League",
       "category": "alineacion",
-      "status": "unverified"
-    },
-    {
-      "title": "Atlético, alineación probable contra el Manchester United y dónde ver en TV - Jornada Perfecta",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY2dIQkFHMlE4T1BmempaRUpMX1JoQVJ1OWMtX2xSZTVTcnFxUjhrd0M0WWxVMW5oc280bUxUenhsQ1Nyd0l1NlNqalRQZV9PVl9DQnB4TVlFV3RwSElyMFR3TWFhUngxelVoTVpYeFFkSmJBT3M2ejlnY2lZaDJ2Q09PMlRXbVJwN3VIN0swUQ?oc=5",
-      "source": "Jornada Perfecta",
-      "published": "2026-10-13T09:36:49+00:00",
-      "team": "Atleti",
-      "league": "Champions League",
-      "category": "alineacion",
-      "status": "unverified"
-    },
-    {
-      "title": "Cómo ver Arsenal vs Lille en vivo: canales, streaming y horarios de la Champions League para España, México, Latinoamérica y USA - DAZN",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWXA2Y2JCLVkxVk9mU01ZZVViQnFQVlB5NWJTQXRrWXhfNzZHMW9hNnlndEN2SkgxSWtBN2JqeUVYcy12Y2JrOUl1NWczbFM3Ym1HZUJ4cEd4SEhEQzBWN1JfcV9OUWd2WmlWc2E3MHpTQ0ZlQWlWMlZSYm1VY0E3RXRUeVdSOE50M0R2S3AtR1BpcmpYT0J5ZlhNSUR1eWowUnR2VDNwUm84V0M3RFZkRVNWTjh4Rkx5ZzFHOE5nRHRMTlJ5VFI0azZFdENWb1FSVFpVSmpqX0hJVkJBR2wyXzVmZ0tRZl9RLU5VQWFQc1A1V01tNGItRUIzTE14eDZOdDBxTF94OA?oc=5",
-      "source": "DAZN",
-      "published": "2026-10-13T08:11:05+00:00",
-      "team": "Lille",
-      "league": "Champions League",
-      "category": "general",
       "status": "unverified"
     }
   ],
