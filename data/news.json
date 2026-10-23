@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-10-23T08:08:10.487809+00:00",
+  "updatedAt": "2026-10-23T14:10:31.580695+00:00",
   "source": "Google News RSS headlines",
   "items": [
+    {
+      "title": "Comunicado del Rayo Vallecano que baja el riesgo de alineación en fantasy - Jornada Perfecta",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFQ4NEpPNHVUQTFtQ1J3d2hPMDNDSmIzV1FDUkZMMzBYZk9RYkxZTEZlRlVGLVluYkE0bkdRd0tka1EyWHBNUTVNcmZ2RkdMUHM3bkliVTh2MkhhdXNhb2w4TUNMNkFQZGdoOWlsSFR6TldnTE9NOGQ4SDM2T0NvVmx5ZmQ?oc=5",
+      "source": "Jornada Perfecta",
+      "published": "2026-10-23T11:05:06+00:00",
+      "team": "Rayo Vallecano",
+      "league": "LaLiga",
+      "category": "alineacion",
+      "status": "unverified"
+    },
+    {
+      "title": "Lista de convocados para el Alavés-Málaga CF: ¡Pablo Martínez es baja! - Málaga Hoy",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjI1TTJnYWV2Qm5nODZHbkMwQkw1bUhLMnBFNFFMa0NvbnprQzY3eG5ySFNNcXlWb1RCUGZaNkNrSWVZdWUxenVmTF9BRVZKOGZBZGpDdHJxeGhmRDFVNXBqZ2hJclZ1ZUgwa2RMRmpSTDVadXo4cFpaNEdkWlUzTjFEMnZpSmhjaE93VVFGaw?oc=5",
+      "source": "Málaga Hoy",
+      "published": "2026-10-23T08:25:37+00:00",
+      "team": "Málaga",
+      "league": "LaLiga",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Torino FC - AC Monza, 23/10/2026 - Serie A - Informe del partido - Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WOFJHS2tRajZPNWVaX3pmdXZ4eXVMTkIwYmp0RWVkUzBDdzZqbzg5ZUZ2NlNaNWJ2QnVNNm85OWdPNkJXaFJNaWJwODdnNTItbVBNaUVfS2Z6WG85QjZHTmwyVl9QTXhIaUY3QWw2bmlSaV9DXzFz?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-23T07:13:30+00:00",
+      "team": "Monza",
+      "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
     {
       "title": "Pronósticos Bolton vs. Middlesbrough: predicciones y apuestas deportivas - Gainblers",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUNGb1ZjQzd0QjctQWF1NXZoTDc0VkY0d1NHUENFQzltYmtTZTc0bThVXzBmcDl6a2YyRFNDWmRrb2t6Q3k4Q0gxYVgzRDJHaHI5UVhpYTNtUVlrZWRoRTJITUhOekZPdWZnc01Ma2x6MkdKS3ZxQm5PY19NNTNRWGJ1SFJpS2d0WjdUTmpTNHBjTEYzbW1pMFRMV1h4cFotdFdfZWVKaFpSYzlzSUU4dg?oc=5",
@@ -19,16 +49,6 @@
       "published": "2026-10-22T23:44:24+00:00",
       "team": "Alavés",
       "league": "LaLiga",
-      "category": "alineacion",
-      "status": "unverified"
-    },
-    {
-      "title": "Ipswich Town - Nottingham Convocatoria & Alineación: Premier League Fútbol - Eurosport",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGpFN3N3cUlYejJmdVhINjduRGhzaURRbHpRQS1LUW5pUHNKVHJmbnBzUzY5ZWlpRmJDcGZLNWptNk85NHhvcGV2VDAwZlNxeE1IZG5URW9pZm5QQVE0YTVPNDQ4UEpCbU5iR1Jpa3B1NFFIeG5MMmxBRlcwRzR0QXc1V0hQUVZEYmhvNTBvaEhDQXVodjMzYlhQTDNUNmFEZ01NLTRvTzU1QXdYczhjVDRZN2UyQQ?oc=5",
-      "source": "Eurosport",
-      "published": "2026-10-22T20:02:49+00:00",
-      "team": "Ipswich Town",
-      "league": "Premier",
       "category": "alineacion",
       "status": "unverified"
     },
@@ -59,6 +79,36 @@
       "published": "2026-10-22T16:16:59+00:00",
       "team": "Bolton",
       "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones de Como contra Sassuolo - rcdm.es",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsSXU2RGotVUpHeXVldnV6NjI2dkItNk9vQnlTYm5OMDlJRFFndEE0NE1qcHdoU0ZzWW9sTFJvV29ZY3ZmLVVkS0p3a01QMmdsSjlxZ19VelE5eElFeHY1RTJ3aw?oc=5",
+      "source": "rcdm.es",
+      "published": "2026-10-22T13:09:43+00:00",
+      "team": "Sassuolo",
+      "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones de Cagliari contra Bologna - rcdm.es",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05SkV1Y1FtS25WNThiOHNITkFKdVhqbmFqWGpheHhaaWRnNEdBSGR4M2ozQWdTbGR5RGo1WnZPa05LUGtjMkpiaEh0MmhYR2xtbi1yWEV0QnUtVE93a2k0SmU3TVY3LWs?oc=5",
+      "source": "rcdm.es",
+      "published": "2026-10-22T13:07:26+00:00",
+      "team": "Cagliari",
+      "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Como 1907 vs. Sassuolo en vivo: cómo llegan al partido - TyC Sports",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVM1U2RqTGhLaHFhd0k4al9uXzN0blducGN5SVdDSnJpUEc4UXhwS3k5RS1GbzNXSTIyaENsNHA4Q1VtZFZKX0pmd3dOcGV4SDNkRlBPYWF3bTloajhCRFhnMXVJVkdFckpKeS13T3VDdDdISWRfV20zOUdiV3lBaFI1Q1JjQ1ZzdVktNFFDMVhKdmZnd3FkMm1WZ1MwTjM5S2ZuSQ?oc=5",
+      "source": "TyC Sports",
+      "published": "2026-10-22T13:00:17+00:00",
+      "team": "Sassuolo",
+      "league": "Serie A",
       "category": "general",
       "status": "unverified"
     },
@@ -123,16 +173,6 @@
       "status": "unverified"
     },
     {
-      "title": "El Elche pierde a Marc Aguado por una lesión de tobillo - Mundo Deportivo",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzJBU0NvWDVGem1uT0J1cWEzX1MtejJaNlZ4STFnWVp5U1pzRWNPbTk1VTZDaVVmeWNTb09scU5xMVU1V1hhSndSbmhacVg2RUZ2X3lnVUpjcUhaYXZ4TGVobEF1RDVseW04UFNZdzRRM1NGVTdRRnhtMnNLYmJNNEJ2ZkdaMmE5UWU4ZVRsVHRoenlXSzlNSU10Y3RGa2kxQTB4Uk5mcmZjZV9SamI1c9IBvgFBVV95cUxNejVKcVVKSDFiVHFpdUpOclNxWlZiYlZTazFsZGxkVlB0MzdfVHg3aWlubnBCSFBoLXlXSXRrWFZSalNXS19BWUVmR3p0SnNnXzU2Z1FjOE9fRjgxSUJwWVB2STRrTXpESmZIVy1YaHRWLXlaQUF6OEdmdFd5OU90aXRDSzJkX1FKMDBDV3lSZ3FvQk5wYnJkNTNNa0J6ZWo2c2FtYWZkdWdfeldwQVJEY3d2WUtsLXpxTnVBbU5B?oc=5",
-      "source": "Mundo Deportivo",
-      "published": "2026-10-21T14:09:31+00:00",
-      "team": "Elche",
-      "league": "LaLiga",
-      "category": "lesion",
-      "status": "unverified"
-    },
-    {
       "title": "Joaquín Muñoz sufre una lesión en el sóleo y es baja segura para visitar al Alavés - 101TV",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObGRVQkJhMmtwU3FYZmYtZzRMdGZBa2F0Wmhrb294cFh2TEIxcjFTcUVhbnZhXzdxald4cHlaMWlJSVI1TEZheElCSmxTWXpYZE5kT0hVLTRXMUI2c1Foa1hDSlBsWENsT2hEZlozaEFGU2JoclkxdHo1WjdEQldqNXhQNDhxbjJveUxXcmF3eVVJbzdlRV95RE9zMUNaRkZoa0ZNbEw1OFg?oc=5",
       "source": "101TV",
@@ -173,16 +213,6 @@
       "status": "unverified"
     },
     {
-      "title": "Marc Aguado, varias semanas en el dique seco por una lesión de tobillo - MARCA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDZvbW40Y1ZXTmRiRmNja2dOY3JPSFZwUGs5dUZiYXVIM3dFWjVWLXIzVFZjLU1STEhHQ1hVRnZadmd6UTUyVExITWN1UjVrdzlZUWFGYV9xVkxEdGNjck5RY0d4aWhKQXU1T2poZ2E0NlJwcUtvMjVsdEM2Rjd5TXZGZWZIU2ItVEJoZHZTZkpNWGNKdmtIVGs1MTg?oc=5",
-      "source": "MARCA",
-      "published": "2026-10-21T11:21:28+00:00",
-      "team": "Elche",
-      "league": "LaLiga",
-      "category": "lesion",
-      "status": "unverified"
-    },
-    {
       "title": "Elche: Marc Aguado apunta a estar entre seis y ocho semanas de baja por una lesión de tobillo - Onda Cero",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdzJuM2NiVHZUTmZtSDM1YlpnWk16WldMd1pOVVExMDkwWUF2QzJjSGctOFFpdVUzTFhPS3g3WUVSUUtrZ3h4TkkxYkRmSVlVUVJVXzhWRmxTVFpaS1pZOTRiOUZjcVVNeE9rRGhyajh4Q3RBVVBjcUk0ZHJraFZvQ3lJNFVmNVNEQld1T0NZX0NPMkI1SHFIY3h1WUt2QlUyOUVSRERYaWx1YUE0WGQ1YXdzSkExZU9GNzFZRkxDdlRyMFNJbUZQSGQ5NnlPZVdIb1VMSEgyU3k4cXR4ZFNBR21zR1VtS1FjNUV6ZzRvc0d5d2hoZU1MTkxvREFoQl9oNVFMZ3Z30gGGAkFVX3lxTE5kRUQ5YUgycjdsd2xwNHYzTGk4S3YyTk5WWmYwR25POHNUZUZ4UHVBWkRSamt6MG1nZVVmd1VlNTl4SkN0ZWYzQ3ZrUVBWd1Flc2Z6enN5MnFwOWotbWlyTkRJaWtldXlFbzAyUFFNWUlzcVRPMDNCSWhPbUttTHdpU2dvd2FQTjdJNVVTdXMxd2VOYUp6S3hKQWNyeUJtVmU1WVhSZ0tEVDRjc1kxWTVNWl9nLTJpOVhzbWdHdDI2VmNGX1VfZmxUMUJxenpOaXFNeklMdHdqdW1Od3FDdHdaRS1rMXZNTnk2WGpubU9sZm92VFNKNGtHWnE3U3ZPRHVzUEVxUHc?oc=5",
       "source": "Onda Cero",
@@ -190,26 +220,6 @@
       "team": "Elche",
       "league": "LaLiga",
       "category": "lesion",
-      "status": "unverified"
-    },
-    {
-      "title": "El Betis recurrirá a Apelación tras conocer la sanción de Facundo Bernal - El Desmarque",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGljMkVqNFE3Y29sRVdSYjZNR01ZWGxGT05sT2txRUpYQTF5eVZQUF9WR043TEwyam9YamFJVGg3RUJnRFJhTVdEc3RjejR6Rms5OTBNdzlpakFDb1c0WU0tcFZyN0o3Qjloc2JIU0RFaTlfbzMzVVJQNUlzc212WGxwdjJVZEVpRmVYR1Vad29jRVBLcldGc3VGUVhSQjRXcEVFWXpmUC02V3pLLXR1MVFlaHllclpDV0xN?oc=5",
-      "source": "El Desmarque",
-      "published": "2026-10-21T11:01:21+00:00",
-      "team": "Torino",
-      "league": "Serie A",
-      "category": "sancion",
-      "status": "unverified"
-    },
-    {
-      "title": "Alineaciones probables y previa fantasy del Rayo Vallecano – Elche (J10) - Jornada Perfecta",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRXg2Q2hSbE9fMnREQnZCeFB2UHJheXJ2LXhYbFV0OEMxb2gwNFJlUTNWbzBUTGtwLXkxZ3Z6cnIxNlNXSEdHaFBycXNkMWZ3ZmstM1pPdGlBRmNxa0YzeTRRbnlsVHZlNW43VklpaXg3RjI2d0lMWDd6cy1vQ3hhNHl4UzJqM3pY?oc=5",
-      "source": "Jornada Perfecta",
-      "published": "2026-10-21T08:05:09+00:00",
-      "team": "Rayo Vallecano",
-      "league": "LaLiga",
-      "category": "general",
       "status": "unverified"
     },
     {
@@ -333,6 +343,26 @@
       "status": "unverified"
     },
     {
+      "title": "Dónde Ver: Bolton Wanderers vs Middlesbrough en vivo (23/10) - APWin",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2RwRFpxdTY3LXZRNnRwVUxJSVpSbVlPa2ZBbmN0anFnQWkzX3hiYTlnVGc2RWd1bGVQOHhmTE9iVmRiMkhMVnRaaVZpSHo2YWVZeU10RTZzcjNGSDFNQ1NlLUhUMnJ0ZUFUakRRVmpwZkFtTUszQ0ptN0FnV2F1NXRFYmhFbUItS0FzOGtPcGVoVTg3ZFE3VEgxWm5vZTdLRF9JdEtIbmU0cWFWLTBycEFLNA?oc=5",
+      "source": "APWin",
+      "published": "2026-10-20T07:00:00+00:00",
+      "team": "Middlesbrough",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Halford, O'Hara y The Doog: el once que jugó en Wolves y Portsmouth - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVDBnb2tBZEg5elo0bWlIdUlKUXFNVEpRZmF6ODFuaEV2dWhEaWpjWTFSN3VSRlBjTG9TRDFMVnVHTnJQTmJEanc4cmIyakJaZWI0RWZ6UWI2eHlmMkkwZXRJdjNQVzh1cGZET3BlWlN3eUt1eWF2N1dQTzFDTmN6UEotZ1pONkp3ZG5paWlZRnczdHhYTVppY2F5b0ZtdDJybTV4MVAzQ2ZPZkpQdHc?oc=5",
+      "source": "OneFootball",
+      "published": "2026-10-20T02:10:20+00:00",
+      "team": "Portsmouth",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Wolverhampton - Portsmouth Convocatoria & Alineación: Championship Fútbol - Eurosport",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVpxS2VxZXN0Mm5ISXR4WDhfNF9mc09HVElGcDlVY3NhdU9NUnZ4RmdTMFVIRkZZWU5qMVpOdEp3X051bkwxNHZ3aVp3S0R4SXRyRnpPVk1NdzRGSzdmY2c4RUNmZ2lxVXQ1OEJQQzhJWWR1a1ZDam9xaUlpeWVLaUtjZ0psWE1NcDQwMGNBUGhMLTdGbk5tUmtVZ1lnSk5ZYUtJQXNCMW1lcFVqbThWdkVwUFI?oc=5",
       "source": "Eurosport",
@@ -363,6 +393,16 @@
       "status": "unverified"
     },
     {
+      "title": "Sanción y multa para Cristiano Ronaldo por su desplante con Portugal - El Desmarque",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWHNuQmd6UlJ0VmJmWG1EeU1hTnpLeFFCeDY0QUt3VjNYVmYxaTlwVFdUNm1RX1hOWmFXYXI1R1FGM0t0aGcyS1JJWDdfalpaWHZ3aW5BbDJMTDh0M1Rvb0lxWF9PTVBuSmZUdmRKTWg2VTlIVXNUZlFOQjdIaS1EVkVTZndSMTlmRzhlc2NFSmxpdnc4dVpMUTJ6THRucnhBWmoyakM0YUpVMTM1U18yVVVPSWx6dHlRNURkNXJpbjAzak90?oc=5",
+      "source": "El Desmarque",
+      "published": "2026-10-19T18:25:45+00:00",
+      "team": "Torino",
+      "league": "Serie A",
+      "category": "sancion",
+      "status": "unverified"
+    },
+    {
       "title": "Alineaciones confirmadas de Getafe CF y Rayo Vallecano hoy, jornada 9 de LaLiga - El Desmarque",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdVJ6UmZVRjR6Q1ZvUGktZHZmYndSc2NRLTN6S2ljellQQkJXM2hISk9YVzdEcno2WDJMN19hYkc0ZEd0c3dQVEplMk1ucWxyZ1hqdUJiLURnVFByQ1FhaS11OUpIbDVnOVJQa0NBZVIyT3h6a1V0ZjJiNS1mOTdvV21YRXFac2gzYkRkSnpidVg4YzlqaHB6VnQwa3VEZmtGZHN6T01GUXhZNVhfWjJJU3dJaUtUSW5EQ3Z6bWZwT1lieFVnSUUzX3NFSmI1MVZ0alp6RDFlWVd6Zw?oc=5",
       "source": "El Desmarque",
@@ -370,16 +410,6 @@
       "team": "Rayo Vallecano",
       "league": "LaLiga",
       "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Desvelada la posible sanción al Manchester City, dos años sin Premier League - El Desmarque",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQemYxTXpZaHVuQW5UZnBPSU82U0xVVjdGTWxiZk9QNzhyZlZ6cW50WW5LbDkxdk1PQkREUjl6UTNySURNUEk2Q2p0MjNIRmpETDVpc0ltSzdoUGlEdzQ2RFl2MGtaU19Ib25NQVlkdFJseUFqTkFrMlR3d21KdWRqa0p1a1FtOXVhT09JM0NmbnVDMnJFSTVVcFhJOERjV2RXWlR3c3VLbkFPa3d2eEdfYURtV0w2bkF5TWNCSzdlemVTYUtF?oc=5",
-      "source": "El Desmarque",
-      "published": "2026-10-19T17:37:43+00:00",
-      "team": "Monza",
-      "league": "Serie A",
-      "category": "sancion",
       "status": "unverified"
     },
     {
@@ -397,7 +427,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzk3a3hUUVRfSHVyd1g2TkdrcHN5NW1CRHQxQ2o1UmM3Vng4MXdYT2F2QkVxcVNjdXRBanFJRXdubGp2Zmk2RWlrMDFOVUhnT29CQkJESUtsWEVOMUstVUJNOVN5c3VQa2N5T1pXaFFRZlR2bXRidWZYcTFEWHd5ejVyVGJlbDNKR0l0LWJoTjBHTU9iRjd4bkNRYlh6bzRqT25helpnZFppTlBoc0HSAa4BQVVfeXFMT1c5N2t4VFFUX0h1cndYNk5Ha3BzeTVtQkR0MUNqNVJjN1Z4ODF3WE9hdkJFcXFTY3V0QWpxSUV3bmxqdmZpNkVpazAxTlVIZ09vQkJCRElLbFhFTjFLLVVCTTlTeXN1UGtjeU9aV2hRUWZUdm10YnVmWHExRFh3eXo1clRiZWwzSkdJdC1iaE4wR01PYkY3eG5DUWJYem80ak9uYXpaZ2RaaU5QaHNB?oc=5",
       "source": "Mundo Deportivo",
       "published": "2026-10-19T15:30:00+00:00",
-      "team": "Monza",
+      "team": "Cagliari",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -423,32 +453,22 @@
       "status": "unverified"
     },
     {
-      "title": "Pronóstico Monza vs Cagliari: Un punto clave en la carrera principal. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONFg3bVF6RUc1SDlrMGpmRjJfdGR0ekg2VHI3bGF2RldHS3l1U2ZwRkN1Zks5S1NkS2FGckRjV1c2S1BCcVNhbkVmS1k3czNlc19TMDRQWF9IWjcwVGprU0Z4bm4tc3hqNWlPZzduMXM2NFl6TFdIZEN2a3VkdHRPdDgyekRTWlU?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-10-19T12:26:28+00:00",
-      "team": "Cagliari",
-      "league": "Serie A",
-      "category": "general",
+      "title": "Duro revés para el Manchester City: Antoine Semenyo estará dos meses de baja por una lesión de rodilla - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVEhBWXdUeXVjSll3cWtqWDZBSnU2Z2xEeUk5NjFJTFowejUxVHNTb2FlOU16WEVCV0lmcHhzR1B4bW1KNDVKN1V6UGFTZmNXMlVGbDE4Y1U1UFAzaE9xNm5KclN4NFUyQTcyZm9qalNvOVBEVnVTS3YyUnpYTXVmMURYZ3FYd3MyN1oyOXFJRGNMRFBLcjZ0YW9FMmxtSENwWDBLVXlfMXZOaGlNUERqc1lmQm9LcVNoWk5qY0hpR0NRSWk4d1FWb3BZYXZpMTBCbENNUnVwMmR3OEZ0aUlRNHc2NU5Hdzc3SUE?oc=5",
+      "source": "Goal.com",
+      "published": "2026-10-19T12:15:46+00:00",
+      "team": "Ipswich Town",
+      "league": "Premier",
+      "category": "lesion",
       "status": "unverified"
     },
     {
-      "title": "Parma 0-3 Torino: resultado, resumen y goles - AS Colombia",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc05QUGI0OWcxMXJVVUFnQ21OVG4xV211Z3dIVm9wSGlOcWJ4aVZTazFEQkcwdGJMSEpxcTRFZXI0RkU4bk5zRC1RS2k2djZlUzI0a1RrNmh0b2U5SHRjdlhCNkd1UGpldkdXQ3VlcVQyN2V6T2Rpcjl6WEVyUmN1QjJKX2hfTlNZRFNGVTAtbDRHV3R3clU3QUp1Yw?oc=5",
-      "source": "AS Colombia",
-      "published": "2026-10-19T05:45:23+00:00",
-      "team": "Torino",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Zapata, muy afectado, duró 14 minutos ante el Cagliari al recaer de su lesión - BeSoccer",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOXVDcU00NlBwcEo4d2lQaG5PU2lieWhhcExXWEdCQlF4ZVR3WFdYLTliVU9nbHNWZ0RwQURWdF84MWNjT1V1R0FqWUZ0bWpyWWxoNlVIWHNhZGFfV29teFRVUzltcDVkVFZ0MFdYRTFtOHJ5TWF0aVoyTy1xMTFqWmk5TUltYnp5eFdNYlBoY1hjaUFqeWliem5GNXVvNjNxeWZYTm5pWHExLWgzZDdJSkJ0THZISVJQRnpj0gG7AUFVX3lxTFA5dUNxTTQ2UHBwSjh3aVBobk9TaWJ5aGFwTFdYR0JCUXhlVHdYV1gtOWJVT2dsc1ZnRHBBRFZ0XzgxY2NPVXVHQWpZRnRtanJZbGg2VUhYc2FkYV9Xb214VFVTOW1wNWRUVnQwV1hFMW04cnlNYXRpWjJPLXExMWpaaTlNSW1ienl4V01iUGhjWGNpQWp5aWJ6bkY1dW82M3F5ZlhObmlYcTEtaDNkN0lKQnRMdkhJUlBGemM?oc=5",
-      "source": "BeSoccer",
-      "published": "2026-10-19T01:56:26+00:00",
-      "team": "Cagliari",
-      "league": "Serie A",
+      "title": "La lesión de Aguado abre otro puzle para Anselmi - todoalicante.es",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEd0LU10VWR5VEdLalpRZWRYWnRNc1V0cFNRcVlkazhrVGhPb3NSYndIVEpHNFZxVlhZUU5nVDBzWDZxVGxSZkNUUGJjajRObWZBcDJkMFZNQVZJeWpZQUZNdWsyMmQzTDJSTFRsT3haay1oMFBQRl91LTVUODVqdGRocnFQUXYxX3pHejBxUXlhdmJUZHBV0gGcAUFVX3lxTFBleEtOSU1VN1ZfcFZMWUJKcHh0dXF5UGdfaTBrRWYySzNuVF8zUUdSaVU4R0NxWF85ZVZXWHdzUFRsdWVIdjNMSGM4eVdQRG94SFFMaUNhNzlfVmRHNmNrMGdFa0FoNExHSVdjQzVkLTB1bHdPeHNMR1BkNjk4NktxVEh5SlNJVWJCdG12YzRkdlF2Y19zdlRVQVQ1QQ?oc=5",
+      "source": "todoalicante.es",
+      "published": "2026-10-19T09:07:55+00:00",
+      "team": "Elche",
+      "league": "LaLiga",
       "category": "lesion",
       "status": "unverified"
     },
@@ -458,16 +478,6 @@
       "source": "EL PAÍS",
       "published": "2026-10-18T23:37:25+00:00",
       "team": "Como 1907",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Los locales se recuperaron luego del traspié frente al Sassuolo - FDP Radio",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdHBNUWhrd1Q1QUpvSnVCU2kxODNUMVZMLURaMnhjQ0xjSjJ1ZnBrVUpfc3lsRlJOd2xoSkt1NUpuZ1NCUWZUWDVpSlhPNkhTUW9xaEg1SUZMUDd2Z2ZaTFg3UVVYcnhRckgzWi13VDFGNzdmS1BRd1ZLNkJ0TG9CZzRjdVl3UWhVVERwbXNn?oc=5",
-      "source": "FDP Radio",
-      "published": "2026-10-18T21:16:18+00:00",
-      "team": "Sassuolo",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -513,11 +523,31 @@
       "status": "unverified"
     },
     {
-      "title": "Alineaciones confirmadas de Málaga y Real Sociedad en la jornada 9 de LALIGA EA Sports - El Desmarque",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVkFacDNsTElZTmNhd3FVM1U5V0VuQmNMam42SUpranNORUxLVFpvS3MwM2ZCTnNRaVd2dTBORjN4d0djZExOVEFKenp4dktQY25FMlU3N2VRRXN0Tk0tdl83RWpOQUMxMTZxRFpoM052N2ZKRldWUlVTTFlVTkVJVHJBaFBfT2Z1enFwUGx6RkZTalZmRVg0N0JuV01UZV9ETkwtc0t3VGgtWElDTkhmTlVkMTNLX2dHdFhsMnVlSUIzMUpqaXRqTEl2TkkyeGhHaGc?oc=5",
-      "source": "El Desmarque",
-      "published": "2026-10-18T15:20:33+00:00",
-      "team": "Málaga",
+      "title": "Sin el Dibu, quiénes son los candidatos al arco de la Selección Argentina para la última fecha FIFA - Diario Río Negro",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM2ZkTXlSTTg0QktLb0dxd25zeDlfb2lWWXJyV2FDNjJhejlCUVdXUTRpX1dMeWRGLWdHWXk1R3BhMU5yMmhWamtMLUE5NTF3TFFNa1dKa2x0M0l5c0E0UHFEX0RFR1ljTVpaeGVFOHhaRDk4N3hkazdfZm95N2o2NTlPUjFMNXY0ZURCaldrQ2d2T1ZGYW96eUZ3Q2VWM09fSkZmN2RBSFd6bGRoS3J2ZWtVaU05bHpkNVBkbGIyOFBWNTJsZDRvNFJtYU1oX1FheW1NZHFuZF9fRWNG0gHkAUFVX3lxTFBDcnF1RUhFN1p4bDl3c0pZd1d1eTdqRWNWMlRjUmQ4aWxEaDdLcmNrX2lza2J6NGJPVWtrcFJicm8zTDRmcUpOa2huV1ZYbG1vQkczOElvaTFZdXFaNDZqMklvZkZBMGhUY1JuWUFTYm9vQjV4LTlfSUZacktOZXBNT2IzMVpyZnRNUDQyaFBjeU1kUmlrNzdZcTYzZEdENjEtbzBqckpNWElfclVlaFpMV2kxUWRDLUlzZC1zQ2RLamJqVW1GUVVzS213NXpWc3pQckh0bzJyR0hSYmt2Q1cySnEwdA?oc=5",
+      "source": "Diario Río Negro",
+      "published": "2026-10-18T15:00:07+00:00",
+      "team": "Norwich",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Dibu Martínez será baja en la Selección Argentina: los cuatro arqueros que podrían reemplazarlo en noviembre - Diario Neuquino",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeVhWeVU3TTZ0ZHZxSnd5bmxEQmp4M1djamJXNUNLYzRvbjNVLXVRSVZmajdZXzlEODJIbVd6R09LQnFrZmExaGVNdnhPNkg1TC04b1Qyd25yNU91eXZjbDZidVVnWXRscXdMeFl2RUNaUTNWSFRqM2ZsZm5vWGFaYnpMVzQtYXVSaW1zQnJ1QWM4TzVUUE51NHBaR2otRTFJNVBuZjU3V2J1Zk5KVmhPOUlPelRJdmlPTlEtbDVXb1dXQWd6azEydUE0eGtUMWFZSE1MUA?oc=5",
+      "source": "Diario Neuquino",
+      "published": "2026-10-18T14:56:26+00:00",
+      "team": "Norwich",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "El Elche CF pierde a Marc Aguado hasta la próxima 'ventana FIFA' - Alicante Plaza",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVRHaXlGRE8xdDZQeVpMcnhoOFVUdEo5SjJWMTB2YWRZUVdCRzc3dTdJalJPenUwSXZSLTNYRU1DZElEWWlFdWFsWnN0am81Z0JyeHFJVU1WM1Bhb25jamdxRnVzbV8tS3BSbzg2ZlNQYXBub3YtZWxBaHdVTU9ZYjVPblpxQ1NVbUVaMlZJamREVjBZeTJ3YzhoQ3VUTHc2SjZBTnVObThoSU5SYkdraWhRN0pOd2dLN3c?oc=5",
+      "source": "Alicante Plaza",
+      "published": "2026-10-18T13:45:00+00:00",
+      "team": "Elche",
       "league": "LaLiga",
       "category": "general",
       "status": "unverified"
@@ -539,16 +569,6 @@
       "published": "2026-10-18T13:04:04+00:00",
       "team": "Alavés",
       "league": "LaLiga",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Los arqueros que piden pista en la Selección Argentina - InfoYa",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcmQwaHNNNDZfOUdkdHNuTXRvelZsQVdWbDBWOHNkRkpPZVV4UkZyWWtpNW1ldWlWdmczY3FQUnA2cVE5UHFpT1dwWnc3X0MtZ1Q2c0FLVDF6clBXVGI2LVVIMzJuTzEtQlMyd3BRdmlfVVQ1TWdLejhleXg1dUk5UU9SZVJsLTc2eWJPbEw1TjY2eUd4bm40LXRB0gGaAUFVX3lxTE9yZDBoc000Nl85R2R0c25NdG96VmxBV1ZsMFY4c2RGSk9lVXhSRnJZa2k1bWV1aVZ2ZzNjcVBScDZxUTlQcWlPV3BadzdfQy1nVDZzQUtUMXpyUFdUYjYtVUgzMm5PMS1CUzJ3cFF2aV9VVDVNZ0t6OGV5eDV1STlRT1JlUmwtNzZ5Yk9sTDVONjZ5R3hubjQtdEE?oc=5",
-      "source": "InfoYa",
-      "published": "2026-10-18T11:45:59+00:00",
-      "team": "Norwich",
-      "league": "Championship",
       "category": "general",
       "status": "unverified"
     },
@@ -620,6 +640,16 @@
       "team": "Millwall",
       "league": "Championship",
       "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Hansi Flick opina sobre el cambio de Lamine Yamal y pide tiempo con la lesión de Eric García: \"Estaba claro\" - El Desmarque",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXBqWEM5dnpXSTdGVVBxOVdBdXhvNGJ2eXRONzk0YnNaVDM1Y09ldkZjNUJVMGl5SnRBUGNUZzdRVkdMMmxJZUhTZHVjSjhaMG5qbkFOTm1vSVdPV19XSTNUWEJUdGdQY0hmU0V1UmZjSmJGenQtWXZaX0xVMTNRcmhkVWF0STc3VVViSjZnLWI0M0FqaEFONzBxdmRibjdlZ1l3UXpjRlpBY3ctZlFj?oc=5",
+      "source": "El Desmarque",
+      "published": "2026-10-17T19:19:16+00:00",
+      "team": "Cagliari",
+      "league": "Serie A",
+      "category": "lesion",
       "status": "unverified"
     },
     {
@@ -713,6 +743,16 @@
       "status": "unverified"
     },
     {
+      "title": "Nottingham Forest vs Arsenal: Pronósticos de Apuestas y Alineaciones 18/10/2026 - Oddschecker",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHBXaWFMeDJDaVZYTHV1YTNxUEhvWTQ0M1ZabWRpc2xBU2FZVnpmR0lEeTZPRW9yXzdhbVhlbXlxQUxuVG1SZ00yQXpJLWFpWWhmZnVqblJaaWFXSTJXeHhZYWtDeVlLYjI4ZmRiQkJJRmhvckhHN0ttbWxtNlQzNUZmTVZWcHk4N3V4ZkVTMGpHWl9fMklFVnZIMXQ0VVo1V0JLal84alF2Q2dNVzAyVw?oc=5",
+      "source": "Oddschecker",
+      "published": "2026-10-17T15:06:00+00:00",
+      "team": "Nottingham",
+      "league": "Premier",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Parte médico lesión Dibu Martínez: qué le pasa, cómo se ha lesionado, cuánto tiempo estará de baja y qué partidos se perderá con el Chelsea - DAZN",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ2U4NzAxeFhIRXVlWm5zZmtaMkpVaW01YkhyRWI1d3BhYVJwUTVldFUteml0UzVLSFpGaHRfclNFeDk0MHl0OV9iSjRTZFJXMV9DVWEzcF9RRU9ZX2VKT3pwTmxMZ2JZZjNqNlVaUEtXd1dwd05oN2pCWl9VdmNydi1MQXZwVXBVQkhwcU5Mek8wak8tZk14TkpnVElaa2lLVWo5dmZ0ZHgyRTdKYjJvcEdZemFVR0x2N1l1aWpJWU9BRzdmRkxBdnJ5XzAyY2tfd2lCd0xVcXB6MzBkSklBam1IY1h3bTI1QW9xY2Rn?oc=5",
       "source": "DAZN",
@@ -780,16 +820,6 @@
       "team": "Telstar",
       "league": "Eredivisie",
       "category": "alineacion",
-      "status": "unverified"
-    },
-    {
-      "title": "Matarazzo confirma una baja de última hora por lesión en la Real Sociedad: \"No queremos arriesgar\" - El Desmarque",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNczhZZVU5NlNHUjhRX3pFSmIxdnlZdlZKV24zS3EwaFJCdy1LdlUtSU1vdFUyTXlpYzJmcUhHVVhXWjZYdnpKRGdNSVRDaDh6QUx2Z2VPRTY1eXpEdTR3ZTk0N2R1NEVjZGFQdGpMSnVoUVZuQ254QUZ5cEdPRDQweFNOZ191WVdsS2VKZ2czUm1MTXZVUllnamlfeFY5dGdUR01NU3ZkOER0ZnJDNmZTVmE4Q0V0Vlp0NHR4REwxb2VuSEEwR2VGeUFn?oc=5",
-      "source": "El Desmarque",
-      "published": "2026-10-17T12:27:41+00:00",
-      "team": "Cagliari",
-      "league": "Serie A",
-      "category": "lesion",
       "status": "unverified"
     },
     {
@@ -863,16 +893,6 @@
       "status": "unverified"
     },
     {
-      "title": "Alineación del partido Espanyol vs Atlético | LaLiga · 17 oct. 2026 - YSscores",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR1dfWEZxS3k2SWYtNzM0RDRZeGg0N1c1WDk3N2VCdm9NS2tfT0MwVTFfeExiX3FPV2dtbWdwYzRYbTFraDNDZklwTFZiY1NvaW5aby1WQ2hkYkdFSW10aTZmYnAydVBjVm5Fb1BzWEVRSmJVYXNFT2tpeV9FZ2E4NTlKa2h3VjZtQjhtZWRHd3N5Z25iT1NN?oc=5",
-      "source": "YSscores",
-      "published": "2026-10-17T10:55:08+00:00",
-      "team": "Middlesbrough",
-      "league": "Championship",
-      "category": "alineacion",
-      "status": "unverified"
-    },
-    {
       "title": "Alineación del partido Middlesbrough vs Cardiff City | EFL Championship · 17 oct. 2026 - YSscores",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMllxZkRkbTM4NW1yQ0doUTZSQXdOcXZMMTJNR2VUUFUtaDJDRDlUTjRFRTg4TXN1b2dRRWZ3c2dsdEltZzBVOHVJU1ZCaGFId1RmSkxfbldacjlFQjdkUGlKOXoxRmhLYW9sTnVFTEhZUEFPdHFGVVdCUF93ZlluMw?oc=5",
       "source": "YSscores",
@@ -913,9 +933,9 @@
       "status": "unverified"
     },
     {
-      "title": "Lesión de Lautaro: misión, llegar al derbi - BeSoccer",
+      "title": "Lesión de Lautaro: misión, llegar al derbi - BeSoccer | Resultados de los partidos de fútbol hoy",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkMySmlmeW9PYm80QzVxVGFpdEFfcjFINEJiMlFiZDBPM0dKVkxscExsbHZtU0JpQVVKeDFwQXFDVzF4d0xuS1p2RGV3U2F5b3NQRkhEb0E5ZFhqRTRULUpLVm4yTVM0bjFIN2ROS1dxaTVEcUc4TXpSN0dMSGhXVmZ1QW5oV0xRZ3J4dkpURdIBlAFBVV95cUxNZk9Zc1pSQmxxc2pDVFNXcnBEdWNDQnNmdkVCN3JmNmtwNGw4TmdnWC1hQUVsZW41MUlhNlFYSDh2SDhkMkxHVEtDcnRpUFMtampFdnh2NG1EbXNPLW5KZTVDaGVZOEd1c041dzdZeHpmeU1QcGFHVTJ6YVh2Q0ZLUTZOOHZsT2JrR25uSHVfMjNsOG9l?oc=5",
-      "source": "BeSoccer",
+      "source": "BeSoccer | Resultados de los partidos de fútbol hoy",
       "published": "2026-10-17T07:00:00+00:00",
       "team": "Bologna",
       "league": "Serie A",
@@ -939,6 +959,16 @@
       "published": "2026-10-16T23:00:00+00:00",
       "team": "Telstar",
       "league": "Eredivisie",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Raimondo marca triplete para Frosinone en Italia. Fráncfort corta sequía sin ganar en casa - Independent en Español",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeWU2NGZ5U0VqYmdjYU9XMGZVREE2VkR3dnN3Z3ZKTEpSTlkxNDJRVGY5MTU3RVd4MFM1ekJYWWZWLUVDWFBPajF3NDVJZnRRTDhTWi1BZzVReE95LXZidlpPV21RSERVNnNrTlNIcDl3aHZxMlZRQ1lZaG5kNS1pakkxSjA3MHNHVi1VZm1MaHFSMmx1WmNacWxSWW5IUUxzdnloeDlid0szT3U4aEhrMWJDdFNmOHJ5c2tkb09hNEloaHo3akIzLU52eVVCcW1jZlZFR1Z5cmo5TVhzNzNCag?oc=5",
+      "source": "Independent en Español",
+      "published": "2026-10-16T22:26:00+00:00",
+      "team": "Sassuolo",
+      "league": "Serie A",
       "category": "general",
       "status": "unverified"
     },
@@ -1003,11 +1033,11 @@
       "status": "unverified"
     },
     {
-      "title": "Marcin Gortat vs Fortitudo Bologna: estadísticas, registro de partidos - BasketNews.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQU9YVU1IVkZlMmd6WG90UXZpVkxmbkZSUEp2MkVYYk85Z1ZpbXNMWERYcWFxcjdSS3ZXMXdmVzUySjNTdFZZOExvaFBjMF9PajdDNGQ2MUh6R0g4MnVxeldTQm5kVlgzVEh3RThvUHNCcXItQXRfRnU4LV9MblRvNndyS2xGbXBrYldNeENYQXpIVjlXd29ocl9Ea2lzUmJoS1ozcTFB?oc=5",
-      "source": "BasketNews.com",
-      "published": "2026-10-16T18:49:45+00:00",
-      "team": "Bologna",
+      "title": "Parma 0-3 Torino: resultado, resumen y goles - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeC1ZcEF2M0FZWVhoaWt0QnEtQVJzUVFjM0lzWC1VeEJNeUN6WEFoQUZTcXpJbXEzTXl1UXlkYjZfSkVTQ21Hbk9Vc29MamN4STBNaEZld2lfRHRmLW1STkdBY0V4UkNsUGRfbGx3QzJWaTBKc2lzYWFKYk1fOWtadVpwcWVXMXBLRnA1SzNtYw?oc=5",
+      "source": "Diario AS",
+      "published": "2026-10-16T15:53:04+00:00",
+      "team": "Torino",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -1020,6 +1050,16 @@
       "team": "Rayo Vallecano",
       "league": "LaLiga",
       "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "El entrenador del Nottingham Forest, Oliver Glasner, ofrece una actualización clave sobre la lesión de Morgan Gibbs-White antes del duelo contra el Arsenal - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPcmF4eWdzVTIxSUl0ZjNWN0ppR1M2YXFPVXIzdVI1ZDZwVzBzdDNJbTFLZW1NbmwxbWlITmlsVTJkM29XcnZPZ3BrOUd5MVFmY2oxN3lxZ0k5U242cmhWWjVMb1BVVVJEQjJwOE9OdmYxT2JrTWFpdUVEekJGYnU0UXJrZzBiYmtFMk1KN2hyR2Z2Q0pxaWVjSzU1MFBvNWVzZ0tkbVJBSGEzM1BfSXhua3JiTXlRczhQWFpRcHFOQ2NVa0JMUnFybXdyeloyVUZha1d1Rk9JV0s4eE1TYmhMREk2M01iMVd0X1RuUFNvT2VhV2xCMURSY0dkbXZ4VGctX3c2X2hsU3RyVm5GNDY4cGxpTlFaeEY1eE1qOF94dFNJbVJldmIzZFRVRXNaS1E?oc=5",
+      "source": "Goal.com",
+      "published": "2026-10-16T15:31:09+00:00",
+      "team": "Nottingham",
+      "league": "Premier",
+      "category": "lesion",
       "status": "unverified"
     },
     {
@@ -1060,36 +1100,6 @@
       "team": "Millwall",
       "league": "Championship",
       "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Norwich City-Portsmouth: permanencia ante el empuje de la media tabla - OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcU1KbmFFa3o2WnlqMmpRdnpCNWp4a1JQZllrREVsY0cwUm5oUzZpNXdtQTNNUl9LUWxBc3BSaFdZVkRFa01fQzdhZm56M2x6Mnc3MHdQaHVLVTRhLTRmdnlDcW4tTmxBOHdFNC1ERlVfSTBrdy1tWXg1LXExc3RlYlRfU0szU1hyTzlObjFVYlpGNDBSazM2OExQaUFqWElRbjh0cllzdEx6T0tZNkhiaC1Dbw?oc=5",
-      "source": "OneFootball",
-      "published": "2026-10-16T14:07:24+00:00",
-      "team": "Norwich",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "El entrenador del Nottingham Forest, Oliver Glasner, ofrece una actualización clave sobre la lesión de Morgan Gibbs-White antes del duelo contra el Arsenal - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdXJvcThCdndRX1hSV2p4aUZ0RWtBVUJUcTFfdEkyTGtFLVNPRHRkdHozLTZKeHp0RnIxU2I5U3d5ZHdXTGY5TjJzZ0lxNlB3NjQwQ1NObUMzM2Z6am10ZF9uN1AwMGJCY0VLMzFUNXhSZ0ZYY0E4WjJRamRtQllUZ1BTZ0ZGTVdlY1FHODlQUEo1cEo5OEZUQWdYOENRam1hdkE?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-16T13:25:53+00:00",
-      "team": "Nottingham",
-      "league": "Premier",
-      "category": "lesion",
-      "status": "unverified"
-    },
-    {
-      "title": "Frosinone - Sassuolo Convocatoria & Alineación: Serie A Fútbol - Eurosport",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV250bzhpV242X0s2UTlpVEhCcUw3M3hrQm9tRUx4NU85MTRpMXE4M0oxX2gyN1JCdFFCQ3B1d0h1ai0zR2M4UlM5R1duYzNhS29YcVlWeDNKZFg3VzNWRGpFWFpVQ2VLZXJwdDBvNjh2SU5zcF9Qekh0Z1I5VllTcFpGa052UHBOSTByTHlEQTd0dmVHbDNtUVRWS1ltdDFfQlZEdTdR?oc=5",
-      "source": "Eurosport",
-      "published": "2026-10-16T12:53:09+00:00",
-      "team": "Sassuolo",
-      "league": "Serie A",
-      "category": "alineacion",
       "status": "unverified"
     }
   ],
