@@ -1,18 +1,18 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-10-22T19:44:03.969202+00:00",
+  "updatedAt": "2026-10-23T07:51:38.398706+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
-      "count": 20
+      "count": 21
     },
     "Premier": {
       "code": "PL",
-      "count": 20
+      "count": 21
     },
     "Championship": {
       "code": "ELC",
-      "count": 36
+      "count": 37
     },
     "Champions League": {
       "code": "CL",
@@ -20,11 +20,11 @@
     },
     "Serie A": {
       "code": "SA",
-      "count": 30
+      "count": 31
     },
     "Eredivisie": {
       "code": "DED",
-      "count": 18
+      "count": 19
     }
   },
   "matches": [
@@ -3004,6 +3004,111 @@
         "id": 10233,
         "name": "Sabah FK",
         "crest": "https://crests.football-data.org/10233.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 558845,
+      "league": "Eredivisie",
+      "utcDate": "2026-11-06T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "home": {
+        "id": 672,
+        "name": "Willem II",
+        "crest": "https://crests.football-data.org/672.png"
+      },
+      "away": {
+        "id": 684,
+        "name": "Zwolle",
+        "crest": "https://crests.football-data.org/684.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 558537,
+      "league": "Serie A",
+      "utcDate": "2026-11-06T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "home": {
+        "id": 454,
+        "name": "Venezia FC",
+        "crest": "https://crests.football-data.org/454.png"
+      },
+      "away": {
+        "id": 115,
+        "name": "Udinese",
+        "crest": "https://crests.football-data.org/115.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 564740,
+      "league": "LaLiga",
+      "utcDate": "2026-11-06T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "home": {
+        "id": 559,
+        "name": "Sevilla FC",
+        "crest": "https://crests.football-data.org/559.png"
+      },
+      "away": {
+        "id": 263,
+        "name": "Alavés",
+        "crest": "https://crests.football-data.org/263.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 560634,
+      "league": "Premier",
+      "utcDate": "2026-11-06T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 10,
+      "home": {
+        "id": 62,
+        "name": "Everton",
+        "crest": "https://crests.football-data.org/62.png"
+      },
+      "away": {
+        "id": 1076,
+        "name": "Coventry City",
+        "crest": "https://crests.football-data.org/1076.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 561932,
+      "league": "Championship",
+      "utcDate": "2026-11-06T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "home": {
+        "id": 342,
+        "name": "Derby County",
+        "crest": "https://crests.football-data.org/342.png"
+      },
+      "away": {
+        "id": 60,
+        "name": "Bolton",
+        "crest": "https://crests.football-data.org/60.png"
       },
       "score": {
         "home": null,
