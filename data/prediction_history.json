@@ -3202,7 +3202,92 @@
       },
       "capturedAt": "2026-10-21T09:17:40.123325+00:00",
       "result": null
+    },
+    "558537": {
+      "id": 558537,
+      "league": "Serie A",
+      "utcDate": "2026-11-06T19:45:00Z",
+      "homeId": 454,
+      "awayId": 115,
+      "homeName": "Venezia FC",
+      "awayName": "Udinese",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.397929,
+        "Ambos marcan · Sí": 0.6265,
+        "Más de 2,5 goles": 0.606922
+      },
+      "capturedAt": "2026-10-23T09:16:53.612923+00:00",
+      "result": null
+    },
+    "558845": {
+      "id": 558845,
+      "league": "Eredivisie",
+      "utcDate": "2026-11-06T19:00:00Z",
+      "homeId": 672,
+      "awayId": 684,
+      "homeName": "Willem II",
+      "awayName": "Zwolle",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.433554,
+        "Ambos marcan · Sí": 0.688496,
+        "Más de 2,5 goles": 0.689158
+      },
+      "capturedAt": "2026-10-23T09:16:53.612923+00:00",
+      "result": null
+    },
+    "560634": {
+      "id": 560634,
+      "league": "Premier",
+      "utcDate": "2026-11-06T20:00:00Z",
+      "homeId": 62,
+      "awayId": 1076,
+      "homeName": "Everton",
+      "awayName": "Coventry City",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.423237,
+        "Ambos marcan · Sí": 0.53755,
+        "Menos de 2,5 goles": 0.503526
+      },
+      "capturedAt": "2026-10-23T09:16:53.612923+00:00",
+      "result": null
+    },
+    "561932": {
+      "id": 561932,
+      "league": "Championship",
+      "utcDate": "2026-11-06T20:00:00Z",
+      "homeId": 342,
+      "awayId": 60,
+      "homeName": "Derby County",
+      "awayName": "Bolton",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.453801,
+        "Ambos marcan · Sí": 0.545148,
+        "Más de 2,5 goles": 0.51187
+      },
+      "capturedAt": "2026-10-23T09:16:53.612923+00:00",
+      "result": null
+    },
+    "564740": {
+      "id": 564740,
+      "league": "LaLiga",
+      "utcDate": "2026-11-06T20:00:00Z",
+      "homeId": 559,
+      "awayId": 263,
+      "homeName": "Sevilla FC",
+      "awayName": "Alavés",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.388977,
+        "Ambos marcan · Sí": 0.588963,
+        "Más de 2,5 goles": 0.558238
+      },
+      "capturedAt": "2026-10-23T09:16:53.612923+00:00",
+      "result": null
     }
   },
-  "updatedAt": "2026-10-22T21:14:44.680672+00:00"
+  "updatedAt": "2026-10-23T09:16:53.612923+00:00"
 }
