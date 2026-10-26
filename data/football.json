@@ -1,6 +1,6 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-10-26T07:59:07.011609+00:00",
+  "updatedAt": "2026-10-26T19:49:28.553435+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
@@ -5317,6 +5317,38 @@
         "awayId": 560,
         "homeGoals": 1,
         "awayGoals": 0
+      },
+      {
+        "id": 564720,
+        "date": "2026-10-25T13:00:00Z",
+        "homeId": 77,
+        "awayId": 82,
+        "homeGoals": 4,
+        "awayGoals": 0
+      },
+      {
+        "id": 564725,
+        "date": "2026-10-25T15:15:00Z",
+        "homeId": 558,
+        "awayId": 90,
+        "homeGoals": 0,
+        "awayGoals": 0
+      },
+      {
+        "id": 564726,
+        "date": "2026-10-25T17:30:00Z",
+        "homeId": 92,
+        "awayId": 88,
+        "homeGoals": 2,
+        "awayGoals": 1
+      },
+      {
+        "id": 564723,
+        "date": "2026-10-25T20:00:00Z",
+        "homeId": 81,
+        "awayId": 86,
+        "homeGoals": 1,
+        "awayGoals": 2
       }
     ],
     "Premier": [
@@ -5919,6 +5951,46 @@
         "awayId": 73,
         "homeGoals": 0,
         "awayGoals": 2
+      },
+      {
+        "id": 560612,
+        "date": "2026-10-25T14:00:00Z",
+        "homeId": 64,
+        "awayId": 397,
+        "homeGoals": 2,
+        "awayGoals": 0
+      },
+      {
+        "id": 560613,
+        "date": "2026-10-25T14:00:00Z",
+        "homeId": 354,
+        "awayId": 67,
+        "homeGoals": 0,
+        "awayGoals": 2
+      },
+      {
+        "id": 560615,
+        "date": "2026-10-25T14:00:00Z",
+        "homeId": 66,
+        "awayId": 1044,
+        "homeGoals": 0,
+        "awayGoals": 3
+      },
+      {
+        "id": 560619,
+        "date": "2026-10-25T14:00:00Z",
+        "homeId": 322,
+        "awayId": 402,
+        "homeGoals": 1,
+        "awayGoals": 1
+      },
+      {
+        "id": 560621,
+        "date": "2026-10-25T16:30:00Z",
+        "homeId": 71,
+        "awayId": 341,
+        "homeGoals": 0,
+        "awayGoals": 0
       }
     ],
     "Championship": [
@@ -8109,6 +8181,46 @@
         "awayId": 112,
         "homeGoals": 2,
         "awayGoals": 1
+      },
+      {
+        "id": 558563,
+        "date": "2026-10-25T11:30:00Z",
+        "homeId": 108,
+        "awayId": 99,
+        "homeGoals": 2,
+        "awayGoals": 1
+      },
+      {
+        "id": 558562,
+        "date": "2026-10-25T14:00:00Z",
+        "homeId": 102,
+        "awayId": 470,
+        "homeGoals": 4,
+        "awayGoals": 4
+      },
+      {
+        "id": 558568,
+        "date": "2026-10-25T14:00:00Z",
+        "homeId": 107,
+        "awayId": 454,
+        "homeGoals": 1,
+        "awayGoals": 0
+      },
+      {
+        "id": 558566,
+        "date": "2026-10-25T17:00:00Z",
+        "homeId": 5890,
+        "awayId": 109,
+        "homeGoals": 0,
+        "awayGoals": 2
+      },
+      {
+        "id": 558559,
+        "date": "2026-10-25T19:45:00Z",
+        "homeId": 115,
+        "awayId": 98,
+        "homeGoals": 0,
+        "awayGoals": 2
       }
     ],
     "Eredivisie": [
@@ -8791,6 +8903,46 @@
         "awayId": 673,
         "homeGoals": 2,
         "awayGoals": 3
+      },
+      {
+        "id": 558859,
+        "date": "2026-10-25T11:15:00Z",
+        "homeId": 1920,
+        "awayId": 670,
+        "homeGoals": 1,
+        "awayGoals": 0
+      },
+      {
+        "id": 558857,
+        "date": "2026-10-25T13:30:00Z",
+        "homeId": 1915,
+        "awayId": 677,
+        "homeGoals": 2,
+        "awayGoals": 2
+      },
+      {
+        "id": 558858,
+        "date": "2026-10-25T13:30:00Z",
+        "homeId": 674,
+        "awayId": 675,
+        "homeGoals": 1,
+        "awayGoals": 1
+      },
+      {
+        "id": 558856,
+        "date": "2026-10-25T15:45:00Z",
+        "homeId": 6806,
+        "awayId": 678,
+        "homeGoals": 1,
+        "awayGoals": 2
+      },
+      {
+        "id": 558855,
+        "date": "2026-10-25T19:00:00Z",
+        "homeId": 682,
+        "awayId": 666,
+        "homeGoals": 0,
+        "awayGoals": 2
       }
     ]
   },
