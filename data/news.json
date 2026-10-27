@@ -1,13 +1,43 @@
 {
-  "updatedAt": "2026-10-27T08:13:12.596108+00:00",
+  "updatedAt": "2026-10-27T14:18:54.174456+00:00",
   "source": "Google News RSS headlines",
   "items": [
+    {
+      "title": "AS Roma vs Cagliari en vivo: canales, streaming y horarios de la Serie A 2026/27 para México, Latinoamérica y USA - DAZN",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC13VzlwOEdJNkxsX3NYOE9mdVZ2aV9oaW5hNzJwbU1FaE95NEpkbDd3WDlSbGRsdnlVMUdYOVNRNjQ4ZXBtT29iUFNjM2dmSXl3aTVuajNjU1EyLXFlYmFtUFlfLUJFLWN6Y2FJaDdlY21LVFRWYkZwdjhaa0ZtblZ1Y0RNdzZMVWloWVBialdqaEpjSWRGenBxYXdKLXZEMFkxU2Rsc2VuOVE2Q3RpY0lCRHRLQzNYMnZtOHMwdjVaWDNEYkJHaDI1REY?oc=5",
+      "source": "DAZN",
+      "published": "2026-10-27T13:07:31+00:00",
+      "team": "Cagliari",
+      "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Venezia vs Inter, previa de la Serie A: los reyes de las remontadas visitan al colista en apuros | Goal.com México - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdG00UzV3clJuRVRDRE56QkZGb0xtNVI3SUwxaGd4SjBQeWZ3ZlM3R3ZzS3hJb0xwVXJJOFFxMmJVSjlDSnB2RUU5R29od2RuRzFSVkNJajJheTJPeERmTEVUa2VIdnNtd0RVME8tcFdZcGpQVGhqejJMSEU4ZlJVbGhiSXhOWUJTOWhfT0ZscDVoX1ZEUzNWUGs2cjhYX3dCSDVlZjVkdUxMMmNiOUFNcXpFZFZPNEQ5ZEE?oc=5",
+      "source": "Goal.com",
+      "published": "2026-10-27T11:12:40+00:00",
+      "team": "Venezia FC",
+      "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
     {
       "title": "Venezia contra Inter: Dónde ver el partido en directo, canal de televisión y hora de inicio | Goal.com Espana - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdk1nMURZUFBoSTJrT29NS29QQWtoYW9NTmRXVmMzSDBYQ2lNRVRGaXlvbTZvMkhwQnBHcW1HYVI5TmdmUW1lamc5R3FBTUlWeGhLNUtvUzFldVRMVFZGQ3NwRGpSV1J0NU1Ibm1IM2VENHloMUNzaGhDVHBCRjNhb1BnQXJhMzgzOW1zU3U3eVFtcEd4a2I3bS1aODlfWURQUVp0aGxuaUVzQjlhS0tUeUtGUnFCdw?oc=5",
       "source": "Goal.com",
       "published": "2026-10-27T07:31:47+00:00",
       "team": "Venezia FC",
+      "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Durísimo golpe para Ruben Amorim: la estrella del Milan Ruben Loftus-Cheek sufre un desgarro muscular antes del derbi contra el Inter - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbzI5Z0pnN0xKV0h1UG5kWmFBeElZWUViYTBuMUh4VUpVT1dWU1VyYUlscTE1NlVnTTdMSl9BeUltcjlrRWt1RjBEcGcwSXdzYW1LMlFDYXk1NDVWelZ0cGMxWXl4UVdVcWotTks0Z0p4cVJvRDJ4NDZQWUxoaEtYM083Sk5NRXVUdURBemxqYXNTQ2lLOG8wVVBDcF85NU9zQ0RuVVQ1MXRSWjJYZ25sUEdWRHM5R29uTlJFTjJXMzI1b0E0TjFiYU5ZaEt1QlZoUl9aZ0cyeWpQZ3FMNzNZdzdrVDJMNkU1NEZoMlNtLU03SlNrV1p6N2V1c1c0U3dzNklvSEN6WUNaYWlGaFNnTXhpdw?oc=5",
+      "source": "Goal.com",
+      "published": "2026-10-27T07:13:43+00:00",
+      "team": "Inter",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -43,6 +73,16 @@
       "status": "unverified"
     },
     {
+      "title": "Las notas del Sevilla FC ante Osasuna | Zona Mixta - Howl.Link",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBfaUhzV19tSFRGUHIyS000M2ZkTUpsZWRFZTBfd1lxZWRhRFBSSFVYVHJvWUdKZkpGM1NR?oc=5",
+      "source": "Howl.Link",
+      "published": "2026-10-26T22:32:23+00:00",
+      "team": "Venezia FC",
+      "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Alineaciones de Monza contra Napoli - rcdm.es",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zdm95bHdia25yQi1LR05SSVpORlpURURfN2IyRkNsQVZTaVJieDFtM2ZwaTNFYVNxSU9KY2lvdDUtbFJtaTFmeFdNSmxtbWtORzVDN19NS0o1MDR1d3JTNG1R?oc=5",
       "source": "rcdm.es",
@@ -57,7 +97,7 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc0lIQS1IUW1FXzdmVkdKb2dwa05qQ1p0aldNS2loN19QamFFZ3dBcGQzdEprRGg3VkVNdG5pT2FJVEh1cFFwZWt3SnlaMnprekFHMWV3bjdTUUhkRl9JVHNXRDlYVnJkem5ERkNiRmkzSGlBZEh2bXlBM09LSzFXS0NkeDZUUkxhS3V3cHItVVhRa0pnckw3QXpsOHhVV3M5SFVzYmNmUk4yeHMxa1drMFlheVlBRkp3bGN2aHhBUXVNeE9tZTA1TUVkNm4xbVFmRUVkaUI2RzV4dW4zLXhQU0NyT3RfWWZ6cXg2cDlRNlBWMlnSAfMBQVVfeXFMUHNJSEEtSFFtRV83ZlZHSm9ncGtOakNadGpXTUtpaDdfUGphRWd3QXBkM3RKa0RoN1ZFTXRuaU9hSVRIdXBRcGVrd0p5WjJ6a3pBRzFld243U1FIZEZfSVRzV0Q5WFZyZHpuREZDYkZpM0hpQWRIdm15QTNPS0sxV0tDZHg2VFJMYUt1d3ByLVVYUWtKZ3JMN0F6bDh4VVdzOUhVc2JjZlJOMnhzMWtXazBZYXlZQUZKd2xjdmh4QVF1TXhPbWUwNU1FZDZuMW1RZkVFZGlCNkc1eHVuMy14UFNDck90X1lmenF4NnA5UTZQVjJZ?oc=5",
       "source": "ANSA Latina",
       "published": "2026-10-26T19:41:12+00:00",
-      "team": "Roma",
+      "team": "Cagliari",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -68,16 +108,6 @@
       "source": "ANSA Latina",
       "published": "2026-10-26T19:41:11+00:00",
       "team": "Napoli",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Oficialmente.. Venezia firma acuerdo para construir n… - YSscores",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWVpMS0yMk1ZdEhQS2xtank1OTZxOGxNZms4bVVUV19sSkFaYWdlM3JmV25YdksxSjFLZU15MGtfV1BqcFQ4bkRNRFA3b3hFRFhqQ1ozTm41OFVURk8wb1BLS0FkRjJsU3kwbFBNMy1WVUxYSm9ZeGxNWEhvMXlvQVJyX0gzUGNyUnhNZ25hTlVacXRLMjlwUWJJY1VIaEZ3bFN5bURocXNyLVhIcmVnSEFKdnlrQ0xQOVNOTjN1RVZjb2FFa0Nn?oc=5",
-      "source": "YSscores",
-      "published": "2026-10-26T19:23:33+00:00",
-      "team": "Venezia FC",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -163,11 +193,11 @@
       "status": "unverified"
     },
     {
-      "title": "Ortiz Arias, en el centro de la atención arbitral para el Sevilla-Osasuna | Zona Mixta - Howl.Link",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5ZUlpmMXp4R1IySnRVWlMtQVJ3Q2hoRjBzSm9lc2lmRWh4ZjZjbG5DWnd0SUEyaDN3SnJR?oc=5",
-      "source": "Howl.Link",
-      "published": "2026-10-26T11:20:47+00:00",
-      "team": "Venezia FC",
+      "title": "Atalanta - Frosinone, en directo | Serie A - Mundo Deportivo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmRFRDgtSU9RWnJyNXlKZkxQX0laaU9CZk02VXdRQmQwQjQ5V2tUZHdLSUZlYUxjOWhwYnRncW9ZT2VHd1pSVkwzdmlmcUZrdGpERmNsZGpYVEVnb1ZkcUdBZjJBY3pUNXlneVF3MVZxT1JSOURzaXFfUGxMRXNMQmk5YnZ5ZFhsMV9EaXZzYU95UGQ0Y2JkQTQ1Z2pSd0FDaFNtdEdR0gGzAUFVX3lxTE5vbEpMeVhXcXRwVmpnSUhzZEl2bVlOUHU3a0JnMGhEZVF6LThFRTZWemNodzNyMUFQWkpwUVl4WHlWYkxSalV5MzJMUkpvbUJSQ3pyeFN3RXhFaU40bzZGN0Vfcl9kN2VEZHR3QUJqSTIwbFNNdG00YVlfZDdkQ1kxc0ZaV2NQWHhEY0lNNklVSDlUSEpRNjFIbTlNMGswUFhJTWV3ZjUwamo0Tk0tRVltRkIw?oc=5",
+      "source": "Mundo Deportivo",
+      "published": "2026-10-26T06:50:18+00:00",
+      "team": "Frosinone",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -193,11 +223,11 @@
       "status": "unverified"
     },
     {
-      "title": "Inter de Milán - Fiorentina, en directo | Serie A - Mundo Deportivo",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzFTazdjTFRqU2NqenptNU9oa1RHOExTR25ISXk1cHV4LUxud1FzRDFBclN1NjhGMW9vaDdYN3VpYlR6Y1JneXk1YXVGM3BlcjQtV21fM3VUd25uS2lRNmRwbXVqaFVkeWVqeDZYV0pjYUwtdDN6UEZjUWdSNXZ3LVB5eWVPWU0tYnFLTlJMME9idXF3TkdTcmRBSUNKWG1mbzhLUXZUWC1RcVnSAbgBQVVfeXFMTll4TFVwM0MxaHkyVTUtM0VLUGdwTVRuVU1FekRUVldNS0pNSDlhNm0tYzRDRmJsZGlvQmdFT3ZUaDRwTU1yNzNxVVdkYnRXRGVZb0prYmx3aG9fRllMaXJ2aEJXOTdkUV9KRkQtR1dtMXY0ZWhQM1dsOFZoVzlBa1Q5aTJaWmxYWVZOWnl5MGczRWszQlBudkppYnZVRl9OOGZKbFg3X2RhWmlXSDB0M1hIV29HQTM3bw?oc=5",
-      "source": "Mundo Deportivo",
-      "published": "2026-10-25T18:48:39+00:00",
-      "team": "Fiorentina",
+      "title": "La Juventus derrota al Lecce, Zhegrova no juega. - KOHA.net",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvdVVmeDdvY2Uza25SaGxvV1U5dG84MkdLWDk4SjV1NE0zelhfdDgxOHZuX2NIOXNhMmJveTJMTUM3X2ZMbHo1Ny1lTklIQ3VSTFg0TGJaa1JqZHVicmVvTUZ4V2JyNGw5THVZTlB4RTltcllMaGdjWE9GTmluUQ?oc=5",
+      "source": "KOHA.net",
+      "published": "2026-10-25T19:07:11+00:00",
+      "team": "Lecce",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -208,16 +238,6 @@
       "source": "Mundo Deportivo",
       "published": "2026-10-25T18:47:23+00:00",
       "team": "Genoa",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Cruciani carga contra el Milan: «No puedes jugar con los suplentes en una competición que es, en esencia, tu competición de este año - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHpxVUM2UkVZLTV0ejg4ZjlQb2RObEtHNl9ObFhMd0MtX0NDVnl3dGY0QlVYLTBFZHNMaHcycnFRQ2xOQXZJbTF0NDVBOGZENEd0ZXBVQXBlaW5JejE2VzQtbHl2THVOTWpPSUFrRkVGb1FEZzZPOXVzN05SaVNGelN2V1BJRDBDS1NzN3BPMVpMakt6?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-25T17:50:42+00:00",
-      "team": "Milan",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -273,16 +293,6 @@
       "status": "unverified"
     },
     {
-      "title": "Atalanta - Frosinone, en directo | Serie A - Mundo Deportivo",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmRFRDgtSU9RWnJyNXlKZkxQX0laaU9CZk02VXdRQmQwQjQ5V2tUZHdLSUZlYUxjOWhwYnRncW9ZT2VHd1pSVkwzdmlmcUZrdGpERmNsZGpYVEVnb1ZkcUdBZjJBY3pUNXlneVF3MVZxT1JSOURzaXFfUGxMRXNMQmk5YnZ5ZFhsMV9EaXZzYU95UGQ0Y2JkQTQ1Z2pSd0FDaFNtdEdR0gGzAUFVX3lxTE5vbEpMeVhXcXRwVmpnSUhzZEl2bVlOUHU3a0JnMGhEZVF6LThFRTZWemNodzNyMUFQWkpwUVl4WHlWYkxSalV5MzJMUkpvbUJSQ3pyeFN3RXhFaU40bzZGN0Vfcl9kN2VEZHR3QUJqSTIwbFNNdG00YVlfZDdkQ1kxc0ZaV2NQWHhEY0lNNklVSDlUSEpRNjFIbTlNMGswUFhJTWV3ZjUwamo0Tk0tRVltRkIw?oc=5",
-      "source": "Mundo Deportivo",
-      "published": "2026-10-25T16:05:47+00:00",
-      "team": "Frosinone",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Al Genoa le basta Ellertson: 1-0 ante el Venezia, que sigue último - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDItdVZGdWJBUzB6TlNQY1RfeE5XUUxDb19MMXpFTFFNVFZqcHgyMzluaTNoU1ZkWVhjUnBMemxrNWxudUQyVXFFWHM2dmZyU0sxTWV2eUhfcm4yblh0RTdST09jZWVTUUpnYVVocGdIcVM0Z3hVUjdUbnBqQlNUTDBNUmZPNDIyb3c5cWlSc2J0VTFFeDNGTW9yWlBUNzMtVjJZVVJXVTItT0NJTThGbDZJbXduVjRK?oc=5",
       "source": "Goal.com",
@@ -333,6 +343,16 @@
       "status": "unverified"
     },
     {
+      "title": "Inter vs Fiorentina - marcador en vivo, alineaciones previstas y estadísticas H2H - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zcmRvLVZBSTBQZWdmQmo4SXZtMGZ6eE5fampkUER5SW5QWDNSUTJ1U1BhUmtjaHVpUXh3b00zWFgya1VLMzF0Zkd2YnZWWExXZUI0LU82UUoxZ25PdFFZUzFBSWE5ZFNGZFZrSg?oc=5",
+      "source": "FotMob",
+      "published": "2026-10-25T11:30:00+00:00",
+      "team": "Inter",
+      "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Resultados Inter de Milán - Fiorentina (2-1) 8ª jornada de Serie A 2026/2027 25/10 - Resumen, Goles - Fichajes.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGlVTHNSemx0Q0JJdVdZaUE2cUpOc3laMDc2ZXpNeFNJWlhuRFpma3dfNTlRVnVWcDMwek1fYTN0Q0Qyc3pWSzR1cURsY01DMFFLZGR6T3lpRHZUclZSbW5IQ1RhUWhPbWdaS012Qk9PaG43UE1vb283OEFUWEZmTmx3Z19VNnNN?oc=5",
       "source": "Fichajes.com",
@@ -343,21 +363,21 @@
       "status": "unverified"
     },
     {
-      "title": "Lecce vs Juventus: previa, alineaciones y datos clave de la Serie A - Sofascore",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWnJxY29LM1J6Z1dqb0ZmajNseUZsWklQSWkxMHliMzBuSlJwYzB1aW5WZE0yem1CNXZkcXR3WFYxMEc4QlNHWkxkM19ydHpyNkNSTEtERmNycWtvQ3lYdExLYmZ3OHNKUzBDa05BZjNzQWlaSTIycjZiRWxYOXo5V1VPaE85cWdPNHplajIwUEs0djEyd0hEaUFpWDBhNXI4?oc=5",
+      "title": "Inter vs Fiorentina: forma, H2H y jugadores a seguir - Sofascore",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnlqSTVCOU5FbGVxVzlobjFBeVhMY1BqaE1FQlQwSjVSYThJcWpOU1hRTTJfNU4zdTB3U0ZNSFJjdHh3QkIzVDNuVjhtaTVTWDdrejFYc3NJV2h1bWN6Ykc5R0FRTXpVYko3Mi1XX2N2TDlaaHE5SW1DYnIxMjZtZ2RFWHhiblpTS2M2Sw?oc=5",
       "source": "Sofascore",
-      "published": "2026-10-25T10:06:31+00:00",
-      "team": "Lecce",
+      "published": "2026-10-25T10:04:03+00:00",
+      "team": "Inter",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
     },
     {
-      "title": "Inter vs Fiorentina: forma, H2H y jugadores a seguir - Sofascore",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnlqSTVCOU5FbGVxVzlobjFBeVhMY1BqaE1FQlQwSjVSYThJcWpOU1hRTTJfNU4zdTB3U0ZNSFJjdHh3QkIzVDNuVjhtaTVTWDdrejFYc3NJV2h1bWN6Ykc5R0FRTXpVYko3Mi1XX2N2TDlaaHE5SW1DYnIxMjZtZ2RFWHhiblpTS2M2Sw?oc=5",
+      "title": "Genoa vs Venezia: previa de la jornada 8 de la Serie A - Sofascore",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDNXa0I2SjFJV25HQW51TWVZT2RINEtfSlN5QzRoWnVhMFA1X28tOWVvZXBrRmhtbmhkQ1h4X2hsbks1VFY0a21RdlpOc2tPc1gtV2d5MmNZLUlCOU9YTXZBWHNaanFPZWdVU2ZlWTR2NFhLMDhrdzd0QVp0Zk84ejctNUtIbkIxdmJxQklHQkY?oc=5",
       "source": "Sofascore",
-      "published": "2026-10-25T10:04:03+00:00",
-      "team": "Fiorentina",
+      "published": "2026-10-25T10:01:08+00:00",
+      "team": "Genoa",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -383,41 +403,11 @@
       "status": "unverified"
     },
     {
-      "title": "Genoa 1-0 Venezia: resultado, resumen y goles - AS Chile",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUG1wWTY5NTVJaVpZY3N3bFRRT0JnZWR2UVI1WEV3c28ydUhBZTQwSFhOVEoxMmN3Q01lSGV3V2Z4YmJiZEtRdFJGVktXWWRCc2RFUlJ4bVliQUFId3hVMWVxamZnR0hocGctQ3YtVGdzbXp4SWliM0FWQ25RdERpdV9MVy05RG5sUFl1TDBkc3d0UDFhNV9F?oc=5",
-      "source": "AS Chile",
-      "published": "2026-10-25T03:09:10+00:00",
-      "team": "Genoa",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "EN VIVO: Lazio es superior a Parma y lo vence por 2-0 - DSports",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGlsMVhoQUZPRmZySFNzWDEyaWd1bG1mUjkyS3I5U0ZVX0hoMjl6aXdSZVNmZ3Zsa1FHQXdFa21ZWWZaUGx2dXVUaUJfb2U3cjQ5VjlxelpocGZSbDlEam16cDJqc0ZYS2tpUlY3QlkxUmpMd2JFejFBMmVVVUpXVlpJVEVCRTYzWFNDSGQ5YnE3YkZ3Vmp0RlhBT0FFTXBpWG4zNXJVOXU3R2ctWjZSWU1n0gGyAUFVX3lxTE1YaWwxWGhBRk9GZnJIU3NYMTJpZ3VsbWZSOTJLcjlTRlVfSGgyOXppd1JlU2ZndmxrUUdBd0VrbVlZZlpQbHZ1dVRpQl9vZTdyNDlWOXF6WmhwZlJsOURqbXpwMmpzRlhLa2lSVjdCWTFSakx3YkV6MUEyZVVVSldWWklURUJFNjNYU0NIZDlicTdiRndWanRGWEFPQUVNcGlYbjM1clU5dTdHZy1aNlJZTWc?oc=5",
-      "source": "DSports",
-      "published": "2026-10-24T21:52:35+00:00",
-      "team": "Lazio",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "La formación de Inter Miami: La alineación del equipo para el partido vs. New York Red Bulls por la MLS 2026 - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEd4bHR0eUVXSEJsajBOM21sQXhlQzdZcHhNODR1X1pEZkpyYVR2OUJkaG1tVlE0QjRBSGdacS0tOEVYVXZQX1pGcTVzMm9kSG9qbFdPb1JZWEFDM2d6a3lhbjJJVm5xeGY2U2wyZVZlNHZEZGZpS0NhX09qX0FIRjBielMtWkVNdEFkcnFuNVA4QjM1VWtweDA3Vmxsc2RNaHY1VTFPQ2RxZw?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-24T20:41:00+00:00",
-      "team": "Inter",
-      "league": "Serie A",
-      "category": "alineacion",
-      "status": "unverified"
-    },
-    {
-      "title": "Cagliari - Bologna, en directo | Serie A - Mundo Deportivo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUThqZnViOFcyTHV1THlIU0ZXZnZBcExPai1oLWVUWHA2eTVfYUNidEtnUzVxOXJTMUdqU3JVTE5fNzk4Z3I4T3IwMTB0UFZwOG5CTjB2U1RiV1JXMmw0Q3ltVVI4bDVicVNPcklyZVZZZUE5QnhCVFp0NXdOU0ZFT0NZUGlZdGFhQ1Z3T2pwNm9rQ0czdElEcDIyYmdkV2l2LWhN0gGwAUFVX3lxTE02aE5zN2VtanVBSTlJY1ZOU0dHWHJ5RDZhVjZjemwtSlRZaE8xb2xEM0ZBSTZvSUZTOVdxOEp5QVhTVXVVWVp1ZnZha3RyRmQyaWxvaVdPXzRYY0FDRVNYLXVZQmt4RzJNdXczemltRGxZaFdaSlRQUE43SlR2aWc4dWN3QlRFMmwxX3NTVHh0VzUtLXBORThNck5INXhUWm5pXzdHeC12c3BDQ0RULXJ0?oc=5",
-      "source": "Mundo Deportivo",
-      "published": "2026-10-24T19:17:05+00:00",
-      "team": "Bologna",
+      "title": "Estadísticas Hellas Verona U18 vs Frosinone U18, Serie AB U18 Jornada 4 - BeSoccer ES",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZLUt4TjVCeTV6czlyYTd2dFBLV2RZU1pDa1o4cjF5UjdYTW9vVGhrMVlaaWdsZENIZnp1elpiSGVkSFRyQ3JRY0N3RGlMS1U0OHNBU3NZcjZQMXNTaV9md1FlaVBLVzlITmhZMTlVVW50VUJzMEFUSGxMYzY?oc=5",
+      "source": "BeSoccer ES",
+      "published": "2026-10-24T19:43:23+00:00",
+      "team": "Frosinone",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -433,6 +423,16 @@
       "status": "unverified"
     },
     {
+      "title": "Alineaciones de la Serie A: Lazio vs. Parma - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMUpOQ1djNzcyY3VKTEJTb1I0TVFtQVZlTzlGSmtoLVY3MlBDRFNWVXFyVWVKajBPa0p0djNmV2dpUTV1c19QVDBoYk1ZNElYZmJYMUEwd2c4enE2VkF2dDc3RU9QRDRSSzloQlJGblFrRGNBbjNlQm5PQ1otRXhuYWNxTFdKaTZlY0l0a1pvWQ?oc=5",
+      "source": "OneFootball",
+      "published": "2026-10-24T18:52:06+00:00",
+      "team": "Lazio",
+      "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Nápoles hoy: dónde ver online, cuándo juega el Napoli, hora y próximo partido en la Serie A - DAZN",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUVhMZUtobmJWX2RuOUthcjhscDF1bm1pY2k5ZFA3ZnQ0eWxZZWctel9PRDRReTJBbXlLVkx3WG9XbDAxNlRMVktEeGlCdkg2Ni1KcmxlWm9VNVBoQTVFR2JjbnBlaFZWMkYyQTNtTm1KazNkSHhubGN2SFhtOWJka1VZOW9tUzRaNV9FdV9xb0U4aXJjM2VUbWNtY3lwVEJmUWRoY3I1RDd2dk9CMV85Z21CM1BDS3AtNzZUejUtWEVTeExBelFQdlF4b2R1SnVzSWFaLWFDWmMtLVEyNTFOUTRB?oc=5",
       "source": "DAZN",
@@ -443,11 +443,31 @@
       "status": "unverified"
     },
     {
+      "title": "Racing de Santander se lo dio vuelta al Espanyol y se alejó de la parte baja de La Liga - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmJuQnZQUWlsRGtZaVJYNVhGdjV1OWYxWUpEMU1PVE1qV0VEeE0zN0h4eURUTjA3d0xsWVpvamR0b2Q2NkNTaW40U0x6ZXB1VFV1bE5aZ0gxU25oVmhaclZuSTZualRiR2pNaldESUtJeDhrVUttNHZHYWJhbm1RMlBDS0tfNFRnc24ta3FYQjliZFdWTENJOWFuWHJ3T2dGM1E?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-24T16:10:00+00:00",
+      "team": "Espanyol",
+      "league": "LaLiga",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Cagliari vs Bologna - TUDN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sZko1Um56S29sWEhISGppR2t3ajR1N1RrZ2F0TFpkMHlOekVTMV9kV0NKNmpEaEh2YkZ3aU9JdGRsMDRLQS1ydDBvemF0NzdpdUpOeTdrY2YyU3UzYWFqTW5oSnZ6RU9xMVZDZmRIaUxPaDhsWHhLWVZja2c4UTQ?oc=5",
+      "source": "TUDN",
+      "published": "2026-10-24T16:03:26+00:00",
+      "team": "Bologna",
+      "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Napoli vs Roma: alineaciones por la fecha 8 de la Serie A - 365Scores",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0UmtpU2ZlajlHZ01wbmgzc2hnZER1M25wbi11Q1NxYnY5QTNhY0QxZ296MWYwZlU4N1AzNmtJd0dYNjhQQzhvQllOWVB5b1lxNXJkT0czODJOcmg2SV90eWdfWDJyQTJLaGZaQmxRSzRCX3FLcHIyN3h3?oc=5",
       "source": "365Scores",
       "published": "2026-10-24T15:16:30+00:00",
-      "team": "Napoli",
+      "team": "Roma",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -460,6 +480,26 @@
       "team": "Milan",
       "league": "Serie A",
       "category": "alineacion",
+      "status": "unverified"
+    },
+    {
+      "title": "Milan, alineación muy modificada contra el Udinese: Amorim debe ingeniárselas para armar el equipo; este es el probable once - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjJDaUVBNmFhVEdrWGxkaWVIb1ZvTmpteFJDMF9QM2YwRG1zb0M0TFc1bzRMUmdic2lIdDlqeHJhdTlVNllFLWtNZHRyMWI0UmJQbTVfYzQwSXAyaTg1cXVTSDBNaGtZeVBEN0pOUWNkNndFQlQxQU0yLVA3RVhFR2N5VlhTRERPS3UtbWNkMk0wVDExYmNiMkQ5U0JLR1hPY2FKQTJGaw?oc=5",
+      "source": "Yahoo",
+      "published": "2026-10-24T13:53:39+00:00",
+      "team": "Milan",
+      "league": "Serie A",
+      "category": "alineacion",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones confirmadas del Racing Club - Espanyol de la Jornada 10 de LaLiga EA Sports - Sport Aragón",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ28zcThFUXduQm9va012RVhoWTQzWER6U3ZGeHNaUDlCbE1fbTNuNzVLMUMtMkJOT3ViNFBIUDlabE11a3hWU2Y1ZTVJUHFNd2pOM3Rrelh4V21JTzRnaXpIUjVhZW1abFJCQmdBVGpSR201aC1neThIUkZUZWN0NDBHSkVyQlJMRFhlYVJCajc4ckk4Y09TcVJNQ2xLay1LNXZlMjhFXzBZbDdIWlNTZlNNVVFTbFFkTHB2WnYzRm1TdV9NZ0xoUFViem5KSElpWkFHVl9hOWY?oc=5",
+      "source": "Sport Aragón",
+      "published": "2026-10-24T13:01:34+00:00",
+      "team": "Espanyol",
+      "league": "LaLiga",
+      "category": "general",
       "status": "unverified"
     },
     {
@@ -503,16 +543,6 @@
       "status": "unverified"
     },
     {
-      "title": "El Barça confirma otra baja para el Clásico en una sesión de risas: Fermín López, Lamine Yamal y hasta Hansi Flick - El Desmarque",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVVh6R1VZMXQ3OWxtaXhuTjFUMm1SWVdvYjRqeDBJaGUzbVFVeWRCTFVMTTJBTWd1SFBlSm5KNWVfdVkxSmlVWVpDcjE3ZVdpYm5BRktxN0Jpa2NZTlEyY216M2JBVTBaLTRueWVJV3FOUEx0TmlaTkx2ck1tYS1jRENQUGNJbkZaaTdiVFV0REVjQTByaDlOQ053NDQwRktNdHJ2OWxyVXVmWUg4OS1tZmQ3MFVUMUhLWkhoSGpMSVg4QWF4LV9tbEFHbGRSam9JNDQ0ZnpjMlFXY090Zmc?oc=5",
-      "source": "El Desmarque",
-      "published": "2026-10-24T12:22:36+00:00",
-      "team": "Udinese",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Resumen del partido Blackburn - Wrexham | EFL Championship | Yalla Shoot - YSscores",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OOWtQWk5xRUxlOG5WZ3UtSmZHUUpoRGlFOWJWbVo5MzZjcmd0X0duVjktMm5TX1NCZzJsZGE1WGJ5M1ZxbUlzbkxwYWtSTFlXcnc?oc=5",
       "source": "YSscores",
@@ -528,26 +558,6 @@
       "source": "Diario AS",
       "published": "2026-10-24T11:28:32+00:00",
       "team": "Sassuolo",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Alineaciones de Racing de Santander y Espanyol por la LaLiga: formaciones confirmadas - Bolavip",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTS15ckZkTjdqSjA2SHIxbkVfLXBwUlF0LXhUTnNLLWlfSUx6QXBmei1mQUg3QWdxUzNjcHdpc2h5MFY3TzZldjI2bm40MnMwR0JCdHFPYkZOT25SRGR0XzRZM2RRNGpKbHlBTWNoTDV3WGEzZlZBVjd1Y0J6WlJKMVE3dmd0WjBFTlR2dmhlN1RSV1dtMFZiWFBsejNGSTNiTVlHeUZlMURLd01zTlHSAbMBQVVfeXFMUF8wNTFuektwdGliMGtTOWFFMTQwb0tRZmUzSC02c1lkVm15ZW8yQTNMSGp3aS05UUZjVFM0X05BdzJLeDFHbElCUzZZT2xleUJjZlRjakRVNmVOa2dKcVJaY3l3NGIzLXhXUzA3VFdrUjNJNFppSlRaUFRzYmtrTW52RkhmR3FzcnpzdkFtSnJIRmhxVmJPdkxGV25iZ3FuSmlUZ2JNVWlpUFJJOWdRbUVkSnM?oc=5",
-      "source": "Bolavip",
-      "published": "2026-10-24T09:20:47+00:00",
-      "team": "Espanyol",
-      "league": "LaLiga",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Lazio contra Parma - Pronóstico, dónde ver, horario y alineaciones 24-10-2026 - OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jS2cxVG5qb3RIRGNGSkdiM29uSUI5QU9IZFRTVW9Mc3l2eFRBN2Jva3pieTI0enA3aC1uMENsSXBXdHVqbEN5ckJEcVFERko3ekV4UV9oWjM5bk4tRGhBZGRLQl9ZMVF3V1kwY3JkNTM5YUlreUpNZTY5QWQ4Zw?oc=5",
-      "source": "OneFootball",
-      "published": "2026-10-24T07:00:00+00:00",
-      "team": "Parma",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -608,16 +618,6 @@
       "source": "rcdm.es",
       "published": "2026-10-23T18:12:16+00:00",
       "team": "Juventus",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Torino vs Monza: previa de la Serie A desde Turín - Sofascore",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYmxrc0RteHRZSS1XTUtZZEFlRDJMSFlHQmsyY2xNT1gwc2VBZ09yWnAtc0hNOHNPZVZtUElYU2NoQVBkbjJrZzZHajZfZnFfTllXeTJpbi1BQUZqMTNPb1FoYmRVYTkxZk1jLWRNUXFlRXZBQnpvSjU1eWg0MkI0Vjg4WHpTQ3ZMS0E?oc=5",
-      "source": "Sofascore",
-      "published": "2026-10-23T17:06:54+00:00",
-      "team": "Monza",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -693,11 +693,11 @@
       "status": "unverified"
     },
     {
-      "title": "Alineaciones de Red Bull New York contra Inter Miami CF - rcdm.es",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WYmFLbGJsSG1taXNHQ0Vsa3NmTjMwcmJzcERDVVk3NVVvVkx3Q0pCTDdiMjJhVnIwN1JfcVU0MHFJZnlxcUZwUGRhZWlQZ3EzdE9KR2FZLTN5QVE3N0hPU1k3RkNUd0lnQmFLZ2NfX2RZbkxaX2MzbXVRSjk?oc=5",
-      "source": "rcdm.es",
-      "published": "2026-10-22T21:32:37+00:00",
-      "team": "Inter",
+      "title": "Ajax vs Atalanta - marcador en vivo, alineaciones previstas y estadísticas H2H - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxRTRzaXhIdDNjTEJENFFSZUFqUDRrakNXdE5XcWRLbmNVYWRUSVRQYzl2dS1zMmdNSmxndF92WkRBQkd0NVR0ZUpmU3dzSkV5RnNlX3hsREI2VnV0ay1za1luNUtoQ3VR?oc=5",
+      "source": "FotMob",
+      "published": "2026-10-22T19:00:00+00:00",
+      "team": "Atalanta",
       "league": "Serie A",
       "category": "general",
       "status": "unverified"
@@ -763,16 +763,6 @@
       "status": "unverified"
     },
     {
-      "title": "Udinese, cara a cara entre la Curva Nord y el equipo antes del partido contra el Milan: «No se tolerarán más errores - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWU9xRHlHMnNiSk9tV1BNSGhJUlFFMWY0cEJwTGlEUzVrZTQwMFkyWWxnb2h4enZZZVgwQmdTdjJYaTZRcEJoZkVCN2VzYzZYS0RSN2dZcXVPS01xX2M1ZlRRckozcUFfMV9fWmpteEozU0UxNXNMVjlCMVN0OWluSzREODBURjBnNjNtWnZn?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-22T11:01:19+00:00",
-      "team": "Udinese",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Torino vs Monza – Pronóstico, Cuotas y Apuestas – Serie A – 23/10/2026 - ToffeeWeb",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPelp4STA1b2NqTUhZbEFsbXhEX2ppa2tVVkUxY1ExX19xZHR3aHZpaWlYVkxVVVc0YUZQOEEwSnBoMU4xWmV0QWJJMHFSNEZaSk8wMWlpY3NzVTVGMFRraHQyek9wSXlEZnM4OUc4c003ckFLM2MzVWpFd2hwSWgxWWRzZWJqWEJOd2F4WEFpQzFwZG9FVGRpQw?oc=5",
       "source": "ToffeeWeb",
@@ -810,16 +800,6 @@
       "team": "Villarreal",
       "league": "LaLiga",
       "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Real Sociedad - Espanyol Convocatoria & Alineación: Liga F Moeve Fútbol - Eurosport",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWjJOenpVWnZkV2lvV2F2b2JzbG9IdE9KT2VHalgwR1hYaDctVXE1aWhWYnFJTG4xSlZGV3hVbGIyNVJNczVQcnNsbXZWVlB1cFFxWjBELU42a0tORHVoX2hXSWxLUlNLS19HekNEU2Q5S1lWTk1FbUwtdDZLMi03LWpOdnhvaW9tX18zbXd0aVM0Q3hZTDZtYVJKR2hIRGFaZ2dRNm1BdnZXRmM?oc=5",
-      "source": "Eurosport",
-      "published": "2026-10-21T16:05:53+00:00",
-      "team": "Espanyol",
-      "league": "LaLiga",
-      "category": "alineacion",
       "status": "unverified"
     },
     {
@@ -869,16 +849,6 @@
       "published": "2026-10-21T08:10:10+00:00",
       "team": "Espanyol",
       "league": "LaLiga",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Inter, Chivu cambia la defensa: la novedad y quién se queda fuera - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT0FDUndGQ1ZEUGRlemw1NnFjQTdUTUl1WkdXRFY3ejY2b2RkbzNIVlRqYzZZNWpkQVE0YmkwLUpzalczc2dVWm1ZREMwdHBpdmhNOF9OZTQwZlRtejNmbWdDWExRS3Q2a3hvWkNjNzFKckFWS3NHNlppem1XSUZsYk15anNjS0QzMngxNHh1aHlSdFlfU2ExTE9pVzcxQlk1NHdVaFZZakg4b3p2RUpIZnZ1ZnZtUm8?oc=5",
-      "source": "Goal.com",
-      "published": "2026-10-21T07:07:12+00:00",
-      "team": "Inter",
-      "league": "Serie A",
       "category": "general",
       "status": "unverified"
     },
@@ -933,6 +903,16 @@
       "status": "unverified"
     },
     {
+      "title": "Alineaciones confirmadas de Liverpool vs Villarreal por la UEFA Champions League - 365Scores",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MaG1XeGtyRTBaaFFRNzF0QUZlYXgtczVQQ3hDRTZjMlNWYkJsSjNobklfQTRpell3WUVlak92ZDZRV1BVZ1hXeDAyWWQ2NEdrMm5Yc3k4ck5BT09vZHNtNXdMR3c2ai1IaDJnOUNuOFJTNTQyTE84VDFHUUpfWUk?oc=5",
+      "source": "365Scores",
+      "published": "2026-10-20T17:58:11+00:00",
+      "team": "Villarreal",
+      "league": "LaLiga",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Fàbregas confirma la lesión de Jesús Rodríguez: dos meses de baja y no estaría ante el Betis en La Cartuja - MundoBetis",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPalR0VjlvSnRpWDlnSWRpaGZ1NkFqWWZjQl9McWVKaUFhYi14U3ZEU2toZlNtY2F4Z1dxTkJoeEJ4NXR2RlpXTGJlc0ltX3hHcGdyNTNxY0x3aUpuSXN3SnB2cWdranBWUzMyQ0xkYlZaZVZSbVhoTUQ5cEZ4UHRJTFlGQXZXMG1kdzJYQjhoU1RoaGE1NkxYYlVMNDJXV3lIMHBEQjljVXdEUy1XWWtJOThIWDVOWjBxS3VYdnRsUzZ1SjRnbjlpTFVHVHFXNGU1QjM3eE1LRQ?oc=5",
       "source": "MundoBetis",
@@ -940,16 +920,6 @@
       "team": "Como 1907",
       "league": "Serie A",
       "category": "lesion",
-      "status": "unverified"
-    },
-    {
-      "title": "La posible alineación titular del Liverpool para enfrentar al Villarreal - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEZzN3NaS3VkMEV2VmRfbTJ0ZHRlRUxCWUpIMDFSZmdqWVRvSjBYMmxlUWxMUnRNczZ0VWdfc1FPRG9tdzVqeGhkTFpmSlloNHd2b1E1Rm9zMTl1V3FnMzlOMFFQYksyUDBWd3doWUoySmlsMEhGU2FwcUJBYXF6blcxVlp2ZW1FcUpVcmpJRzN5UGQyV2lFRVFOYVgtVkNCNDNLcVM2RGZCZGQw?oc=5",
-      "source": "Sports Illustrated",
-      "published": "2026-10-20T08:19:09+00:00",
-      "team": "Villarreal",
-      "league": "LaLiga",
-      "category": "alineacion",
       "status": "unverified"
     }
   ],
