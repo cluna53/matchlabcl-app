@@ -335,7 +335,20 @@
         "Empate": 0.241742
       },
       "capturedAt": "2026-10-18T12:41:15.143975+00:00",
-      "result": null
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 6,
+        "evaluatedAt": "2026-10-27T21:17:17.684395+00:00",
+        "hits": {
+          "Ambos marcan · Sí": true,
+          "Más de 2,5 goles": true,
+          "Victoria visitante": true,
+          "Menos de 2,5 goles": false,
+          "Ambos marcan · No": false,
+          "Victoria local": false,
+          "Empate": false
+        }
+      }
     },
     "558557": {
       "id": 558557,
@@ -4734,5 +4747,5 @@
       "result": null
     }
   },
-  "updatedAt": "2026-10-27T09:21:33.969047+00:00"
+  "updatedAt": "2026-10-27T21:17:17.684395+00:00"
 }
