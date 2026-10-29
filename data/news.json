@@ -1,17 +1,7 @@
 {
-  "updatedAt": "2026-10-29T08:21:15.765911+00:00",
+  "updatedAt": "2026-10-29T14:24:17.350352+00:00",
   "source": "Google News RSS headlines",
   "items": [
-    {
-      "title": "AC Milan vs Bologna – Pronóstico, Cuotas y Apuestas – Serie A – 28/10/2026 - ToffeeWeb",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSjczNmcwT1NEdkFOeFZoUGdUQksyNElJZ2wxaE9jSWxzYTViRXhmRUoxQmo0MFE3clFFZmZaeFpHSXc4M3QwLUd3dFNkcUJGd0Y3Tm8tTmo3ZVVJYzFfNmJENTJEeHVoWFJsQ1M2eXJEMUpGR3NDN2lVRU1WZGttZjBGcmlkYmNxOWdBcXk0MDh3cDdYa3RRYUZ5MTJ4QQ?oc=5",
-      "source": "ToffeeWeb",
-      "published": "2026-10-29T02:38:13+00:00",
-      "team": "Bologna",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
     {
       "title": "Monza vs Nápoles – Pronóstico, Cuotas y Apuestas – Serie A – 28/10/2026 - ToffeeWeb",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYzFJc1VvLWRIT05aeF80N0c2V1BpSldUV081a05kWnZTRzNxdWtUUGh4R3h3TFBSb1ZlbGJXaW9Oejktd1hxUTZ2Mng2ZE1DU1RjNi0wR0IzMXA2cU5LVGlhaWxhTUFlVm5zR05pUmhpdTUzTHM5Z1hWODZtYUdqQmtkTmVCUlktM0pVcEQtcmttTFpzTFAzbmxB?oc=5",
@@ -39,6 +29,16 @@
       "published": "2026-10-28T22:41:35+00:00",
       "team": "Villarreal",
       "league": "LaLiga",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "El banquillo salva al Liverpool ante el Stoke en dos minutos - BeSoccer ES",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUlJxREo5MU1MaWVPNTB3Wm1kOERhVE1fNHRfSG9BeG9saUE2WGF2Tzd4Z09xdVlpSTBnZFEtaGFWN3lGYlVyZG42ei1OWmpUN1kzak9OdEVmT25MRFF6S2VEdzBycm5Ib25aZnVWSHZGclVYTnZCUjloWkd1WWlxMnd2MEx2VTJ5OE1WRkdrZFJBWTl2WVFWQ3AyNllmUnoyNmlRZWJB0gGmAUFVX3lxTFBSUnFESjkxTUxpZU81MHdabWQ4RGFUTV80dF9Ib0F4b2xpQTZYYXZPN3hnT3F1WWlJMGdkUS1oYVY3eUZiVXJkbjZ6LU5aalQ3WTNqT050RWZPbkxEUXpLZUR3MHJybkhvblpmdVZIdkZyVVhOdkJSOWhaR3VZaXEyd3YwTHZVMnk4TVZGR2tkUkFZOXZZUVZDcDI2WWZSejI2aVFlYkE?oc=5",
+      "source": "BeSoccer ES",
+      "published": "2026-10-28T22:06:14+00:00",
+      "team": "Stoke",
+      "league": "Championship",
       "category": "general",
       "status": "unverified"
     },
@@ -163,6 +163,16 @@
       "status": "unverified"
     },
     {
+      "title": "Alarma por la lesión de João Pedro: ¿cuánto tiempo estará de baja con el Chelsea? - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNXI3d2VvcGQ3a1QyRURCR0xQRHJNcGRFSzRqeDcyd1pWTHVuTW9BLXdlNll0NjJURDltblRYNHYzbFNWc0p5UW1hSkNXSDZGTEh6UE04Z01CdjZBa1V0X2dzWnl0OXpib3ljUER1ZnJ3TVNJTHpBS0tOZnZwRklCS1Izc2JZZ2dOOFRET0xvcUNqRTd4R19QVGxaMVk0a3ZGRlpEaVRB?oc=5",
+      "source": "Sports Illustrated",
+      "published": "2026-10-28T12:12:48+00:00",
+      "team": "Chelsea",
+      "league": "Premier",
+      "category": "lesion",
+      "status": "unverified"
+    },
+    {
       "title": "Monza vs Napoli en vivo: canales, streaming y horarios de la Serie A 2026/27 para México, Latinoamérica y USA - DAZN",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHMxVlNmNlRBbE9HeEM0b2pUYThtTlhyOEJzQW0wU20zZzVucU1lX2h2aGU4ZHJ5OWxiVkxjZjd0M3M3X18xd3cyc1ZjV1B0d3JzQmV1SUdyaWN3ZXc4azU5OGcxb3h2WnhyeC10UnBUaE5fMXgxdGxZZTFvR0RtZTN1ZnFhdkFRZTdqQ2F1bE5jemhVZVNZSDBKOUxwMlFGbUpaaHp6Y1BFVEdjbVNQRkw1MnlBLU4xdFJwNm8tYWhnM2FxWnc?oc=5",
       "source": "DAZN",
@@ -173,12 +183,42 @@
       "status": "unverified"
     },
     {
+      "title": "AC Milán vs Bologna en vivo: canales, streaming y horarios de la Serie A 2026/27 para México, Latinoamérica y USA - DAZN",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNzJ1OHNnTlRwaTladzg4SVNCbXZoZFhoRkh1Smdya2k1OVRHUnR0N1ZRRjBqam5FNFM0aXVFajJlY29ZdlB4ODkwbjRiZVpydFVzcjNGREpzNGcyR3NoYzBzOE9CdjBncDlndDJtMVZxNUJrUGxlTEs0Zl9qR040bmh5QXFwcjhTY0QzOTBwcWFGNkc4S0twTXZXcUswc3lNTVczTFh5ME9zMkNhYkdTRFo2NVBSNDlEcWxMcWlCOHNkT0tUNnh3ejBNVQ?oc=5",
+      "source": "DAZN",
+      "published": "2026-10-28T11:08:23+00:00",
+      "team": "Bologna",
+      "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Posible alineación indebida del Elche CF en Copa del Rey: Ezequiel Ponce estaba sancionado - El Desmarque",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPelRLbHptOTBoU1lDUUxjNVU3LWxEYTRYNVpSdm50RUNoSFZpSHpYTFdJUDRXWDlNSF95bDhjYmlFcnRDb19fdE1wOFotYWtWa2Z3YkdqRXhoRU9jWFRqU3I4Z2hUV2lkQTlpeWRaVTVkcExYVDdfWVplY2pPdV9OWXhjSERnVnd1ZEVRcTFkUGdRNUt6RVNubU82S3NVYnhyR0N1eVhnTndGMW1nMVpJQk5BcTFKZnNfWWF3WE9zREgyNlctYk52R2VNUVUzN3hkRkdPUEs4TlVIaWRWZ1BFTm5MdUFSYXltZFE?oc=5",
+      "source": "El Desmarque",
+      "published": "2026-10-28T10:29:27+00:00",
+      "team": "Lecce",
+      "league": "Serie A",
+      "category": "alineacion",
+      "status": "unverified"
+    },
+    {
       "title": "Duro golpe para Chelsea: João Pedro estará varias semanas de baja - FOX Deportes",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3JlQUNnY2lWVlg4WEZySXg3T2ZoQW94Y2RSSzE3bGFtU0FaZ2RheGdxYWNiTUk2dEw1ZVh0QVhfRGJiOXRtTG5Od0F5YmxlSElicnhyNzVDSlFPZUtCNXloNFByMEFBMm1zU2dWMHpnaVdkWGw4dWdGTHhmVlNad0Z4TEY5bzJVQ2FTMWUtc193SVRkY043ZUU0Tk9KQjY5NUUxcHlrcV9BclhRZGJ5eXRR?oc=5",
       "source": "FOX Deportes",
       "published": "2026-10-28T09:54:17+00:00",
       "team": "Chelsea",
       "league": "Premier",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "El DJ30 baja hacia los 52.300 puntos mientras los inversores esperan la decisión de la Fed - VT Markets",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTU5aZ01lSEltOHN6ZmpvT0NKdVNad1FMSlhhUTVrSk40OEtyUHJ1VFNGZ1FHS0c2LUlBN2RvNVV4QThkaS1JakloUFJJenAtUG9WQzFZd01sQmx2b0w4UkRuU0VuNWZvRmJmZHVjMU51UGYzWlZfOGo5MzVZSUNyaGpCbkdxZmgxVEZFYjByQ2E1X3pxenU4aHFLTnQ?oc=5",
+      "source": "VT Markets",
+      "published": "2026-10-28T09:45:32+00:00",
+      "team": "Norwich",
+      "league": "Championship",
       "category": "general",
       "status": "unverified"
     },
@@ -193,11 +233,11 @@
       "status": "unverified"
     },
     {
-      "title": "El Aston Villa de Unai Emery busca alargar la racha ante el Bournemouth - Mundo Deportivo",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUy1TYnVibDBRMkxrREs4bU9nMFl2RHRNVThZeHR0ZG5ka2xOeTF2T3hTeTQ4WExtSGF1UlU1R3Bna0hZcmRlNXNYSGF1RzFyMXJEWjR1OWF3enFlczJsSjh1b1NBZjdQTUQ1UzZMbUEyMElwZ0Y4bUwyVmZTcTRqTWNZVjRySUxWV3kzZEgtajAtQmg0cHNTMVhXWnJWcFBGb3BBR3JDTTdveEhCWVJKd2p0QWVudUtnYlBYSGNDXzd6U0VqX1h6UkI3YmRyU19qcUlHUENFU1fSAdgBQVVfeXFMT1MtU2J1YmwwUTJMa0RLOG1PZzBZdkR0TVU4WXh0dGRuZGtsTnkxdk94U3k0OFhMbUhhdVJVNUdwZ2tIWXJkZTVzWEhhdUcxcjFyRFo0dTlhd3pxZXMybEo4dW9TQWY3UE1ENVM2TG1BMjBJcGdGOG1MMlZmU3E0ak1jWVY0cklMVld5M2RILWowLUJoNHBzUzFYV1pyVnBQRm9wQUdyQ003b3hIQllSSndqdEFlbnVLZ2JQWEhjQ183elNFal9YelJCN2JkclNfanFJR1BDRVNX?oc=5",
-      "source": "Mundo Deportivo",
-      "published": "2026-10-28T06:00:00+00:00",
-      "team": "Bournemouth",
+      "title": "4 decisiones que Carrick debe tomar para salvar al Manchester United. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzJHZnhIM1R3bnE4TV9pSVNQQXlXdlJuUWRYa0t5amlwRTVlY0prNEl0eldRRlYzXzBzUVFYV3cwRUlaUGdzWGNMRzhDeXlwMWZVWW1oZWNzdnItb0NKWTRldmFFTV9HTnRsNURzRVotRDNYWl9JZnExTlhBcDFzVQ?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-10-28T06:58:50+00:00",
+      "team": "Man United",
       "league": "Premier",
       "category": "general",
       "status": "unverified"
@@ -230,6 +270,16 @@
       "team": "Bournemouth",
       "league": "Premier",
       "category": "alineacion",
+      "status": "unverified"
+    },
+    {
+      "title": "Milan vs Bologna: dónde ver en TV y streaming, horario y alineaciones probables | Goal.com Espana - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd1NiLWhEcU9xWTVDRmJ1YzNnbnFqNm4xbjMtOU1kU3lzSTdobExST0xGcVQ1bUVOaHlvMWV6VVB0X1lHeTBnVVJTV21iejJVcWYyMGpRc0FkaC1XeHc1aTJGLWU1NENWUU9YYnNwZVZnUHRJQ05neWVxUlFfQ0trVXJjVTZ0ckJJeWt2U0RYdy12NGtKRlN1U1A5WQ?oc=5",
+      "source": "Goal.com",
+      "published": "2026-10-27T21:08:39+00:00",
+      "team": "Bologna",
+      "league": "Serie A",
+      "category": "general",
       "status": "unverified"
     },
     {
@@ -289,6 +339,16 @@
       "published": "2026-10-27T12:35:33+00:00",
       "team": "Birmingham",
       "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones de AC Milan contra Bologna - rcdm.es",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aRGdFYXctU0p4Z0YxSnI2R1BvSzVhN09BYUJ4U0dwM0xTbXRmRC1kdkU0aUVLcTlnVHhHakd4UmR1YmhvRFVBU3RWYXN4M1FxR0pyQ2ZPMVNiaXJJbmpXVHU0cTNvcnM?oc=5",
+      "source": "rcdm.es",
+      "published": "2026-10-27T07:55:55+00:00",
+      "team": "Bologna",
+      "league": "Serie A",
       "category": "general",
       "status": "unverified"
     },
@@ -363,16 +423,6 @@
       "status": "unverified"
     },
     {
-      "title": "El AUD/USD recupera los 0.7000 mientras los operadores ponen la mira en un endurecimiento del RBA y en la ruptura de la resistencia en 0.7100 - VT Markets",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSUpEYUVuWW5LV1RDVmJ5NUNnUUhzMnItc3k1RnlFV1VkYlE0QXN2YVJreVZYcjVGb1VLMzVQcDh3VkgydzB6LXhYMFhoZDhRcmVpODBQX08xXzItZDZJVHhZeFFETVY3ZWd6aXN0VlRmLWpyejVpSnNzSGxVQjdWb0tyM0wwRjdtakg4SHRYbnFlUk5nOVBMMldWX2ZPZjJKeGpDQ2cyS0d1SE9VbUVTYjJPUUJQeVhHRzJWcWFSYm5aVnhhbFptRVlsR3pxQQ?oc=5",
-      "source": "VT Markets",
-      "published": "2026-10-26T09:07:07+00:00",
-      "team": "Norwich",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Atalanta - Frosinone, en directo | Serie A - Mundo Deportivo",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmRFRDgtSU9RWnJyNXlKZkxQX0laaU9CZk02VXdRQmQwQjQ5V2tUZHdLSUZlYUxjOWhwYnRncW9ZT2VHd1pSVkwzdmlmcUZrdGpERmNsZGpYVEVnb1ZkcUdBZjJBY3pUNXlneVF3MVZxT1JSOURzaXFfUGxMRXNMQmk5YnZ5ZFhsMV9EaXZzYU95UGQ0Y2JkQTQ1Z2pSd0FDaFNtdEdR0gGzAUFVX3lxTE5vbEpMeVhXcXRwVmpnSUhzZEl2bVlOUHU3a0JnMGhEZVF6LThFRTZWemNodzNyMUFQWkpwUVl4WHlWYkxSalV5MzJMUkpvbUJSQ3pyeFN3RXhFaU40bzZGN0Vfcl9kN2VEZHR3QUJqSTIwbFNNdG00YVlfZDdkQ1kxc0ZaV2NQWHhEY0lNNklVSDlUSEpRNjFIbTlNMGswUFhJTWV3ZjUwamo0Tk0tRVltRkIw?oc=5",
       "source": "Mundo Deportivo",
@@ -394,7 +444,7 @@
     },
     {
       "title": "Salida en puerta: se filtró el nombre del futbolista de Manchester City que se iría en enero - DSports",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR1pLc3RtNU5Mc0tjRnpwYm9zUk5xdVVnc2J4QzNuVDNNVGstRndteTAzOS1RNFpsNk5TV2pTSThfc01zRDAtSkhhMHFTY2ViUDYwTGhPUzAydnZlSmtZelVtdE12c3hFbHdramRveGlIUEx6eWlfS25UZHYyblR6bXAwbnhBclh2UmhYczl5SjdzSGRmaGxaRUtwLUZGSkhnc0VCQ25XRG1xdldkY3NsZ0hKM3cxeXdkQ09GRFAxb0k4R2xlT05yRHRuN2Ntb1pFR2o5bk01MW9xOGVNNE5veNIB5gFBVV95cUxQOHRfRjFGaEltdE96SFNNRTVUQWUxalBCdmhHS09nZ3pvRWFaWktqbmlDZklfakIydWp1SXlTbXk3UWtjUGw5LTVxMl9uZnZkNUhzT2ZDMGxfajRiYlhoODYzNUZLenI1QzdkWmxBcF9OQThUem5aa0VKbE84alBuUDZlSXI2MXdHMl9xekV0TUtSS3ZQODBIcFBHUzdTZ05tZFBtTXFQdjFHUGdUM1V5UWhMOFI1R2t1WThKZG5KeTJCSzA4Q3ZMcTBVenFYWFJLcU9zWVRkR0NUbktwZWlwQzVqUXZYdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOHRfRjFGaEltdE96SFNNRTVUQWUxalBCdmhHS09nZ3pvRWFaWktqbmlDZklfakIydWp1SXlTbXk3UWtjUGw5LTVxMl9uZnZkNUhzT2ZDMGxfajRiYlhoODYzNUZLenI1QzdkWmxBcF9OQThUem5aa0VKbE84alBuUDZlSXI2MXdHMl9xekV0TUtSS3ZQODBIcFBHUzdTZ05tZFBtTXFQdjFHUGdUM1V5UWhMOFI1R2t1WThKZG5KeTJCSzA4Q3ZMcTBVenFYWFJLcU9zWVRkR0NUbktwZWlwQzVqUXZYd9IB5gFBVV95cUxQOHRfRjFGaEltdE96SFNNRTVUQWUxalBCdmhHS09nZ3pvRWFaWktqbmlDZklfakIydWp1SXlTbXk3UWtjUGw5LTVxMl9uZnZkNUhzT2ZDMGxfajRiYlhoODYzNUZLenI1QzdkWmxBcF9OQThUem5aa0VKbE84alBuUDZlSXI2MXdHMl9xekV0TUtSS3ZQODBIcFBHUzdTZ05tZFBtTXFQdjFHUGdUM1V5UWhMOFI1R2t1WThKZG5KeTJCSzA4Q3ZMcTBVenFYWFJLcU9zWVRkR0NUbktwZWlwQzVqUXZYdw?oc=5",
       "source": "DSports",
       "published": "2026-10-26T02:44:27+00:00",
       "team": "Norwich",
@@ -423,10 +473,10 @@
       "status": "unverified"
     },
     {
-      "title": "＋＋[EnVivo－ＴＶ] FC BARCELONA REAL MADRID Ｅｎ Ｖｉｖｏ Ｏｎｌｉｎｅ 3 de septiembre ２０２６ - Fabryka Norblina",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNekpkZldBSDhwZE5leFBuZXV0RDZyRVpuM0d5azZsSXRIQjl4QVMwS0FLZklpYjJta1NhX052N1gzeHZSdFdRSVNLVjNmLVkzT1BPa0hNc0tBMndJQXhyN2RzSWM1Q3Nic0NYeDVRRm1LLXM3UGNIaExUMG5LWjd3ZFZlby1tZFJ2aEtFZ3F6XzV4WEpWanR6M2VtV1o4WDN4ZWdCOVN4UTVicUhqX0t6WFczNnFlT1loaF9YQXNJb2ZLYW5SYzZXcHViQ3JkVTFGV1ZUSXNYb0xwd3Z1bUloZWVGbm9sd3BkM0xaWXN5SzVZMUZkSzdkQzB1VXVXNkF4SFNJWTJOeXRfSVE5SlFEdGtOeDhaSFE3cUUwdERiTEVKWXVMelN5bEc2eDRtQWdIakQwT2o4TVcwei1UM043VERvZ2lvZWFzTGJqUzN5YjJPaVFnM09XZlVuYWhNLXM?oc=5",
+      "title": "＋＋[EnVivo－ＴＶ] Real Madrid v Barcelona Ｅｎ Ｖｉｖｏ Ｏｎｌｉｎｅ 3 de septiembre ２０２６ - Fabryka Norblina",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPQkNHX0lSZFNDZzlwaGxkQlZCMHFXY0h0cHo4R1M3WG9Hc1NxOERmLW1fQk1lNTBuVU5tRjJGN2MzYm1EczZDeTB4am5YRjlRQTVrZmM1YlFyVzF3cTJXMWxLLVNHcHVDbDdRMXJ1d1ZwRjVRNVhRSnNSN3h5SHBuY0hHOHYtLUVtbGlMLUpkem1KRVhNMjJEeTRNTWZvWVpOcmNHVWkweUF0aTN6RUh4d0RLS0R1QzNIMm5PdEZYWTlSR1NLcTJSMU1uNmFyVFNWS0k0UEpMZFo5d2x5Zk9sc2VfOFVEejREak1ER0pzNWxZd2FjSjl6UEhHRGxjR01NeHVSbTRtZllwblRUOFYwc1BkRW1hZ1Fiek91a3BOMXg5MG01NmFXMlU3OWw3QkRkcTgxZ1FUd0diWWpCcXVjVjVEOW5tTGctNlNWWGkyalJJZ1ZkNjBBUTFSLW93Ym9uYXc?oc=5",
       "source": "Fabryka Norblina",
-      "published": "2026-10-25T20:22:05+00:00",
+      "published": "2026-10-25T20:22:07+00:00",
       "team": "Lincoln City",
       "league": "Championship",
       "category": "general",
@@ -434,9 +484,9 @@
     },
     {
       "title": "Jugador de Selección Colombia vuelve tras 71 días de ausencia por lesión: titular y figura en Inglaterra - Revista Semana",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc0Q2cDkzdnZuRkFROTFqNGpqemJnNW9RVkdIdXg1Q1drNVpRQlN6Z3FfMWZPRTVlcHdkQkpCYWljeXVmNjgyTlo1b094Vk8wUFRNTUctNkFyZFVRMGtlNDJ5cE9pMV9sUG9uSWUtMkxXV21odkVvZDQzM2RjR1JmNEp3X0x4MlhjaWRPUUtTYUJSc3VEektmaFdfeXdxX2RrR3NkU2lHRDE3QU0xZUt4dXVWYkNaTGRtWG8tbWljc0ZCbms5eEFpWUlxeFZBd3FIYU5LZjhEMG9YS2ZiWW54RkFRb29aSTZ1RTVuYtIB7AFBVV95cUxOc0Q2cDkzdnZuRkFROTFqNGpqemJnNW9RVkdIdXg1Q1drNVpRQlN6Z3FfMWZPRTVlcHdkQkpCYWljeXVmNjgyTlo1b094Vk8wUFRNTUctNkFyZFVRMGtlNDJ5cE9pMV9sUG9uSWUtMkxXV21odkVvZDQzM2RjR1JmNEp3X0x4MlhjaWRPUUtTYUJSc3VEektmaFdfeXdxX2RrR3NkU2lHRDE3QU0xZUt4dXVWYkNaTGRtWG8tbWljc0ZCbms5eEFpWUlxeFZBd3FIYU5LZjhEMG9YS2ZiWW54RkFRb29aSTZ1RTVuYg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbVA5SUFFMmtZdUZ6cnFJZHM0bVd2Umh3STZyc1hqVm9IMGZZYUFETUVzUFAwUktpM0o0dDNlWERZV1N3UXAxWlE0d0wxUU41VWVZTG9ZY3dTbFhsUHBLZ0FJZmhKc1pZOWFiYVU4YzJhcUJmYnhiazZNUHo4bjh5WnNXX2JOQ2MxWTMtbVFJSG8tdzV3Z011dWJqNTY4WGZtSG41WmoyM3JUWmtqcDNZcm9PUVJfZDNzV050LUhEQW1HT2RvOXVUMDRyYWhwZURaWjVOSDJwZDAyWHdLTWpCVEt1d256WFXSAewBQVVfeXFMTnNENnA5M3Z2bkZBUTkxajRqanpiZzVvUVZHSHV4NUNXazVaUUJTemdxXzFmT0U1ZXB3ZEJKQmFpY3l1ZjY4Mk5aNW9PeFZPMFBUTU1HLTZBcmRVUTBrZTQyeXBPaTFfbFBvbkllLTJMV1dtaHZFb2Q0MzNkY0dSZjRKd19MeDJYY2lkT1FLU2FCUnN1RHpLZmhXX3l3cV9ka0dzZFNpR0QxN0FNMWVLeHV1VmJDWkxkbVhvLW1pY3NGQm5rOXhBaVlJcXhWQXdxSGFOS2Y4RDBvWEtmYllueEZBUW9vWkk2dUU1bmI?oc=5",
       "source": "Revista Semana",
-      "published": "2026-10-25T18:29:24+00:00",
+      "published": "2026-10-25T18:18:29+00:00",
       "team": "Watford",
       "league": "Championship",
       "category": "lesion",
@@ -447,26 +497,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzk2V2YyclpVVVNBZ0xpRW1sNlFTVzdXb3ROLXlaeVU5dUs2Ui00ZXN1RnpLM0ttMEMtMU5PNlRoT2ROMGJpRktReUIzWnllNVdRd3N4cGZZLUZHVFkyYTdVOEtNT21tTVIzTktVWk84bGVqeEU1eXRBTFNuZ2R5RGxSZnBWNEF0Ung1X0JVdVNBTHRIa3BkMkRpWTQwNHVIOEt1eFo2WWg2aEwx0gGyAUFVX3lxTFAwbXEtMEExR1ZMT0Y2UnpEUHFrQXZiV2w4dC1HbnZnd3g0STNydHNLWG5rTlpQN19wVE1rMFVrSUxyQTR6TmtURjBheUVEVEFZbWVkT0RfMnRxdTFfeGR5WEhjcHZENXVfdTRqdVRxYWVWU2VDSmkzM2JEbmxYNnRCNlM1aUU1Wi15Y3djeW11WE9RUTdjVnBfTEVac0dnSkw0ajVoTjRsSXFpZENyVm5RaHc?oc=5",
       "source": "dsports",
       "published": "2026-10-25T17:10:37+00:00",
-      "team": "Man United",
-      "league": "Premier",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Lecce - Juventus, en directo | Serie A - Mundo Deportivo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3JfQVl5Z0R3ek5wU09xWWdmTlIyOVg3Z2kyYjZYSHZMQjg4dWNDLWdUX2kyel9CdFFrMTJTYXp2YTd5T194MWNMSXcya2NyS0tFYS1sTTdIVnJvclZDb0VkZVBrR3M5WThOTzV5eV94MmRlbUxVdEY2Y3JOOThuaDI2UW9WOXlIRE9zN2l6bkk5bW4tallySzZFMGtGQXFX0gGuAUFVX3lxTE9ZR3gyckNCRVhxOUVCWTc1NU1WeXhiNXlGbjZrOUFfcmxVTW1XWUJYNU9Xa0JkRm5pY1MwRkJjVjc2UDdrcHpIaHhJNVlrSTFXTzRqeFJnUE1fRTg2cmRIOEFpc2dTYXlHYXRYS2l6eEtIYXNnZW5hZURqYlNjdUF4LXl5V0tIdFNYbW9YRTBNWGlWc0Y2Q3A3MEhndVRONEFsanNOZEtTWnRPN2N0dw?oc=5",
-      "source": "Mundo Deportivo",
-      "published": "2026-10-25T17:00:00+00:00",
-      "team": "Lecce",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Man United humillado por el Bournemouth y el puesto de Carrick está en riesgo - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdHBFUUhPZHh4UHcxYzVLckJULTRXVFdWci1sUFU0SURZTERaOUQ2c3lQazlEU2E2RnYteVVVOUN0d212bzJwdnNaemJpdWR1bGdOSS0tWEFUVndzSkpFNU5URXZsSmxJWFdSd1NTQlhxNF9ZNXU3YjNzamF5NlQxamNuYS0wOTZXVkJRVEY3X3g?oc=5",
-      "source": "Yahoo",
-      "published": "2026-10-25T16:47:51+00:00",
       "team": "Man United",
       "league": "Premier",
       "category": "general",
@@ -523,6 +553,16 @@
       "status": "unverified"
     },
     {
+      "title": "Previa Man Utd vs Bournemouth: forma, alineaciones, H2H - Sofascore",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMkhGeDB2TzE0OG43cU5uUDlHUm5wV091MldZMXQ0WkE2d0ZVbEswTTM3SDV5YWh6X1lrZ2VVcHFLLVh4U0FOQTRzajZMdmpUS1cwejZsTE1kM3Vlb2ZuRFVnck95ZDNJbERsOWgtang0VXotZ3ZyRFZKek45RmFQUVU3VVktVGUwVHJtTGlfWQ?oc=5",
+      "source": "Sofascore",
+      "published": "2026-10-25T13:17:24+00:00",
+      "team": "Bournemouth",
+      "league": "Premier",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Alineación del partido Liverpool vs Brighton | Premier League · 25 oct. 2026 - YSscores",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUFRsY19UUDFFRmYyMGN0dWE0ajJFa1ZCQl9WSG5aQXZHakxsdWVDdHNyUjdhYzFlcll2emliZlhKUXBFTmlBSmxxbjdlX2xJNmd6R1JRb0h5U2w5cF9QQXhDRXV5aFdCSzljVlJBWUtPbnhrUTZWZl9VUjJSZXZvSmlHNzlWZw?oc=5",
       "source": "YSscores",
@@ -563,6 +603,16 @@
       "status": "unverified"
     },
     {
+      "title": "Lecce vs Juventus: previa, alineaciones y datos clave de la Serie A - Sofascore",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWnJxY29LM1J6Z1dqb0ZmajNseUZsWklQSWkxMHliMzBuSlJwYzB1aW5WZE0yem1CNXZkcXR3WFYxMEc4QlNHWkxkM19ydHpyNkNSTEtERmNycWtvQ3lYdExLYmZ3OHNKUzBDa05BZjNzQWlaSTIycjZiRWxYOXo5V1VPaE85cWdPNHplajIwUEs0djEyd0hEaUFpWDBhNXI4?oc=5",
+      "source": "Sofascore",
+      "published": "2026-10-25T10:06:32+00:00",
+      "team": "Lecce",
+      "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Inter vs Fiorentina: forma, H2H y jugadores a seguir - Sofascore",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnlqSTVCOU5FbGVxVzlobjFBeVhMY1BqaE1FQlQwSjVSYThJcWpOU1hRTTJfNU4zdTB3U0ZNSFJjdHh3QkIzVDNuVjhtaTVTWDdrejFYc3NJV2h1bWN6Ykc5R0FRTXpVYko3Mi1XX2N2TDlaaHE5SW1DYnIxMjZtZ2RFWHhiblpTS2M2Sw?oc=5",
       "source": "Sofascore",
@@ -580,6 +630,16 @@
       "team": "Lecce",
       "league": "Serie A",
       "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Posible alineación del Levante ante la Real Sociedad en LaLiga EA Sports - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYzEzakdzQzZ4T2V6U2F1Rl9Ub1BNWFVhTFNaTEhOSW0tem8wYXVpSmhwVUQ2OFBtVHJES1RMTnhkcjEwa1ktb2lMc0k0TVpkT1BYNzg5Q3JpSXZITktDY29iMi10ZkYtU0U3djFROUt3eHJpUW9pc19IUkhqLXVNY1dwc3dxV0p0aVQ1Nm93SFVoTVN2dmhsWnpRZTNXVXRLOTZybklYVGRQWmZuVU5waUdHbmpjWmZr?oc=5",
+      "source": "OneFootball",
+      "published": "2026-10-24T23:34:38+00:00",
+      "team": "Levante",
+      "league": "LaLiga",
+      "category": "alineacion",
       "status": "unverified"
     },
     {
@@ -683,13 +743,13 @@
       "status": "unverified"
     },
     {
-      "title": "Cagliari vs Bologna - marcador en vivo, alineaciones previstas y estadísticas H2H - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzUzBoeWRFZ1hPZjJWTGdkZzJkY3lpZ0pRZU9LMHdPQmJmcWltX0g4VHFLZ0E0b000andqOHprdk1BVUg5SlVCbjVDck85TERMNGFTbWxadGVpYlVnZ29ONXJMRENDcDNqWVllcQ?oc=5",
-      "source": "FotMob",
-      "published": "2026-10-24T13:00:00+00:00",
-      "team": "Bologna",
-      "league": "Serie A",
-      "category": "general",
+      "title": "Maresca hace cuatro cambios: Vea la alineación del Man City - Premier League",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHR6amVtUWxOV2tCVTdUX2ZwQ19md0hLZnFSWE5oYW84eWIydEFnMXN0dlRpV0d3RkJTZ05vNWMxMHR5MHhOWTNhNWNrMDNWRVJGX2laQlFMYTZ2QlI0azV0TktlU1lFOTRnTFd2aDVWMzQ3Rnh3ejQyYkdMTllES05UV25BWjhPWEgxTGZFR2Y1amlNYlNyMlh3?oc=5",
+      "source": "Premier League",
+      "published": "2026-10-24T12:32:44+00:00",
+      "team": "Man City",
+      "league": "Premier",
+      "category": "alineacion",
       "status": "unverified"
     },
     {
@@ -698,6 +758,16 @@
       "source": "ESPN México",
       "published": "2026-10-24T11:59:11+00:00",
       "team": "Norwich",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Resumen del partido Stoke City - Bristol City | EFL Championship | Yalla Shoot - YSscores",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82ejktSW9keHJVakhvWFkxRkZmRHdMVUdXR0U1a1JFUVFQbkpQSDIxYWtRZUtxV20zdkFyNHU0dl9HMV9tMTZvekptMXlkUDYydmc?oc=5",
+      "source": "YSscores",
+      "published": "2026-10-24T11:53:29+00:00",
+      "team": "Stoke",
       "league": "Championship",
       "category": "general",
       "status": "unverified"
@@ -903,16 +973,6 @@
       "status": "unverified"
     },
     {
-      "title": "Sheffield Utd - Chelsea 2-2 - Flashscore.es",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYUtVbl82bHNhRHVRcmdMZV9WblhVSk9JWjdHME52bFpITG1EaU9sT21YQ1BJTkxyR2VPZnVhTkZZM2oyZUxzTFVtRTExRUpxS2lZOWxSdzBpQ2YzSzBKZURwOGVmY0ZmMTRyalFBOUsxZG1oaGg2UnJrc3dZRk8zNTRXOXNtM1M0?oc=5",
-      "source": "Flashscore.es",
-      "published": "2026-10-23T12:22:08+00:00",
-      "team": "Sheffield Utd",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Birmingham City-Charlton Athletic: horario, dónde ver y previa de la jornada 7 de la WSL - Las Futbolistas",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWNnN2wwRWVhS2ZUM1hIMTFlaGZCQXh0WGZ0Smt5Mko4VmZoR185T1lZTWZvUVhQV1pMaXltM0pwbDRLbHZmcHA2Qjd2Z2xRS3dmR1NhY0FLclJwSEkwSVZaTWRhdmtuZmY3SUh3N1VCTG9GM0kxWTl1ZUFiZmhVaDVDVTEtN3RrRkxxS2diWjVoRmx2?oc=5",
       "source": "Las Futbolistas",
@@ -930,16 +990,6 @@
       "team": "Fiorentina",
       "league": "Serie A",
       "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "La posible alineación de Chelsea para enfrentar a Tottenham - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFVYOE5DRnFhRXNtWGNwZkZ3M05VNk1MazdIYW5naE9PZjdLZmJXR1NlTjZPTWh2aVZJemtUVnk1NFhHOTlxa2NzRUk0QjZoenRGYnFSc1ZsLVZaQm1uaTM2OG1peDRyQkxibU84SmdLaGlvRVVkWFg1LXI2SXRmOV8zRU5FdTcxR0hjOEt4X1RhVFRvMFNYdmRNbzJaczdoWm82MUx5aF8?oc=5",
-      "source": "Sports Illustrated",
-      "published": "2026-10-23T09:05:35+00:00",
-      "team": "Chelsea",
-      "league": "Premier",
-      "category": "alineacion",
       "status": "unverified"
     },
     {
@@ -993,16 +1043,6 @@
       "status": "unverified"
     },
     {
-      "title": "Núria Escoms está de vuelta - Levante UD",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16VXQ2Q0Y5N1Vudk5jQjAzbUszSGZtZElBZEVlTF8yaW5CYTc3a2tNaGV1V0Nid2t2M3Ric2YtOXdUWXRqUUhwNnFubDd2OVAxR1BrbEFaN3M4VVl2cmZqSmhCN2hQQmd0Q3FyUDdfdw?oc=5",
-      "source": "Levante UD",
-      "published": "2026-10-22T16:48:32+00:00",
-      "team": "Levante",
-      "league": "LaLiga",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Una baja y dos dudas del Villarreal CF para Mestalla - Superdeporte",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmpCNmRseU9JaW11aG9Nc2d6RUV2S1gyOHZDSTNMdUdmYWNKaElSMVpWS1JOb3hqUnF6Y3hBZmU4SnZBSmNIb3VwWkJXdFhmRExVcW1VcGIxT0pSeUpTU3hpblNXUzJxb1hMU21GbTF2N2E4TjVqVFZ3bkhCVG9lU3Z2dFNOemZCVDJGTkZJRDNFaEJqTEZiNXIyTE94QWg4eTJr0gGoAUFVX3lxTE81SmJwS2ozeWFBaTZxT1EyLWVEZ3FINmU2bjMta0JNclE3NjlXSGRmemo5MkZrcF95Y01aNGh5U0ZGenRYUGFzUm9iWm5oZUN5ZW9KWEFIOTNjTmtzeG5CMERKQkpvSDg2aVRJYklhVE53OVZJNUpSZkxuMG96N3hLeldKSlQ4enUyUUtXbk9wZlNCZTlfX1BQbUJ3am1Sd0l3dkJkZVNzLQ?oc=5",
       "source": "Superdeporte",
@@ -1010,46 +1050,6 @@
       "team": "Villarreal",
       "league": "LaLiga",
       "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "¿Dónde podrían jugar Haaland y el resto de las estrellas del Manchester City si el club desciende? - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSnpHeXhlM1dKc1M0SWJhN25ybHo5RkhwOHAxT085ZjhxOV83S1NlX2U4dDBFY0xNS0VNelpBUHViYnZHc0NPVldwaDlndHNfVVFlV1EzbGdJMWsxV1BPQmhFUWF2aHJZdWVSMldpbmIwdV8tWFgzNGJmNkdEYTZLLXdyNy0tMkZuS19RQURKdzRmcXl3R1RfbkxNZUY4VWxOaU1od1h2b3NTcWpucUZZdzNzbG04dTFqMlRYNHdaRVZlN1NhSzFQVTl0NUhtTGF0Y1dZZXRfbDhObDNa?oc=5",
-      "source": "Sports Illustrated",
-      "published": "2026-10-22T13:10:19+00:00",
-      "team": "Man City",
-      "league": "Premier",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Alineaciones de Cagliari contra Bologna - rcdm.es",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05SkV1Y1FtS25WNThiOHNITkFKdVhqbmFqWGpheHhaaWRnNEdBSGR4M2ozQWdTbGR5RGo1WnZPa05LUGtjMkpiaEh0MmhYR2xtbi1yWEV0QnUtVE93a2k0SmU3TVY3LWs?oc=5",
-      "source": "rcdm.es",
-      "published": "2026-10-22T13:07:26+00:00",
-      "team": "Bologna",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Arteta, preocupado por la lesión en el cuádriceps de Bukayo Saka - OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOenZFRFBqcGJmZ0FicFBMT0Yxc3RJUDBlY1dYbE5WSERnTmduemYyeHB6X09McF9qZDZNYWt3eTNtYU5VbGxCTFJHSnpaUkNYaF9YNzVMVjF4Um9Qa1I4aV8weWlDUl9VVzJVY2lNbWdkTDNhbjlfR3luTUYtNFpvcGF1QlBuRnZKM0pOMUhoY25LRGhrVHhhUFBZalFRR0tPWDZtVU5PWHF6cjRmZFFJTGhqMkRENUprbnQxQjlYWHZwdw?oc=5",
-      "source": "OneFootball",
-      "published": "2026-10-22T10:10:44+00:00",
-      "team": "Stoke",
-      "league": "Championship",
-      "category": "lesion",
-      "status": "unverified"
-    },
-    {
-      "title": "Arteta concerned over Bukayo Saka’s quad injury - OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSjhOblRDeFlUTWVpeDg1bHNGREF6QTU2ZkZsVGg0clZXTklsdVc2c05jaUs2RjY1cmY3SmVaczdkU0ZNdGl5czNxYW0tZi1fZktHellXamFpdUdZYVpVUF9Jem95ZmlZUTRVX0ZaMXAxblRoR3Nha19ZZmo0bE1vZWlnQS1oQUJWUlpvQnlaLWFOTjg2dnBneHBOakQtRUxBS0podUxwVU9GUzQ?oc=5",
-      "source": "OneFootball",
-      "published": "2026-10-22T09:26:43+00:00",
-      "team": "Stoke",
-      "league": "Championship",
-      "category": "lesion",
       "status": "unverified"
     }
   ],
