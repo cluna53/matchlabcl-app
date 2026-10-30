@@ -1,6 +1,6 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-10-29T19:57:00.271129+00:00",
+  "updatedAt": "2026-10-30T08:09:14.702122+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
@@ -20,7 +20,7 @@
     },
     "Serie A": {
       "code": "SA",
-      "count": 22
+      "count": 20
     },
     "Eredivisie": {
       "code": "DED",
@@ -28,48 +28,6 @@
     }
   },
   "matches": [
-    {
-      "id": 558558,
-      "league": "Serie A",
-      "utcDate": "2026-10-29T17:30:00Z",
-      "status": "FINISHED",
-      "matchday": 9,
-      "home": {
-        "id": 470,
-        "name": "Frosinone",
-        "crest": "https://crests.football-data.org/470.png"
-      },
-      "away": {
-        "id": 5890,
-        "name": "Lecce",
-        "crest": "https://crests.football-data.org/5890.png"
-      },
-      "score": {
-        "home": 5,
-        "away": 1
-      }
-    },
-    {
-      "id": 558551,
-      "league": "Serie A",
-      "utcDate": "2026-10-29T19:45:00Z",
-      "status": "IN_PLAY",
-      "matchday": 9,
-      "home": {
-        "id": 99,
-        "name": "Fiorentina",
-        "crest": "https://crests.football-data.org/99.png"
-      },
-      "away": {
-        "id": 102,
-        "name": "Atalanta",
-        "crest": "https://crests.football-data.org/102.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 0
-      }
-    },
     {
       "id": 564737,
       "league": "LaLiga",
@@ -4081,8 +4039,8 @@
         "won": 3,
         "draw": 2,
         "lost": 4,
-        "goalsFor": 14,
-        "goalsAgainst": 15,
+        "goalsFor": 16,
+        "goalsAgainst": 17,
         "points": 11
       },
       {
@@ -4147,8 +4105,8 @@
         "won": 1,
         "draw": 2,
         "lost": 6,
-        "goalsFor": 9,
-        "goalsAgainst": 19,
+        "goalsFor": 11,
+        "goalsAgainst": 21,
         "points": 5
       },
       {
@@ -8104,6 +8062,22 @@
         "awayId": 113,
         "homeGoals": 1,
         "awayGoals": 4
+      },
+      {
+        "id": 558558,
+        "date": "2026-10-29T17:30:00Z",
+        "homeId": 470,
+        "awayId": 5890,
+        "homeGoals": 5,
+        "awayGoals": 1
+      },
+      {
+        "id": 558551,
+        "date": "2026-10-29T19:45:00Z",
+        "homeId": 99,
+        "awayId": 102,
+        "homeGoals": 2,
+        "awayGoals": 2
       }
     ],
     "Eredivisie": [
