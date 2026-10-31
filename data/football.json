@@ -1,10 +1,10 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-10-30T19:53:32.615564+00:00",
+  "updatedAt": "2026-10-31T07:57:59.878156+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
-      "count": 20
+      "count": 19
     },
     "Premier": {
       "code": "PL",
@@ -12,7 +12,7 @@
     },
     "Championship": {
       "code": "ELC",
-      "count": 36
+      "count": 35
     },
     "Champions League": {
       "code": "CL",
@@ -28,48 +28,6 @@
     }
   },
   "matches": [
-    {
-      "id": 564737,
-      "league": "LaLiga",
-      "utcDate": "2026-10-30T20:00:00Z",
-      "status": "TIMED",
-      "matchday": 11,
-      "home": {
-        "id": 94,
-        "name": "Villarreal",
-        "crest": "https://crests.football-data.org/94.png"
-      },
-      "away": {
-        "id": 80,
-        "name": "Espanyol",
-        "crest": "https://crests.football-data.org/80.png"
-      },
-      "score": {
-        "home": null,
-        "away": null
-      }
-    },
-    {
-      "id": 561916,
-      "league": "Championship",
-      "utcDate": "2026-10-30T20:00:00Z",
-      "status": "TIMED",
-      "matchday": 13,
-      "home": {
-        "id": 356,
-        "name": "Sheffield Utd",
-        "crest": "https://crests.football-data.org/356.png"
-      },
-      "away": {
-        "id": 404,
-        "name": "Wrexham",
-        "crest": "https://crests.football-data.org/404.png"
-      },
-      "score": {
-        "home": null,
-        "away": null
-      }
-    },
     {
       "id": 560626,
       "league": "Premier",
@@ -2905,12 +2863,12 @@
       {
         "teamId": 94,
         "position": 10,
-        "played": 10,
+        "played": 11,
         "won": 3,
         "draw": 3,
-        "lost": 4,
+        "lost": 5,
         "goalsFor": 15,
-        "goalsAgainst": 14,
+        "goalsAgainst": 15,
         "points": 12
       },
       {
@@ -2925,8 +2883,19 @@
         "points": 11
       },
       {
-        "teamId": 79,
+        "teamId": 80,
         "position": 12,
+        "played": 11,
+        "won": 3,
+        "draw": 2,
+        "lost": 6,
+        "goalsFor": 13,
+        "goalsAgainst": 14,
+        "points": 11
+      },
+      {
+        "teamId": 79,
+        "position": 13,
         "played": 10,
         "won": 3,
         "draw": 2,
@@ -2937,7 +2906,7 @@
       },
       {
         "teamId": 5335,
-        "position": 13,
+        "position": 14,
         "played": 10,
         "won": 3,
         "draw": 2,
@@ -2948,7 +2917,7 @@
       },
       {
         "teamId": 88,
-        "position": 14,
+        "position": 15,
         "played": 10,
         "won": 2,
         "draw": 4,
@@ -2959,7 +2928,7 @@
       },
       {
         "teamId": 285,
-        "position": 15,
+        "position": 16,
         "played": 10,
         "won": 2,
         "draw": 4,
@@ -2970,7 +2939,7 @@
       },
       {
         "teamId": 87,
-        "position": 16,
+        "position": 17,
         "played": 9,
         "won": 2,
         "draw": 3,
@@ -2981,7 +2950,7 @@
       },
       {
         "teamId": 82,
-        "position": 17,
+        "position": 18,
         "played": 10,
         "won": 2,
         "draw": 3,
@@ -2989,17 +2958,6 @@
         "goalsFor": 5,
         "goalsAgainst": 15,
         "points": 9
-      },
-      {
-        "teamId": 80,
-        "position": 18,
-        "played": 10,
-        "won": 2,
-        "draw": 2,
-        "lost": 6,
-        "goalsFor": 12,
-        "goalsAgainst": 14,
-        "points": 8
       },
       {
         "teamId": 95,
@@ -5126,6 +5084,14 @@
         "awayId": 79,
         "homeGoals": 2,
         "awayGoals": 0
+      },
+      {
+        "id": 564737,
+        "date": "2026-10-30T20:00:00Z",
+        "homeId": 94,
+        "awayId": 80,
+        "homeGoals": 0,
+        "awayGoals": 1
       }
     ],
     "Premier": [
