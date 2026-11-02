@@ -1,6 +1,6 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-11-02T08:29:42.069297+00:00",
+  "updatedAt": "2026-11-02T19:58:32.319545+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
@@ -32,7 +32,7 @@
       "id": 558541,
       "league": "Serie A",
       "utcDate": "2026-11-02T17:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 10,
       "home": {
         "id": 471,
@@ -45,15 +45,15 @@
         "crest": "https://crests.football-data.org/99.png"
       },
       "score": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 4
       }
     },
     {
       "id": 558545,
       "league": "Serie A",
       "utcDate": "2026-11-02T19:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 10,
       "home": {
         "id": 102,
@@ -66,8 +66,8 @@
         "crest": "https://crests.football-data.org/112.png"
       },
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       }
     },
     {
@@ -3059,13 +3059,13 @@
       {
         "teamId": 102,
         "position": 13,
-        "played": 9,
+        "played": 10,
         "won": 3,
-        "draw": 2,
+        "draw": 3,
         "lost": 4,
         "goalsFor": 16,
         "goalsAgainst": 17,
-        "points": 11
+        "points": 12
       },
       {
         "teamId": 5890,
@@ -3079,19 +3079,30 @@
         "points": 9
       },
       {
-        "teamId": 471,
+        "teamId": 99,
         "position": 15,
-        "played": 9,
+        "played": 10,
         "won": 2,
         "draw": 2,
-        "lost": 5,
-        "goalsFor": 14,
-        "goalsAgainst": 22,
+        "lost": 6,
+        "goalsFor": 15,
+        "goalsAgainst": 23,
+        "points": 8
+      },
+      {
+        "teamId": 471,
+        "position": 16,
+        "played": 10,
+        "won": 2,
+        "draw": 2,
+        "lost": 6,
+        "goalsFor": 16,
+        "goalsAgainst": 26,
         "points": 8
       },
       {
         "teamId": 5911,
-        "position": 16,
+        "position": 17,
         "played": 10,
         "won": 2,
         "draw": 1,
@@ -3101,26 +3112,15 @@
         "points": 7
       },
       {
-        "teamId": 99,
-        "position": 17,
-        "played": 9,
-        "won": 1,
-        "draw": 2,
-        "lost": 6,
-        "goalsFor": 11,
-        "goalsAgainst": 21,
-        "points": 5
-      },
-      {
         "teamId": 112,
         "position": 18,
-        "played": 9,
+        "played": 10,
         "won": 1,
-        "draw": 2,
+        "draw": 3,
         "lost": 6,
         "goalsFor": 5,
         "goalsAgainst": 15,
-        "points": 5
+        "points": 6
       },
       {
         "teamId": 115,
