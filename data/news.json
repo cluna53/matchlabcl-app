@@ -1,24 +1,154 @@
 {
-  "updatedAt": "2026-11-04T14:32:23.989086+00:00",
+  "updatedAt": "2026-11-04T20:19:02.279960+00:00",
   "source": "Google News RSS headlines",
   "items": [
+    {
+      "title": "Onces iniciales del Real Madrid y del AEK de Atenas - Real Madrid CF | Web Oficial",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVmFSZ1NnWTM5UHc5bHN4SFZOTTh5NXBBQ1B1M2d1cGJUMThEQ0RUTFZwWUJWb2ttRUlGSlk0Q1A5eTdBdkxaN2I5cWJRWFF1eWFsdUZCVm1vd1M5U1pmVTE2LUFYZllnV3gwR1BHaGFTSzV2dVpObVpHbEVmV0ZlemRxbm5HeDBOaWdiSDU4NE01bUhzSWJTTzJKWUYtZzhnUkg0SzFhS2YwaTZTRHRWck1WT1NXeURQeHFwN1BpRlduR3k3Q3hqcGlKR01VS2Iy?oc=5",
+      "source": "Real Madrid CF | Web Oficial",
+      "published": "2026-11-04T19:36:54+00:00",
+      "team": "Real Madrid",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
     {
       "title": "RC Lens - Como | Pronóstico y cuotas 04.11.2026 - Diario AS",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUURPNmV5UjZKdkJwUE5XMVBMd0RIdWgzdWJKNWxNV19mY1NBczlWWDM3RnlCWjhMS01FVVE3Z3ZZclJNLUVPTWkzb05JSkpOQ1hZOTg0R3I1UGd5VF9XVmttTVVCY1gtT2dHT0RwZXhuZFJuTTFkb0x6MG0yWjg?oc=5",
       "source": "Diario AS",
-      "published": "2026-11-04T13:27:47+00:00",
+      "published": "2026-11-04T19:24:55+00:00",
       "team": "RC Lens",
       "league": "Champions League",
       "category": "general",
       "status": "unverified"
     },
     {
-      "title": "Cómo ver RB Leipzig vs Manchester City en vivo: canales, streaming y horarios de la Champions League para España, México, Latinoamérica y USA - DAZN",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdGVkTW8xSXFDVFlzaHlQa194cEN0QmZ2c0ptNjVhT1RHSEhyMlpsTThvamhBMVhlMWFaQ0xhY3dBRUt2RUZIYS1qaThFajZHNmtUOTlDNWU5Q09NTmhXbzltemExTkt6Wjg4enhxdUtKcndzcndZcnpMSmhfUkJzTlkxdGFIejRMM092dEtNODVfNXhCc2VvSUpqX1hfNGtoZE1JbmM2V3hMWWl0Q2dRYnlWdUdud2ZEdW9renR6V0tFMm9iN1NsUndRR0xBZkttOXgwZ0k2c0NZcmZMUE5qaUpoelh4OUJONFFjLVM5S3drOTFGcFRzWGNsNWd2dmFVSkw3QkFoQURrWUtXZ2N0dFBmWEtQZVJKNmc?oc=5",
-      "source": "DAZN",
-      "published": "2026-11-04T13:00:00+00:00",
-      "team": "RB Leipzig",
+      "title": "Cambios en la alineación oficial del Arsenal para enfrentar al Slavia de Praga - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWE5JdGx2VnBVR2JDWWVOMV91TFMydnFLU0FDMVB3cGpZMFAzN1JIZTFXaWp1YjJEQjNKbVpDeExDb09TQkQ0M1FMb1pvMWR2NW12ZFAxUEZZTFNJODZ4UFN2bkFsMU1lQmJjcmxvTFprQ3kwUjVFTkxvUjFsclo1NWFzeW9MOGUydmxWVUY4Q1FNRWFoZXVmVXJIYw?oc=5",
+      "source": "Yahoo",
+      "published": "2026-11-04T19:22:25+00:00",
+      "team": "Arsenal",
       "league": "Champions League",
+      "category": "alineacion",
+      "status": "unverified"
+    },
+    {
+      "title": "EN DIRECTO: Wolves busca seguir invicto ante el Bristol City - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHJNSTZIQTViRWoyT3ZETUFVUkJoMDdqb0l4X21qb2dxa1R1UFYwVmllaU1XSV9CSDBLWVVTeFVoRnBKbFdFSWNOeGl5SXJkVlVWSGpDQU9ZVmd2TWJIWW04dG4ycU94eVlfM1FCc1FjMXVtZnNvY3lhT0U0d0dhcHhfcHpKazh3NndBZ2c5MG55TEQ1Z0xPdmZyZ21SU29uc0Ffb0N3NA?oc=5",
+      "source": "OneFootball",
+      "published": "2026-11-04T19:16:21+00:00",
+      "team": "Bristol City",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones oficiales del Borussia Dortmund - Betis de la Champions League 2026-2027: revolución de Pellegrini con Facundo, Ortiz, Valentín, Deossa... - ABC",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVWpLaWhwTEpMRmtBb05FWS0wOUtKRDdPUTZNMUFuc2tvTWpXUlQ4RWlXVTBnRlVnMHk0NlJyR25oYkN3X25ZWHc5X1FOTjlCNDNsMFJyWDFMVnZHU3NZSE1kbmZYS0dCX21EVFZIeXhwVnJQVnA1RVdpU3lMbFo3X2Y0TzF4ZU45ZnNwblBBSFJERk9TYlZrUjQ1akI4UG5XLWVsaHBjMkVtUVJpUE9POERIbzFUNVcyN0hUeDgwWHZ0LW1sQzJ1ZGhVVWNjeFhYdWFYZGlkY3lyVTJPVVJ2WEJvNNIB6AFBVV95cUxNXzY3YXU0eExRQ3FVbF9FeTF0NlZPX2ZmOFlXSFRZdlJ5dnhPcTEyaFVYSUJRZ2VLeC1KRXRWRjkxaXpMd0Jad3NwZEF5U3pGOThrbVdVZ0JxSDFwNUdrdC1LOFlnakRjSlV5MFJpWUNoREpRSnZaa1NtYUpZZmQyMXhRZ1BsTlFWa0JobndIdnI4ekoyLWVHWml3dkNDaHZVQWRhWDZteU54NW12MGYxdFFNVGo5MmQtVGtHS0xremNleG9FY0E5MHB6bmVsMDRraktFMDA4ZTRzUWJBVVB0YnNHWjJQS1Vu?oc=5",
+      "source": "ABC",
+      "published": "2026-11-04T18:48:48+00:00",
+      "team": "Dortmund",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones confirmadas del Borussia Dortmund y del Betis en la Champions League - El Desmarque",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaEJXamNOa0VCWklCVHEtOHM2YUhqbEVvY3h3NUVId0trMThtUlBmZk0yaVdBcVlhUEUwQmZ0bFdzTDlFR2xPckVHZktHUmcwYkE3ZlUwTkpFZlFsUzRkcjVvWno5d3lRbndUdUtDSGQ3TnljYVFSUXF1bUFzMTE4MGJudFNTcWM3QTB3X3c5OGN0S3BIWUFOZldWcUk5Ym43X0hCMmFQeDNZMzJyNWZfbFI0LV9WX0gwa1J5alNjZVhmUWs?oc=5",
+      "source": "El Desmarque",
+      "published": "2026-11-04T18:46:17+00:00",
+      "team": "Dortmund",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones de Wrexham vs Middlesbrough | EFL Championship - YSscores",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWeG9fN05wLU1oT2ZMMDFYc1ZkY3I1TWU4Z2dJMlpjdUNzTVRReWFBVERHaWtsRXBjYWE3UGhTTFN3dHNxcEtBb2llNW9WWXpYV25oajJGRkNHZDdMVkkyMzNfYWZsbDhPVTl2V3RQbWtCYnNQZ1hWWFZKZmJNV0k?oc=5",
+      "source": "YSscores",
+      "published": "2026-11-04T18:41:02+00:00",
+      "team": "Wrexham",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones de Bristol City vs Wolverhampton: Estadísticas, horarios y dónde ver - Xpectro FM",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM2ppMHZnZnkxSlc5MnNrdVlZbXp5dF8xb3Ria1ptQUZhaXBTdnprSElhQlpfbDJmajZsTDM0TzlUaUdwMERaSDdIbFlocEpQc0xvWWJtLThYNy1YamNhdXFsX0Vxd1hsYkpoQVRJVm43MDFjUTlwX01QRGpoV21yQmI4czk3WWtvX21acURSemtFTElRaW4wRTJOcWR5YV90VlNHcQ?oc=5",
+      "source": "Xpectro FM",
+      "published": "2026-11-04T18:35:00+00:00",
+      "team": "Bristol City",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Futebol Clube do Oporto - SSC Napoli | Pronóstico y cuotas 04.11.2026 - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ042QlZRaGVMQ2J0TUlvLUxVQk5McklTR05UU1BoZDRLZDRGbEVuVm1Cb05WT2lHUGluVVhYakNHN3p0VERQU1RzS1dGQktnU29vbllkOF9nSnQ1MXdkX0pEWXpucWlGZmNwWHQzd3B6VExjbG1xY3U3NC14SmFaTmVxZ1o?oc=5",
+      "source": "Diario AS",
+      "published": "2026-11-04T18:31:44+00:00",
+      "team": "Napoli",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "PSV vs Club Brugge: Duelo crucial en Champions League por la Fecha 4 - Futbolred",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXdoZFdIM2ZpeDhlczVJTmpTamFUMWQxUnA0TEJuckc2RjdSSl9Hb3VUS0tDX29PVDVBRFEzOFRFc2E1UXAxYTIybnNWT2lOblM5Z09hRlZQaHg3RTV4Tk14ODZleGtRRmdLZnBvUE11WDh4ZmtYOXpxaHJrUjdKNzlxSHdjZ0hxeU5mbndRVlRKSVR0ZV9SellLbUh3QUhLWU54RUxiemM1RDhzUmxtelBHRm5HUlJ60gG-AUFVX3lxTE93U3dyLUZXMndIbndwdVhiU0gxX3o1RlpuZjlaOUswU05pN1RwSW5JT1JwMkc5eExsa0JtVXJYdjhTdjdoVTRGUFVHMzF5NWFpay00WjVhWWh3NHBFSmhxNE1WclJUU1NaNjdtQXlWaUZQT1ZUX3NaZ2otSDlrQURzNFVoTGdDSlNDQzRaaDUtVTVXTWF4cHRwTG1SMVEzeVFNWkJrRGpCNmQtRW1GRmZNbjNmR2g3NTBvQThLSmc?oc=5",
+      "source": "Futbolred",
+      "published": "2026-11-04T18:10:03+00:00",
+      "team": "Club Brugge",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Atlético de Madrid: Malas noticias con la lesión de Cuti Romero - El Desmarque",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVNUdGN5T0hLd1V3ZEhoVlJSVGtvbzZjdFpwTWpad0ZpYkhfb1VOM0k5ZFNQcHQwQ3hSNHJGZWY0V2VjLU9OUWdkT09HeDZPel8zWjNmVlVTbTdqVEdtVXlZMlEwdmJxN19OeUJSRmFJM2RBa1RyamJReGJVd3R6UGI3Zy1JZWx1dnZ1RUxQT1VzZWJPZ05NYkpYc0hMYTBBOTFSTGFibUEtVE91SmhUMko4VlB5djE2OHhDMi0wazN6QnhTTGFB?oc=5",
+      "source": "El Desmarque",
+      "published": "2026-11-04T17:39:42+00:00",
+      "team": "Slavia Praha",
+      "league": "Champions League",
+      "category": "lesion",
+      "status": "unverified"
+    },
+    {
+      "title": "Probable alineación del PSV: ¿qué hará Bosz con Pepi? - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1NFaERsSjd2VDQ5N0Q1b09UQ0FTS3RjQUdQOG1pWVlOLXNOc01SVlBWSThhdlZ0dXpGeUpjMjB4V21yR1JNRWRWVmxmWU04TmE1dGlFOS12bHIxZjZsNnRlcndlQ2JEdkp5OWxhV0tWWnVWeDQ2RFlPeVZxc0xMWFA2czRuWG5NTEtyNld1bThBQ3ZZd2k0Um1rLWZuYXQ0dDYyeXYxOEV3UQ?oc=5",
+      "source": "Goal.com",
+      "published": "2026-11-04T16:49:23+00:00",
+      "team": "Willem II",
+      "league": "Eredivisie",
+      "category": "alineacion",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones de Viking y Sabah FK para el duelo de la jornada 4 de la Champions League - Bolavip Argentina",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZkRoNHdhQnQxQTFtdGdIQXhYcjFFR3ZVbklpeGJ3dFYwMDBqanNfYXktTTkxUVJmSjdmNnFFQVZMM1NydGJBV1VINGM0WVFGWEFYTUVSTVlhWDJhYXl4S3E0OHVrcFA2YWEtS2ROeTJtRDl0bGxuVVhJbVJzRE5aNlExME1ma1NkU0s1NjRfVGc3WUU5MF9jNTVrbVUtRmY0RjFKd1lVSjdITkx6YkQ2cUV4bVVRSWRwRkNWT1lmbTZUaTJVM3FJQ3lB0gHKAUFVX3lxTFBmRGg0d2FCdDFBMW10Z0hBeFhyMUVHdlVuSWl4Ynd0VjAwMGpqc19heS1NOTFRUmZKN2Y2cUVBVkwzU3J0YkFXVUg0YzRZUUZYQVhNRVJNWWFYMmFheXhLcTQ4dWtwUDZhYS1LZE55Mm1EOXRsbG5VWEltUnNETlo2UTEwTWZrU2RTSzU2NF9UZzdZRTkwX2M1NWttVS1GZjRGMUp3WVVKN0hOTHpiRDZxRXhtVVFJZHBGQ1ZPWWZtNlRpMlUzcUlDeUE?oc=5",
+      "source": "Bolavip Argentina",
+      "published": "2026-11-04T15:01:03+00:00",
+      "team": "Sabah FK",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineación del Real Madrid hoy ante el AEK Atenas para el partido de la Champions League - ABC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdk9RSl9HOVNlOFE0YzFOcjFxTjhmZEFwdC02QlRPeFpmaFhXaGRvSGJSMkRiYjRTRHZrRjlYSWpEdDR1b29SZFNmX0t1R3ZaSng0VEFURm04VVdQUDJlcUpUd1VpUjJydXZUWVd6QXhIcnp0NlBHcGNwRE00SlNFejJBZ0dqTWxGWGx6cVlZMWdBbWsyNEt5LXNheXdQVHJ2SFRUSms2LWvSAa4BQVVfeXFMTmZIN3hMOTR4dGVvcHJxLWFraXR5RndIV0JRei1MaWtUeGs1aFJ3Y3lySXhzNDhSdlkzM09TWWhPMThpRHY2Qjg5OXE0QkY0XzB1SWM4VGliaUZGR2c2UHhQUi1LdjgtTW10WnFqdWluS2k2U0V2aE1HVWloSUY5bXZmemNpejJOTHdQVm13UmV0dlhkYlZaZzlXcEoyLVluSjU3dC1hMHVqbWhnQmtB?oc=5",
+      "source": "ABC",
+      "published": "2026-11-04T14:42:48+00:00",
+      "team": "Real Madrid",
+      "league": "Champions League",
+      "category": "alineacion",
+      "status": "unverified"
+    },
+    {
+      "title": "Cardiff - West Ham - Pronóstico, dónde ver, horario y alineaciones 04-11-2026 - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHFBR1hKYWViMXE0aTA4T0lLdnE1dkowWU1EUjFpSG1qa2htSkEtQm9JZHJWR2IyWkJDTzRmX0pFa3Q2TU9SbkhaRldFQmNoc0p6c1hFYWVJTHlaZmVuY0d1QlB1QjFvQW8xTFVuVk1HVnBiUG1OTkcyenJOR2wtbTVQbS0?oc=5",
+      "source": "OneFootball",
+      "published": "2026-11-04T14:29:58+00:00",
+      "team": "Cardiff",
+      "league": "Championship",
       "category": "general",
       "status": "unverified"
     },
@@ -33,41 +163,11 @@
       "status": "unverified"
     },
     {
-      "title": "Slavia Praga vs. Arsenal en vivo: dónde ver por TV y streaming online, por la jornada 4 de la Champions League - Bolavip Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdlN6cllaTUZBRFM3alI2ZkdRNnpUQV9nQm5GVWtEc09tRjRGS005c09ncG1saGp3ZE5Ec3hIbHBEcWs3d1FCU1YyVnlvS2JtODVOWFhNajQ1ekVxcWFta19fNFJUUWdEeWk1SHpCcVVRbEl3ZmNGYTRacVdGcnVqVWJkb0F4ODVrUHc4cmo2STA2MVdmN09nRVZLS0ljTzhWYVctbWgzVFhsZmk2QXBJUDdpV2hGMV80Nmd1Y3pMLUpoUFBVdHZ0OUlWRmc4MnZjVS0wVUJMR0pMWEFOM2pMS9IB5gFBVV95cUxQZ1plYzI3VGxnLTQ1ckY2eDhLaVdxaEU5YkRQenU5cXFmOFJKTmFpSXN5d3BWeGNQMDBkd1hPYW9Oc2pZeWtid2hWaW4td3hrRHhRblhNS0owa0YxaGJvTTZnWER2Y1VyMzNoLXJqT3RwVV9pZUR2UDVOWDJpcWMwb3lhTEEyeV94bXlWQVJDYjdGRGpPdXhxcnJ4RTJqREZUWXJMcTI0Ri1SRE01czExSm93cHV6MzZTeng2b1hONXk5d2RWa1JKMDcySWtoWmJGOVNpZmpqeEE3d3JGUThTZlh2N0RCUQ?oc=5",
+      "title": "Dónde ver EN VIVO Lens vs. Como 1907 por la jornada 4 de la Champions League: TV y streaming online - Bolavip Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWTcyLS1XRFpDdTYtTEpFLXczVkg0bW9VWTM0TnJLM0FsWTVEeXpyME4yWm1Hb1ZEdmtpZmxwQlViSzlLRFlhbFh5UU9yMzF6SWxOMDJkZTdNOWQyc01Tcm5SNVRfc3Bfb3dNNElRajVBdmJpV0Z4ZEtBTEFYNXFieEk1NmozTTVHX2NmbkdlOWNIXzBOVUVpTkFXLWZJaUg4NFBXNGM2eGpzMTRSMk5qaktFVnlUanpNUWdiOXBOVkplankwcFVpU19rRjNEY1FfYkdz0gHYAUFVX3lxTFBUU00tTUxLYzRIQUVIVEVZTWtNendJajVuYnk3YVJtSGVRM05yWF9HSURUTG5YRzdvWjVVU1lHeEwyOUZPaVpoZ3g2S3puaTVhTXBPaUNQN3Y0UjFrYkxXQWtCc0ttNjB0bjFRamFUY2FtUnJmVTJGSkQtcGhrakJkX3YzUDlaOERfMHl2ZG80LWRGQlVVZ2NmVUR6M2Q5MFlRMk50SHZ4VVUzWHNObnd5dFgwZHQwZXY4YlFWdkFtUmtGTGhsVjQyTVYxWW1OSXBYSnFDQklrWQ?oc=5",
       "source": "Bolavip Argentina",
-      "published": "2026-11-04T12:01:53+00:00",
-      "team": "Slavia Praha",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Viking vs. Sabah FK: horario y dónde ver en vivo y online en Argentina, por la jornada 4 de la Champions Le... - Bolavip Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUzZoTkxHdnZ3T1lVai1YSVJ5U3VFTEpnT213VVpXLXBaLUhVeXh3ZVRrZERJb3ptb0pOQk10dnBIdTNfWm5jZG9ocVRRQm1qRDZTYlh3TWd1dGJ1emdRbmY5Q0Zwa2ZSS0o1czdObjVEbUJFSUNqZ0JJTk9Md1VoWXhvMkNBODNINXh2MkFDOWFIRk8teE50aDJkN1F4WW1SSUxVNGUxM2QtcjBjLUZ5Wkt4OXR6MDdHcXhzYnFhVTZpVWVienplMjVjNGRTNEVGRWJCNGoxbHg0QW5ySm5UVFRn0gHnAUFVX3lxTE1OT2RNRDgxZGpwRjQzYVFiLXFBcnVJT0RkM0QzZzhKN0FjdE9xV0pGWW5yZ1FLNnpqNkF2SzJNRlNvdVQxNzZ1ei1MenY0a1BvUHFHM1hPaWt4TTZKYURySDNSYzVGTzZMYnZHVmlTZ2dKR2NZVTZCdzM4alZZQjY3WVNQWXVQTFFhN2VSMmpLNEp5b0FBVXNYWXZWOWQ0Q3lMMkNSX1g2UEJ3bm56Q0JlZDJRV3hnNXFXU2dvcl9tdjVvRnJJOVMtZjR5aEFNX19BZVIwWGh1YVZ3eExkR2pWT1NPTVdQcw?oc=5",
-      "source": "Bolavip Argentina",
-      "published": "2026-11-04T12:01:14+00:00",
-      "team": "Sabah FK",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Alineación del Real Madrid hoy ante el AEK Atenas para el partido de la Champions League - ABC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdk9RSl9HOVNlOFE0YzFOcjFxTjhmZEFwdC02QlRPeFpmaFhXaGRvSGJSMkRiYjRTRHZrRjlYSWpEdDR1b29SZFNmX0t1R3ZaSng0VEFURm04VVdQUDJlcUpUd1VpUjJydXZUWVd6QXhIcnp0NlBHcGNwRE00SlNFejJBZ0dqTWxGWGx6cVlZMWdBbWsyNEt5LXNheXdQVHJ2SFRUSms2LWvSAa4BQVVfeXFMTmZIN3hMOTR4dGVvcHJxLWFraXR5RndIV0JRei1MaWtUeGs1aFJ3Y3lySXhzNDhSdlkzM09TWWhPMThpRHY2Qjg5OXE0QkY0XzB1SWM4VGliaUZGR2c2UHhQUi1LdjgtTW10WnFqdWluS2k2U0V2aE1HVWloSUY5bXZmemNpejJOTHdQVm13UmV0dlhkYlZaZzlXcEoyLVluSjU3dC1hMHVqbWhnQmtB?oc=5",
-      "source": "ABC",
-      "published": "2026-11-04T11:56:30+00:00",
-      "team": "Real Madrid",
-      "league": "Champions League",
-      "category": "alineacion",
-      "status": "unverified"
-    },
-    {
-      "title": "RB Leipzig vs M. City: estadísticas previas y datos en directo | Champions League 2026/2027 - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUUtfQXA4aTBvenJaUmwxdl9GWnNlWGExTHhFYTlKNGNnbmRJdU90ZDFRanVCWmxFZ0hodWZIZ0s1cmtsNXlOSmFPand5VS1UV0JmR09jMWYxa1ExamdadERkTFdjdVJtRnk4czZZZEVtSkdpV1k5WEpDTkhyQXZRa0NQeXI0UXdOVUU5c3FQaVIzaUE?oc=5",
-      "source": "Diario AS",
-      "published": "2026-11-04T11:54:29+00:00",
-      "team": "RB Leipzig",
+      "published": "2026-11-04T12:02:28+00:00",
+      "team": "Como 1907",
       "league": "Champions League",
       "category": "general",
       "status": "unverified"
@@ -93,11 +193,11 @@
       "status": "unverified"
     },
     {
-      "title": "Futebol Clube do Oporto - SSC Napoli | Pronóstico y cuotas 04.11.2026 - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ042QlZRaGVMQ2J0TUlvLUxVQk5McklTR05UU1BoZDRLZDRGbEVuVm1Cb05WT2lHUGluVVhYakNHN3p0VERQU1RzS1dGQktnU29vbllkOF9nSnQ1MXdkX0pEWXpucWlGZmNwWHQzd3B6VExjbG1xY3U3NC14SmFaTmVxZ1o?oc=5",
-      "source": "Diario AS",
-      "published": "2026-11-04T10:09:52+00:00",
-      "team": "Napoli",
+      "title": "Slavia Praga vs Arsenal: previa, predicciones y alineaciones - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMk52TkJIcUxUUlg0Y2N1UDUxVUluTkUxdXFHcWhYT0tyVzdfcUI0TmcydjBob21PS2drVkFsMXVKVGJYbU16M3FpR1FEVm44aXRQcDNSNlRjcUhTemJFR1E1WXRtRU1EMVlwWVZZSHhPUjJQcGNIajhobmJfZzMzQWcxb1d0T3ZubnJKaTJQOWZWSHVhTHFZUQ?oc=5",
+      "source": "Sports Illustrated",
+      "published": "2026-11-04T09:43:44+00:00",
+      "team": "Slavia Praha",
       "league": "Champions League",
       "category": "general",
       "status": "unverified"
@@ -133,6 +233,16 @@
       "status": "unverified"
     },
     {
+      "title": "Alineación probable del PSV: ¿qué hará Bosz con Pepi? - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0hrU2RTTnFLRDFUcm93U2ozaEtwUkYyaWVhcUo4WlF3RXJLbmNfS2ZJNGJuWGVnWTJhWUhOQ1JDdkEwMkcwQXdfYmxUcWlXUHRpMmExSUpZeGg2eG9YOV9odExIZUFYVkQ1Nm5GYlN1eGNId3FDYWxudzU3LXlqRUFjMkZPd2R3RGhzeGE3RS10YVdqMGQ0TDgzckRCUnVCMDBIS19pVXF1UQ?oc=5",
+      "source": "Goal.com",
+      "published": "2026-11-04T06:00:00+00:00",
+      "team": "Willem II",
+      "league": "Eredivisie",
+      "category": "alineacion",
+      "status": "unverified"
+    },
+    {
       "title": "Nhận định Slavia Praha vs Arsenal, 03h00 ngày 5/11: Nối dài mạch bất bại - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWS11Y3VISTA5RmY1ZUUtRTJwaUVZUXh3TVRkOEVLQTZnVmN2WmJmNUZTU1Q4eUh6OWowZjJic0J5UmlmbjRpaVlvSmp0UThpOGt4SW84NWtUeU8xSDIzQmZLNUxmTWN2ZTZwOTFXdEdRS3lORFJBY2pBeGI0UnJoWXcwc1g3ajJEeko2UGwyX1c0bGo1a1g4el9fTzI?oc=5",
       "source": "Vietnam.vn",
@@ -143,21 +253,41 @@
       "status": "unverified"
     },
     {
-      "title": "RB Leipzig vs Manchester City: fecha, hora y todo lo que debes saber de este choque en la Champions League - beIN SPORTS",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZGdZbEE3MXJFMUcwNGh3cm1VRHBpREhrTElDNm5mWDJybzBQakR4LTd6dlpEVC1LVTlvRE9SM1NWQzVCZlk1VEg0SXdVcWM1SjNCeWFSb1UwQ2NnQjhQV0JfWGhZSnVUMC1BWDFOWDNxYUo2ZVlVSEg4cFlOYVdwSkRBUzZqZkNaaThySFJyUVJtMDZFN2Jhc0JmZE5teFhscm1IUGVsQWhmdnpGTzQ2UmIwZ1R3S09JNVBYWkxody1WcnlnRVF6NndwR2J3NXJaM1lybDhOTGxSUnFscm1LMG16amx0Q2M4dG1pYWhDYUJfd3J3S2p1amplYkktQ2h5U2t6VHZDNUJBS1JlNS1UQWZuSm84SXM?oc=5",
-      "source": "beIN SPORTS",
-      "published": "2026-11-04T03:11:00+00:00",
-      "team": "RB Leipzig",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Slavia Praha - Arsenal FC | Pronóstico y cuotas 04.11.2026 - Diario AS",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd09SczNGTDBiam5RWFFGNE5ZUThzamJnQ0JEZkVRM2ZmaXNXbURpa1MxcnhwSGRtclRUel9jSGtzSzVENTV1RTBJUTh0TlhoQWVLNzVaaF9xYk5icF92QXJUZEtxQW90d3E3YVBlVzBReTVoQ2FfYkFjUnV1UFlLWHBjVnJ0dEo3dmh6eHBB?oc=5",
       "source": "Diario AS",
       "published": "2026-11-04T00:38:33+00:00",
       "team": "Slavia Praha",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "En Directo: SK Slavia Praha - Arsenal FC. Partido de la Liga de Campeones 2026-2027 | Fútbol en El Norte de Castilla - El Norte de Castilla",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN21tZEpUcXFHUkdna2JUc0JEZzZMZm51VGNzS1Y5alBaSGE4N0QwRDkzZk1meEF5bHBtSFU3Y2RCblVaRFFMZUtGS200d2tUWF9mUjEzeWdqdTZ1THFlbXJ4UzE4ZlhYZGtzS1dKdEZLTDktUEo5RVdpSGNBN3N2SEtYczEwaW9EVWhsbG53VV90aEN5OUtYQ1h1NTJlOHQxbGR6b25ZSzRtZEY3SUh0RTdZbUJGYkpyb1FXSEh3aTRjQ3BHektsWFJ2aXl1R0cwdnc?oc=5",
+      "source": "El Norte de Castilla",
+      "published": "2026-11-04T00:00:00+00:00",
+      "team": "Slavia Praha",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Liga de Campeones - El Norte de Castilla",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUmx1c08yaG9rampGTnJYNDZQSFducWpyZ0FfbzBfdEhLXzF6VWtrWnFCZlZWalFnOTQ0TzBvN09wTDlsVDBsX1UtOEhPN2FSWmFpYkZCaXN2U3RfZDRaMTdTUS1ZTGwwcUdyQWxBcEpRVUhQZVpfUmFqalZuN3NEaEdlSlpNOXFualdyRlRGMUw0em14WmJKV2ZfSzlTRjVoM1N1WGF0dGFjclFzaFB0Rm9UQkVTOEJyLTZxbVNmeW9yUW5lSFRKSg?oc=5",
+      "source": "El Norte de Castilla",
+      "published": "2026-11-04T00:00:00+00:00",
+      "team": "Como 1907",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "En Directo: Viking FK - Sabah FK. Partido de la Liga de Campeones 2026-2027 | Fútbol en El Norte de Castilla - El Norte de Castilla",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU3dSNXJtWUlwYVNiNUZ2U3pIdXJfMklsNHVXd0tUQjJDRWVCTDZIdUkzUWVKd3VZeUZyd0ptc3hEVFhTazJCUlBTQXRSSWNyQ1Mzc184UmpHQkVlYlpUZUtTUjZkSFVyRDlVZ3kza0IwMm1VWW9uYjdhOFA0UmhLdkgtUm8zbDhxWWdISHduWnJoUFdpSGxGOUtTMU9MVFBjUWFReTQzRkkyQVlFdENDMnEzT09FZkpIV0hvb0ZCUk9jaWRzcGlkZHQxb2Y1aXNwLWRFVw?oc=5",
+      "source": "El Norte de Castilla",
+      "published": "2026-11-04T00:00:00+00:00",
+      "team": "Viking",
       "league": "Champions League",
       "category": "general",
       "status": "unverified"
@@ -193,16 +323,6 @@
       "status": "unverified"
     },
     {
-      "title": "Alineaciones probables del Borussia Dortmund - Betis de la Champions League 2026-2027: onces y banquillo de suplentes - ABC",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVWpLaWhwTEpMRmtBb05FWS0wOUtKRDdPUTZNMUFuc2tvTWpXUlQ4RWlXVTBnRlVnMHk0NlJyR25oYkN3X25ZWHc5X1FOTjlCNDNsMFJyWDFMVnZHU3NZSE1kbmZYS0dCX21EVFZIeXhwVnJQVnA1RVdpU3lMbFo3X2Y0TzF4ZU45ZnNwblBBSFJERk9TYlZrUjQ1akI4UG5XLWVsaHBjMkVtUVJpUE9POERIbzFUNVcyN0hUeDgwWHZ0LW1sQzJ1ZGhVVWNjeFhYdWFYZGlkY3lyVTJPVVJ2WEJvNNIB6AFBVV95cUxNXzY3YXU0eExRQ3FVbF9FeTF0NlZPX2ZmOFlXSFRZdlJ5dnhPcTEyaFVYSUJRZ2VLeC1KRXRWRjkxaXpMd0Jad3NwZEF5U3pGOThrbVdVZ0JxSDFwNUdrdC1LOFlnakRjSlV5MFJpWUNoREpRSnZaa1NtYUpZZmQyMXhRZ1BsTlFWa0JobndIdnI4ekoyLWVHWml3dkNDaHZVQWRhWDZteU54NW12MGYxdFFNVGo5MmQtVGtHS0xremNleG9FY0E5MHB6bmVsMDRraktFMDA4ZTRzUWJBVVB0YnNHWjJQS1Vu?oc=5",
-      "source": "ABC",
-      "published": "2026-11-03T20:45:48+00:00",
-      "team": "Dortmund",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Cardiff City-West Ham United: lucha por el play-off y la permanencia - OneFootball",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnZRc2MzY21WT3F6aGlSQWdFX3VERGNKcnJ4VXhzWjQ1VjctUldiRFZEdDQ1SHR0dExNZEk1bkk1NHlDajBveHhVMFJRTVFZSldSY2h5eFlUOHd5UFd2eTN4TTRDelRMWG83M1RrSzA0bUF0TW1lX0dQYktUX3dRNFRuRFRTbDQ3U2VSRGdINWUwZ2U2U0lEelh4YklMVnozaWY4cDhDWVE2Y0t6RXJOLWVn?oc=5",
       "source": "OneFootball",
@@ -223,16 +343,6 @@
       "status": "unverified"
     },
     {
-      "title": "Alineación probable del Real Betis ante el Borussia Dortmund: un invicto llega al Signal Iduna Park - Andalucía Información",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQa3h6aHVZcmlBcDBqS2I3RGxfb2tURGpEeDU3aUttanE5M1RaSzJTSXZDT1NUV1N0ajRZeXY1TTV4X2RfTlRYTzFpZU1yUWtveTFkUUYyV3dQdDNGWnc0TVZuVy1iczkyeHg3WUhYUXktYUd5QUdzVmZKRlQzNERtaFJsbWl6QjJQUWRYazRaNzZlLWVnZTlhOHVvMmYwd1pGd1p5SDNWM29BWjMwVU01ZGt2X1M0T19HM0s0MXgzUmVBT0QwRU51Vk5KU3dFc1NkendET3dXa0FVTzNrdEo5R0hZQ0VMQmhFR3JWU3RMV3ozVjMwNGd4cGg0OHVYUdIBgwJBVV95cUxQNjFDTlEzRHZ6cVlvSG9MWVdkMTFjcHhWN19iRWlqM1YyNHJMSDBZNHpVUHVtME5vZHZHaWxnMEtQUl8xYlRlbEcxbmJ2dUhqdDlNMWFtME90aFJnRkVzSVhSOU40Nlk4MVFzNTg0MjdOd21CbU5MRjZIdWczWGMyYnRLOWRWWkxMV09Kcm5mVVpFMWJwSGg4eFRzM3Etc0pjMmwtUmFobTNtTHVzRXAzZHRKcG5rUngyU0VaeUN2NDNTS2RDZHhuMUFhT0lLUjBLLUVhRnlyTnA3MzJxLTBuMmVVYTRUUlJ0bEpqWXdvMjFfc2RPU1ByNWFpdEZmUlBVclFR?oc=5",
-      "source": "Andalucía Información",
-      "published": "2026-11-03T19:46:56+00:00",
-      "team": "Real Betis",
-      "league": "Champions League",
-      "category": "alineacion",
-      "status": "unverified"
-    },
-    {
       "title": "El Real Madrid sufre otra dura lesión antes de jugársela en Europa - El Imparcial - Diario liberal e independiente",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajF1SG5Bc3Fpd2xDdnQ2THhRRjNyUm52YTdOekU3YUI1UU1pSk4taDRFT1FIdXhYZlRQTTJkREJBWGJ3QVQ5alJnSGtmOVY2c0VueEVIMlhMbVFYNTBTRlQxSm42ZVhoZE4xWDdPbVNCT29kMTkxUnZjbGNCYVk5cUxjTEJ1UTNfYzVqd2gxMDFMTmtLd1dDZ2dsMDdCaThoM1RteDA3Ry1xaXdiaWdLOWRoTDhqMlpCQ1JMNGpfTQ?oc=5",
       "source": "El Imparcial - Diario liberal e independiente",
@@ -243,32 +353,42 @@
       "status": "unverified"
     },
     {
-      "title": "Alineación probable del Aston Villa contra el Barcelona: últimas noticias y novedades - The Mirror US en Español",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjB5aFQ2TjU4M25QbGFVc3VRQVRVSjhocjY2SG1mdTlKMWN1OW9zUVlYMm82aHVibGxFZ3JISkZIMzU4SzBPSDVrUmlOMTF3OWFiTWJNSUdhZGVRVDdSMk5JeXlHcVJUb2dWdUYxN0xUWXRxaG1oWUNZbVJVSUFUN2VVXzk0RXEyeDZKVQ?oc=5",
-      "source": "The Mirror US en Español",
-      "published": "2026-11-03T19:35:00+00:00",
-      "team": "Club Brugge",
-      "league": "Champions League",
-      "category": "alineacion",
-      "status": "unverified"
-    },
-    {
       "title": "Real Betis, alineación probable contra el Dortmund y dónde ver en TV - Jornada Perfecta",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYUhUc0k2UmVxQ1FpVlRMNnJMeHRXLXRHY3o4Q0lIczAtTVJ2RmMxMDJKNDRVX0F4ck8xVFI1Z194aDNqVDJFTWZ4ZmRxQkxyUzVuX1pCYm9TM0FOajBKRGdXX0thQ2FBOTJKX3hiLU9tMHV3RFB0a1g4U2JaWnlZVWY4dUFBby1VYW9ld1BLS2JiaEkw?oc=5",
       "source": "Jornada Perfecta",
       "published": "2026-11-03T19:22:02+00:00",
-      "team": "Dortmund",
+      "team": "Real Betis",
       "league": "Champions League",
       "category": "alineacion",
       "status": "unverified"
     },
     {
-      "title": "Atlético de Madrid - Bayern de Múnich, en directo hoy el partido de Champions League - RTVE.es",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3g5UDVBYmRiaUhONnNNS2dnLWtWNjlGTVNwQXlnUDNOSWE3SFhBUWxxbHJaMmlfeFNMeHlWYlJiUGd5T056Q2VzUUZ1LV9Ncng3bkFQUEwwUFRtQ1lvU010M0trWVliY1NfSkZ4N3ZGQTZ1RHI2bU5vTkdEaXhtNnB4VWRtQkFJc3JRc3laRzV3dm9ENmtoeWptdHI5emVGdXZyREhZYXlELUQyZmx0TGtuclZGWjBQYVRRa1lLRmg2dw?oc=5",
-      "source": "RTVE.es",
-      "published": "2026-11-03T19:00:54+00:00",
-      "team": "Viking",
-      "league": "Champions League",
+      "title": "Mourinho, ilusionado con el potencial del Real Madrid - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXUzRFZBejNIWm9DdXRKaURRNFJ4NXptT1Z0X2JrMVVxTjR0WG80OFlsZ0FDczFoQlhaS1MwZERCcmZ6eVE5OTRpR3gxSWd3MXVfTkNkRmNWZE9aVGF6Q2lMa2stdEoxU21FdUpPYXNLSFM4RnQ0azAzZzBuMXozcFA3X1VDblhveV9nQW9NOXVfMW53UFh1TFl2b2Z6S1ZRZEpzZUhSWXJ2LURVeFh6QXJrQXlzdE0?oc=5",
+      "source": "FotMob",
+      "published": "2026-11-03T18:57:42+00:00",
+      "team": "Wrexham",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Allegri: \"El destino del Napoli en la Champions está en nuestras manos\" - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcFA4UzNLeVc2VUxPM0VpdDctZHFpZXF5ZFlDd0RxMFVENjlXTVFQeG5HNml1bDlWTm00Y1l5bnNJcmhhcERxLVJDc3JYZGhDRGdhVXc4QTNFQkk4Y09IYkc2bTdxTlQ5eEw1M1dNaWdzbmlPelVQQmFxOU1lcHVoTGVlM1NHOGR1emlFOExiYmdhR1oyYms4VEROdUc2R1drZ3pvaVlhU09DNGw2MmlUTHB5NlRjNlUwLUU3SWNFVFVRNjVGUDFuc2dTbw?oc=5",
+      "source": "FotMob",
+      "published": "2026-11-03T18:21:22+00:00",
+      "team": "Wrexham",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "«Aún no habéis visto mi mejor versión en el Liverpool», asegura Barcola - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMlhxeXU2RFoxRDJuOUdqRGhLbE1uV1FYQzFEWW9UMUQ2UGxXanNUZmpVV2daMXROZWRrLWFzWi14cE5aNHBXWENfcnNTbVJpN0N1UWhkRU1DVTRBbV9JWFR0d0xPbXBiV2x5dnVhMFBrYTEyRFV5U1pLVjRiRzFiUDIwbGhCYm1LTjBMeVdqWmtoSEs2WGhhcENrQWZCbTMyTWRfRzlyVXBycnpkR19WUGtCWl9GOWl6NEpMVGptWk5MeG12MS1DdlI4OA?oc=5",
+      "source": "FotMob",
+      "published": "2026-11-03T17:41:59+00:00",
+      "team": "Wrexham",
+      "league": "Championship",
       "category": "general",
       "status": "unverified"
     },
@@ -293,20 +413,40 @@
       "status": "unverified"
     },
     {
-      "title": "Alineación probable del PSV: ¿qué hará Bosz con Pepi? - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXhYS0JFWlYzMENWcENoMGV6X0NtQXVmN1BoWTNXc21yakRsZ0VTMmQ3TUtxNFpNcDRJTUQtcHJIQzh2MW1vRmtZMkRQZzhrUmRaeVhOUkRyaXkyVGxJck15SUpWS0NlSDZScVY3dHh2OHM1cHFNZEVnM1U0TmZOTUhHMWlsdnN6V3ByellwRE8wNjc5M2hOQUdRVHN5eXBkcWlPcUx3?oc=5",
-      "source": "Goal.com",
-      "published": "2026-11-03T15:43:21+00:00",
-      "team": "Willem II",
-      "league": "Eredivisie",
-      "category": "alineacion",
+      "title": "RB Leipzig vs Manchester City: Pronósticos de Apuestas, Cuotas y Alineaciones 04/11/2026 - Oddschecker",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbjZrQ1NOLV9Dd3ktS2dkNktFWlJjWEhyOXp6UW9CREJXNGw3ZldqYjgyMlBxdEpDc3ZzLXAxZm5zRlRPV3AyWEd5WERTaWNNd045VkpPRU1xVVJFSEVVcWg1RDJjVnZvamVsNHljY3pQeXdLNGh0TWdPZFlEV3RfWGJ2QU1YY0VOZHJvYmx2WExwYktESGVVZlA3M2RhbXZhNy1FaHB4TmFGQkdBY1VsRnBxN0ZodTVjTTZGZ1h3?oc=5",
+      "source": "Oddschecker",
+      "published": "2026-11-03T15:35:00+00:00",
+      "team": "RB Leipzig",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "PSV vs Brujas: Pronósticos de Apuestas, Cuotas y Alineaciones 04/11/2026 - Oddschecker",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTnBqZ1NfSm0xWHBsUVR1b1lfRGh0TjRqM2R2VDdxZTFIcTVLYlRLdlBrUVIxakp5LVNJdUJaUV9LOXItR1RqZVQyWURpUWxLZFNJbFkwQU1tZngzYlloX1FLZVpGeEVneEVNTHVFVTNLSkc3SC1GTnVaNUsxSkV1dVpYWGxuVG1YcFdGd21UWG5qTEN4cW52dEI0TXdhVUY2SWVITU1RaUo?oc=5",
+      "source": "Oddschecker",
+      "published": "2026-11-03T15:32:00+00:00",
+      "team": "Club Brugge",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Fenerbahçe vs Liverpool: Pronósticos de Apuestas, Cuotas y Alineaciones 04/11/2026 - Oddschecker",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd3pVNlEyWUl0Q2hxTWxoYkRHTGpTRzV4LXptOXpuaW1LLWNUSzJMam9FR1VNa3o0TjlJdi1aUVg3VVp3UzdzN3liZjNMV00wUm1rZUdBa3Z6Ym5senJFUE9hTmFYZllMT2NQdmtQX0lXWHppYlNJOXJ3TEF4NVVEMVBvaVdMdnlGOWxLcVR4Y1N6T1RHSzRZczVaMXoxbkFueVQwTzNDU3ZFNFpEVnZnck45VTNidw?oc=5",
+      "source": "Oddschecker",
+      "published": "2026-11-03T15:30:00+00:00",
+      "team": "Fenerbahçe",
+      "league": "Champions League",
+      "category": "general",
       "status": "unverified"
     },
     {
       "title": "Alineación probable del PSV: ¿será titular Ricardo Pepi ante el Club Brujas? - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNlRpS3BzbnRqU3FBQUZxZHNLVi1yX0l4NGtQZnJDOWZuSEs3Q3Jac1hIVGFqVHJsZ0paZmVEQnNCTlRuOEFNdGROdjNZS2wzNE54ZkVsRzF2bEs1dHc1YjhfbGo2Njg2eDlMUU9CVXNmLWZnOFdZQkhNZkdNSnNya2t4ejBkZjRaXzVMcDUwcUtQUmNvVGVwUGliU3BUdlFhWlZRcVBWM3BHOHNYQTNXeXlGMk1FUUJjMUc4V1Robk9ia1JI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZTFsRW5LakZFQUItNWFsTzBVdkxyNEhpa2VibHl5dGRPM0kyTEpyLXh6emdaSWRqT3YwVVhwQnlUckp3SG1fQkZEQnkwZDlPUjE3bHdJMDhPRWlMTkdGZEM4N2k1YkYyVGlvTDFxZlR6MEFrV2ZVVzBHTEJBRVBJWlJheVNORW93Nmh1ZGo3cVJ5dWE2THNDeTN5emJUZzBRVnFnMFl5eTlRdV9DMUNEUjNqZFJtd1RmVXNBWjF2OC16QllmQWpUeg?oc=5",
       "source": "Goal.com",
-      "published": "2026-11-03T15:18:26+00:00",
+      "published": "2026-11-03T15:20:11+00:00",
       "team": "Willem II",
       "league": "Eredivisie",
       "category": "alineacion",
@@ -353,16 +493,6 @@
       "status": "unverified"
     },
     {
-      "title": "La posible alineación del Barça contra el Aston Villa de la Champions: dudas repetidas en defensa - El Nacional.cat",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0ZCd1lPUUVBeGxJMEdwR05ENGE3ZTRpb085QnNuXzBmS1Q2MmNtS0JFekl4TU9vbHdTTnA5MTNoRllSUWZxc0pXY2VyaVdBdmdrUVhpYVNEc1dhOWd0N3Z4dTkwM1N6bzczT0VJQmcteGE5WFowaFhXYXBHS3VRVU55MFduWHhNX3NBbklMT0VoLXpzazduaGd4VU5RN0lJbVoxMi1rUmlURUZGakdHek1n?oc=5",
-      "source": "El Nacional.cat",
-      "published": "2026-11-03T12:11:00+00:00",
-      "team": "Viking",
-      "league": "Champions League",
-      "category": "alineacion",
-      "status": "unverified"
-    },
-    {
       "title": "Peque estará un mes de baja por lesión | Zona Mixta - Howl.Link",
       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE95VzZnNTRjOXIwSERsVVA5d1Q2aXU1TFBMNFExekFwV3Z3RDRJeTJmckkyMzBLT1FqcmN3?oc=5",
       "source": "Howl.Link",
@@ -377,19 +507,9 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaE5UaG1HWWFEWHIyT1FuX09PREhxc1I2cG92NTA2MzNvMTFwVk93OFdpVkxERDFwVFFnYWYzc01lNFZ5ZjNwbjJFTGxTZmpqNzVMS09PWVg2QXBMZW1vQTMtM1FvbV9hYmhKR0s0cHlONHVicTh3NnBSeFpnUDR3SXBqNGhsalhjbmY0aVZFWFQxaU1wLWhyVUQydDNjTDhERGlUM1hPdXdrRk5ZMDAwQ2FCVmVROXZJQWc?oc=5",
       "source": "El Desmarque",
       "published": "2026-11-03T11:26:07+00:00",
-      "team": "Slavia Praha",
+      "team": "Club Brugge",
       "league": "Champions League",
       "category": "lesion",
-      "status": "unverified"
-    },
-    {
-      "title": "El West Ham destituye a Nuno - MARCA",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWkJwS0h1bEE3VjRqU29jNk51c01LdFoxUUsyM0FRbUxWci10Si1RNTJXbUZNQzhTdTRWUWNaTExDWGlxcEFVUG03MURVbndyUDBKTm9UV0dkVnQxWU5zWUJ5WVdTdHF4YUR5TjBqejBoUlpoOUcyWTFheWZkeHZpTTM0TnY3WXJUQjVn0gGLAUFVX3lxTE1jX2RfZzB1Tl9YN0FDSGxrNE1RejR1eEdZWW9yUUdxNmtfUnh2SG1wSTFIMUtDU2ppMnVDNXIxVW5nOF9BRzVlRDZjTlVBYlhwaEFVMG15N3NaclFmZDRTUlFNSjkteXJ4cnhKU2MzOXF2UWQtSnhXb1lMT2RtWVJ4R0RleFB1Zmd4aDA?oc=5",
-      "source": "MARCA",
-      "published": "2026-11-03T11:08:06+00:00",
-      "team": "West Ham",
-      "league": "Championship",
-      "category": "general",
       "status": "unverified"
     },
     {
@@ -400,16 +520,6 @@
       "team": "Como 1907",
       "league": "Champions League",
       "category": "alineacion",
-      "status": "unverified"
-    },
-    {
-      "title": "Viking vs Sabah: estadísticas previas y datos en directo | Champions League 2026/2027 - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSkE1ZllweDVQX2tFaDloM3pLTXgyTDRNZnVMeVdlVkJCcmtIOEdqY2Q3QTZJMEhUcEtBb2tUTFlXczNkVnhmRXJUVi1DVXJCTGlscXQyRWFUN1lLT3pqeTBVMzlTLUNvR3R3a1ZEQ0hKRGZjVW53QWkzdkJ4anRVdFlLX1poa3RKbExXbUMtMXdGM2c?oc=5",
-      "source": "Diario AS",
-      "published": "2026-11-03T09:49:49+00:00",
-      "team": "Sabah FK",
-      "league": "Champions League",
-      "category": "general",
       "status": "unverified"
     },
     {
@@ -433,11 +543,31 @@
       "status": "unverified"
     },
     {
+      "title": "Viking U19 vs Feyenoord U19 - marcador en vivo, alineaciones previstas y estadísticas H2H - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pZHNwaFNQSWpITjAwclQ5OURsSTNvaE8zbWxseVF2YmVyaHN1SlFpcG9IaF84bUFEZFhVMlRteDBwbW5nUWlRNGhiNW4xaDd1cVZGVGd3S1Ffek1vRzV2TnlORzBodGhxdXd1UHYwTmFPR1BVN2hqOGl3NA?oc=5",
+      "source": "FotMob",
+      "published": "2026-11-02T23:50:00+00:00",
+      "team": "Viking",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Alineaciones de Viking FK contra Sabah FK - rcdm.es",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kVGVhQ21lejdLY2xLRENFVGphWUtXQWZZcGZTanZHWFVrYkRfTGtSdFZuazktSm5sODJEZTdCTFJVZEFxZmpGdkFldF9uZlBGdG9vMkRkaWZpaEgxd2FhX0RfZmxKUWtwekE?oc=5",
       "source": "rcdm.es",
       "published": "2026-11-02T22:27:52+00:00",
       "team": "Viking",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones de RB Leipzig contra Manchester City - rcdm.es",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOMEN5ZlpyOVhzTTdnWGhrQ0pNM3VfcTJoOXRGTUt3OGJPYXBialRndnJXYmtwSzY2cmxYNWx0c25OT2pQaUdHTlFwUHlnSmNuUm04TmotWDl5M1k2c1dQMDl1Yy1xMjFPTUU3aFNTMnk2MVY0?oc=5",
+      "source": "rcdm.es",
+      "published": "2026-11-02T21:22:55+00:00",
+      "team": "RB Leipzig",
       "league": "Champions League",
       "category": "general",
       "status": "unverified"
@@ -453,16 +583,6 @@
       "status": "unverified"
     },
     {
-      "title": "Humphrey Ker, el cómico que llevó a Hollywood hasta el Wrexham, vuelve a escribir comedia - Martin Cid Magazine",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVRWQmlXc1NMd3NpUzBsZVlRSGhJb1dLUXVISFh3RHJBWHVsLUF5dk5XQ2xiOEJ4SWpFc2p6OVFIaFBkak0wWm0zT0swZ3VrVVczZmRlWUdSamdwUERsejgxS3J6MHczRUZlTFNhc0w3ZWVmLXdLU0FKaThNNFkzNEVXalJQNjNMc2RWN2RHaHVwTkdBekJtdEhiQWRFcjd3Mk83X0tyTWVWNWpzMzlta21XUHJ5Y2JDTkpKeg?oc=5",
-      "source": "Martin Cid Magazine",
-      "published": "2026-11-02T20:21:07+00:00",
-      "team": "Wrexham",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Alineaciones de FC Porto contra Napoli - rcdm.es",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfZDllSjBRci1zblBQX2dVX0p4SlZzWFhNYmItNEFBVjBGQl82eXZoTTh5ZmdHZTEzMzZYbGRwUUE5d1VvSUpNV2doR1ROMVB0YTVRc1N1ZFZRWWZfOThRaXF2ajlNdw?oc=5",
       "source": "rcdm.es",
@@ -473,12 +593,12 @@
       "status": "unverified"
     },
     {
-      "title": "Bolton Wanderers - Bristol City: Marcador en vivo, Retransmisión y enfrentamientos directos 31/10/2026 - Tribuna.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42WHBkMFk4TkFjZVczcHl1Z0YwTlhyZHpHN21OU0JCRTJiNE5XTGJfV0VSN1BsU1dLUUI0VWtjUGpuNTI0VUJvSTgyM29jQlot?oc=5",
-      "source": "Tribuna.com",
-      "published": "2026-11-02T17:36:26+00:00",
-      "team": "Bristol City",
-      "league": "Championship",
+      "title": "FK Bodø/Glimt - Lille OSC | Pronóstico y cuotas 03.11.2026 - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd195MjRRaks0Wm4yUWdvSnZrTFQ0S0JTNUFQVWFjMjM2SS05T3FnZnFaeVdxWkhiR3VBbGFiZFZOVTR0MFJQRGV5d3VjSUVnM1ZYcFpWQlVNZFZMU2RsTUtYV3FPSlc1MWJScmlDT1U3andlRHd4dGVBMUFrV20xdEhOTi1kemYzNU1fcm1B?oc=5",
+      "source": "Diario AS",
+      "published": "2026-11-02T17:58:57+00:00",
+      "team": "RC Lens",
+      "league": "Champions League",
       "category": "general",
       "status": "unverified"
     },
@@ -490,16 +610,6 @@
       "team": "Dortmund",
       "league": "Champions League",
       "category": "alineacion",
-      "status": "unverified"
-    },
-    {
-      "title": "El Athletic confirma la lesión de Maroan Sannadi y enciende las alarmas con el tiempo de baja - El Desmarque",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnR2NFZmNGlkWjA0bkxnVnc3UUZJNmdWa2prYXJFQW9uZDktb2YwV2U3NVluQ2FLS0JxR0J6VklYRTlmcGR2TVBpSk1UOGh3cEJJNVFzWEpEZXlZUjB0ZXVzTEUxUHl3UmNKRl9YcW4wc0V6bk9hV3lqRGIyYU5Qdzh3YWc4YjJzbjJUb0lqMWlEWXNWRWd6dnh1MFd3c1ZwSFVtbkQ2WVdZR3JodXV6SkxJVUxCWVp4ejBiSlpXa1gwNTg3dGczZDF3?oc=5",
-      "source": "El Desmarque",
-      "published": "2026-11-02T15:44:58+00:00",
-      "team": "Club Brugge",
-      "league": "Champions League",
-      "category": "lesion",
       "status": "unverified"
     },
     {
@@ -520,16 +630,6 @@
       "team": "Dortmund",
       "league": "Champions League",
       "category": "alineacion",
-      "status": "unverified"
-    },
-    {
-      "title": "Slavia Praga vs Arsenal: previa, predicciones y alineaciones - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMk52TkJIcUxUUlg0Y2N1UDUxVUluTkUxdXFHcWhYT0tyVzdfcUI0TmcydjBob21PS2drVkFsMXVKVGJYbU16M3FpR1FEVm44aXRQcDNSNlRjcUhTemJFR1E1WXRtRU1EMVlwWVZZSHhPUjJQcGNIajhobmJfZzMzQWcxb1d0T3ZubnJKaTJQOWZWSHVhTHFZUQ?oc=5",
-      "source": "Sports Illustrated",
-      "published": "2026-11-02T10:01:13+00:00",
-      "team": "Slavia Praha",
-      "league": "Champions League",
-      "category": "general",
       "status": "unverified"
     },
     {
@@ -583,16 +683,6 @@
       "status": "unverified"
     },
     {
-      "title": "Resumen y gol del Liverpool vs Arsenal de Premier League - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUdLWmZiYkJVWHJNbDRlelpta19laHY5MnNSUDBaR0JUd2hJbm9UX25OM2lfaEZ4alc1TlNCdUVRQ0JqMGx3M2d5TWVkSThfemM5a2M5dG8yb3VhczlXdS1NMmNhNUtwZ2tsYnVrTlpyeWVnVVIyUzVWOEVpQzl2c1dJalc5WTdocE9WZ0lfRDB4N2xHY1VmMjlRb2LSAbABQVVfeXFMUEppclZJc0lGYk1zWXdrYzRTUHNaRmJXTUk5U0JzajFnTE1rNGZ6ZHcwS3d1emtCY2Z5bVN5TlM1R1c1dEhMZzlmTnlhTEJjYThYLURIcXFMQzlya2xqTlZLcVcxYURhaUZDdkxvX3ViVWtxakZFSXYxOUkyWkhRODY5QTFrVkZrS1FXeDVjbXVqTVl3ZlRWSmhMZlFwb09yZ3hXQzN2VEJvVWVqQklHWWs?oc=5",
-      "source": "Diario AS",
-      "published": "2026-11-01T19:23:57+00:00",
-      "team": "Arsenal",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Wolves vs Portsmouth - marcador en vivo, alineaciones previstas y estadísticas H2H - FotMob",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkI2UDBmZjAwTC1KeXZZUzlhUUgyMkI5Y2swamtyWkNTenAxckhIeC1sYzVIY0tVZVR4dVRhd0o4MkVRMkN0VTQwVlh3Mi1iYnlYZ0sxazRWT3NnU3NCT1VpX3otQkdna1p0RFlvcW1OYWF3MFBWXzl2NV9URW9MQTRwZ2ZrMDV1MUE?oc=5",
       "source": "FotMob",
@@ -623,26 +713,6 @@
       "status": "unverified"
     },
     {
-      "title": "Alineaciones Racing de Santander vs Real Madrid hoy: once inicial y banquillo de suplentes de José Mourinho y José Alberto López para LaLiga 2026/27 - DAZN",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOSm1fcHlXb3J3Uy1CREdyWmxJOGVDTXNQeDVVV3pMRkxfQnlOTU15QTNDTEJpN2Y5VExnMEx4N2UtVHZacUg5dDVTV0RmdGprRkxYREtyMVd5UUtkZVgyYXVrcWJFYUZEZ0stdEcyZkZhZVlJaTZlRGcwQWFoZ3FGcVpUQlVqZEV3U3J0MXFWUDA2OFZabUw0ZjViOVhOMVRxdmF3cGYtbmQ4WkgzRnlYcVNtbUFVcFFQbFJLZlViSF92LUhYV1RodjdRaVFSbGFFY2NSRTVSQWl1RVd3TmdiT2ZoWHczTG11QXNaNGVnWXhhOEZkemczNFV1YmpFaG92dXhfTFVUU3d3MmNsS2pEWVpOM3ExZUZORGZ1NTBfTS11OHhNTVE?oc=5",
-      "source": "DAZN",
-      "published": "2026-11-01T14:43:53+00:00",
-      "team": "Real Madrid",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Real Madrid: alineación y probabilidades vs Racing de Santander - ESPN Deportes",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlZNWUpNRE9RclFvcUpfYlM3WmM5aUhMekpiNktEdExiWWUyaHhEV0FZNTBWYWNlNWZvNnFrV0tZYWxvMGhsTWRmaUpkYzR2NlZXSnFYdXI3emY3cVV2TUFpdUhRVVVWZTltT2pSQk51LVFXUG8xNS1rNHhxQUI4T2ladnFfRTAtS2hkRG44ZFJxWWI0ZHdmeHVWQ1pVaFNsVkVraG1hTm5VNE95cVBBdEZMazBRcElOcmF0OGpfWENsY0FZUXoxSG5xaXZsNzdZM3hF?oc=5",
-      "source": "ESPN Deportes",
-      "published": "2026-11-01T14:34:00+00:00",
-      "team": "Real Madrid",
-      "league": "Champions League",
-      "category": "alineacion",
-      "status": "unverified"
-    },
-    {
       "title": "Coventry City 3-1 Sunderland | Lo más destacado de la Premier League - Premier League",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1MyUzd3aVlOUGlnVmRxeC1uUUFPNkJiVGVhSk5abjRVOW9LcEdPSTVvOU5JRmJRU2N3U3FqeDdqZUdSS0dOd3gyN2IyUUJYWV94Z210MVA1WE9XT3h3VXA0bXRBelR0QlBaRTJ0QlEweWMxOUN6elZjRl9NaDNiQVpyNVFsTzR3N1YwQk50dXllMy12YkdsNmJyOTQzS1N1a2c?oc=5",
       "source": "Premier League",
@@ -663,12 +733,32 @@
       "status": "unverified"
     },
     {
+      "title": "West Ham vs Liverpool: horario, dónde ver y previa del partido de la WSL - Las Futbolistas",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNFczNkNfd1FTTEIzNEFtemlYLVlETi1wNXBVUEtoRzNkMU5Zc1gzTEJKcnFUMkJJa2dnWDEwYXJhenFEYnpubmhFRDR1QWJRRF82anpCbzV6ZmxhcER0UG10SjQ1M1B2XzVVaGJqcTUtTFc4OGlJWTZCbDA5VEQwUw?oc=5",
+      "source": "Las Futbolistas",
+      "published": "2026-10-31T23:39:16+00:00",
+      "team": "West Ham",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Middlesbrough golea en casaa Jeremy Sarmiento sonrie en cancha y hay nuevo puntero en la Championship - futbolecuador.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcC1TV0MzS3hTajJXbE5IeVVUTEM3eUpsLTBiZnVzNEdZXzZobjFyUkU3VDlGczQyT3h5WU1RN0dNUHFPX3EycFo2Y29QdHNEcXdwZklSMTBXRzVhRXpqQWZPUWFzRG5WQlRJVXNobFp6R1lwTDBROVl6bXVRZjItclMtalpBVHM4VkJkQ3MzOXdXMUIwZmFkX0hpOTNScTB1ZE5ldUUtMWdIOXY2S05QeWMyTHVCMzFfNDNCRTBEN2FWNF9HeU5zbVJFR2FuVmdiQmlkRVhnMXJjNjFBTnNqNjluTlBsZw?oc=5",
       "source": "futbolecuador.com",
       "published": "2026-10-31T23:31:51+00:00",
       "team": "Middlesbrough",
       "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Schalke 04 - RB Leipzig, en directo | Bundesliga - Mundo Deportivo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlk0WVJGaEtIM3dwRnR1bUE1OVp5YnlKN2ZMcE5jS25uOXd5alFDb05DaU5Oajc3SGZ5MWE2N29tVHhydnhZNjVFc1pWdjBoMVZtUzhQZFBDZjBDT0hDV1pHY2gwcUFjRDlYdjRvWUpaVlp5aVpGRWhrQlBKeHJQeEZlSk1GS19RSmRmTVJMNGd0dHQtTUk4UjBUUG9obmVmNXdzSDRmU1JrRkZXQTFGeDV1NkzSAcIBQVVfeXFMUDVPdy0ySXlxaTlINU44ckw2TG5ueldJRl9tR19PRHFOUmdoNWt2VXVHcWs1NWZ4SGdmUUJUck96ckNxQjIxQUZhdnk5UkNGdDhIMUJsSzcxWEpFVDgybGVvcWZGcjI4UjdzRFRSLTBBLVF1aUZmRnJDeU9FN2phX3pEeUdMdVh0Ml9aODkyblNsVkhEeEdiREhaRkp0RzFKcE5qTlNhc0VHZDE0SFpaNFpQS1huUm8tYjNldmpOaHV4TFE?oc=5",
+      "source": "Mundo Deportivo",
+      "published": "2026-10-31T20:09:35+00:00",
+      "team": "RB Leipzig",
+      "league": "Champions League",
       "category": "general",
       "status": "unverified"
     },
@@ -683,13 +773,13 @@
       "status": "unverified"
     },
     {
-      "title": "Cardiff vs. West Ham (4 Nov., 2026) Resultados en Vivo - ESPN Costa Rica",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvZ1FEUkpOVlZCUFB0VXE0bkR4eTBrSDRTcmZHV3pVLWVkSkRNVmJFUEJBOHRTNi1zWmg1eFoybEZYYTFVYXVtQnF3aUpQVFhPbE1iNURuYkNPVUR1NHUySm1PRE5mZw?oc=5",
-      "source": "ESPN Costa Rica",
-      "published": "2026-10-31T18:56:53+00:00",
-      "team": "Cardiff",
-      "league": "Championship",
-      "category": "general",
+      "title": "Parte médico lesión Fede Valverde qué le pasa, cómo se ha lesionado, cuánto tiempo estará de baja y qué partidos se perderá con el Real Madrid - DAZN",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNXphTGdTemhpNjBpSlBOSy1FNkF3QldkaWg1eEgwS2NrcXc1dExLU0lhZ0F1ZWFpX2NiUTBJZnZtS0o1Rk83bi01YlFNbEcyVk9zNXd4Z0s1d2Yzc2FzSElQcDRrRmtSZGE1VkJfQXZOTjNJR00zVDlfRlpKMVJOczJzV2haT214LW5qR2l6dTRsSlJDdnlqZ0h3Rk45QkJhWENqeFI2SzlZYzZHTDg3NU9uT3ZBQkRJN29Ec2cyWl9fT2kyN0R3akNfTklaNW0tVWs4bzQtZ3RqQQ?oc=5",
+      "source": "DAZN",
+      "published": "2026-10-31T18:02:07+00:00",
+      "team": "Real Madrid",
+      "league": "Champions League",
+      "category": "lesion",
       "status": "unverified"
     },
     {
@@ -709,16 +799,6 @@
       "published": "2026-10-31T17:13:00+00:00",
       "team": "Middlesbrough",
       "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Alineaciones confirmadas del Betis - Málaga en la jornada 11 de LALIGA EA SPORTS - El Desmarque",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWjBPUWdlNFdrWTZPQ1dwX2V1NnBJY3g4SldlSmZrN3o5NlAyRHlhTW1YbkZGVjdhdWVXMlBkRk5RV3VXWW1GbGRXR01STnJhb0p2SFJ0cXlGSFlQOHZUOWY3V21xbWdraDJ3TTB1cWt6NlRZUGRtQnVrV1hWemJZRGtZM1p4UDJSc25KcHBsRjFuZzJsVk1IeVJnQTVzUGNWeElpNHIwcXV2OW9LbUJyaHVuN0RlU1RHclFtNEc1T3hpTlk?oc=5",
-      "source": "El Desmarque",
-      "published": "2026-10-31T16:14:49+00:00",
-      "team": "Real Betis",
-      "league": "Champions League",
       "category": "general",
       "status": "unverified"
     },
@@ -743,11 +823,11 @@
       "status": "unverified"
     },
     {
-      "title": "Alineaciones de Bolton Wanderers vs Bristol City: Estadísticas, horarios y dónde ver - Xpectro FM",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHJVUEFOc1hLTTc5cE5INXRlV016d3UyOFR0TGdheXctU0FBQlc2ZXpoTmZXVjRYSklhdXlEVUNyeTM4THFwVi0yY1hBb2RxckpiVkZBcGVlYl9kbEx0S0VTNEY4MHhEUGN3dTdTWnBod3ROUFF0MFNWajdqU1hLenRlbTFxZHI1S3dQOEZrUHdya3ZIRWlka3JqRG50SlV0ZG5TekM3R1g?oc=5",
-      "source": "Xpectro FM",
-      "published": "2026-10-31T13:20:00+00:00",
-      "team": "Bristol City",
+      "title": "＋＋[EnVivo－ＴＶ] LEVANTE - ATLÉTICO MADRID Ｅｎ Ｖｉｖｏ Ｏｎｌｉｎｅ 3 de septiembre ２０２６ - Port of Rotterdam",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNaUg2RFFmY1d5WFltQXNkbWdQczdFemxfQ1F5RUtFUms3dVZIYy1FLWkwbC1oX3BwYXdOeFVCNjhCbUJab25QZnhRRFB6QXJyVjF3Yl82SkZ0ek1aMFFyTUVEOUR5ZXJsTWdYbnFCdkZJRVJVZDA2cjZWM3VIRGMxZ0V0N1lHRDNtWXQ0eFFWem5CLV9ucjBiU1RBdVhUaktzc2ZEN2xQcEdpeVNrcDJ0MEZzZlBrckEwMXhTRnhmcGxHQzRHcDdCS3lxUEdmQ3BoeUhHdUI2VktlNW85aFZxWjJFSUJQVjI2UmtfdWFzUzJEcU5rT3pNd2pmYllJNHBaREsycVhsUTg1SlZyN0tSUk94MmNSRGplLVRFYk9Vb0dMWC1mLUdVS2h2R3JtdGVsZW1QQ0lqTUVxNWpNbWZvVVNUSWg2SWJVRlotRkk1czFBallla1kzQy1CZ1kzRHZXbGJNZ3p1bVFTVFFTTWU0WGMzMXZHVmplQXNzNGJ1RUtBemowa0tna0o2bw?oc=5",
+      "source": "Port of Rotterdam",
+      "published": "2026-10-31T13:21:15+00:00",
+      "team": "West Ham",
       "league": "Championship",
       "category": "general",
       "status": "unverified"
@@ -783,16 +863,6 @@
       "status": "unverified"
     },
     {
-      "title": "FC Oporto - SSC Nápoles, 04/11/2026 - UEFA Champions League - Informe del partido - Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VdU9Kd2RMdlVzWExkdEpwbC1VbU5DOWpTYjZEVDE4T0VXb1pPNDItbkt0OXRueEFZUjlTOHNPR2JEMWxIUG5RVFpEam9rcERaRzhVMjU0cjF3NmlEUVBKU0xQYnhqSmw1NExyamxxUVl1X3lneG0w?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-10-31T06:36:27+00:00",
-      "team": "RC Lens",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Alineación posible del Betis ante el Málaga en LaLiga EA Sports - Diario AS",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQk9HajhsX0pTYXhLM2QxY1dzRTNxSHVTRTFkM3R1dk5ONzYzTGJBSkw3aE1yX0pRMF9iRXNRSWZpVlQ5VTh4T2JJa3R5ZEU5M3M0cW9YRlRvLWhtTGs5Q1ZkX1VkNTEyVXBLMTNkN2xMWV8wb0Fyb0VETUh6eXhaRzZCU0c3MGVSYWRnREdRckh6dlVnbV90WXhBQzYxLUdzZFI3YkJTQdIBuwFBVV95cUxQdmpZelpiZWVlN3BQWGZkdFBtVlUtdkx4WnlBTV9XMWNEQndGV0pWVllFc2dxbWNLb2otUkJOVDZrcTM1XzZIQWxKbVp2WmlTa0xoaExaNF9SZ3JNbHJOa2I1VFR3dkx5b1I3SENROHJpV01qLTNubkZMS1Jvd0F5S2NXYS1meXFrTHRoWF9YT1dlLU9wYzNEcVF0QTRwWUlKUXZwR1hVQ0VpX0dZUzFQdE1lRlh5eGtFeE04?oc=5",
       "source": "Diario AS",
@@ -803,16 +873,6 @@
       "status": "unverified"
     },
     {
-      "title": "Alineaciones de Juventus contra Napoli - rcdm.es",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11Qk5Za29BZTJQOVZ6bllZRjh6WUNyc1loQ0xBanJpYjlvMkpjQjR3c3dRd210d0xzX0hZdkl3eXVnR2tDcnF0WE1BT1ZGZi03dVBxRkVBWkRRNEtCY3hxQ00zWHo5Zw?oc=5",
-      "source": "rcdm.es",
-      "published": "2026-10-30T20:12:02+00:00",
-      "team": "Napoli",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Man City predicted lineup vs Plymouth - FA Cup - FotMob",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1ZaMzRKOEM1SlFCaFhhOHhOSElrR0w4WWFNVVY2X1Q4RmhwZ1RxUXhHN1V5UzV3bzdyZ3RtTkpYS24waWNlMzJtcURLSUVPa3ZzZmxqWDk2Y1U0Szl3RzJ1aGJ3MnVHaG5SdlQ3TWQ1a2NpM1pyZ05IaW84ai1Mdl9aY3dOZXFrcDQ3VmE0VVZIc3FOa2dZNzFvZng5VTA?oc=5",
       "source": "FotMob",
@@ -820,16 +880,6 @@
       "team": "Man City",
       "league": "Champions League",
       "category": "alineacion",
-      "status": "unverified"
-    },
-    {
-      "title": "Gremio de Porto Alegre vs At. Paranaense: estadísticas y datos en directo | Brasil Serie A 2026 - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWURpWXZPYWdUbHFkOVBULTdQdm5JWEtYN2g1VUlVT2V3b0pwNTJxek9ZU3R2LUVuNVBLUVdRS1YtSlVSUHBnclBJSnhXZTNwTU40OHFfUFNOWHRaeDQ1MEdueEkwaGptS1JrMFVQcXBJS2lBUTBiTzNlVkxsOHhSRWtDdUVpdlZleFFVYVBfU1VtYURPaFVOTzJuaw?oc=5",
-      "source": "Diario AS",
-      "published": "2026-10-30T18:50:11+00:00",
-      "team": "Porto",
-      "league": "Champions League",
-      "category": "general",
       "status": "unverified"
     },
     {
@@ -863,16 +913,6 @@
       "status": "unverified"
     },
     {
-      "title": "Middlesbrough-Charlton Athletic: el ascenso se mide a la permanencia - OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY0NpenFFR3NleHprUUNsRVVfVHd4SkNYTlBwamh5Q0pOSFdTaDVJbmNXTFBXRHdPVnpHcUMwSkJmazVlRFNDOGQ3QjZOYlE5UVpGQ1hjcU84OW1rZjBwZFNtc3NNY0g5c0pEQ0JnOHR5RDU4R0ctRm1pX1RTN0xDbG9BNjUyUkpDRGxLTTZ2UzBJU3RmTWpBZmdZdDlPYVIyQzlVTHp5a0hNdVdwMUs5RmRn?oc=5",
-      "source": "OneFootball",
-      "published": "2026-10-30T15:19:05+00:00",
-      "team": "Middlesbrough",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Alineación probable del Betis ante el Málaga: el plan de Pellegrini para volver a la senda del triunfo - El Correo de Andalucía",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdi1GT09sckxTb3dWLTNBUl9HQWV2Ri0wdlJiMnpBYVV0RERtR21CY0dfZngyTzd4eWcyNHdQbERqcGJZRXZkaUVGcW45azd4ai1LU240UHlNSUFKWFVvM1dEWldsZWlPd1VZS3VkaG1lSV9QT2p6aTVpRjZobHJfNnR3aDNnU29hMEtWSlZUUHllN1FNcU5LQnotQXjSAaIBQVVfeXFMT0xCX3VBTFJqaUpUdzlNcGVtNWhKLUNHdm4tcG93UGtTVWtrVkJoYTZELUY3U1NXYjR1U1RfVjFZRld4cFJWa2w4UHlCYnVJc28yT19LSjY2VWRzdzB5OERJcHF0SkZ5ODRKdXNNcXZhNGtFbUdEbG1hR2hITzdGWkNlRWRUbC1XdlBReHFBb0U2c04za1BwNllNeWVQTEgwQzR3?oc=5",
       "source": "El Correo de Andalucía",
@@ -899,36 +939,6 @@
       "published": "2026-10-30T07:00:00+00:00",
       "team": "Wolverhampton",
       "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Dawson, Carrol y Hurst: el XI que jugó en West Brom y West Ham - OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUtuTnZNbk1FMklwTmEyU1lSTHFQTHRlMERaSVBzVnprMFEyM3FIVXBFOXFRRGU0OXBBOGNWU3FEY3RFZVk5UU1fUk40bGN1QUdxcjRRaV9nRDhwU3hvMGtDTDN1OWhZbzl6OVhpd3JjMkYtTTVIc1pvZUhIckNvLVF1VzI2aUdfZVlnZUlucTNUU3JVR0w1S2FoY0k0Y0htYUJpWUI4a0w?oc=5",
-      "source": "OneFootball",
-      "published": "2026-10-30T02:35:14+00:00",
-      "team": "West Ham",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "El Madrid da una lección de baloncesto ante el Fenerbahçe - ABC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQlF0eXROeVpMS3RjcXJQVUctY0ZNU2RScjF0OWE0TXd4Q1EyU2o1R3dNZGhRN1UzdUVjYU4tUnRzbElLNDJaTkEtaWlBd0Z5bUZnNEsxVDlRQVcxOXZqZWhtLVNFT2cydE8xQ2EtZzJCQTMyNmg4cFBPQW9sSk4wczA5X3dBektqVFJ6MkI5TEJlQ2V3MXVTYnM2Z2tCZGJQeThYeGRR0gGrAUFVX3lxTE1ZLXdpVkh0OTNfME5rZ2hqaFhtcWNySUNVcThoT0Y0dWNoTjBLR2R4ZlVabTg5LTdyekdZaWxLNDRRYzBGSjhwMkxqd01ETl9qOEIzbGdxWGt2RXlvRVl2MGItNEpTWS1iMFZMOHJ3bEZYczJkUjdGM0ZVM0tMa25ZMHdJUjVXQl9zdnhmT2ZmM3Y2R19pZDVOT0Y2Q2Nfb0N1cDJubzNnZ3NfYw?oc=5",
-      "source": "ABC",
-      "published": "2026-10-29T21:45:40+00:00",
-      "team": "Fenerbahçe",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Los problemas de Moise Kean le convierten en seria duda ante el Betis - MundoBetis",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWkVYYVJtUU50bHJIMUdIb1JCbm8xS2d0ak5EN2JDZTRTZHZVUGEwazY0UTYwc184blZlbjVNOVF6MV9MUzVFR01hcHRpR1RzRWtKak40SExSb281RUl6MDdWV0I2VUJQdjZwZFdsakw3a3VrZjZIU0UzVkcyWThHYWUxMThIZXp0cklreWY5cXNpM0RLWDJfaVNvUXlodkQwREJkSTBFWQ?oc=5",
-      "source": "MundoBetis",
-      "published": "2026-10-29T19:52:48+00:00",
-      "team": "Como 1907",
-      "league": "Champions League",
       "category": "general",
       "status": "unverified"
     },
@@ -993,23 +1003,13 @@
       "status": "unverified"
     },
     {
-      "title": "Inspirado por Wrexham y PlayStation: Cómo Pato invirtió en Northampton Town - ESPN Deportes",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckRxaEZLeVV5SFFkOVpOLUEyLVpicFp3U1dBQWVoTHhEU2ZiQWVMbDJmLV9STnBOYlRqLXpHYy1VdXVaMXptWGpXaGxEaWpWTWk4cDEyWElYNzRab0t1M2lORlNlVzB0NGJHMTlab3hQYzRKTXpsd1JCcE5WUkdzNGJtTVBCX0l0NXVzQm94VFgzZnJFempVMjcxcGttMlZLY09rNHhXTzIxaTVXSzRYN0x5T0c1Um0x?oc=5",
-      "source": "ESPN Deportes",
-      "published": "2026-10-28T21:04:00+00:00",
-      "team": "Wrexham",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "El Wrexham, multado con 75.000 libras por la EFL por alinear a dos jugadores que no podían jugar, pero evita la deducción de puntos - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQTUJBN2ZZWlBIWlB5NlVmTkRTQjBQZVhKTXFiUm9UQWJ4aEFHbEtrclJNVjdkTUpyaWpjMV9XNDIxSVhYZ1pKVHlueUxwcG00MXBRX1lOZmJ5NEVMMnlEb1JQd3dSMEFyX3dFT1FfeVFKYXh1UEZFcjRTUDFLZnJzMUs0cTctT1I3b08teXRIaFh6TzlwUVA3LThXWWdqUDFCVllVZGJTQ2UyTkQ1ZkpJRmZIeU1zOTlVRUQwUE5SZVR6MkdZd0NiV2E4ZXlDcWpMN09nNGNRWlFTeHZESmt4VGxIMFNnT2VvYmdvdmRKWkxoQXhyOC1zM0dDcTRvcm4tRm5CYnR0VmFxQVVaLTlZ?oc=5",
-      "source": "Goal.com",
-      "published": "2026-10-28T18:52:26+00:00",
-      "team": "Wrexham",
-      "league": "Championship",
-      "category": "general",
+      "title": "Santiago Gimenez tendrá su primera titularidad con Porto; alineación confirmada - Mediotiempo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTJuUmkyVFVNNFotN0lDbFpSVlBXeTRVVjZpdC13NzhVZ1FnVUJKMDcycUdreGtRRjZVdkNyeDkzLWFoQmZkZXo4NmpCdloxa2dqbGlVY2w1RDRJYTUwcVdZeWVBN1M1dWM4UDE0VE95SThYNFhIU0xHZ2wyOGV3SnZCQXVFYnMySy1rZWdXZXc0RnhYWGtFM2hlSkxlNngyYk95TkVMdTDSAagBQVVfeXFMT3hLUXRvYW1WbDdOME9VM2tKLS1iMGVyLXBpUnA1MU5YMjVvTE9PRXB5Z0hIa3RESFhxMXp5S0x1VG5lbkVWUjJjR2JiVFhpV0JFS2c3cERpelNHSzQ3ZkZreXgxeGd2YnN3c1pLMnFXcGZiSEVMRjh6UXZKNDB4bDNLOUhXT2pnUE5nai1pckRaN180Zms5RUZoaXdCVlJIWkJhVWRfUU5M?oc=5",
+      "source": "Mediotiempo",
+      "published": "2026-10-28T19:44:00+00:00",
+      "team": "Porto",
+      "league": "Champions League",
+      "category": "alineacion",
       "status": "unverified"
     }
   ],
