@@ -1,6 +1,6 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-11-03T19:59:15.415035+00:00",
+  "updatedAt": "2026-11-04T08:24:05.752018+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
@@ -12,11 +12,11 @@
     },
     "Championship": {
       "code": "ELC",
-      "count": 24
+      "count": 15
     },
     "Champions League": {
       "code": "CL",
-      "count": 18
+      "count": 9
     },
     "Serie A": {
       "code": "SA",
@@ -28,384 +28,6 @@
     }
   },
   "matches": [
-    {
-      "id": 575377,
-      "league": "Champions League",
-      "utcDate": "2026-11-03T17:45:00Z",
-      "status": "TIMED",
-      "matchday": 4,
-      "home": {
-        "id": 1887,
-        "name": "Shaktar",
-        "crest": "https://crests.football-data.org/1887.png"
-      },
-      "away": {
-        "id": 498,
-        "name": "Sporting CP",
-        "crest": "https://crests.football-data.org/498.png"
-      },
-      "score": {
-        "home": null,
-        "away": null
-      }
-    },
-    {
-      "id": 575378,
-      "league": "Champions League",
-      "utcDate": "2026-11-03T17:45:00Z",
-      "status": "TIMED",
-      "matchday": 4,
-      "home": {
-        "id": 610,
-        "name": "Galatasaray",
-        "crest": "https://crests.football-data.org/610.png"
-      },
-      "away": {
-        "id": 10,
-        "name": "Stuttgart",
-        "crest": "https://crests.football-data.org/10.png"
-      },
-      "score": {
-        "home": null,
-        "away": null
-      }
-    },
-    {
-      "id": 561920,
-      "league": "Championship",
-      "utcDate": "2026-11-03T19:45:00Z",
-      "status": "IN_PLAY",
-      "matchday": 14,
-      "home": {
-        "id": 69,
-        "name": "QPR",
-        "crest": "https://crests.football-data.org/69.png"
-      },
-      "away": {
-        "id": 328,
-        "name": "Burnley",
-        "crest": "https://crests.football-data.org/328.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 0
-      }
-    },
-    {
-      "id": 561921,
-      "league": "Championship",
-      "utcDate": "2026-11-03T19:45:00Z",
-      "status": "IN_PLAY",
-      "matchday": 14,
-      "home": {
-        "id": 342,
-        "name": "Derby County",
-        "crest": "https://crests.football-data.org/342.png"
-      },
-      "away": {
-        "id": 68,
-        "name": "Norwich",
-        "crest": "https://crests.football-data.org/68.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 1
-      }
-    },
-    {
-      "id": 561922,
-      "league": "Championship",
-      "utcDate": "2026-11-03T19:45:00Z",
-      "status": "IN_PLAY",
-      "matchday": 14,
-      "home": {
-        "id": 59,
-        "name": "Blackburn",
-        "crest": "https://crests.football-data.org/59.png"
-      },
-      "away": {
-        "id": 70,
-        "name": "Stoke",
-        "crest": "https://crests.football-data.org/70.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 0
-      }
-    },
-    {
-      "id": 561924,
-      "league": "Championship",
-      "utcDate": "2026-11-03T19:45:00Z",
-      "status": "IN_PLAY",
-      "matchday": 14,
-      "home": {
-        "id": 346,
-        "name": "Watford",
-        "crest": "https://crests.football-data.org/346.png"
-      },
-      "away": {
-        "id": 1126,
-        "name": "Lincoln City",
-        "crest": "https://crests.football-data.org/1126.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 0
-      }
-    },
-    {
-      "id": 561928,
-      "league": "Championship",
-      "utcDate": "2026-11-03T19:45:00Z",
-      "status": "IN_PLAY",
-      "matchday": 14,
-      "home": {
-        "id": 348,
-        "name": "Charlton",
-        "crest": "https://crests.football-data.org/348.png"
-      },
-      "away": {
-        "id": 60,
-        "name": "Bolton",
-        "crest": "https://crests.football-data.org/60.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 0
-      }
-    },
-    {
-      "id": 561918,
-      "league": "Championship",
-      "utcDate": "2026-11-03T19:45:00Z",
-      "status": "IN_PLAY",
-      "matchday": 14,
-      "home": {
-        "id": 325,
-        "name": "Portsmouth",
-        "crest": "https://crests.football-data.org/325.png"
-      },
-      "away": {
-        "id": 72,
-        "name": "Swansea",
-        "crest": "https://crests.football-data.org/72.png"
-      },
-      "score": {
-        "home": 0,
-        "away": 0
-      }
-    },
-    {
-      "id": 561919,
-      "league": "Championship",
-      "utcDate": "2026-11-03T19:45:00Z",
-      "status": "IN_PLAY",
-      "matchday": 14,
-      "home": {
-        "id": 1081,
-        "name": "Preston NE",
-        "crest": "https://crests.football-data.org/1081.png"
-      },
-      "away": {
-        "id": 356,
-        "name": "Sheffield Utd",
-        "crest": "https://crests.football-data.org/356.png"
-      },
-      "score": {
-        "home": 1,
-        "away": 0
-      }
-    },
-    {
-      "id": 561923,
-      "league": "Championship",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "TIMED",
-      "matchday": 14,
-      "home": {
-        "id": 74,
-        "name": "West Brom",
-        "crest": "https://crests.football-data.org/74.png"
-      },
-      "away": {
-        "id": 340,
-        "name": "Southampton",
-        "crest": "https://crests.football-data.org/340.png"
-      },
-      "score": {
-        "home": null,
-        "away": null
-      }
-    },
-    {
-      "id": 561917,
-      "league": "Championship",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "TIMED",
-      "matchday": 14,
-      "home": {
-        "id": 332,
-        "name": "Birmingham",
-        "crest": "https://crests.football-data.org/332.png"
-      },
-      "away": {
-        "id": 384,
-        "name": "Millwall",
-        "crest": "https://crests.football-data.org/384.png"
-      },
-      "score": {
-        "home": null,
-        "away": null
-      }
-    },
-    {
-      "id": 575379,
-      "league": "Champions League",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "TIMED",
-      "matchday": 4,
-      "home": {
-        "id": 675,
-        "name": "Feyenoord",
-        "crest": "https://crests.football-data.org/675.png"
-      },
-      "away": {
-        "id": 108,
-        "name": "Inter",
-        "crest": "https://crests.football-data.org/108.png"
-      },
-      "score": {
-        "home": null,
-        "away": null
-      }
-    },
-    {
-      "id": 575380,
-      "league": "Champions League",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "TIMED",
-      "matchday": 4,
-      "home": {
-        "id": 81,
-        "name": "Barça",
-        "crest": "https://crests.football-data.org/81.png"
-      },
-      "away": {
-        "id": 58,
-        "name": "Aston Villa",
-        "crest": "https://crests.football-data.org/58.png"
-      },
-      "score": {
-        "home": null,
-        "away": null
-      }
-    },
-    {
-      "id": 575381,
-      "league": "Champions League",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "TIMED",
-      "matchday": 4,
-      "home": {
-        "id": 78,
-        "name": "Atleti",
-        "crest": "https://crests.football-data.org/78.png"
-      },
-      "away": {
-        "id": 5,
-        "name": "Bayern",
-        "crest": "https://crests.football-data.org/5.png"
-      },
-      "score": {
-        "home": null,
-        "away": null
-      }
-    },
-    {
-      "id": 575382,
-      "league": "Champions League",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "TIMED",
-      "matchday": 4,
-      "home": {
-        "id": 94,
-        "name": "Villarreal",
-        "crest": "https://crests.football-data.org/94.png"
-      },
-      "away": {
-        "id": 524,
-        "name": "PSG",
-        "crest": "https://crests.football-data.org/524.png"
-      },
-      "score": {
-        "home": null,
-        "away": null
-      }
-    },
-    {
-      "id": 575383,
-      "league": "Champions League",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "TIMED",
-      "matchday": 4,
-      "home": {
-        "id": 66,
-        "name": "Man United",
-        "crest": "https://crests.football-data.org/66.png"
-      },
-      "away": {
-        "id": 100,
-        "name": "Roma",
-        "crest": "https://crests.football-data.org/100.png"
-      },
-      "score": {
-        "home": null,
-        "away": null
-      }
-    },
-    {
-      "id": 575384,
-      "league": "Champions League",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "TIMED",
-      "matchday": 4,
-      "home": {
-        "id": 5721,
-        "name": "Bodø/Glimt",
-        "crest": "https://crests.football-data.org/5721.png"
-      },
-      "away": {
-        "id": 521,
-        "name": "Lille",
-        "crest": "https://crests.football-data.org/521.png"
-      },
-      "score": {
-        "home": null,
-        "away": null
-      }
-    },
-    {
-      "id": 575385,
-      "league": "Champions League",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "TIMED",
-      "matchday": 4,
-      "home": {
-        "id": 2016,
-        "name": "LASK",
-        "crest": "https://crests.football-data.org/2016.png"
-      },
-      "away": {
-        "id": 7509,
-        "name": "Sl. Bratislava",
-        "crest": "https://crests.football-data.org/7509.png"
-      },
-      "score": {
-        "home": null,
-        "away": null
-      }
-    },
     {
       "id": 575386,
       "league": "Champions League",
@@ -2188,70 +1810,70 @@
         "points": 28
       },
       {
-        "teamId": 72,
+        "teamId": 332,
         "position": 2,
-        "played": 13,
-        "won": 8,
-        "draw": 2,
-        "lost": 3,
-        "goalsFor": 20,
+        "played": 14,
+        "won": 7,
+        "draw": 5,
+        "lost": 2,
+        "goalsFor": 26,
         "goalsAgainst": 13,
         "points": 26
       },
       {
-        "teamId": 76,
+        "teamId": 70,
         "position": 3,
-        "played": 13,
-        "won": 7,
-        "draw": 3,
-        "lost": 3,
-        "goalsFor": 23,
+        "played": 14,
+        "won": 8,
+        "draw": 2,
+        "lost": 4,
+        "goalsFor": 22,
+        "goalsAgainst": 17,
+        "points": 26
+      },
+      {
+        "teamId": 72,
+        "position": 4,
+        "played": 14,
+        "won": 8,
+        "draw": 2,
+        "lost": 4,
+        "goalsFor": 21,
         "goalsAgainst": 16,
-        "points": 24
+        "points": 26
       },
       {
         "teamId": 74,
-        "position": 4,
-        "played": 13,
+        "position": 5,
+        "played": 14,
         "won": 7,
-        "draw": 3,
+        "draw": 4,
         "lost": 3,
-        "goalsFor": 19,
+        "goalsFor": 20,
+        "goalsAgainst": 15,
+        "points": 25
+      },
+      {
+        "teamId": 340,
+        "position": 6,
+        "played": 14,
+        "won": 8,
+        "draw": 4,
+        "lost": 2,
+        "goalsFor": 29,
         "goalsAgainst": 14,
         "points": 24
       },
       {
-        "teamId": 340,
-        "position": 5,
-        "played": 13,
-        "won": 8,
-        "draw": 3,
-        "lost": 2,
-        "goalsFor": 28,
-        "goalsAgainst": 13,
-        "points": 23
-      },
-      {
-        "teamId": 332,
-        "position": 6,
-        "played": 13,
-        "won": 6,
-        "draw": 5,
-        "lost": 2,
-        "goalsFor": 23,
-        "goalsAgainst": 13,
-        "points": 23
-      },
-      {
-        "teamId": 70,
+        "teamId": 76,
         "position": 7,
         "played": 13,
         "won": 7,
-        "draw": 2,
-        "lost": 4,
-        "goalsFor": 20,
+        "draw": 3,
+        "lost": 3,
+        "goalsFor": 23,
         "goalsAgainst": 16,
-        "points": 23
+        "points": 24
       },
       {
         "teamId": 563,
@@ -2265,63 +1887,74 @@
         "points": 22
       },
       {
-        "teamId": 69,
-        "position": 9,
-        "played": 13,
-        "won": 5,
-        "draw": 5,
-        "lost": 3,
-        "goalsFor": 21,
-        "goalsAgainst": 16,
-        "points": 20
-      },
-      {
         "teamId": 356,
-        "position": 10,
-        "played": 13,
-        "won": 5,
+        "position": 9,
+        "played": 14,
+        "won": 6,
         "draw": 4,
         "lost": 4,
-        "goalsFor": 17,
-        "goalsAgainst": 15,
-        "points": 19
+        "goalsFor": 20,
+        "goalsAgainst": 17,
+        "points": 22
       },
       {
         "teamId": 325,
-        "position": 11,
-        "played": 13,
-        "won": 5,
+        "position": 10,
+        "played": 14,
+        "won": 6,
         "draw": 4,
         "lost": 4,
-        "goalsFor": 16,
-        "goalsAgainst": 15,
-        "points": 19
+        "goalsFor": 19,
+        "goalsAgainst": 16,
+        "points": 22
+      },
+      {
+        "teamId": 69,
+        "position": 11,
+        "played": 14,
+        "won": 5,
+        "draw": 6,
+        "lost": 3,
+        "goalsFor": 22,
+        "goalsAgainst": 17,
+        "points": 21
+      },
+      {
+        "teamId": 68,
+        "position": 12,
+        "played": 14,
+        "won": 6,
+        "draw": 0,
+        "lost": 8,
+        "goalsFor": 27,
+        "goalsAgainst": 24,
+        "points": 18
       },
       {
         "teamId": 384,
-        "position": 12,
-        "played": 13,
+        "position": 13,
+        "played": 14,
         "won": 5,
         "draw": 3,
-        "lost": 5,
+        "lost": 6,
         "goalsFor": 23,
-        "goalsAgainst": 21,
+        "goalsAgainst": 24,
         "points": 18
       },
       {
         "teamId": 59,
-        "position": 13,
-        "played": 13,
+        "position": 14,
+        "played": 14,
         "won": 5,
         "draw": 3,
-        "lost": 5,
-        "goalsFor": 19,
-        "goalsAgainst": 20,
+        "lost": 6,
+        "goalsFor": 20,
+        "goalsAgainst": 22,
         "points": 18
       },
       {
         "teamId": 387,
-        "position": 14,
+        "position": 15,
         "played": 13,
         "won": 5,
         "draw": 3,
@@ -2331,30 +1964,30 @@
         "points": 18
       },
       {
-        "teamId": 68,
-        "position": 15,
-        "played": 13,
+        "teamId": 60,
+        "position": 16,
+        "played": 14,
         "won": 5,
-        "draw": 0,
-        "lost": 8,
-        "goalsFor": 23,
+        "draw": 2,
+        "lost": 7,
+        "goalsFor": 19,
+        "goalsAgainst": 26,
+        "points": 17
+      },
+      {
+        "teamId": 1126,
+        "position": 17,
+        "played": 14,
+        "won": 4,
+        "draw": 3,
+        "lost": 7,
+        "goalsFor": 14,
         "goalsAgainst": 24,
         "points": 15
       },
       {
-        "teamId": 1126,
-        "position": 16,
-        "played": 13,
-        "won": 4,
-        "draw": 3,
-        "lost": 6,
-        "goalsFor": 14,
-        "goalsAgainst": 23,
-        "points": 15
-      },
-      {
         "teamId": 715,
-        "position": 17,
+        "position": 18,
         "played": 13,
         "won": 3,
         "draw": 5,
@@ -2365,7 +1998,7 @@
       },
       {
         "teamId": 404,
-        "position": 18,
+        "position": 19,
         "played": 13,
         "won": 3,
         "draw": 5,
@@ -2375,69 +2008,58 @@
         "points": 14
       },
       {
-        "teamId": 60,
-        "position": 19,
-        "played": 13,
+        "teamId": 346,
+        "position": 20,
+        "played": 14,
         "won": 4,
         "draw": 2,
-        "lost": 7,
-        "goalsFor": 18,
-        "goalsAgainst": 26,
+        "lost": 8,
+        "goalsFor": 13,
+        "goalsAgainst": 23,
         "points": 14
       },
       {
         "teamId": 348,
-        "position": 20,
-        "played": 13,
+        "position": 21,
+        "played": 14,
         "won": 3,
         "draw": 5,
-        "lost": 5,
+        "lost": 6,
         "goalsFor": 11,
-        "goalsAgainst": 21,
+        "goalsAgainst": 22,
         "points": 14
-      },
-      {
-        "teamId": 346,
-        "position": 21,
-        "played": 13,
-        "won": 3,
-        "draw": 2,
-        "lost": 8,
-        "goalsFor": 12,
-        "goalsAgainst": 23,
-        "points": 11
       },
       {
         "teamId": 328,
         "position": 22,
-        "played": 13,
+        "played": 14,
         "won": 1,
-        "draw": 6,
+        "draw": 7,
         "lost": 6,
-        "goalsFor": 17,
-        "goalsAgainst": 25,
-        "points": 9
+        "goalsFor": 18,
+        "goalsAgainst": 26,
+        "points": 10
       },
       {
         "teamId": 342,
         "position": 23,
-        "played": 13,
+        "played": 14,
         "won": 1,
         "draw": 4,
-        "lost": 8,
+        "lost": 9,
         "goalsFor": 11,
-        "goalsAgainst": 25,
+        "goalsAgainst": 29,
         "points": 7
       },
       {
         "teamId": 1081,
         "position": 24,
-        "played": 13,
+        "played": 14,
         "won": 1,
         "draw": 2,
-        "lost": 10,
-        "goalsFor": 10,
-        "goalsAgainst": 27,
+        "lost": 11,
+        "goalsFor": 12,
+        "goalsAgainst": 30,
         "points": 5
       }
     ],
@@ -2446,27 +2068,38 @@
         "teamId": 524,
         "position": 1,
         "played": 4,
-        "won": 3,
-        "draw": 1,
+        "won": 4,
+        "draw": 0,
         "lost": 0,
-        "goalsFor": 14,
+        "goalsFor": 20,
         "goalsAgainst": 5,
-        "points": 10
+        "points": 12
       },
       {
-        "teamId": 58,
+        "teamId": 81,
         "position": 2,
         "played": 4,
         "won": 3,
-        "draw": 1,
-        "lost": 0,
+        "draw": 0,
+        "lost": 1,
+        "goalsFor": 14,
+        "goalsAgainst": 6,
+        "points": 9
+      },
+      {
+        "teamId": 58,
+        "position": 3,
+        "played": 4,
+        "won": 3,
+        "draw": 0,
+        "lost": 1,
         "goalsFor": 12,
-        "goalsAgainst": 3,
-        "points": 10
+        "goalsAgainst": 6,
+        "points": 9
       },
       {
         "teamId": 64,
-        "position": 3,
+        "position": 4,
         "played": 3,
         "won": 3,
         "draw": 0,
@@ -2477,7 +2110,7 @@
       },
       {
         "teamId": 86,
-        "position": 4,
+        "position": 5,
         "played": 3,
         "won": 3,
         "draw": 0,
@@ -2488,7 +2121,7 @@
       },
       {
         "teamId": 498,
-        "position": 5,
+        "position": 6,
         "played": 4,
         "won": 3,
         "draw": 0,
@@ -2499,7 +2132,7 @@
       },
       {
         "teamId": 90,
-        "position": 6,
+        "position": 7,
         "played": 3,
         "won": 3,
         "draw": 0,
@@ -2509,19 +2142,19 @@
         "points": 9
       },
       {
-        "teamId": 81,
-        "position": 7,
+        "teamId": 5,
+        "position": 8,
         "played": 4,
         "won": 2,
-        "draw": 1,
-        "lost": 1,
-        "goalsFor": 11,
-        "goalsAgainst": 6,
-        "points": 7
+        "draw": 2,
+        "lost": 0,
+        "goalsFor": 12,
+        "goalsAgainst": 5,
+        "points": 8
       },
       {
         "teamId": 57,
-        "position": 8,
+        "position": 9,
         "played": 3,
         "won": 2,
         "draw": 1,
@@ -2532,7 +2165,7 @@
       },
       {
         "teamId": 10,
-        "position": 9,
+        "position": 10,
         "played": 4,
         "won": 2,
         "draw": 1,
@@ -2540,17 +2173,6 @@
         "goalsFor": 7,
         "goalsAgainst": 4,
         "points": 7
-      },
-      {
-        "teamId": 5,
-        "position": 10,
-        "played": 4,
-        "won": 1,
-        "draw": 3,
-        "lost": 0,
-        "goalsFor": 10,
-        "goalsAgainst": 5,
-        "points": 6
       },
       {
         "teamId": 7397,
@@ -2586,8 +2208,30 @@
         "points": 6
       },
       {
-        "teamId": 4,
+        "teamId": 108,
         "position": 14,
+        "played": 4,
+        "won": 2,
+        "draw": 0,
+        "lost": 2,
+        "goalsFor": 8,
+        "goalsAgainst": 6,
+        "points": 6
+      },
+      {
+        "teamId": 2016,
+        "position": 15,
+        "played": 4,
+        "won": 2,
+        "draw": 0,
+        "lost": 2,
+        "goalsFor": 10,
+        "goalsAgainst": 9,
+        "points": 6
+      },
+      {
+        "teamId": 4,
+        "position": 16,
         "played": 3,
         "won": 2,
         "draw": 0,
@@ -2597,8 +2241,19 @@
         "points": 6
       },
       {
+        "teamId": 66,
+        "position": 17,
+        "played": 4,
+        "won": 2,
+        "draw": 0,
+        "lost": 2,
+        "goalsFor": 8,
+        "goalsAgainst": 8,
+        "points": 6
+      },
+      {
         "teamId": 610,
-        "position": 15,
+        "position": 18,
         "played": 4,
         "won": 2,
         "draw": 0,
@@ -2609,40 +2264,18 @@
       },
       {
         "teamId": 100,
-        "position": 16,
-        "played": 4,
-        "won": 1,
-        "draw": 2,
-        "lost": 1,
-        "goalsFor": 8,
-        "goalsAgainst": 5,
-        "points": 5
-      },
-      {
-        "teamId": 78,
-        "position": 17,
-        "played": 4,
-        "won": 1,
-        "draw": 2,
-        "lost": 1,
-        "goalsFor": 4,
-        "goalsAgainst": 3,
-        "points": 5
-      },
-      {
-        "teamId": 94,
-        "position": 18,
+        "position": 19,
         "played": 4,
         "won": 1,
         "draw": 1,
         "lost": 2,
-        "goalsFor": 8,
+        "goalsFor": 10,
         "goalsAgainst": 8,
         "points": 4
       },
       {
         "teamId": 1887,
-        "position": 19,
+        "position": 20,
         "played": 4,
         "won": 1,
         "draw": 1,
@@ -2653,7 +2286,7 @@
       },
       {
         "teamId": 674,
-        "position": 20,
+        "position": 21,
         "played": 3,
         "won": 1,
         "draw": 1,
@@ -2663,52 +2296,19 @@
         "points": 4
       },
       {
-        "teamId": 108,
-        "position": 21,
-        "played": 4,
-        "won": 1,
-        "draw": 1,
-        "lost": 2,
-        "goalsFor": 5,
-        "goalsAgainst": 6,
-        "points": 4
-      },
-      {
-        "teamId": 66,
-        "position": 21,
-        "played": 4,
-        "won": 1,
-        "draw": 1,
-        "lost": 2,
-        "goalsFor": 5,
-        "goalsAgainst": 6,
-        "points": 4
-      },
-      {
-        "teamId": 2016,
-        "position": 23,
-        "played": 4,
-        "won": 1,
-        "draw": 1,
-        "lost": 2,
-        "goalsFor": 6,
-        "goalsAgainst": 9,
-        "points": 4
-      },
-      {
-        "teamId": 675,
-        "position": 24,
+        "teamId": 78,
+        "position": 22,
         "played": 4,
         "won": 1,
         "draw": 1,
         "lost": 2,
         "goalsFor": 4,
-        "goalsAgainst": 8,
+        "goalsAgainst": 5,
         "points": 4
       },
       {
         "teamId": 5721,
-        "position": 25,
+        "position": 23,
         "played": 4,
         "won": 1,
         "draw": 1,
@@ -2719,7 +2319,7 @@
       },
       {
         "teamId": 113,
-        "position": 26,
+        "position": 24,
         "played": 3,
         "won": 1,
         "draw": 0,
@@ -2730,7 +2330,7 @@
       },
       {
         "teamId": 10233,
-        "position": 27,
+        "position": 25,
         "played": 3,
         "won": 1,
         "draw": 0,
@@ -2741,7 +2341,7 @@
       },
       {
         "teamId": 546,
-        "position": 28,
+        "position": 26,
         "played": 3,
         "won": 1,
         "draw": 0,
@@ -2752,7 +2352,7 @@
       },
       {
         "teamId": 1899,
-        "position": 29,
+        "position": 27,
         "played": 3,
         "won": 1,
         "draw": 0,
@@ -2763,13 +2363,35 @@
       },
       {
         "teamId": 721,
-        "position": 29,
+        "position": 27,
         "played": 3,
         "won": 1,
         "draw": 0,
         "lost": 2,
         "goalsFor": 3,
         "goalsAgainst": 8,
+        "points": 3
+      },
+      {
+        "teamId": 94,
+        "position": 29,
+        "played": 4,
+        "won": 1,
+        "draw": 0,
+        "lost": 3,
+        "goalsFor": 8,
+        "goalsAgainst": 14,
+        "points": 3
+      },
+      {
+        "teamId": 675,
+        "position": 30,
+        "played": 4,
+        "won": 1,
+        "draw": 0,
+        "lost": 3,
+        "goalsFor": 4,
+        "goalsAgainst": 11,
         "points": 3
       },
       {
@@ -2817,25 +2439,25 @@
         "points": 1
       },
       {
-        "teamId": 7509,
-        "position": 35,
-        "played": 4,
-        "won": 0,
-        "draw": 1,
-        "lost": 3,
-        "goalsFor": 1,
-        "goalsAgainst": 13,
-        "points": 1
-      },
-      {
         "teamId": 503,
-        "position": 36,
+        "position": 35,
         "played": 3,
         "won": 0,
         "draw": 0,
         "lost": 3,
         "goalsFor": 2,
         "goalsAgainst": 6,
+        "points": 0
+      },
+      {
+        "teamId": 7509,
+        "position": 36,
+        "played": 4,
+        "won": 0,
+        "draw": 0,
+        "lost": 4,
+        "goalsFor": 1,
+        "goalsAgainst": 17,
         "points": 0
       }
     ],
@@ -6107,6 +5729,78 @@
         "awayId": 69,
         "homeGoals": 4,
         "awayGoals": 1
+      },
+      {
+        "id": 561920,
+        "date": "2026-11-03T19:45:00Z",
+        "homeId": 69,
+        "awayId": 328,
+        "homeGoals": 1,
+        "awayGoals": 1
+      },
+      {
+        "id": 561921,
+        "date": "2026-11-03T19:45:00Z",
+        "homeId": 342,
+        "awayId": 68,
+        "homeGoals": 0,
+        "awayGoals": 4
+      },
+      {
+        "id": 561922,
+        "date": "2026-11-03T19:45:00Z",
+        "homeId": 59,
+        "awayId": 70,
+        "homeGoals": 1,
+        "awayGoals": 2
+      },
+      {
+        "id": 561924,
+        "date": "2026-11-03T19:45:00Z",
+        "homeId": 346,
+        "awayId": 1126,
+        "homeGoals": 1,
+        "awayGoals": 0
+      },
+      {
+        "id": 561928,
+        "date": "2026-11-03T19:45:00Z",
+        "homeId": 348,
+        "awayId": 60,
+        "homeGoals": 0,
+        "awayGoals": 1
+      },
+      {
+        "id": 561918,
+        "date": "2026-11-03T19:45:00Z",
+        "homeId": 325,
+        "awayId": 72,
+        "homeGoals": 3,
+        "awayGoals": 1
+      },
+      {
+        "id": 561919,
+        "date": "2026-11-03T19:45:00Z",
+        "homeId": 1081,
+        "awayId": 356,
+        "homeGoals": 2,
+        "awayGoals": 3
+      },
+      {
+        "id": 561923,
+        "date": "2026-11-03T20:00:00Z",
+        "homeId": 74,
+        "awayId": 340,
+        "homeGoals": 1,
+        "awayGoals": 1
+      },
+      {
+        "id": 561917,
+        "date": "2026-11-03T20:00:00Z",
+        "homeId": 332,
+        "awayId": 384,
+        "homeGoals": 3,
+        "awayGoals": 0
       }
     ],
     "Champions League": [
@@ -6540,6 +6234,78 @@
         "homeId": 90,
         "awayId": 675,
         "homeGoals": 1,
+        "awayGoals": 0
+      },
+      {
+        "id": 575377,
+        "date": "2026-11-03T17:45:00Z",
+        "homeId": 1887,
+        "awayId": 498,
+        "homeGoals": 0,
+        "awayGoals": 1
+      },
+      {
+        "id": 575378,
+        "date": "2026-11-03T17:45:00Z",
+        "homeId": 610,
+        "awayId": 10,
+        "homeGoals": 2,
+        "awayGoals": 0
+      },
+      {
+        "id": 575379,
+        "date": "2026-11-03T20:00:00Z",
+        "homeId": 675,
+        "awayId": 108,
+        "homeGoals": 0,
+        "awayGoals": 3
+      },
+      {
+        "id": 575380,
+        "date": "2026-11-03T20:00:00Z",
+        "homeId": 81,
+        "awayId": 58,
+        "homeGoals": 3,
+        "awayGoals": 0
+      },
+      {
+        "id": 575381,
+        "date": "2026-11-03T20:00:00Z",
+        "homeId": 78,
+        "awayId": 5,
+        "homeGoals": 0,
+        "awayGoals": 2
+      },
+      {
+        "id": 575382,
+        "date": "2026-11-03T20:00:00Z",
+        "homeId": 94,
+        "awayId": 524,
+        "homeGoals": 0,
+        "awayGoals": 6
+      },
+      {
+        "id": 575383,
+        "date": "2026-11-03T20:00:00Z",
+        "homeId": 66,
+        "awayId": 100,
+        "homeGoals": 3,
+        "awayGoals": 2
+      },
+      {
+        "id": 575384,
+        "date": "2026-11-03T20:00:00Z",
+        "homeId": 5721,
+        "awayId": 521,
+        "homeGoals": 0,
+        "awayGoals": 0
+      },
+      {
+        "id": 575385,
+        "date": "2026-11-03T20:00:00Z",
+        "homeId": 2016,
+        "awayId": 7509,
+        "homeGoals": 4,
         "awayGoals": 0
       }
     ],
