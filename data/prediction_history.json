@@ -4704,7 +4704,16 @@
         "Más de 2,5 goles": 0.636684
       },
       "capturedAt": "2026-10-21T09:17:40.123325+00:00",
-      "result": null
+      "result": {
+        "homeGoals": 3,
+        "awayGoals": 3,
+        "evaluatedAt": "2026-11-05T09:40:35.757212+00:00",
+        "hits": {
+          "Victoria visitante": false,
+          "Ambos marcan · Sí": true,
+          "Más de 2,5 goles": true
+        }
+      }
     },
     "561926": {
       "id": 561926,
@@ -4721,7 +4730,16 @@
         "Menos de 2,5 goles": 0.55927
       },
       "capturedAt": "2026-10-21T09:17:40.123325+00:00",
-      "result": null
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 2,
+        "evaluatedAt": "2026-11-05T09:40:35.757212+00:00",
+        "hits": {
+          "Victoria visitante": true,
+          "Ambos marcan · No": false,
+          "Menos de 2,5 goles": false
+        }
+      }
     },
     "561927": {
       "id": 561927,
@@ -4738,7 +4756,16 @@
         "Más de 2,5 goles": 0.606728
       },
       "capturedAt": "2026-10-21T09:17:40.123325+00:00",
-      "result": null
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 0,
+        "evaluatedAt": "2026-11-05T09:40:35.757212+00:00",
+        "hits": {
+          "Victoria visitante": false,
+          "Ambos marcan · Sí": false,
+          "Más de 2,5 goles": false
+        }
+      }
     },
     "558537": {
       "id": 558537,
@@ -5608,5 +5635,5 @@
       "result": null
     }
   },
-  "updatedAt": "2026-11-04T21:31:20.950894+00:00"
+  "updatedAt": "2026-11-05T09:40:35.757212+00:00"
 }
