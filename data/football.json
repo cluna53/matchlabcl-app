@@ -1,10 +1,10 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-11-05T20:00:26.517687+00:00",
+  "updatedAt": "2026-11-06T08:21:38.918196+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
-      "count": 10
+      "count": 11
     },
     "Premier": {
       "code": "PL",
@@ -1093,6 +1093,27 @@
         "id": 81,
         "name": "Barça",
         "crest": "https://crests.football-data.org/81.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 564748,
+      "league": "LaLiga",
+      "utcDate": "2026-11-20T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "home": {
+        "id": 77,
+        "name": "Athletic",
+        "crest": "https://crests.football-data.org/77.png"
+      },
+      "away": {
+        "id": 80,
+        "name": "Espanyol",
+        "crest": "https://crests.football-data.org/80.png"
       },
       "score": {
         "home": null,
