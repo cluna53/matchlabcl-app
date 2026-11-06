@@ -5633,7 +5633,24 @@
       },
       "capturedAt": "2026-10-25T09:11:03.020441+00:00",
       "result": null
+    },
+    "564748": {
+      "id": 564748,
+      "league": "LaLiga",
+      "utcDate": "2026-11-20T20:00:00Z",
+      "homeId": 77,
+      "awayId": 80,
+      "homeName": "Athletic",
+      "awayName": "Espanyol",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.450453,
+        "Ambos marcan · Sí": 0.52247,
+        "Menos de 2,5 goles": 0.516809
+      },
+      "capturedAt": "2026-11-06T09:42:41.048302+00:00",
+      "result": null
     }
   },
-  "updatedAt": "2026-11-05T21:26:13.816987+00:00"
+  "updatedAt": "2026-11-06T09:42:41.048302+00:00"
 }
