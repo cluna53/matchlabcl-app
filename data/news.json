@@ -1,7 +1,57 @@
 {
-  "updatedAt": "2026-11-07T08:21:33.642017+00:00",
+  "updatedAt": "2026-11-07T14:14:44.453127+00:00",
   "source": "Google News RSS headlines",
   "items": [
+    {
+      "title": "Alineaciones de Cardiff City vs Burnley | EFL Championship - YSscores",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55aUhTWDFGNnBYRHJrckIxZ3NVZHZMd1dNODBJdmluRlc4bkR5cjZyMjRHTHZZSTZqUUlMTzZMaXpBankyQVdRSWZtSTh2b2U4RDlOU3V1TWtyTDRYNXd2QlFpeG9RZjdxTUZKNlpUMklkQVNoYjVIRg?oc=5",
+      "source": "YSscores",
+      "published": "2026-11-07T13:54:05+00:00",
+      "team": "Lincoln City",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones de Fulham y Newcastle por la Premier League: formaciones probables - Bolavip",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXFuX3Zlc1c4X2FYRHlGdzV5eUZmY1FFSmxoa1hUMl80bmpXSUJZS1Yxb0RESE1acnVvRE44S3BaOG1TZm1tSERtM2NxX3hIbFhKbzhpUENoRGNmeU56bFhKZWN2eEdmREJZamlwb1hDOGZLSzlDNDN1MWtyd1RyX2dEV2hSVC1ZeXpnUE1oWEFmN1AwOC03dW1LX3A5aVAtUUc1ZXFUSnZCb0ZmMnVfeS1yU3FXa0xM0gG4AUFVX3lxTE1JcW5fdmVzVzhfYVhEeUZ3NXl5RmZjUUVKbGhrWFQyXzRualdJQllLVjFvRERITVpydW9ETjhLcFo4bVNmbW1IRG0zY3FfeEhsWEpvOGlQQ2hEY2Z5TnpsWEplY3Z4R2ZEQllqaXBvWEM4ZktLOUM0M3Uxa3J3VHJfZ0RXaFJULVl5emdQTWhYQWY3UDA4LTd1bUtfcDlpUC1RRzVlcVRKdkJvRmYydV95LXJTcVdrTEw?oc=5",
+      "source": "Bolavip",
+      "published": "2026-11-07T10:01:18+00:00",
+      "team": "Newcastle",
+      "league": "Premier",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones confirmadas del Málaga CF-Racing de Santander - La Opinión de Málaga",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0hjZzc5bE91RThnZEtoU2tWS3lfQklsQUNPYjcya2pCc1V4V3VOd2FRMUJwd0luRHRrcjlNUktURHFpYWZxekhyc0JvT1otYUltZ3V3SFF4WklOeHRQSVFxeWxQT2h2a1pSWlBNZTQzUVQxNXh6cUF1eEhBNlZST2ZocENPYnQ1NVp6NXktS1FnMHJlR2JTNlpHMGJfTGJyb3ZTRF9DY1pjZ9IBrwFBVV95cUxObGs1XzdZaExVaXBzNEpDVThnWjBtdEh1TFU5ZVpVUnIzemZMR1lnbmdSbXZXUTlnU2FBZmYxckJWaTZUcXVKU2FOV21QQVpiWFY1SWp4M01TQWJFNXZkWXBEemVnMWdHSGt6ZDFOTFd4eU96Rjk2VVBRUDR4R011SXIzOVF2UzlCWlEtZnFwVjd6TjVGcE9pcDZnZ0pvVWRFRkNySXY4VDVmNWJvWVZz?oc=5",
+      "source": "La Opinión de Málaga",
+      "published": "2026-11-07T08:47:56+00:00",
+      "team": "Málaga",
+      "league": "LaLiga",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Fulham - Newcastle - Pronóstico, dónde ver, horario y alineaciones 07-11-2026 - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjVnYXM5VDdQZzFkdXZFVFZGVmxTcjZWaFNNOVNmdUQ5NTg3UnQ5ZEd5S2NMNXJrdjMycDZ6SmdMdWJfTW5lQ2h6OHA0Uld1SVhNNFVvN2x1dWc4eE5wRnZQWThoaXFKc3g2REUtQnMzaGxwaTNTbDZFbnJ6VnZUQUZZU20?oc=5",
+      "source": "OneFootball",
+      "published": "2026-11-07T08:05:08+00:00",
+      "team": "Fulham",
+      "league": "Premier",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones de Leeds y Tottenham por la Premier League: formaciones probables - Bolavip",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0ROcnNMNjVVUDJ5aF9mcGRVemtyTGNYdFoyYTRfQWoxWWxJVEFZbkJObVJvNTRQR3BMWFhuOXppeVVEQnNUVXBydlJzeGNuUjVQSTluYklmdUkwWDJMdFM0cnIwbE55aGlOUEpnRmF4ZV9OVGZKSnl4UWREX3RKS2xDQVQwR2I1OHA5bWJNSWF1R0k3N3N0RXdwRDk1YjhOeHZBYmN1M09lUHRnblBTdWZR0gG3AUFVX3lxTE9JcWVjMnFTSVQ4NVpfQ3BtUjVIQldqeHYwQnBmQllPMTBOTWhsRnNvZUluV3BQcFZ6ak9WOEk4aFdxMUpudkt2T2tXTXd3NURHMjZHVHlKRnlwdlFaVjVONWNoUlNPaWo2d2tMRDFrMmhleEYtZWlmM3ZoVWR2SFJEdTJYdlpza0hHelVQQmZ6NElpN3VaOUtrb0FhMEg5RFRjQzJCUlZKU0xwRHhrZW9DVEpKSmY2aw?oc=5",
+      "source": "Bolavip",
+      "published": "2026-11-07T07:41:18+00:00",
+      "team": "Tottenham",
+      "league": "Premier",
+      "category": "general",
+      "status": "unverified"
+    },
     {
       "title": "Leeds United vs Tottenham en vivo: canales, streaming y horarios de la Premier League 2026/27 para México, Latinoamérica y USA - DAZN",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYUdCZTFiSWF2djc4NWJ6RGd5N3lyMzZSVUhSSzB2QTI2WlFEbm9pTVIyMzE3Qm5nMkY1Tzc3Tkhua3dLTzBWbUtubjZYTGY3SmF6TnJrYV8xMVVOQTRpMFNUd1VFSlVDWENGa2k5cF95aklZb0lzdTZHdEx3WVlKLVhpUGhNUjZUMFdKTmNpS3FrclBwcVNvUHk2QmdUXy15OENINUJmWGxkSHBEZGFseTlEV3pFUm5SNlBXMGtnZTVLa2JZUzdYRXVfLVNiNVN5aW1TOU1ITzc5dw?oc=5",
@@ -53,7 +103,7 @@
       "status": "unverified"
     },
     {
-      "title": "Bukayo Saka seguirá de baja varias semanas con Arsenal - beIN SPORTS",
+      "title": "Malas noticias para el Arsenal: Bukayo Saka seguirá de baja varias semanas - beIN SPORTS",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbzE1aE9TQmVBS08xOVZ4aFdkenlCSXNBLXlRX19Cb0FiY21yMUIxSEN0Mng3Y2l2VDNWQnpkVElmR2pQZ3lxXzR3T0xPU3dfRUJYMlctVmxHRmVQVlpIemt2cWp1My1XVUtfcENIMHBZM09hZklSWWpaV1BEbzNwczQyS05nYnU1QzczQXNmdkhxZk9KMUdjcmEwXzhnbVZRYmN6OVhmcUY2Xy1INnVkY3B2OW95b0wxbzV4NExiNUc1SEdPQk1TMTAxclFUdmJoQUtsaFRvYXdHV0docjZuN2NDWHhmSXZaVlhN?oc=5",
       "source": "beIN SPORTS",
       "published": "2026-11-06T21:03:36+00:00",
@@ -413,6 +463,16 @@
       "status": "unverified"
     },
     {
+      "title": "El 'sobresaliente' Wilson vuelve a la convocatoria de Gales para la Liga de Naciones - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMzZGRDlVQ3FxYnYwbHhPZC1VcFUzNDhJR1J0UEg3dXFFZllWV1NLcXFkUlZDN3lxcnNOaXpGUllyX0JRUVI5S3BNRnZrMzh3c0FEclM0LVdIbm56NVlWUFhoMDNxTERTOEc5R2lLVUlXMlU4SlNtS3ctcjhKWnZMWmFITEw1c09DZjRXMW1FNlJFOHhWUGVEaXUwdWlGT0hybGJCVDR5Z25OWnpIeS1ZS0tMT19VbFpGY0tJM2tybF9Nb29idEtyMnJ6SmNMSnVSSmRsQl9MQm92UUU?oc=5",
+      "source": "FotMob",
+      "published": "2026-11-04T13:41:02+00:00",
+      "team": "Cardiff",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Alineaciones Lecce vs Genoa, Serie A 2026/2027 - Diario AS",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1pLMFRoN25iQWhxSGdqYzNEUWI5TEJxR2lxRFROeFYtTzY4d1NVejV1MkItTzRVMmZiX0xPTnJWdkFCNWxzTDE0MnRKVXp6UlZ4WWtmampkMktURGluY0ZobUlNSVdzQjJVeFVqa2NGb0Y3cW55N3BlSGlyaWxMZmtpVmc1NjI3TWRsaUVXUklSOF91bWp5MXRoaGxoWTFFNGc?oc=5",
       "source": "Diario AS",
@@ -514,9 +574,9 @@
     },
     {
       "title": "Resumen del partido Blackburn - Stoke City - YSscores",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13ZWo2X3p3NldIVVprbGlUd25jWG11WDJzVDlZb0l0VFNLbTdfRkdxMi1pR0tNMnkzd3VhdHlMMXdHcnpDdzR1Q2xiX2JRdnVCbVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CUHVockpNQndrR053bjM5a1d1XzllYzRGTTl3RXZDc2NtM2pKMzRsZWRVc2Z5dmNxZE1tcG1qRVUyYkdiUlVDTDl5dkxlUnJ2ckE?oc=5",
       "source": "YSscores",
-      "published": "2026-11-03T23:35:36+00:00",
+      "published": "2026-11-04T00:47:09+00:00",
       "team": "Stoke",
       "league": "Championship",
       "category": "general",
@@ -603,22 +663,12 @@
       "status": "unverified"
     },
     {
-      "title": "Watford FC - Lincoln City | pronósticos + mejores cuotas | 03.11.2026 - Futbol24",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWxMTk9vYkNrZDVSemRXTTR3QlR2Y0VpcHJHQkdYR1hmclpNZllXWk83LXBHSDN1Y2lXX3FXQlBuUnhUY25Ic0xBTldaaXFoWmE4LVVhZTgwWS1VMExJV3JUZEFPWDVNMTBYbERGZUxCUU9mdS1MNGZUcHRiZXRnbm9oOENyQkpyX2Y4U2s1QXBPbVJkQ2pObVphMUdFRDdack0xUHBBVQ?oc=5",
-      "source": "Futbol24",
+      "title": "Dónde Ver: Derby County vs Norwich City en vivo (03/11) - APWin",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYmV4M0kxT3g5R2R5NURZTzQxem5EUnp1NHdraEV4cHJ4T0FFS19NOUcwaVJJeFVsQmw5TTZTWEZIb3hRRENheXBlY2djc2FhQVV5eTQxQnNycnRYMk82a0NrX2JDRkUyVGs3SE45Um0tU250YUExMTBpYTI0bk5WM094TlNNemQxR1c3a1Z4S0ZZWXl2ZGFtTVRyYUlmSnNtYkVxRGhlay1iZ2Z6?oc=5",
+      "source": "APWin",
       "published": "2026-11-03T10:45:00+00:00",
-      "team": "Lincoln City",
+      "team": "Norwich",
       "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Newcastle United - Everton, en directo | Premier League - Mundo Deportivo",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWRmc2ZGQi00S1ZxcXJQZDhwRndoRm0xdTc2NncxcFNRN3BuUzNoU1FENzV6eFJwclJLWFZFUURGSjdEZW43dmtfNzdKMUdCSDZESVJYOVdRQ05qZ0pCUDNROUc1RWlPNW1tdVNIUUdHYy01TzYwYWxrbXZ4ZldkSUNlZjU3RFE3RXhvcVVoNWFOSjRSdmVHMHFHd1plRDhWNEVPeU1pbGsxYTc1bHhOVkRQaHZXVU05QmppTkhuWVlkTUHSAdABQVVfeXFMTWdTdmpRZC1hMHVkb2NwTFZNclZFV3pSR0diMENrUHdxVjFKaXlaMGpHLTByVGZDcjUxTk5XSWNRaURfVXNEWEpvRFpOTm9rM0Q5MHp4ZTM3eUYtZ25lM2YwUGFGTTZYdEU2QkR2S2ZrY2ZITG1BdG9qa1BxQ3NGLWZwVi12ZnlEZEY5OWFmTnJuQ0ZYMzJSdmlVOFZXY3B4Y01RZ2k1b0ZCQXRmQU5JeFdXRVMtd183QjVnSzBzbkMzMDNjNWhFODNoQnlzazBGag?oc=5",
-      "source": "Mundo Deportivo",
-      "published": "2026-11-03T01:14:16+00:00",
-      "team": "Newcastle",
-      "league": "Premier",
       "category": "general",
       "status": "unverified"
     },
@@ -650,16 +700,6 @@
       "team": "Torino",
       "league": "Serie A",
       "category": "lesion",
-      "status": "unverified"
-    },
-    {
-      "title": "Álvaro Mantilla no volverá a jugar con el Racing de Santander esta temporada - La Razón",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzM0clNfUzdRaEFXSjQ2THctV0paQmJaWGp3aUctclZlQTh3RHVValRTSnJwdDRMdnJyX1Y0MjZiWDRxeWhMaTdKb3hCek9YWWpUUkNaXzMwSjJDNUNYVlRwRnFudUdpSTBaY1ZuVkxPcW9tSXZ6cE1INkgzUDlDWkVtWmluSjV6VGxvVEhuNkdJZ195Rno4eTMzSDAxSjVUbE84X3p0Q0xFOWpqQVFMa2xqT291OUFIbXlsbkM5a3l0WU1P0gHYAUFVX3lxTE9GbVRsTjAzbmFEM2RsbUtTZFpMN1BIeE50Vks0QlZ2NTcwZ1ZHUmRCS2NpS3dTbnV4Z09abjFVbWEzUlJIYXBDMjl0NmdTREhQOE1TbFBtUTJ2cFZyYVBwSmpwT2F5d2YtWms0dHpkWTRzR0FrdHkxazcwQmhJUFJraG16UFRfcm9VOHMweFRWLUtEWUZvSHZ0RF9vSmlkWE9WYzFjMEdIcHlXWmNBUzVSdTNLQlNkVnJMOGlOeUVqWmYza0tyZjJpb1N3a2Rpa3F3Vy1neFlBMw?oc=5",
-      "source": "La Razón",
-      "published": "2026-11-02T13:50:52+00:00",
-      "team": "Santander",
-      "league": "LaLiga",
-      "category": "general",
       "status": "unverified"
     },
     {
@@ -873,16 +913,6 @@
       "status": "unverified"
     },
     {
-      "title": "Wolves vs Cardiff - marcador en vivo, alineaciones previstas y estadísticas H2H - FotMob",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGRKRVhRQndxMVFNZ2tDazNWTmxERVNxN1d1aFZPS1BJV1E4aW5TekNTTWNWTkdnWTVESUlNRHYxeUY4Z1JGSUgzU3piRWt6REk2VTBnbGs1NXBiazFTeGVYMzhSMUpBZTh2Mlk3aEQ4NUxHX3NhbG56bU5XaXJFWHpvNG8xVUk?oc=5",
-      "source": "FotMob",
-      "published": "2026-10-31T15:00:00+00:00",
-      "team": "Cardiff",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Previa Bournemouth vs Leeds United: forma, estadísticas y jugadores clave - Sofascore",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZXd4dDNPenlSS3NwY3dTaUVobW10azVGYlkzMHVOMFBQanpEN0lkV0cxTEdubWVOb2M5dkpJaFhiTmsxU2V2Ujc1djlkQlRtVmd0dHc4SGhSekhhSHl1MTlyY1oxT2U3UjA4cUJicUJJU1FmZnppX242aURIVERLVnJsaGU3eHJObjA3SC1PZU1Ya1Q3WWtMV1J4N3F6ZzY3SkwwZF9sWjE?oc=5",
       "source": "Sofascore",
@@ -897,46 +927,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51VXJJenJSRmRIcXZqSERMZ1dsdmZ6RmhsR3ZaVm5pNTJpRENEalZBTVVSWjhIckNndDhrQ0V3cE1FRlRmbWZ0S1JnODh2T3pFTGRiNE55TnpNMVc4ZlJCNzFJeHVTT1MyOFE?oc=5",
       "source": "ESPN Panamá",
       "published": "2026-10-31T13:38:33+00:00",
-      "team": "Norwich",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Chelsea vs Tottenham: pronóstico, cuotas y alineaciones probables | Premier League - Mundo Deportivo",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORmdTR09iT25wS3U1RUU0dTZ5SEhSdzgwOFF5cGxXSFpOZDdKWTRsVS1fS2NoMjZzXzI2R1U0SEE0OXhneGNTOFNpM2pzdHlkMVdFS3hVVjZwZWlzVnEzXzV6R1ZvQndkUnNFdHV3cWNtbXVibnA5c195djZVVkRrdzZKTEVLdmw3c0RBeTBsTVUzQ290TldVQk9ocUExWFI3a3FtanByNEhpOXVmdVN0Qm5maVdZM2ZIMEEzQzZDQVVheGZVNHA2TmRUOWpHLXM0bTh4VFVaVkd1bEU?oc=5",
-      "source": "Mundo Deportivo",
-      "published": "2026-10-31T10:56:52+00:00",
-      "team": "Tottenham",
-      "league": "Premier",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Alineaciones de Lincoln City vs Birmingham: Estadísticas, horarios y dónde ver - Xpectro FM",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYkJYOWp3MTRabUdYMUY3NV9OZXh1NjRub2dKa19HaWZqZElXQjh6MWJtLUVncjVBY1lCOE44NHJPNXdYdHdoZ1dtbWUwTXJBY0JBZm5aNHlJMklLOEVtdnhFclVSdDB0dHE0UFZDTGRmS0puNWhma1BLdVNMMXc4cUoxTVBJREQzMVlnSi15Vks1SlFGWXhIR1lrUm9ZV21E?oc=5",
-      "source": "Xpectro FM",
-      "published": "2026-10-31T10:35:00+00:00",
-      "team": "Lincoln City",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Alineaciones confirmadas del Betis-Málaga CF en La Cartuja - La Opinión de Málaga",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbERfZjdLRWttLXAySlZVTE1qV3pPM2lOdFFmNU82STJFTld0bjQ3dUI0V3B1MWVzUHRySXBBcXk5aDNweDZRM1R6TmtSb0V1a2FkOGRRQ0kwQnJ1NVJ3dVU0YnI4UmkzVkNRRENnSXItbk5NSGM5TmFnelBXWTRzZ0ZCOUkzMXdOOS1JcENuTEhDdFhhQ2NSTE9NREtTYWpFZ2FOOHdkS0jSAa4BQVVfeXFMTmp6ZThZLTRuMGhJRjNQT1FtWEpuRkt4YkE3Z0xseXdUdW91enRSeGlMZ1lfLWlsV3JHWExMNHppS0lNT0J0QTVzOUx6bFREUVJiTkhFU3NkN0xSSHBBTVItb09LS1I3eWt6RXdmOUI0NTRkZHV5b0NyYU9EYU5JY0xObmZaV2djTTdXXzh0dE1TSzJlVlZLMFQ5VlpnU0FxRG5xQTFxNVBaWk5zYS13?oc=5",
-      "source": "La Opinión de Málaga",
-      "published": "2026-10-31T10:10:42+00:00",
-      "team": "Málaga",
-      "league": "LaLiga",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Dónde Ver: Norwich City vs Watford en vivo (31/10) - APWin",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWxlS05hMWVSZjJmRnhKMGp0UDJ2bkxPZGM0LXNOV24yTHBLLTVYWjdBR3d3QVMwVVFFUjFDSVh4RGFYR2N1cU5jVkp1VkxVcURMVlJkNHVpWlV6LUg4djhuZFlfZEhVSGowY09CVjR4SE0zZXMxRk9pMklnREtrZ0FQTC03b2NxX3UxeDRXV2Q2VzFlcnlYbUxKYktKNHQxT0JPQXV3?oc=5",
-      "source": "APWin",
-      "published": "2026-10-31T07:37:17+00:00",
       "team": "Norwich",
       "league": "Championship",
       "category": "general",
