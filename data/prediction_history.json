@@ -5588,7 +5588,16 @@
         "Más de 2,5 goles": 0.566739
       },
       "capturedAt": "2026-10-25T09:11:03.020441+00:00",
-      "result": null
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 2,
+        "evaluatedAt": "2026-11-09T09:42:56.228197+00:00",
+        "hits": {
+          "Victoria visitante": false,
+          "Ambos marcan · Sí": true,
+          "Más de 2,5 goles": true
+        }
+      }
     },
     "558530": {
       "id": 558530,
@@ -5735,7 +5744,16 @@
         "Más de 2,5 goles": 0.749871
       },
       "capturedAt": "2026-10-25T09:11:03.020441+00:00",
-      "result": null
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 3,
+        "evaluatedAt": "2026-11-09T09:42:56.228197+00:00",
+        "hits": {
+          "Victoria visitante": true,
+          "Ambos marcan · Sí": true,
+          "Más de 2,5 goles": true
+        }
+      }
     },
     "558839": {
       "id": 558839,
@@ -6038,7 +6056,16 @@
         "Más de 2,5 goles": 0.675577
       },
       "capturedAt": "2026-10-25T09:11:03.020441+00:00",
-      "result": null
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 2,
+        "evaluatedAt": "2026-11-09T09:42:56.228197+00:00",
+        "hits": {
+          "Victoria visitante": true,
+          "Ambos marcan · Sí": true,
+          "Más de 2,5 goles": true
+        }
+      }
     },
     "564747": {
       "id": 564747,
@@ -6881,7 +6908,58 @@
       },
       "capturedAt": "2026-11-08T09:28:14.817122+00:00",
       "result": null
+    },
+    "558519": {
+      "id": 558519,
+      "league": "Serie A",
+      "utcDate": "2026-11-23T19:45:00Z",
+      "homeId": 5911,
+      "awayId": 99,
+      "homeName": "Monza",
+      "awayName": "Fiorentina",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.406634,
+        "Ambos marcan · Sí": 0.693366,
+        "Más de 2,5 goles": 0.693298
+      },
+      "capturedAt": "2026-11-09T09:42:56.228197+00:00",
+      "result": null
+    },
+    "560649": {
+      "id": 560649,
+      "league": "Premier",
+      "utcDate": "2026-11-23T20:00:00Z",
+      "homeId": 402,
+      "awayId": 62,
+      "homeName": "Brentford",
+      "awayName": "Everton",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.417174,
+        "Ambos marcan · No": 0.504153,
+        "Menos de 2,5 goles": 0.555934
+      },
+      "capturedAt": "2026-11-09T09:42:56.228197+00:00",
+      "result": null
+    },
+    "564757": {
+      "id": 564757,
+      "league": "LaLiga",
+      "utcDate": "2026-11-23T20:00:00Z",
+      "homeId": 88,
+      "awayId": 285,
+      "homeName": "Levante",
+      "awayName": "Elche",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.416905,
+        "Ambos marcan · Sí": 0.592867,
+        "Más de 2,5 goles": 0.565346
+      },
+      "capturedAt": "2026-11-09T09:42:56.228197+00:00",
+      "result": null
     }
   },
-  "updatedAt": "2026-11-08T21:18:42.878442+00:00"
+  "updatedAt": "2026-11-09T09:42:56.228197+00:00"
 }
