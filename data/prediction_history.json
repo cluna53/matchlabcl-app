@@ -6959,7 +6959,143 @@
       },
       "capturedAt": "2026-11-09T09:42:56.228197+00:00",
       "result": null
+    },
+    "561953": {
+      "id": 561953,
+      "league": "Championship",
+      "utcDate": "2026-11-24T19:45:00Z",
+      "homeId": 715,
+      "awayId": 1081,
+      "homeName": "Cardiff",
+      "awayName": "Preston NE",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.577454,
+        "Ambos marcan · Sí": 0.650051,
+        "Más de 2,5 goles": 0.682419
+      },
+      "capturedAt": "2026-11-10T09:37:06.572068+00:00",
+      "result": null
+    },
+    "561954": {
+      "id": 561954,
+      "league": "Championship",
+      "utcDate": "2026-11-24T19:45:00Z",
+      "homeId": 343,
+      "awayId": 72,
+      "homeName": "Middlesbrough",
+      "awayName": "Swansea",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.515136,
+        "Ambos marcan · Sí": 0.610057,
+        "Más de 2,5 goles": 0.60973
+      },
+      "capturedAt": "2026-11-10T09:37:06.572068+00:00",
+      "result": null
+    },
+    "561955": {
+      "id": 561955,
+      "league": "Championship",
+      "utcDate": "2026-11-24T19:45:00Z",
+      "homeId": 325,
+      "awayId": 563,
+      "homeName": "Portsmouth",
+      "awayName": "West Ham",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.413033,
+        "Ambos marcan · Sí": 0.657205,
+        "Más de 2,5 goles": 0.647329
+      },
+      "capturedAt": "2026-11-10T09:37:06.572068+00:00",
+      "result": null
+    },
+    "561956": {
+      "id": 561956,
+      "league": "Championship",
+      "utcDate": "2026-11-24T19:45:00Z",
+      "homeId": 356,
+      "awayId": 340,
+      "homeName": "Sheffield Utd",
+      "awayName": "Southampton",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.370824,
+        "Ambos marcan · Sí": 0.525746,
+        "Menos de 2,5 goles": 0.522795
+      },
+      "capturedAt": "2026-11-10T09:37:06.572068+00:00",
+      "result": null
+    },
+    "561957": {
+      "id": 561957,
+      "league": "Championship",
+      "utcDate": "2026-11-24T20:00:00Z",
+      "homeId": 76,
+      "awayId": 342,
+      "homeName": "Wolverhampton",
+      "awayName": "Derby County",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.542085,
+        "Ambos marcan · Sí": 0.56091,
+        "Más de 2,5 goles": 0.560835
+      },
+      "capturedAt": "2026-11-10T09:37:06.572068+00:00",
+      "result": null
+    },
+    "561958": {
+      "id": 561958,
+      "league": "Championship",
+      "utcDate": "2026-11-24T19:45:00Z",
+      "homeId": 348,
+      "awayId": 1126,
+      "homeName": "Charlton",
+      "awayName": "Lincoln City",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.382002,
+        "Ambos marcan · Sí": 0.505689,
+        "Menos de 2,5 goles": 0.547581
+      },
+      "capturedAt": "2026-11-10T09:37:06.572068+00:00",
+      "result": null
+    },
+    "561959": {
+      "id": 561959,
+      "league": "Championship",
+      "utcDate": "2026-11-24T19:45:00Z",
+      "homeId": 387,
+      "awayId": 404,
+      "homeName": "Bristol City",
+      "awayName": "Wrexham",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.424401,
+        "Ambos marcan · No": 0.502854,
+        "Menos de 2,5 goles": 0.553133
+      },
+      "capturedAt": "2026-11-10T09:37:06.572068+00:00",
+      "result": null
+    },
+    "561960": {
+      "id": 561960,
+      "league": "Championship",
+      "utcDate": "2026-11-24T19:45:00Z",
+      "homeId": 68,
+      "awayId": 69,
+      "homeName": "Norwich",
+      "awayName": "QPR",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.452241,
+        "Ambos marcan · Sí": 0.631388,
+        "Más de 2,5 goles": 0.619541
+      },
+      "capturedAt": "2026-11-10T09:37:06.572068+00:00",
+      "result": null
     }
   },
-  "updatedAt": "2026-11-09T21:33:40.912567+00:00"
+  "updatedAt": "2026-11-10T09:37:06.572068+00:00"
 }
