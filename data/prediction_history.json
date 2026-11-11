@@ -7095,7 +7095,75 @@
       },
       "capturedAt": "2026-11-10T09:37:06.572068+00:00",
       "result": null
+    },
+    "561961": {
+      "id": 561961,
+      "league": "Championship",
+      "utcDate": "2026-11-25T19:45:00Z",
+      "homeId": 346,
+      "awayId": 59,
+      "homeName": "Watford",
+      "awayName": "Blackburn",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.384133,
+        "Ambos marcan · Sí": 0.537503,
+        "Menos de 2,5 goles": 0.507571
+      },
+      "capturedAt": "2026-11-11T09:39:51.847676+00:00",
+      "result": null
+    },
+    "561962": {
+      "id": 561962,
+      "league": "Championship",
+      "utcDate": "2026-11-25T20:00:00Z",
+      "homeId": 70,
+      "awayId": 384,
+      "homeName": "Stoke",
+      "awayName": "Millwall",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.529224,
+        "Ambos marcan · Sí": 0.552076,
+        "Más de 2,5 goles": 0.544783
+      },
+      "capturedAt": "2026-11-11T09:39:51.847676+00:00",
+      "result": null
+    },
+    "561963": {
+      "id": 561963,
+      "league": "Championship",
+      "utcDate": "2026-11-25T19:45:00Z",
+      "homeId": 60,
+      "awayId": 74,
+      "homeName": "Bolton",
+      "awayName": "West Brom",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.505566,
+        "Ambos marcan · Sí": 0.597613,
+        "Más de 2,5 goles": 0.591256
+      },
+      "capturedAt": "2026-11-11T09:39:51.847676+00:00",
+      "result": null
+    },
+    "561964": {
+      "id": 561964,
+      "league": "Championship",
+      "utcDate": "2026-11-25T19:45:00Z",
+      "homeId": 328,
+      "awayId": 332,
+      "homeName": "Burnley",
+      "awayName": "Birmingham",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.484376,
+        "Ambos marcan · Sí": 0.555207,
+        "Más de 2,5 goles": 0.532479
+      },
+      "capturedAt": "2026-11-11T09:39:51.847676+00:00",
+      "result": null
     }
   },
-  "updatedAt": "2026-11-10T21:24:05.216718+00:00"
+  "updatedAt": "2026-11-11T09:39:51.847676+00:00"
 }
