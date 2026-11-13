@@ -1,18 +1,18 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-11-12T20:01:51.134181+00:00",
+  "updatedAt": "2026-11-13T08:24:16.004847+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
-      "count": 10
+      "count": 11
     },
     "Premier": {
       "code": "PL",
-      "count": 10
+      "count": 11
     },
     "Championship": {
       "code": "ELC",
-      "count": 24
+      "count": 25
     },
     "Champions League": {
       "code": "CL",
@@ -20,11 +20,11 @@
     },
     "Serie A": {
       "code": "SA",
-      "count": 10
+      "count": 11
     },
     "Eredivisie": {
       "code": "DED",
-      "count": 9
+      "count": 10
     }
   },
   "matches": [
@@ -1723,6 +1723,111 @@
         "id": 613,
         "name": "Fenerbahçe",
         "crest": "https://crests.football-data.org/613.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 558820,
+      "league": "Eredivisie",
+      "utcDate": "2026-11-27T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "home": {
+        "id": 677,
+        "name": "Groningen",
+        "crest": "https://crests.football-data.org/677.png"
+      },
+      "away": {
+        "id": 672,
+        "name": "Willem II",
+        "crest": "https://crests.football-data.org/672.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 558515,
+      "league": "Serie A",
+      "utcDate": "2026-11-27T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "home": {
+        "id": 454,
+        "name": "Venezia FC",
+        "crest": "https://crests.football-data.org/454.png"
+      },
+      "away": {
+        "id": 103,
+        "name": "Bologna",
+        "crest": "https://crests.football-data.org/103.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 564765,
+      "league": "LaLiga",
+      "utcDate": "2026-11-27T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "home": {
+        "id": 88,
+        "name": "Levante",
+        "crest": "https://crests.football-data.org/88.png"
+      },
+      "away": {
+        "id": 5335,
+        "name": "Santander",
+        "crest": "https://crests.football-data.org/5335.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 560658,
+      "league": "Premier",
+      "utcDate": "2026-11-27T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "home": {
+        "id": 351,
+        "name": "Nottingham",
+        "crest": "https://crests.football-data.org/351.png"
+      },
+      "away": {
+        "id": 61,
+        "name": "Chelsea",
+        "crest": "https://crests.football-data.org/61.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 561968,
+      "league": "Championship",
+      "utcDate": "2026-11-27T20:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 18,
+      "home": {
+        "id": 340,
+        "name": "Southampton",
+        "crest": "https://crests.football-data.org/340.png"
+      },
+      "away": {
+        "id": 343,
+        "name": "Middlesbrough",
+        "crest": "https://crests.football-data.org/343.png"
       },
       "score": {
         "home": null,
