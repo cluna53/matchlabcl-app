@@ -7163,7 +7163,92 @@
       },
       "capturedAt": "2026-11-11T09:39:51.847676+00:00",
       "result": null
+    },
+    "558515": {
+      "id": 558515,
+      "league": "Serie A",
+      "utcDate": "2026-11-27T19:45:00Z",
+      "homeId": 454,
+      "awayId": 103,
+      "homeName": "Venezia FC",
+      "awayName": "Bologna",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.499224,
+        "Ambos marcan · Sí": 0.56071,
+        "Más de 2,5 goles": 0.543972
+      },
+      "capturedAt": "2026-11-13T09:40:00.930800+00:00",
+      "result": null
+    },
+    "558820": {
+      "id": 558820,
+      "league": "Eredivisie",
+      "utcDate": "2026-11-27T19:00:00Z",
+      "homeId": 677,
+      "awayId": 672,
+      "homeName": "Groningen",
+      "awayName": "Willem II",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.571228,
+        "Ambos marcan · Sí": 0.767399,
+        "Más de 2,5 goles": 0.814271
+      },
+      "capturedAt": "2026-11-13T09:40:00.930800+00:00",
+      "result": null
+    },
+    "560658": {
+      "id": 560658,
+      "league": "Premier",
+      "utcDate": "2026-11-27T20:00:00Z",
+      "homeId": 351,
+      "awayId": 61,
+      "homeName": "Nottingham",
+      "awayName": "Chelsea",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.375204,
+        "Ambos marcan · Sí": 0.512072,
+        "Menos de 2,5 goles": 0.539901
+      },
+      "capturedAt": "2026-11-13T09:40:00.930800+00:00",
+      "result": null
+    },
+    "561968": {
+      "id": 561968,
+      "league": "Championship",
+      "utcDate": "2026-11-27T20:00:00Z",
+      "homeId": 340,
+      "awayId": 343,
+      "homeName": "Southampton",
+      "awayName": "Middlesbrough",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.442587,
+        "Ambos marcan · Sí": 0.575622,
+        "Más de 2,5 goles": 0.547449
+      },
+      "capturedAt": "2026-11-13T09:40:00.930800+00:00",
+      "result": null
+    },
+    "564765": {
+      "id": 564765,
+      "league": "LaLiga",
+      "utcDate": "2026-11-27T20:00:00Z",
+      "homeId": 88,
+      "awayId": 5335,
+      "homeName": "Levante",
+      "awayName": "Santander",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.46719,
+        "Ambos marcan · Sí": 0.660623,
+        "Más de 2,5 goles": 0.659264
+      },
+      "capturedAt": "2026-11-13T09:40:00.930800+00:00",
+      "result": null
     }
   },
-  "updatedAt": "2026-11-12T21:29:02.525480+00:00"
+  "updatedAt": "2026-11-13T09:40:00.930800+00:00"
 }
