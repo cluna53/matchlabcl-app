@@ -1,13 +1,33 @@
 {
-  "updatedAt": "2026-11-13T20:23:13.011812+00:00",
+  "updatedAt": "2026-11-14T08:20:56.075664+00:00",
   "source": "Google News RSS headlines",
   "items": [
     {
       "title": "6-1: Eder Sarabia 'baja al barro' y el Espanyol golea - Mundo Deportivo",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYnNocU1DekRCTTY0QkF4U0tZS3Vhd2FKamthc08tYjFYa0s3ZmUyNUFuandQYkNvMjRVVVVWTERvSkgzdFJqTkVya242dUx4bE9yZ0I2NWNlXzBrU3VxYUNrX2QzMHA2MlBaSVZDYVhUTGF3NVFKYnZ4MlMtVV9ZSzNieTFfLVM1Rl9B0gGYAUFVX3lxTE16QklzaFpoTm5tNVVXVl93U21qUmlxaXNPY3VVZkpySUNqTGdlYnBWSVpFNkN0VVJpNW1WdlZWWE1VM1E5VnhfSVAyR0hMZWswUGJ4WjhzXy1vWHJabnZtQkdxUmNSdkdGazNPaGFWMnVWR29jZHByWDd4dzY0NHJnQXFjUGVVXzdRZGJqandvOFVTSGp0Szdt?oc=5",
       "source": "Mundo Deportivo",
-      "published": "2026-11-13T18:03:44+00:00",
+      "published": "2026-11-13T21:21:40+00:00",
       "team": "Espanyol",
+      "league": "LaLiga",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Marc Roca, convocado por De la Fuente, relata su calvario en el Espanyol por la lesión - IUSPORT",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGd4YXkzN0VJTUUySC1CQjFJLUNlcHBsTmhxa0JsYldPbnQzYzlnR2lnWFI5UWh1T3Z4UkhGaWpzYkxNbDV1cVRzaDhvRzRzYWhmQ1QyM3ZmM2cyZlQxWl9YeWh3X0hPQUdlX0d0NDBwc3VNbHNjVjZPckltRGdGWUVGUzZWRFk1MGM0cndtMVFxc3lVT0RSMHd4eGd3elo0dHhjaGpVbHlhRGpmOTBCWXRZeld1dw?oc=5",
+      "source": "IUSPORT",
+      "published": "2026-11-12T14:00:22+00:00",
+      "team": "Espanyol",
+      "league": "LaLiga",
+      "category": "lesion",
+      "status": "unverified"
+    },
+    {
+      "title": "El elegante mensaje de ánimo del Athletic a Barrenetxea, que estará al menos cinco meses de baja - El Correo",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHV1S2xmZzZNYWdTNl9KdzRJXzRuQUtMemFjVGhxcGtvdWt2SGJ1U21tUHE4Q0hGZWwwcGxOSVdnaXVhT21GNlhTcjRxbUNRdzZjbUlyQ0JPMGVHdzRQdU5qNl8tZm9lNEVVQmtlOTZZbmpSLWdDX2JLM1dRQXlMSnV0Vm4zN0tQR0xEVHRGS09fOFNySHc4ODhQRzNBUXpUQVRFQm1MNERRcE5xUmtCMmpn0gG3AUFVX3lxTFBLQ2dQcWdpMTJBUGo1OS1TeGg0dGhHVUFMOGZ0N3BQUUxvSmxKRm92VkRFa1JUUFVjQk94UGxCQjh5QjFxd0t2dlBIYXZDVHJmX1dEem1DUk94blVMUHIwcDIzOTlIdlhVUFpuekpDekNVSl9PX0xSeU8tUkZHb1N2UnVVRko2alktS2RwTHlkbWZVZHpEbGFzWG1KZHpOX2RfQmY4YmdXTmhOQnNpamxOdHZXQzQ2RQ?oc=5",
+      "source": "El Correo",
+      "published": "2026-11-11T13:42:27+00:00",
+      "team": "Athletic",
       "league": "LaLiga",
       "category": "general",
       "status": "unverified"
@@ -80,26 +100,6 @@
       "team": "Espanyol",
       "league": "LaLiga",
       "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Alineación posible del Athletic ante Osasuna en LaLiga EA Sports - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSmVMRjI1X1hrbDROcWdqazQ0UEJ1Yi1JUWNDdEFwX092MGtscjVYMVpYdzllcWlQWnJvUVVjZ3RfSGdNRzMzM1NESnpoUGd2ekN5Y1JVbGpuQlk2aHBNSXl2LVpnajJOQnMyaktCbDVTbjRmYmYtV1BSOExYZ09ydVZBNzdSbnUzdFpMeHFxdk4xMUJkc2p5WDY0RUpFczdVbXduUGdEbUfSAbwBQVVfeXFMT3d3ZWhRREV0Z0lVQVZKYUVZckNadDlMTWFaVGs2eVZCTUZqTnduTkZ4S3MxTmRneFFadXJCbjctdThrSHkwRVFqcEZuaU5EWXRoaHowZHFtZFYxdXQyTE5nRFIyMzg4QXZBQmdISzMwLWtyTmxjdmtOME5wazRIX0UtUXcxVzVWejZSUDJkRnpFSGdxcTFPRUpRVlhfNm82dUZyUTFKSDRobFB0Q1BQT1c1N0dLZjFpcjFva2o?oc=5",
-      "source": "Diario AS",
-      "published": "2026-11-07T07:00:00+00:00",
-      "team": "Athletic",
-      "league": "LaLiga",
-      "category": "alineacion",
-      "status": "unverified"
-    },
-    {
-      "title": "Alineación posible del Espanyol ante el Deportivo en LaLiga EA Sports - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYjJ2SHVoaHJHanNoYVN4WlhCT2pCWEJCUUVvTlM4MXZ3blY1MFlhYXFtSDloeDVFdE8tTFRsQTZJclUwZE1tRjVzenNlb3RxNmp6QXd0cnFld01lLWRDcUtvbkRpcTQ0TkRRS2tDZnhxTVJ6ZWdITnZoOC1yQ1d6eWxiWTlUUkxVcW9USUYwN2plYmh5bFFwQnVHWlRndmM1VGhTTk1FS19rMnhLRE9Z0gHDAUFVX3lxTE5OMVdFRlJ3bnBVRG53ZzJaMGV4Y1hQa0k1OW4yMzctX29kbmktQWozUlFlTjRLcGt3VGI4MUZ0TmVHV0VIbm51VHc3VHdCUDRlTGdmRl83dEVTVkVBNlBoNkg3M016TTNPOHNZRXZvaWVuZ1pfZHl6SjN3QlJQOWVZakZzcEtaUUQtT2lkd09MQ2pqZVZhWG03U3dzNk0yVWhxeXNXQTlWRE5OT1lNNHFpVlBoMkhHSERUNmxkUThVVElGTQ?oc=5",
-      "source": "Diario AS",
-      "published": "2026-11-06T23:03:27+00:00",
-      "team": "Espanyol",
-      "league": "LaLiga",
-      "category": "alineacion",
       "status": "unverified"
     }
   ],
