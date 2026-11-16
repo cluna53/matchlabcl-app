@@ -7792,7 +7792,58 @@
       },
       "capturedAt": "2026-11-15T09:28:26.577813+00:00",
       "result": null
+    },
+    "558510": {
+      "id": 558510,
+      "league": "Serie A",
+      "utcDate": "2026-11-30T19:45:00Z",
+      "homeId": 104,
+      "awayId": 98,
+      "homeName": "Cagliari",
+      "awayName": "Milan",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.468919,
+        "Ambos marcan · Sí": 0.539023,
+        "Más de 2,5 goles": 0.508173
+      },
+      "capturedAt": "2026-11-16T10:26:14.472098+00:00",
+      "result": null
+    },
+    "558516": {
+      "id": 558516,
+      "league": "Serie A",
+      "utcDate": "2026-11-30T17:30:00Z",
+      "homeId": 5890,
+      "awayId": 102,
+      "homeName": "Lecce",
+      "awayName": "Atalanta",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.441329,
+        "Ambos marcan · Sí": 0.621207,
+        "Más de 2,5 goles": 0.604755
+      },
+      "capturedAt": "2026-11-16T10:26:14.472098+00:00",
+      "result": null
+    },
+    "564763": {
+      "id": 564763,
+      "league": "LaLiga",
+      "utcDate": "2026-11-30T20:00:00Z",
+      "homeId": 80,
+      "awayId": 82,
+      "homeName": "Espanyol",
+      "awayName": "Getafe",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.471599,
+        "Ambos marcan · No": 0.549135,
+        "Menos de 2,5 goles": 0.59647
+      },
+      "capturedAt": "2026-11-16T10:26:14.472098+00:00",
+      "result": null
     }
   },
-  "updatedAt": "2026-11-15T21:20:41.032021+00:00"
+  "updatedAt": "2026-11-16T10:26:14.472098+00:00"
 }
