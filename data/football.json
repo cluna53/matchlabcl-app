@@ -1,6 +1,6 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-11-16T09:48:58.364974+00:00",
+  "updatedAt": "2026-11-17T02:28:27.811885+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
@@ -8,7 +8,7 @@
     },
     "Premier": {
       "code": "PL",
-      "count": 20
+      "count": 21
     },
     "Championship": {
       "code": "ELC",
@@ -2794,6 +2794,27 @@
         "id": 82,
         "name": "Getafe",
         "crest": "https://crests.football-data.org/82.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 560668,
+      "league": "Premier",
+      "utcDate": "2026-12-01T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "home": {
+        "id": 1076,
+        "name": "Coventry City",
+        "crest": "https://crests.football-data.org/1076.png"
+      },
+      "away": {
+        "id": 349,
+        "name": "Ipswich Town",
+        "crest": "https://crests.football-data.org/349.png"
       },
       "score": {
         "home": null,
@@ -6090,7 +6111,56 @@
         "awayGoals": 4
       }
     ],
-    "Championship": [],
+    "Championship": [
+      {
+        "id": 561763,
+        "date": "2026-08-15T14:00:00Z",
+        "homeId": 68,
+        "awayId": 74,
+        "homeGoals": 1,
+        "awayGoals": 2
+      },
+      {
+        "id": 561767,
+        "date": "2026-08-15T14:00:00Z",
+        "homeId": 348,
+        "awayId": 342,
+        "homeGoals": 2,
+        "awayGoals": 1
+      },
+      {
+        "id": 561848,
+        "date": "2026-09-19T14:00:00Z",
+        "homeId": 328,
+        "awayId": 342,
+        "homeGoals": 1,
+        "awayGoals": 1
+      },
+      {
+        "id": 561860,
+        "date": "2026-10-10T11:30:00Z",
+        "homeId": 72,
+        "awayId": 68,
+        "homeGoals": 2,
+        "awayGoals": 1
+      },
+      {
+        "id": 561871,
+        "date": "2026-10-13T18:45:00Z",
+        "homeId": 384,
+        "awayId": 72,
+        "homeGoals": 0,
+        "awayGoals": 1
+      },
+      {
+        "id": 561893,
+        "date": "2026-10-24T14:00:00Z",
+        "homeId": 715,
+        "awayId": 332,
+        "homeGoals": 1,
+        "awayGoals": 0
+      }
+    ],
     "Champions League": [
       {
         "id": 575323,
