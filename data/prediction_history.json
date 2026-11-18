@@ -7860,7 +7860,177 @@
       },
       "capturedAt": "2026-11-17T03:12:15.824429+00:00",
       "result": null
+    },
+    "560663": {
+      "id": 560663,
+      "league": "Premier",
+      "utcDate": "2026-12-02T19:30:00Z",
+      "homeId": 64,
+      "awayId": 71,
+      "homeName": "Liverpool",
+      "awayName": "Sunderland",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.451168,
+        "Ambos marcan · Sí": 0.520049,
+        "Menos de 2,5 goles": 0.519601
+      },
+      "capturedAt": "2026-11-18T02:37:17.739473+00:00",
+      "result": null
+    },
+    "560664": {
+      "id": 560664,
+      "league": "Premier",
+      "utcDate": "2026-12-02T19:30:00Z",
+      "homeId": 322,
+      "awayId": 351,
+      "homeName": "Hull City",
+      "awayName": "Nottingham",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.411327,
+        "Ambos marcan · Sí": 0.527701,
+        "Menos de 2,5 goles": 0.51749
+      },
+      "capturedAt": "2026-11-18T02:37:17.739473+00:00",
+      "result": null
+    },
+    "560665": {
+      "id": 560665,
+      "league": "Premier",
+      "utcDate": "2026-12-02T19:30:00Z",
+      "homeId": 61,
+      "awayId": 354,
+      "homeName": "Chelsea",
+      "awayName": "Crystal Palace",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.549488,
+        "Ambos marcan · Sí": 0.571593,
+        "Más de 2,5 goles": 0.576871
+      },
+      "capturedAt": "2026-11-18T02:37:17.739473+00:00",
+      "result": null
+    },
+    "560666": {
+      "id": 560666,
+      "league": "Premier",
+      "utcDate": "2026-12-02T20:15:00Z",
+      "homeId": 58,
+      "awayId": 62,
+      "homeName": "Aston Villa",
+      "awayName": "Everton",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.371091,
+        "Ambos marcan · Sí": 0.533913,
+        "Menos de 2,5 goles": 0.512459
+      },
+      "capturedAt": "2026-11-18T02:37:17.739473+00:00",
+      "result": null
+    },
+    "560667": {
+      "id": 560667,
+      "league": "Premier",
+      "utcDate": "2026-12-02T20:15:00Z",
+      "homeId": 402,
+      "awayId": 57,
+      "homeName": "Brentford",
+      "awayName": "Arsenal",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.378105,
+        "Ambos marcan · No": 0.534081,
+        "Menos de 2,5 goles": 0.596716
+      },
+      "capturedAt": "2026-11-18T02:37:17.739473+00:00",
+      "result": null
+    },
+    "560669": {
+      "id": 560669,
+      "league": "Premier",
+      "utcDate": "2026-12-02T19:30:00Z",
+      "homeId": 65,
+      "awayId": 341,
+      "homeName": "Man City",
+      "awayName": "Leeds United",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.420417,
+        "Ambos marcan · Sí": 0.513232,
+        "Menos de 2,5 goles": 0.534098
+      },
+      "capturedAt": "2026-11-18T02:37:17.739473+00:00",
+      "result": null
+    },
+    "560670": {
+      "id": 560670,
+      "league": "Premier",
+      "utcDate": "2026-12-02T20:15:00Z",
+      "homeId": 67,
+      "awayId": 66,
+      "homeName": "Newcastle",
+      "awayName": "Man United",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.391323,
+        "Ambos marcan · Sí": 0.537801,
+        "Menos de 2,5 goles": 0.506791
+      },
+      "capturedAt": "2026-11-18T02:37:17.739473+00:00",
+      "result": null
+    },
+    "560671": {
+      "id": 560671,
+      "league": "Premier",
+      "utcDate": "2026-12-02T20:15:00Z",
+      "homeId": 1044,
+      "awayId": 397,
+      "homeName": "Bournemouth",
+      "awayName": "Brighton Hove",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.405667,
+        "Ambos marcan · Sí": 0.533559,
+        "Menos de 2,5 goles": 0.510852
+      },
+      "capturedAt": "2026-11-18T02:37:17.739473+00:00",
+      "result": null
+    },
+    "564855": {
+      "id": 564855,
+      "league": "LaLiga",
+      "utcDate": "2026-12-02T18:00:00Z",
+      "homeId": 92,
+      "awayId": 86,
+      "homeName": "Real Sociedad",
+      "awayName": "Real Madrid",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.475146,
+        "Ambos marcan · Sí": 0.579007,
+        "Más de 2,5 goles": 0.55916
+      },
+      "capturedAt": "2026-11-18T02:37:17.739473+00:00",
+      "result": null
+    },
+    "564857": {
+      "id": 564857,
+      "league": "LaLiga",
+      "utcDate": "2026-12-02T20:30:00Z",
+      "homeId": 81,
+      "awayId": 78,
+      "homeName": "Barça",
+      "awayName": "Atleti",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria local": 0.437814,
+        "Ambos marcan · Sí": 0.626368,
+        "Más de 2,5 goles": 0.610748
+      },
+      "capturedAt": "2026-11-18T02:37:17.739473+00:00",
+      "result": null
     }
   },
-  "updatedAt": "2026-11-17T17:54:11.914015+00:00"
+  "updatedAt": "2026-11-18T02:37:17.739473+00:00"
 }
