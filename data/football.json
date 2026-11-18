@@ -1,14 +1,14 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-11-17T16:53:08.827994+00:00",
+  "updatedAt": "2026-11-18T01:36:51.392215+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
-      "count": 20
+      "count": 22
     },
     "Premier": {
       "code": "PL",
-      "count": 21
+      "count": 29
     },
     "Championship": {
       "code": "ELC",
@@ -2815,6 +2815,216 @@
         "id": 349,
         "name": "Ipswich Town",
         "crest": "https://crests.football-data.org/349.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 564855,
+      "league": "LaLiga",
+      "utcDate": "2026-12-02T18:00:00Z",
+      "status": "TIMED",
+      "matchday": 23,
+      "home": {
+        "id": 92,
+        "name": "Real Sociedad",
+        "crest": "https://crests.football-data.org/92.png"
+      },
+      "away": {
+        "id": 86,
+        "name": "Real Madrid",
+        "crest": "https://crests.football-data.org/86.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 560663,
+      "league": "Premier",
+      "utcDate": "2026-12-02T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "home": {
+        "id": 64,
+        "name": "Liverpool",
+        "crest": "https://crests.football-data.org/64.png"
+      },
+      "away": {
+        "id": 71,
+        "name": "Sunderland",
+        "crest": "https://crests.football-data.org/71.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 560664,
+      "league": "Premier",
+      "utcDate": "2026-12-02T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "home": {
+        "id": 322,
+        "name": "Hull City",
+        "crest": "https://crests.football-data.org/322.png"
+      },
+      "away": {
+        "id": 351,
+        "name": "Nottingham",
+        "crest": "https://crests.football-data.org/351.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 560665,
+      "league": "Premier",
+      "utcDate": "2026-12-02T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "home": {
+        "id": 61,
+        "name": "Chelsea",
+        "crest": "https://crests.football-data.org/61.png"
+      },
+      "away": {
+        "id": 354,
+        "name": "Crystal Palace",
+        "crest": "https://crests.football-data.org/354.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 560669,
+      "league": "Premier",
+      "utcDate": "2026-12-02T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "home": {
+        "id": 65,
+        "name": "Man City",
+        "crest": "https://crests.football-data.org/65.png"
+      },
+      "away": {
+        "id": 341,
+        "name": "Leeds United",
+        "crest": "https://crests.football-data.org/341.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 560666,
+      "league": "Premier",
+      "utcDate": "2026-12-02T20:15:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "home": {
+        "id": 58,
+        "name": "Aston Villa",
+        "crest": "https://crests.football-data.org/58.png"
+      },
+      "away": {
+        "id": 62,
+        "name": "Everton",
+        "crest": "https://crests.football-data.org/62.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 560667,
+      "league": "Premier",
+      "utcDate": "2026-12-02T20:15:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "home": {
+        "id": 402,
+        "name": "Brentford",
+        "crest": "https://crests.football-data.org/402.png"
+      },
+      "away": {
+        "id": 57,
+        "name": "Arsenal",
+        "crest": "https://crests.football-data.org/57.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 560670,
+      "league": "Premier",
+      "utcDate": "2026-12-02T20:15:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "home": {
+        "id": 67,
+        "name": "Newcastle",
+        "crest": "https://crests.football-data.org/67.png"
+      },
+      "away": {
+        "id": 66,
+        "name": "Man United",
+        "crest": "https://crests.football-data.org/66.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 560671,
+      "league": "Premier",
+      "utcDate": "2026-12-02T20:15:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "home": {
+        "id": 1044,
+        "name": "Bournemouth",
+        "crest": "https://crests.football-data.org/bournemouth.png"
+      },
+      "away": {
+        "id": 397,
+        "name": "Brighton Hove",
+        "crest": "https://crests.football-data.org/397.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 564857,
+      "league": "LaLiga",
+      "utcDate": "2026-12-02T20:30:00Z",
+      "status": "TIMED",
+      "matchday": 23,
+      "home": {
+        "id": 81,
+        "name": "Barça",
+        "crest": "https://crests.football-data.org/81.png"
+      },
+      "away": {
+        "id": 78,
+        "name": "Atleti",
+        "crest": "https://crests.football-data.org/78.png"
       },
       "score": {
         "home": null,
