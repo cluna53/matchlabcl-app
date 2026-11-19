@@ -1,6 +1,6 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-11-18T16:26:50.453863+00:00",
+  "updatedAt": "2026-11-19T01:12:52.750812+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
@@ -8,7 +8,7 @@
     },
     "Premier": {
       "code": "PL",
-      "count": 29
+      "count": 30
     },
     "Championship": {
       "code": "ELC",
@@ -3025,6 +3025,27 @@
         "id": 78,
         "name": "Atleti",
         "crest": "https://crests.football-data.org/78.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 560662,
+      "league": "Premier",
+      "utcDate": "2026-12-03T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "home": {
+        "id": 73,
+        "name": "Tottenham",
+        "crest": "https://crests.football-data.org/73.png"
+      },
+      "away": {
+        "id": 63,
+        "name": "Fulham",
+        "crest": "https://crests.football-data.org/63.png"
       },
       "score": {
         "home": null,
@@ -6323,6 +6344,14 @@
     ],
     "Championship": [
       {
+        "id": 561761,
+        "date": "2026-08-14T19:00:00Z",
+        "homeId": 76,
+        "awayId": 59,
+        "homeGoals": 2,
+        "awayGoals": 2
+      },
+      {
         "id": 561763,
         "date": "2026-08-15T14:00:00Z",
         "homeId": 68,
@@ -6363,12 +6392,396 @@
         "awayGoals": 1
       },
       {
+        "id": 561826,
+        "date": "2026-10-20T18:45:00Z",
+        "homeId": 76,
+        "awayId": 325,
+        "homeGoals": 1,
+        "awayGoals": 1
+      },
+      {
+        "id": 561894,
+        "date": "2026-10-23T19:00:00Z",
+        "homeId": 60,
+        "awayId": 343,
+        "homeGoals": 1,
+        "awayGoals": 5
+      },
+      {
+        "id": 561895,
+        "date": "2026-10-24T11:30:00Z",
+        "homeId": 356,
+        "awayId": 342,
+        "homeGoals": 1,
+        "awayGoals": 1
+      },
+      {
+        "id": 561901,
+        "date": "2026-10-24T11:30:00Z",
+        "homeId": 348,
+        "awayId": 68,
+        "homeGoals": 1,
+        "awayGoals": 3
+      },
+      {
+        "id": 561904,
+        "date": "2026-10-24T11:30:00Z",
+        "homeId": 325,
+        "awayId": 384,
+        "homeGoals": 2,
+        "awayGoals": 1
+      },
+      {
         "id": 561893,
         "date": "2026-10-24T14:00:00Z",
         "homeId": 715,
         "awayId": 332,
         "homeGoals": 1,
         "awayGoals": 0
+      },
+      {
+        "id": 561896,
+        "date": "2026-10-24T14:00:00Z",
+        "homeId": 69,
+        "awayId": 72,
+        "homeGoals": 5,
+        "awayGoals": 0
+      },
+      {
+        "id": 561897,
+        "date": "2026-10-24T14:00:00Z",
+        "homeId": 70,
+        "awayId": 387,
+        "homeGoals": 0,
+        "awayGoals": 0
+      },
+      {
+        "id": 561898,
+        "date": "2026-10-24T14:00:00Z",
+        "homeId": 1081,
+        "awayId": 74,
+        "homeGoals": 1,
+        "awayGoals": 1
+      },
+      {
+        "id": 561899,
+        "date": "2026-10-24T14:00:00Z",
+        "homeId": 1126,
+        "awayId": 328,
+        "homeGoals": 4,
+        "awayGoals": 1
+      },
+      {
+        "id": 561900,
+        "date": "2026-10-24T14:00:00Z",
+        "homeId": 563,
+        "awayId": 340,
+        "homeGoals": 2,
+        "awayGoals": 3
+      },
+      {
+        "id": 561902,
+        "date": "2026-10-24T14:00:00Z",
+        "homeId": 59,
+        "awayId": 404,
+        "homeGoals": 2,
+        "awayGoals": 0
+      },
+      {
+        "id": 561903,
+        "date": "2026-10-24T14:00:00Z",
+        "homeId": 76,
+        "awayId": 346,
+        "homeGoals": 1,
+        "awayGoals": 0
+      },
+      {
+        "id": 561916,
+        "date": "2026-10-30T20:00:00Z",
+        "homeId": 356,
+        "awayId": 404,
+        "homeGoals": 1,
+        "awayGoals": 0
+      },
+      {
+        "id": 561908,
+        "date": "2026-10-31T12:30:00Z",
+        "homeId": 70,
+        "awayId": 1081,
+        "homeGoals": 2,
+        "awayGoals": 0
+      },
+      {
+        "id": 561910,
+        "date": "2026-10-31T12:30:00Z",
+        "homeId": 68,
+        "awayId": 346,
+        "homeGoals": 3,
+        "awayGoals": 2
+      },
+      {
+        "id": 561915,
+        "date": "2026-10-31T12:30:00Z",
+        "homeId": 1126,
+        "awayId": 332,
+        "homeGoals": 1,
+        "awayGoals": 3
+      },
+      {
+        "id": 561905,
+        "date": "2026-10-31T15:00:00Z",
+        "homeId": 76,
+        "awayId": 715,
+        "homeGoals": 3,
+        "awayGoals": 0
+      },
+      {
+        "id": 561906,
+        "date": "2026-10-31T15:00:00Z",
+        "homeId": 563,
+        "awayId": 74,
+        "homeGoals": 1,
+        "awayGoals": 3
+      },
+      {
+        "id": 561907,
+        "date": "2026-10-31T15:00:00Z",
+        "homeId": 72,
+        "awayId": 59,
+        "homeGoals": 4,
+        "awayGoals": 0
+      },
+      {
+        "id": 561909,
+        "date": "2026-10-31T15:00:00Z",
+        "homeId": 60,
+        "awayId": 387,
+        "homeGoals": 2,
+        "awayGoals": 3
+      },
+      {
+        "id": 561911,
+        "date": "2026-10-31T15:00:00Z",
+        "homeId": 343,
+        "awayId": 348,
+        "homeGoals": 3,
+        "awayGoals": 0
+      },
+      {
+        "id": 561912,
+        "date": "2026-10-31T15:00:00Z",
+        "homeId": 328,
+        "awayId": 325,
+        "homeGoals": 0,
+        "awayGoals": 0
+      },
+      {
+        "id": 561913,
+        "date": "2026-10-31T15:00:00Z",
+        "homeId": 384,
+        "awayId": 342,
+        "homeGoals": 4,
+        "awayGoals": 1
+      },
+      {
+        "id": 561914,
+        "date": "2026-10-31T15:00:00Z",
+        "homeId": 340,
+        "awayId": 69,
+        "homeGoals": 4,
+        "awayGoals": 1
+      },
+      {
+        "id": 561920,
+        "date": "2026-11-03T19:45:00Z",
+        "homeId": 69,
+        "awayId": 328,
+        "homeGoals": 1,
+        "awayGoals": 1
+      },
+      {
+        "id": 561921,
+        "date": "2026-11-03T19:45:00Z",
+        "homeId": 342,
+        "awayId": 68,
+        "homeGoals": 0,
+        "awayGoals": 4
+      },
+      {
+        "id": 561922,
+        "date": "2026-11-03T19:45:00Z",
+        "homeId": 59,
+        "awayId": 70,
+        "homeGoals": 1,
+        "awayGoals": 2
+      },
+      {
+        "id": 561924,
+        "date": "2026-11-03T19:45:00Z",
+        "homeId": 346,
+        "awayId": 1126,
+        "homeGoals": 1,
+        "awayGoals": 0
+      },
+      {
+        "id": 561928,
+        "date": "2026-11-03T19:45:00Z",
+        "homeId": 348,
+        "awayId": 60,
+        "homeGoals": 0,
+        "awayGoals": 1
+      },
+      {
+        "id": 561918,
+        "date": "2026-11-03T19:45:00Z",
+        "homeId": 325,
+        "awayId": 72,
+        "homeGoals": 3,
+        "awayGoals": 1
+      },
+      {
+        "id": 561919,
+        "date": "2026-11-03T19:45:00Z",
+        "homeId": 1081,
+        "awayId": 356,
+        "homeGoals": 2,
+        "awayGoals": 3
+      },
+      {
+        "id": 561923,
+        "date": "2026-11-03T20:00:00Z",
+        "homeId": 74,
+        "awayId": 340,
+        "homeGoals": 1,
+        "awayGoals": 1
+      },
+      {
+        "id": 561917,
+        "date": "2026-11-03T20:00:00Z",
+        "homeId": 332,
+        "awayId": 384,
+        "homeGoals": 3,
+        "awayGoals": 0
+      },
+      {
+        "id": 561925,
+        "date": "2026-11-04T19:45:00Z",
+        "homeId": 715,
+        "awayId": 563,
+        "homeGoals": 3,
+        "awayGoals": 3
+      },
+      {
+        "id": 561927,
+        "date": "2026-11-04T19:45:00Z",
+        "homeId": 404,
+        "awayId": 343,
+        "homeGoals": 2,
+        "awayGoals": 0
+      },
+      {
+        "id": 561926,
+        "date": "2026-11-04T20:00:00Z",
+        "homeId": 387,
+        "awayId": 76,
+        "homeGoals": 1,
+        "awayGoals": 2
+      },
+      {
+        "id": 561932,
+        "date": "2026-11-06T20:00:00Z",
+        "homeId": 342,
+        "awayId": 60,
+        "homeGoals": 3,
+        "awayGoals": 1
+      },
+      {
+        "id": 561933,
+        "date": "2026-11-07T12:30:00Z",
+        "homeId": 404,
+        "awayId": 76,
+        "homeGoals": 1,
+        "awayGoals": 1
+      },
+      {
+        "id": 561938,
+        "date": "2026-11-07T12:30:00Z",
+        "homeId": 325,
+        "awayId": 70,
+        "homeGoals": 1,
+        "awayGoals": 2
+      },
+      {
+        "id": 561939,
+        "date": "2026-11-07T12:30:00Z",
+        "homeId": 387,
+        "awayId": 68,
+        "homeGoals": 0,
+        "awayGoals": 5
+      },
+      {
+        "id": 561929,
+        "date": "2026-11-07T15:00:00Z",
+        "homeId": 69,
+        "awayId": 1126,
+        "homeGoals": 2,
+        "awayGoals": 1
+      },
+      {
+        "id": 561930,
+        "date": "2026-11-07T15:00:00Z",
+        "homeId": 715,
+        "awayId": 328,
+        "homeGoals": 5,
+        "awayGoals": 4
+      },
+      {
+        "id": 561931,
+        "date": "2026-11-07T15:00:00Z",
+        "homeId": 348,
+        "awayId": 356,
+        "homeGoals": 2,
+        "awayGoals": 1
+      },
+      {
+        "id": 561934,
+        "date": "2026-11-07T15:00:00Z",
+        "homeId": 346,
+        "awayId": 343,
+        "homeGoals": 0,
+        "awayGoals": 0
+      },
+      {
+        "id": 561935,
+        "date": "2026-11-07T15:00:00Z",
+        "homeId": 59,
+        "awayId": 563,
+        "homeGoals": 2,
+        "awayGoals": 1
+      },
+      {
+        "id": 561936,
+        "date": "2026-11-07T15:00:00Z",
+        "homeId": 74,
+        "awayId": 384,
+        "homeGoals": 3,
+        "awayGoals": 0
+      },
+      {
+        "id": 561937,
+        "date": "2026-11-07T15:00:00Z",
+        "homeId": 1081,
+        "awayId": 340,
+        "homeGoals": 1,
+        "awayGoals": 0
+      },
+      {
+        "id": 561940,
+        "date": "2026-11-07T15:00:00Z",
+        "homeId": 332,
+        "awayId": 72,
+        "homeGoals": 2,
+        "awayGoals": 1
       }
     ],
     "Champions League": [
