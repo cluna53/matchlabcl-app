@@ -1,10 +1,10 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-11-19T16:33:50.071735+00:00",
+  "updatedAt": "2026-11-20T01:15:52.657128+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
-      "count": 22
+      "count": 23
     },
     "Premier": {
       "code": "PL",
@@ -12,7 +12,7 @@
     },
     "Championship": {
       "code": "ELC",
-      "count": 36
+      "count": 37
     },
     "Champions League": {
       "code": "CL",
@@ -20,11 +20,11 @@
     },
     "Serie A": {
       "code": "SA",
-      "count": 20
+      "count": 21
     },
     "Eredivisie": {
       "code": "DED",
-      "count": 18
+      "count": 19
     }
   },
   "matches": [
@@ -3046,6 +3046,90 @@
         "id": 63,
         "name": "Fulham",
         "crest": "https://crests.football-data.org/63.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 558812,
+      "league": "Eredivisie",
+      "utcDate": "2026-12-04T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "home": {
+        "id": 1912,
+        "name": "Telstar",
+        "crest": "https://crests.football-data.org/1912.png"
+      },
+      "away": {
+        "id": 677,
+        "name": "Groningen",
+        "crest": "https://crests.football-data.org/677.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 558502,
+      "league": "Serie A",
+      "utcDate": "2026-12-04T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "home": {
+        "id": 103,
+        "name": "Bologna",
+        "crest": "https://crests.football-data.org/103.png"
+      },
+      "away": {
+        "id": 100,
+        "name": "Roma",
+        "crest": "https://crests.football-data.org/100.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 564770,
+      "league": "LaLiga",
+      "utcDate": "2026-12-04T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "home": {
+        "id": 263,
+        "name": "Alavés",
+        "crest": "https://crests.football-data.org/263.png"
+      },
+      "away": {
+        "id": 80,
+        "name": "Espanyol",
+        "crest": "https://crests.football-data.org/80.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 561979,
+      "league": "Championship",
+      "utcDate": "2026-12-04T20:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 19,
+      "home": {
+        "id": 356,
+        "name": "Sheffield Utd",
+        "crest": "https://crests.football-data.org/356.png"
+      },
+      "away": {
+        "id": 563,
+        "name": "West Ham",
+        "crest": "https://crests.football-data.org/563.png"
       },
       "score": {
         "home": null,
