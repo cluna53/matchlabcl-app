@@ -1,6 +1,6 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-11-23T00:18:53.876162+00:00",
+  "updatedAt": "2026-11-23T19:14:24.275353+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
@@ -7055,6 +7055,14 @@
         "awayGoals": 0
       },
       {
+        "id": 561949,
+        "date": "2026-11-21T15:00:00Z",
+        "homeId": 1126,
+        "awayId": 404,
+        "homeGoals": 0,
+        "awayGoals": 1
+      },
+      {
         "id": 561951,
         "date": "2026-11-21T15:00:00Z",
         "homeId": 563,
@@ -8569,6 +8577,46 @@
         "awayId": 586,
         "homeGoals": 1,
         "awayGoals": 0
+      },
+      {
+        "id": 558521,
+        "date": "2026-11-22T11:30:00Z",
+        "homeId": 109,
+        "awayId": 454,
+        "homeGoals": 4,
+        "awayGoals": 0
+      },
+      {
+        "id": 558522,
+        "date": "2026-11-22T14:00:00Z",
+        "homeId": 103,
+        "awayId": 115,
+        "homeGoals": 1,
+        "awayGoals": 1
+      },
+      {
+        "id": 558524,
+        "date": "2026-11-22T14:00:00Z",
+        "homeId": 471,
+        "awayId": 107,
+        "homeGoals": 0,
+        "awayGoals": 2
+      },
+      {
+        "id": 558523,
+        "date": "2026-11-22T17:00:00Z",
+        "homeId": 98,
+        "awayId": 470,
+        "homeGoals": 5,
+        "awayGoals": 1
+      },
+      {
+        "id": 558520,
+        "date": "2026-11-22T19:45:00Z",
+        "homeId": 102,
+        "awayId": 108,
+        "homeGoals": 4,
+        "awayGoals": 4
       }
     ],
     "Eredivisie": [
