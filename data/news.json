@@ -1,32 +1,182 @@
 {
-  "updatedAt": "2026-11-23T00:25:19.835146+00:00",
+  "updatedAt": "2026-11-23T19:25:10.894855+00:00",
   "source": "Google News RSS headlines",
   "items": [
     {
-      "title": "Levante-Elche, previa: el Elche llega con dos bajas por lesión - Tu Futbolero",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRktrdkVfS0VGWnA0UW9ncHU5M2E0TXl0clpUNWFzbzd2cHhXekxuYnloRXloZHZqS0RvWHVXLW9kLUhxYnBkc2xQcFhRaFktOERqRTVqS1NQbGlOM095RlVnSEVha0M2V1lKWWJqaGVFd3dKdGpXWVdUUy1YZVdEUG9lRW1MOURQWDk4UWFLcjRUdGd0T0c4TzFPTVVFemp5bS1nMTNuaTQ?oc=5",
+      "title": "Giovani Lo Celso, baja confirmada para el Slovan Bratislava-Real Betis - Howl.Link",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9MN05WQjZTVzNzN183TUNVNVdoamlsWG5WWU50UkxDeUt6WDVIOWFfYTVuTlQxRUNqdzd3?oc=5",
+      "source": "Howl.Link",
+      "published": "2026-11-23T19:12:52+00:00",
+      "team": "LASK",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Deontay Wilder ya tiene rival para acompañar a Fury y Joshua - MARCA",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNnZ2UUNBa25DUEtkdHA3ZHQ5eV9Yc2lZcGZFRVBWekFjWWh6MGFfX2JKUXpfbFR3Y3NtaENGMWxCQUtZZ19DQVl4Z2hzZ2xFVzRaWU03bExWaGZZV1MySTFSVkVORlZWSHRyWG5XTUU5ZzZUQkdPVnNjSEFRa3JwSEliajRValQ1ajdyWjZwNNIBjwFBVV95cUxOY2NDLXFQTG44ZWhqc2F3N3FfY1podmo0ZWZTaU5TNDktdjZrZjdTYkhTWHVVUllydUJYWGRNbmRaR0w3UzI1QzhYcDlwbXBnSTc3ZkkzVUg2UTBpalhhQXItZWI1S25zN1RyVGpXN0YwQVdFVi1HWHVRQmJpd2lrMkY0aEwzOGc3RXF6R3NhNA?oc=5",
+      "source": "MARCA",
+      "published": "2026-11-23T17:26:16+00:00",
+      "team": "Cardiff",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Arteta informa sobre la lesión de David Raya - Mundo Deportivo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaHZuLXNnZ3doUjdoQUVncEh1Tlhob3JrUVpqdWlLRzVqRzNJcWhnLWVVTDlEUU1MVXA4bG5hNHBiRlZhQVQtS2NTWU4weEhRbkFKLW5va2NpaG5zbFJkTkdpSkF6Y0EzYi10bzdlUDdwNWI3eGdHNkxfR1p5NXExUUhveUZ2bloxeDdwOW1xcnJQQzJEV2h3RjhhM2xneFJvWHZXOTY1amxQX2ZRZXFEbmQwU2JSTTE5cFHSAccBQVVfeXFMTWlyZDI0Z3U3V0NQTncxMjBlUUNpSkJmZWVsdF9NRUE3dDdvWXdIeUFiczBNQUtPOEo0czRNWXZtQ1ZuZ0F1LXhRaURCTlMzRHpFRGFqejRQV0FBWkxnZHppNmlmczRZMzEtWXA0OG50SW9BYklZTVVRVHlrRV9jaEFiWFR1b244d2VUNmlxUElaRlBjMVdTZHNFcUJLellTVlZCUGVjcDZsNk1GaWZDVVpHY2NQb29QanQ4dWhBQXZvQTFzQnQ5Yw?oc=5",
+      "source": "Mundo Deportivo",
+      "published": "2026-11-23T16:00:55+00:00",
+      "team": "Bodø/Glimt",
+      "league": "Champions League",
+      "category": "lesion",
+      "status": "unverified"
+    },
+    {
+      "title": "Pronóstico Monza vs Fiorentina: Ambos equipos están ansiosos por ganar. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdndaMEdHLTdwN2k5VVF6UjAwZ2hleGVTSWw2T01sN1dsc0NMUnBIZVpscmN4VU5ma2ZsaE9lUXN2a0djeXhoMXdGbHJyRXBOMEI5TEtMNVNDelBKaVFYRllhaWZwMTRBaGh2ZlEyTXpDVGN3S3E4eEJQekd6TWhhTnVYSl8?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-23T15:48:03+00:00",
+      "team": "Monza",
+      "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Emery no cambiará sus planes en Galatasaray pese al estado del campo - Tu Futbolero",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbm5SbXhyWnRvZlMyc256UV9GeTI3ZldJRjVUVmJzNEw1VkZ3Q0hHSkplMkF4SUNxQ091amFmXzRZemM5aEI0TnV3b2xuVzlXSWgydTZqRDg5T2puV3NVUGFFbF82dk1NYk0xbUsxUG1BclhUeU9lWmVWSFRaQzkxTVROYl9NUzNvZ1VoeG5ieHZ6aFFkcTF3a3BiUkxxbXpGYU1QRHJiU3c?oc=5",
       "source": "Tu Futbolero",
-      "published": "2026-11-22T22:10:38+00:00",
+      "published": "2026-11-23T15:13:09+00:00",
+      "team": "Galatasaray",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineaciones probables de la Champions League: noticias de los equipos, lesionados y sancionados en la jornada 5 - UEFA.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY0lSWHlWaEJrVUtCRVdZVXdMWElLZGtRWENkbWFGRnFkTEpXemVpWXp3dXFPWlFMWkZQbVQ0TE1tenJjLTg5SnVRNnFZUGtmNUtybGlLY19XS2hMUmJXWldKU01hRzJQUW9CTGlGRHBaUzhvUUlkd1VWdldDbEZoOE9rRTBQWHRmRmswVld1OVZsYUVaREZWZk45bFVMVkh5M3dZQzRHRjRTQnY0Qm9SeUUzVWZBR1hlQlBDVnVvcldyMm1DYmJqVlUtTnFDVFZxdnJJV2lGOUt5V2c?oc=5",
+      "source": "UEFA.com",
+      "published": "2026-11-23T14:31:18+00:00",
+      "team": "LASK",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Lesión de Endrick: qué tiene, parte médico y posible tiempo de baja con el Real Madrid - El Desmarque",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa0hDRVF5WkFtczBvek8wUkZwM0Fib2hhak00MnQ3eXU4eGVQNENvUTdQLXZnYnNTazI3YlJlaGN0dktXSzZLLXBxMm02REwwcUZQV1ZERGtmUGFnU2ozWFNoOXJlaWs1RGMyb3A4Tjl3SXRLOEp5MEkwWkVxQVI2Q01oSk9jNXhVMkxSdGFnQnBzT0tIeE4zSnFzT3BXT2ZmYXE2VzQwMWVTM2QwNFlOMjRwZU5abjRvR0UtQ0FOWlFLVXdSRUdzTWxB?oc=5",
+      "source": "El Desmarque",
+      "published": "2026-11-23T11:57:40+00:00",
+      "team": "Monza",
+      "league": "Serie A",
+      "category": "lesion",
+      "status": "unverified"
+    },
+    {
+      "title": "Galatasaray vs Aston Villa: estadísticas previas y datos en directo | Champions League 2026/2027 - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMk5hMHVfV1VMNmZiaGd3eTRTdy1uaThlWFVRWXhMMi1nWDVveld5X2NJNDJfNGpRQzdxZUc3WW9EYUNUOWNnRVhQWDNaZm5VMkZRenlETkEwY1laRW5sUGtaS2Y0UHFjemZUM19Nbzk0R29mc2VGWER0SFJUbTcycjBiVVNGa1RLcVpEa2w3OUtVQnc?oc=5",
+      "source": "Diario AS",
+      "published": "2026-11-23T11:13:15+00:00",
+      "team": "Galatasaray",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Brentford vs Everton: alineaciones, estadísticas, horario y dónde ver - bet365 - Apuestas deportivas en la red",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczVzR1hsdEFJZ05iU242WU9BSS1FOFNFNUpfcXdzV1piWVhIZl9tYkQ2Q3ZjeGhsS3dyOHVqQjNoN3BjQTZoT0ZjWGNuSmJEUGdCYXRtT0R0YzV6YjR6RkZ4MFJjZHo0SjdreEd3dnJabGRCTGNBekMzZ29vZEtpeTBqX1hyaHlOeloxNTJ6bTd4S0dRcjlkN1gwMlVFUkZmczZTNmpsZDJBeTlHdk9qUU9GVlJPRkRCR2ZlWTN3?oc=5",
+      "source": "bet365 - Apuestas deportivas en la red",
+      "published": "2026-11-23T10:15:04+00:00",
+      "team": "Everton",
+      "league": "Premier",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Monza vs Fiorentina: alineaciones, estadísticas, horario y dónde ver - bet365 - Apuestas deportivas en la red",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWGRJT2tvZUxYd0lnN2VYWWxEcXVjQTdic01DZGxZd1g0QmVZeDF6R0xVUlQ0VHJGbWNHVHRFRGlCU0lHbGNnLXZNcXVXeUhETlU0dDZtUXFGdVA1TjR6LVlDZm8ybnpfOUlmcnFSQWZvYldveHZGaExrbkFsX0YtYVJubGZYaWR1VFhCZU9WZXNTd3NWN2h4SGM1QzhrSGhKdm5qejMycjJDU3dCZEVvb3Fwb3h6WThQVWlreg?oc=5",
+      "source": "bet365 - Apuestas deportivas en la red",
+      "published": "2026-11-23T10:14:55+00:00",
+      "team": "Monza",
+      "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Saltan las alarmas con Lamine Yamal: el Barcelona anuncia su baja ante el Sabah en Champions - 20 Minutos",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUXBob3lBdFBuZHFsbkk0MUxtT1BkcG8tbmtEelpsMWUxNzNHNm9xdHphV2VMczk1RzExVkNqLTBWelN1QVZONldEX2JRLS1aUUxxMkhrMUc3MU5GMGdFSGdMbEhWOGxsRXVZLWphR0RUSTRVeTV2S2paazhVaVlsMHRQZ3h4akE5ZGR4YXFjZDAzNlZYZ21Qd1hzV0lQd3Y0LVhnT2NLa2E1UHBfLUxKU2RXWUI4MlEtUk5CZ1FZUXRRbnhoM054VnQ5RXI0U1h0WXNzRA?oc=5",
+      "source": "20 Minutos",
+      "published": "2026-11-23T10:13:43+00:00",
+      "team": "Bodø/Glimt",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Sigue el Atlético de Madrid vs Viking FK: Dónde Ver, Onces y Cuotas - Flashscore.es",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTlVYeVdKV19zSFpGc3VZWFZZUXVCSTdFZzRId2dUay14UUZwZURKbmItQjdCWG0xZ3BpbFBYZEdBOFlJdVlsaGRROFU2Ykd4TlRrbUlQN1RpTFEzOXN6eW5TZUFrOXdldlE3Y0ctQzBlV2NHV3BCWUF4dUE1NVlrWF9PY0JubXZfdWkwX3pIS1FxcC1Dd3FFbFdjRTVIMFZEV1E0b1BVMXVxSGNnaTJEdGZtb2ctd192cU5TNmtqOERlY2ZLWEVpUTdPNlJWNS1SMkQ2em5TdWVkTnhWMUVjTHRWRDQ?oc=5",
+      "source": "Flashscore.es",
+      "published": "2026-11-23T10:00:00+00:00",
+      "team": "Bodø/Glimt",
+      "league": "Champions League",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "El Chelsea, multado con 150.000 libras por la FA - Mundo Deportivo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNkp3cUJOTmNjbEdrdHdjNzlMd3FXOXI5RHNlYjRYZjk3TFRkUWJNS042TERRTTV6eGdpQzRCSF82R3NhQ293cEJROW1ZMzF4NzVIamdrN1JyQk9TY0gtVURjbGdCZXNuVnlfR2M0VDBianBwSUZEMFgxdGNrQkRUUWJ0Yy1aYTdlbVpRWXpKcEExMkkyUUNGWEtoU0luakxZVnpTS1FzeVpWZ9IBqgFBVV95cUxPNkp3cUJOTmNjbEdrdHdjNzlMd3FXOXI5RHNlYjRYZjk3TFRkUWJNS042TERRTTV6eGdpQzRCSF82R3NhQ293cEJROW1ZMzF4NzVIamdrN1JyQk9TY0gtVURjbGdCZXNuVnlfR2M0VDBianBwSUZEMFgxdGNrQkRUUWJ0Yy1aYTdlbVpRWXpKcEExMkkyUUNGWEtoU0luakxZVnpTS1FzeVpWZw?oc=5",
+      "source": "Mundo Deportivo",
+      "published": "2026-11-23T08:28:54+00:00",
+      "team": "Charlton",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Dónde Ver: Charlton Athletic vs Lincoln City en vivo (24/11) - APWin",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOXNfWVI3TS1jcXBfbVpsWkxKa1RuQnR4aDBEOFpvdEJTSlFBc1hNMnFJclNwWWhVMUFZM1I3TENoWWtBTXpidEhuU0F0akNnTzdhRUNMRkZMWmsybi02X2VjOUFVQTNZb1lkOFhGRWQzUjlvS3U4VTR6RUJvYVFKOGdfQ3RRNWZtRmlZQnIzS3NlcTZlbkUyNWhieU5yU2lpc012VC1aSkJBS3JLUW9lUUxWYw?oc=5",
+      "source": "APWin",
+      "published": "2026-11-23T02:01:54+00:00",
+      "team": "Lincoln City",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Alineación posible del Elche ante el Levante en LaLiga EA Sports - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVWFmc2kxSlFHNWR6VVVyLWkxUjR5RHJ4Y1dqdFd2ZFlIdTVBMnlIY2NleFA2d2NUUmJqMkc2Zm56dFk4NTVtWWRmLU1VRDlsYklNWGIyMEhqUmRGbHhwajA0MUVHOXFzS2prSTA1N1NVcWpQb3BYa0lZMURlVGs5WHBRQ2ZZMWh2Sm95OWN3dWVSM1dZUlZ5c2JyVXRreDBWZGhOZVhyT0TSAbwBQVVfeXFMT2lIbWE1VXVfTzItTDNxMWoyUkJ3LW04MkhtTEdXS08xYUtHNDE2ODA2MFNZXzU5RkIzVjROSkxMN21Fd013YmhpdzAwelNRMW1lMEZVR0tBWDdoeU41ZVJNSklWZlVyMWk4UUdpTWM1aWdPM0lQYmVFRGdfbzVhb0NQbDJjMHdodnpvQldMWjVndDBucS1aVlJJQ3kxQl9FV0ZYZVFBeHJZZDJkdFpDcmJRY1VvQ2wyZ2JYbXM?oc=5",
+      "source": "Diario AS",
+      "published": "2026-11-23T00:37:23+00:00",
       "team": "Levante",
       "league": "LaLiga",
-      "category": "lesion",
+      "category": "alineacion",
       "status": "unverified"
     },
     {
       "title": "Brentford-Everton: el Brentford llega con seis bajas y una en duda - Tu Futbolero",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWdNaWdUWEhEc3gtNUtOV1dXeE5lMmlWbFIwclB2em91NDZqYnJPSXpmbFpVd3pReGxlbGF6RG5DcTZLd093d1Q3NVZlbTZzV1ZFaHRaTWpfbGtYS2ljdnRMdlVvSHFVVGQwMVlvTTEwWXI5aUh3RWNzUjRqNDJNUFFOX0Mzbm9SMXdsM2VTQWh1V1Rid3BKZ3NqOENBQVZhYlZTaUFsMVU?oc=5",
       "source": "Tu Futbolero",
-      "published": "2026-11-22T22:10:38+00:00",
+      "published": "2026-11-22T22:09:37+00:00",
       "team": "Brentford",
       "league": "Premier",
       "category": "general",
       "status": "unverified"
     },
     {
+      "title": "Levante-Elche, previa: el Elche llega con dos bajas por lesión - Tu Futbolero",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRktrdkVfS0VGWnA0UW9ncHU5M2E0TXl0clpUNWFzbzd2cHhXekxuYnloRXloZHZqS0RvWHVXLW9kLUhxYnBkc2xQcFhRaFktOERqRTVqS1NQbGlOM095RlVnSEVha0M2V1lKWWJqaGVFd3dKdGpXWVdUUy1YZVdEUG9lRW1MOURQWDk4UWFLcjRUdGd0T0c4TzFPTVVFemp5bS1nMTNuaTQ?oc=5",
+      "source": "Tu Futbolero",
+      "published": "2026-11-22T22:09:12+00:00",
+      "team": "Levante",
+      "league": "LaLiga",
+      "category": "lesion",
+      "status": "unverified"
+    },
+    {
       "title": "Monza-Fiorentina: el Monza llega con dos bajas y una duda - Tu Futbolero",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUUdCX2xPYzZhRTF0OGlzSkNENFBGUFFUX3pCbjRPa09oVEhQZ2xlcHV1TTdUeUJjSC1iQ1FEWkl4dzJxZEt6LTljYnEzdEhvOHI1NEZZclFrQXUxZUVsNGNGVUI3TC03d2h5U3E2dGNSZm1jRWhQTEtkMi1CZmJ6eVJIZ1cxQmZVaS1IZkJQd3Ixek1ZdjNUUkRKaHF6U2RDZERj?oc=5",
       "source": "Tu Futbolero",
-      "published": "2026-11-22T21:57:15+00:00",
+      "published": "2026-11-22T21:54:13+00:00",
       "team": "Monza",
       "league": "Serie A",
       "category": "general",
@@ -47,28 +197,8 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfeGxNZ3V3WjhxU3ZkSGdfN2VjVkY0cVp5RzA4QTVmY1V5ZkdBeFd0TXhTVUdDbVJTY1F2c0FFMnVhODlSOTJBWk5HR2dOaGNhYTc5VUJWTm9HcW5iWnYtVFNoTnloZXkwek5VZWZ1a1o5ZmVMNG12UVVFOXFLQQ?oc=5",
       "source": "SportyTrader",
       "published": "2026-11-22T19:45:00+00:00",
-      "team": "Southampton",
+      "team": "Sheffield Utd",
       "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Dani Carvajal se lesiona y es baja de última hora contra el Atlético de Madrid: parte médico - El Desmarque",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ0RsUlp3OFJpMnlVbko0bXpMVFN6X1VBdVFuM3M3alZOZ0tyM05nVVpHYlppQTZpVjNWVUZyb2VmckRLRDQzc2h2ZzUxQnZHeEV5YnkxcEVZbHk4WjNBd0VYTkF0Uk9xa0MtMHVKQ0Zma1p0MlQ0ckdLNDlYTktaclFiemFPRF9nZVBacl9NSU9WMmNqWGJpQ2c3QWh4Qm5VU1pGeDc1V3FzOGtvVUF0TXVWUXFnTkl5YkdEbEJOY015aDFDMThpWVRkZFhuUQ?oc=5",
-      "source": "El Desmarque",
-      "published": "2026-11-22T19:35:41+00:00",
-      "team": "Everton",
-      "league": "Premier",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "AC Monza vs ACF Fiorentina | Pronóstico y cuotas 23.11.2026 - Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDdSSGVuVVA5Sy1vX3BpMU0zb2Q4T2gtMUl6akdLRHNjdzB6eWhKUGJNdkRwUjkzMkZYSmJudHlhWTFBZEljazI5RU1VenJMdVlpajk4S3h1eks3blNBdFMzNHN1MHREQTNESy1yVXpWQWJkTGViWlpZZlFWLVVmaDVMamY1cEZTWFZ0X1lvemhadDFoeDZqc3FVOGQ4RTV5ZS14cUl1X2I2VlRtQ2ZWV2R2bkxxdw?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-11-22T19:30:39+00:00",
-      "team": "Monza",
-      "league": "Serie A",
       "category": "general",
       "status": "unverified"
     },
@@ -113,72 +243,32 @@
       "status": "unverified"
     },
     {
-      "title": "Crónica Arsenal 0-0 West Ham: el derbi se atasca en el Emirates - Las Futbolistas",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qWUhJa3lJTFh6c0s5ZkE4aktXY1RPeGE3LXRBOHJyMG43Q1hmbV9pLWVjUk1oc0JTZWVBeDk2REYyS1E4VVRIdUlZZjc4eHgyWDg1WHFmR1FNMnF1Qk15UzRYa3RBMnVGbUZfN09XSDVWR0NkdFFkM2dtYw?oc=5",
-      "source": "Las Futbolistas",
-      "published": "2026-11-22T17:48:27+00:00",
-      "team": "West Ham",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Andrés Andrade se lesiona| ¿Qué dice el LASK Linz sobre el estado de salud del panameño? - Tvn Panamá",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNXB5R2N5bjRGZXFab19QS0NGM29hQjYxLTVhRDA0U1JDem9UcVU3SUJsX2JzSGVHc3ZJZTRpemVvRU1CY0ZDY0FTZ2ZtV3Bybk9KUTlwaFdBb0xaNGk5YzBIQUdBcTI2eEp4ZzZVUHhGUmR5bWdYLVJwTml3Vl9ZLUxra01Jcm16NV9wZkM5S0d1T1dPYW5sUy1mOFRHVnZnZlA1Tk1LU25Xa1ZMdF9SempuNXJvTXpRTHN2R1l4dFBJMmdPZzBFZWpPSWRiRzB0REVjZmJGMELSAd4BQVVfeXFMTkM5ZGVJWnVxeFpSaWx4eTV2T2xNdEVCVEVVMUpfcUlaMnVJRHhKc0h1Z2Y0ZnBZWU9IRGI4U3VOVmVleV9QOEpKbHpYUlhSekhKN3VZVmtPY0JhVWRKNDloZFhMSFVZay10QnZLSmNJWnR2U1dDSnFCcnhSU014RDZMcURsMXI4cS1EUERqX1BfY2FGeTJVNlFZMnBGSzM3a19UbzFBZ05hR1cydVUyTjh6Uk9iRENIRWVKLU9CTkpsZy1MMXdDdFBQcFF3YjVhQ3RLY2k3enAzZHdrYnFR?oc=5",
-      "source": "Tvn Panamá",
-      "published": "2026-11-22T16:56:04+00:00",
-      "team": "LASK",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Alineaciones confirmadas de Osasuna y Málaga en la jornada 13 de LALIGA EA Sports - El Desmarque",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMEU3dTNzTUY5dEEwcHpvYWMtMW5ZUkkyZVVLYm1kcW1kRndZZXFwUm83Sm82am1LbXVxX09HdkY4c0dzNk92Qk5JMnNUUFJnY3pOd1h2U2dlUFlsd0g1WFdDWncxTXRoVjlFTERvbDNTTE1fLUtmWVRzTVNJb3BBNFdXY052YjM0VHdwQURWOW1NdWV1OHpnRkVHSkJjcllsZmpCYm1teUdnYkRVUTY5cVBLd3Nrd0JrdVJXYnJWdkM4YTlZN3dPZkp6WHgyT3piNzVqZUNTV0pOVDNETU1F?oc=5",
-      "source": "El Desmarque",
-      "published": "2026-11-22T16:14:51+00:00",
-      "team": "Monza",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Monza vs Fiorentina: Pronósticos de Apuestas, Cuotas y Alineaciones 23/11/2026 - Oddschecker",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbmxHa2FEalpYTGRFSUlDLXFKdXdLNnhUUFZfU0plaDJ4RWVLSURqNXRvOHVmczVoRXNsLVFhZl9DemJjQU9MM3ZydnF1MXdZZlctTFFQSDljQ0pWcWl0TFNUTkJyendyeVNLRHVPb1FpVUpkVVBibXhieTZUZno3WHlJdk8wRUIwaVRlbi1KbkF6Y295VTRWQmJ3YUNMZXNiMHZBc0tqVnFqbW00cGlGTg?oc=5",
+      "title": "Brentford vs Everton: Pronósticos de Apuestas, Cuotas y Alineaciones 23/11/2026 - Oddschecker",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNamlpcDZNLXdxbDVnYUczNUtyeXJlb0o0bE5kYkxUQk13Z1NqQkp0Q3VMSnR5bjFtRWg3TTdfTThUWXowV25aMl92SFQ2Ym52NDd3UGtYeTRvYm9xTXVmNjg3RUVqZU1TYlJPTWxxSEFBUThpWHJRWVh4eHlRRHNrS0JhTUROU1J2T2w2QWI4elZ6WjRPTFdUbXFFbkRhOUxnQnZTV0hXSElybWY5aVphcFBR?oc=5",
       "source": "Oddschecker",
-      "published": "2026-11-22T15:30:00+00:00",
-      "team": "Monza",
-      "league": "Serie A",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "El Viking pierde el liderato y llega en crisis al Metropolitano - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUFBUYTN4aHZua2RoMnYzTENacjhCbGxndnBfTENzbXYyVUNla3ZuaHZURmdnNnBFVmRzczhSTGVVQWlYUmdGZENZTHdoNEtGTm5EUEEtb3h1b3NBM0pkX1hhVW9KZlUzVVNHdElrRmJPMWtJcU0wWnZTMmxXX0p0aHlESHJtNzUwcVpnYlZDRU5VRHpIMm44?oc=5",
-      "source": "Yahoo",
-      "published": "2026-11-22T11:39:00+00:00",
-      "team": "Bodø/Glimt",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Brentford FC - Everton FC | Pronóstico y cuotas 23.11.2026 - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOWRRTFRxaDBtTkJfM196OENIVXp2TnBCTDA4UXZhWFVEOXZrUC1zdElmdkpMcjBRVGZhcVJzUTdHOWswWnBvM0JILXZnN2ZFaUMxUkhVUFIzd21odl9tUlJhUHNyeVUtTlBiS29kNEMwdE9BbXJBZmdiS1lVaFZ5NUNoZlNOZE5NQlJpQWlR?oc=5",
-      "source": "Diario AS",
-      "published": "2026-11-22T08:18:46+00:00",
+      "published": "2026-11-22T15:31:00+00:00",
       "team": "Brentford",
       "league": "Premier",
       "category": "general",
       "status": "unverified"
     },
     {
-      "title": "Serie A 2026-2027: calendario, horario y partidos de la Jornada 12 - La Vanguardia",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkJPTHpKUE1mOGFvWE1jY3FucHlvalBYeVFUaE12THAwM0pmck5DSW9fLWF1SHI0MmkwWm4tb2syckdaZUpmNGZEZVVQSGlJN2E3bnB4cklwUThQbkVYNGhjV05PWjJqdGtzZVJ3YjRwajZWUnFWMVZvbms2OW1iZGpiTTg0aFdQa1lRWHliR1FiRmtGTmZ1LXpVUjlKU053cGRsTkFYUTlmcUxEMm90SVN6Ul9Ub1A0SGlld1kxd3ZSQdIBxwFBVV95cUxOeXdmcWxfV3Z0dnoxbENBeGZsZTNiakRHYWVlMDFlUmdBdTZWUnJGc2lRb3h3M3JKZXNieUNNSDBtUWZMYnc0THVzX1kybUdPVVR4czU0NzRJeEdPZzBURVcza05iWTJBSU8ya2xiRzBCbWdKSnFPZDlnVk9QenhsRFFiYjBVQjBfd0o5OFF4NTZVYmV0eXVJd0tTUVpFcTZxWkVqT3NZODllOENfcGw5ZTJveVBKMFI5UHZ4OUJCWjhLT2w3OTln?oc=5",
-      "source": "La Vanguardia",
-      "published": "2026-11-22T06:30:00+00:00",
-      "team": "Monza",
+      "title": "Dani Ceballos, baja para Bratislava: la convocatoria para el Slovan-Betis - El Desmarque",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTXBMSGZvcW5ISi1hWk03WWp3VFZNQ3R5MG4yV1B4S2JqX251QW95eFNleTUtQ0tBVmlpdWNROWRQTmVlZF9iQ2NMdXVmZ1RYeTU0QXozM2pSbmw1MXZaYlItR3Bic29oQ3o1MndrVGhCcFNrb295dE5MWVBqdkhVdjQwTFU1bFk4djJyUUh4VkQxZTcyd2dWeF9UYnNBbW1ZTXkwN2VFbEtneUFLMGZDVHZNUHE0cnd6Nms3Wnp4UjdFUQ?oc=5",
+      "source": "El Desmarque",
+      "published": "2026-11-22T13:22:57+00:00",
+      "team": "Fiorentina",
       "league": "Serie A",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Braulio baja las expectativas del mercado de invierno del Valencia CF: \"No vamos a hacer una macro revolución\" - Levante-EMV",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRDVDWHBrWUcyMGhyWVg4RDR1MVFOUVJMTFFJYVE5UW9fb3VCQmpLMHl4ZU1ISjNmSXYwbDJyMS0zczVtSFl0X2tJb0g2M2R4bF9aUVFkNVE3S2d2dk1vVmdUT05YWTJfT3BNMG1tajFIa19Ic3QwRVBvZkdWQUhSSkhnMzdsT05pU1RyVm8xcDVueW9fTGVCV2RtcndXc19PUzB2OHJXTHfSAa4BQVVfeXFMTjBYcl82eHBDUFdmN1U3ejd0a2RlYTJuMUxaRHhuWXU4QWs1Nm9Mb3h5a183UUZPZjJGaEd4MUptbE9EQk00MWtxMkJvNlVVeHpEc0JYYlpzcWttUHhJTXkxNFVpSDNZN2FmY3p0UllCeHQ3RHVjcW5qZTBhVlN0WU9rb2lvc0NwVUNKc1ZicXRlR3BISTkzcWdFQ21LTG5VSXRJX0hMZEJsd3owR0F3?oc=5",
+      "source": "Levante-EMV",
+      "published": "2026-11-22T09:01:19+00:00",
+      "team": "Levante",
+      "league": "LaLiga",
       "category": "general",
       "status": "unverified"
     },
@@ -233,12 +323,22 @@
       "status": "unverified"
     },
     {
-      "title": "Galatasaray vs Aston Villa: estadísticas previas y datos en directo | Champions League 2026/2027 - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMk5hMHVfV1VMNmZiaGd3eTRTdy1uaThlWFVRWXhMMi1nWDVveld5X2NJNDJfNGpRQzdxZUc3WW9EYUNUOWNnRVhQWDNaZm5VMkZRenlETkEwY1laRW5sUGtaS2Y0UHFjemZUM19Nbzk0R29mc2VGWER0SFJUbTcycjBiVVNGa1RLcVpEa2w3OUtVQnc?oc=5",
-      "source": "Diario AS",
-      "published": "2026-11-21T21:35:57+00:00",
-      "team": "Galatasaray",
-      "league": "Champions League",
+      "title": "Premier League 2026/2027 ⚽ Tabla ▹ Partidos ▹ Resultados ▹ Noticias - Tribuna.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CY084U2dfRGZSUzhZX3pTVTV3MXVleUpvWWp4enlHY3ZZYVFsTXR1eENvWExzSVAyaFdZdEdyUFRrTWNhNTByY2dn?oc=5",
+      "source": "Tribuna.com",
+      "published": "2026-11-21T21:09:51+00:00",
+      "team": "Wolverhampton",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Edson Álvarez vuelve a jugar con West Ham tras más de 3 meses de inactividad - ABC Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb0I1QjlXSkMwa1p4MTJET0ZqeFF4RTl3VndBYTFLYWJyZW1Lc19jMFBCR3JyQXF3cDRuVlM0ODJLcWRQeE5RY2U5WHplSklxTlJkbU9MYXUzOWNlTGZqUWpRRjh3eS1LT3d0aDR1ODNGMU82blV4UFBKMGtNQnNUeHpkWk5GMVIyb3lZQTQwZHhaQlhpWGl1Y0VPU1dsZExJY0ZYWlFZSlNNS09WZVRzZVdXSVVIUGN0RFc1SnQzaDZwa2lqSmZrUG1FNA?oc=5",
+      "source": "ABC Noticias",
+      "published": "2026-11-21T21:00:24+00:00",
+      "team": "Portsmouth",
+      "league": "Championship",
       "category": "general",
       "status": "unverified"
     },
@@ -283,26 +383,6 @@
       "status": "unverified"
     },
     {
-      "title": "Bolton 1-1 Portsmouth: goles de Dalby y Murphy en el empate - Tu Futbolero",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLVc5YW05S3JOT2t3WWtKRGdPczVLbGxCUkt0ejZJNFIzT09CZzBBQnFzNzRSbzBzbDd3VXktVXVGQ3YyQ0MwQkhrMDBPNmZyendXYzhrbEVaelJoaXNEN0t4SHRlWmI4VW92aDhQU0ttd1RDeUkyTkRSX3hZWmZDdmxNaU1xSHhITkdsdk9aTHJocEVrZTM4U3d4U3h1TkE3UWhZWjF3?oc=5",
-      "source": "Tu Futbolero",
-      "published": "2026-11-21T18:25:52+00:00",
-      "team": "Portsmouth",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Lincoln 0-1 Wrexham: gol de George Thomason en el min. 82 - Tu Futbolero",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzhrSlBnejk3eHdHUldGSmNmT0VPaFNXYWUyRDZCTXE0WW1RcTg5cWYxemsyc1lUaTRnTFZfeElKNnJvUmdDZ1dOSWFXQU9ISWIwQ29iVDBGUy1KTWxVU3B0aUx0RUE2NFZFTDdpdFhQR0kwV3FRdXZKNmVPTjFrVVZzdmlOc0c4OFRPT1hlYjRMTmlkcTNQc0lxNFJxNjZ0NWc?oc=5",
-      "source": "Tu Futbolero",
-      "published": "2026-11-21T18:25:50+00:00",
-      "team": "Wrexham",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Resumen del partido Middlesbrough - Bristol City - YSscores",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BbFFRc0xCNHpDQWFuaWg1OTFBOTlvNVA1dlkyeWkxSHUtLUdQNlBoNXRKVUpKZm9zT05SbndHY0tKUTdyTjdTNjgtV1FfVmhScVE?oc=5",
       "source": "YSscores",
@@ -323,22 +403,22 @@
       "status": "unverified"
     },
     {
-      "title": "Wolves 2-1 Charlton: goles de Armstrong, Ahamada y Godden - Tu Futbolero",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORDJSSzJrbklkcDFFamZNSzVOZk5NNGtnUzFvdkZhWHF1ZVNGajZCdlFldVZsQXZwaTVtNUpTZmszaTBXQzAtR2RvcWlrSTVUSk5wUXhmSzkwTGc2RXBoZkhWUTBqTk9jUkFzWl9XVy1vMExoS3htVUUyM2tGcDY5YngwQ0FITWZrcm1FX3dRTFk5aEJhZ3JYXzgyYm5ONGxIMkE?oc=5",
-      "source": "Tu Futbolero",
-      "published": "2026-11-21T17:40:48+00:00",
-      "team": "Charlton",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Swansea 2-2 West Brom: Elijah Just empata en el descuento - Tu Futbolero",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWk1Ra2p5bkkyOWhueE04ZjdXTDg5TnU3WlZ0OWpOenUtekdCbk94SHVDRHNnNnMyN1FmcTllWUlVS2hyUnRHVmpwVUVsOHZ3ZXJBUW1SQl9TYkdNVW1fVGZvbHg2ZEgzenM5Tm5Sa2tBOVRhZ1pJUGZLR05hZjNlWVRVX0RXbGU1RzVJemVIeWllOTd0VkJ1X1BBUVEzbGhnNEFv?oc=5",
       "source": "Tu Futbolero",
       "published": "2026-11-21T17:40:46+00:00",
       "team": "Swansea",
       "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
+      "title": "Un penal en la agonía dio el triunfo a Coquimbo sobre Everton (2-1) - La Hora de King Kong",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVltdDNVMDZsNHBZNlBFYXNzMkluWFFBRzQ4TjBseXI4aFluemhKZ08tMjF4dXpHcmE5Z2hNUl9saFpNcExvaHJhN0c4OURIY3VlMHNGSFFMbXAzRnNNQ1JIQ3lkSjE0a3JsbWZtakJYbEgwaUlyaTgtd1RBVUlDcDZDZ1ZINC00QWEwT2gtMWFYQkFBZ0tJTmpmRmhldmV5cFZ5TA?oc=5",
+      "source": "La Hora de King Kong",
+      "published": "2026-11-21T17:15:00+00:00",
+      "team": "Everton",
+      "league": "Premier",
       "category": "general",
       "status": "unverified"
     },
@@ -377,7 +457,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTXk4MEk2LTQ2Y0lfRXFGUXRVSk50bXRucEV2UnpmSlh6M2VKSFJBaUlNeFFLa2JmSkk3ZEdOVDUySmQyQ2g5dkxhRnQ5WHk2S3ZOeS1LUGxFWjVCdlZCSXh6WE1VcUNJMlJWeWJfQTNzZ2RCdHRSRVlMVDRhWUlxVXk4QUFac2Z1cC1pX19zYU1qMkhDRjFyWEpzR2I?oc=5",
       "source": "Tu Futbolero",
       "published": "2026-11-21T15:26:10+00:00",
-      "team": "Norwich",
+      "team": "Bristol City",
       "league": "Championship",
       "category": "general",
       "status": "unverified"
@@ -393,21 +473,11 @@
       "status": "unverified"
     },
     {
-      "title": "El mensaje de Harry Kane tras la grave lesión que sufrió en Bayern Munich: \"Volveré renovado\" - dsports",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSktZbUNHVGxWMTI4ald2bFphaF9PRDl4RkhzMXhwSjhuS2V0SjgxYWt2M3JXZFJTTnJOTHJnTzJSUkJ5UmVGM3I0Y3dhZjZ0b3ZKZUoxZzZmR2ZGd3hhTGVVV2dBVzZkaEd4Y1NvNmpDcnNBMzdXUnl3WFBPQ1hlNmhZQjF2c29ITzFxOC1ZVTJpZENWa0lqWDFDd3MxRnQ0aTg3VU1Bcml0Q0hFdUJJX0pTemttdl9iS1FWVGtuT1FUV085ZFpTUWgwdW81NThWR1R5b0xvTF83UTdBNmVB0gHkAUFVX3lxTE1QNHF6UnlNdDF6Y082TVRabkVubjlFMGo3WlIxS2ppNmJicHFJU3pzZG00d21vVmZfVk9JYVFZMEJOS1cwaUViRTV1Wnk3STZBSFhSWVBUb1l0QjNobjNKQ1lzRE85WEhKZkZFNndNZEc2ejA5cjI5NEh5X21YNGhmSlFyLWNIZEdPMUsyalozM2lhNVEySVR4eUNZSE9IZnRld1FfV0kwVGFpUVBDTFNNRVdZTmZJaE9hdnNnTFNROG03TFhBS3E0RFQ0WDlDNFptLXc0RnRfTE5WOU5heEZJUFpCUA?oc=5",
-      "source": "dsports",
-      "published": "2026-11-21T15:06:52+00:00",
-      "team": "Wolverhampton",
-      "league": "Championship",
-      "category": "lesion",
-      "status": "unverified"
-    },
-    {
       "title": "Brentford vs Everton: estadísticas previas y datos en directo | Premier League 2026/2027 - Diario AS",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWdYSEF3RjNzc2R6RlliZDJxY191dWNMazZSd3JYczlBaU5aX1lobDNDTm9kWElkOWEtSmFvYkhhdEdNaEpIX3pLRmlJY1F5aUQ1eEs1Y0VvZkdFZFFwbWlTZ2IyUnl2SThtNW96dWI4TjNuTkxNc1lab2U0QTNqOTJrUS04WHhqdFdSdkF2OC1mZEFCTVE?oc=5",
       "source": "Diario AS",
       "published": "2026-11-21T14:10:16+00:00",
-      "team": "Everton",
+      "team": "Brentford",
       "league": "Premier",
       "category": "general",
       "status": "unverified"
@@ -433,42 +503,12 @@
       "status": "unverified"
     },
     {
-      "title": "Levante UD - Elche CF | Pronóstico y cuotas 23.11.2026 - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0trRUdwUy0xRTBjUFVTZEU1dVhEVThKa0JRUEdGcnNEdWFmX2xLRndhRFVrMnlPOWZ2R1UtV3VNZE5qNlFGV0k4VzNmQXJKT3VpX0dpSkU2WUFOR0VxazlaM2xJd21sY3NkZlN3T2ZYZVozUVJjaTdVRHo5Uk0tdWZzQVRNVk5i?oc=5",
-      "source": "Diario AS",
-      "published": "2026-11-21T09:20:19+00:00",
-      "team": "Levante",
-      "league": "LaLiga",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Brentford vs Brighton and Hove Albion - TUDN",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcnJ0ZUhMSG1kTnZGTHp0U3B3THl2cEViNTlrSnhWWkxUaG4tUTdZTlN1d2otSVJoY001SS1uaEpKR3ROVFhOSWVPVlN3V1JtSi1Sbkk2MnViaGxKX3lVelB4VTJTX0g4dEhubHBlSGREU2tYUEtQX2dCYXV0SHRRVEFJVE9BUktIeFZGRlVJSG01X0JT?oc=5",
-      "source": "TUDN",
-      "published": "2026-11-21T08:41:11+00:00",
-      "team": "Brentford",
-      "league": "Premier",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Previa Aston Villa vs Sunderland: cuotas, tendencias y números clave - Sofascore",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHJlNGs4YzlWUVd6cjVvSkdHcTJEdUVtTGdXUnBWejFkS1EwUEFmelhySU4xN2xTcEhMNHBjRF9DalFBbzRSNkU4cFp5cVg3X25tRWxmQWM4WnBlamhCTXBrVUdnRGk2RWk0NG5yVTdPUXRXT3ByUmZUMkZfTXZlNUxfN1Z5MUpPY3pNYzZKVHNaTEd5eWpPWGFORFhESFZjOHc?oc=5",
       "source": "Sofascore",
       "published": "2026-11-21T07:19:50+00:00",
       "team": "Aston Villa",
       "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Sheffield United FC - Watford FC | pronósticos + mejores cuotas | 21.11.2026 - Futbol24",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHRzS1h6Y2R4dEZvdlpEaGI2UjVSM0NYM2pmcTVqLXl1RUY3ZU9CMUJZLUhTRWdtdlAxN2hTTWhJOHBBblRvR0luT2NzamlhaHdOT1d1aDViRVhLU2tpNDVBMXpCQVFEMWhXVU15eXFlXzdEZURFQjRfemJaSG9Va1U0YWo3TXFOMFctZy1yUHVzcVFacGxGY0tCcVVZMkRadnJqU0NLUGRoc3lrek5tSA?oc=5",
-      "source": "Futbol24",
-      "published": "2026-11-21T02:29:22+00:00",
-      "team": "Sheffield Utd",
-      "league": "Championship",
       "category": "general",
       "status": "unverified"
     },
@@ -623,22 +663,22 @@
       "status": "unverified"
     },
     {
+      "title": "Wolves-Charlton: el Wolves llega quinto y con cuatro bajas - Tu Futbolero",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORDVtWDVSb2tXcWVvNmc4aTJhZHlEN1NaekFPWDBlVlR0TDRNcTI4Y1RiN05FQnlmZ3JFbWtYNTZIdzl1eWRJYUc5TF9mZmFOTVh3RUN5NjdEY3VLel9sRUItY3lWV0czMUZZOU9DcTRxSGtGTnhTOEpndEJuc0FNbVJVYTI4MnNldmwwd3FLY3d1dlNfYWtyc1NibllTWUhvcnVtcA?oc=5",
+      "source": "Tu Futbolero",
+      "published": "2026-11-20T17:24:01+00:00",
+      "team": "Charlton",
+      "league": "Championship",
+      "category": "general",
+      "status": "unverified"
+    },
+    {
       "title": "Swansea-West Brom: el Swansea llega con cinco bajas - Tu Futbolero",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmZCQTBsblB2YWpYNjVhQzlQdDVtdzBjRXN1aTJ2OEgyMUVoaXJRWE9UX2VXaVQtdGVySzJSTTY1bDNhOTBUbWNrN053NldjSEJRMWUzRHNObUN1MlAxb2VKMk5tb2VwMWNhdkV6Q0NuQV84cmlGMGFqZDRsclFoNkZFRVhGbXFQZFVWNi1QdGxhTzRYWUtuZHNKaw?oc=5",
       "source": "Tu Futbolero",
       "published": "2026-11-20T17:09:20+00:00",
       "team": "Swansea",
       "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "El Como busca sustituto para Kean: Fabregas mira a la Serie A, pero sueña con un gran fichaje en España; todos los nombres - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdXJxM1lVZkV3NW1HUDVDa0dMNlhEczZyZFhmWFFrMkhlQnplTzY3TmJQZmVJdTd2Y2NsOUJiNEk1eE9jR0YxTUllYkFnUEZycUNqak5sSUt2VmtEWWdRSzZtcmRYZHpsYjI1b2lIZ3lhUUtJSTJyQUtWS2Zhdno4T0RhQW1rb2tJQ2dEWDZGX3J0SzdsYXNpejdzWUVDQWhXVFRxUEFxUXBTTTNSelVObE82ZG12MUt0dG5lcTdRRTZXRTlYelB4N3E3cmdNOXRsUkdhWEV0TXhGOFlRVGphdnduMXZYX2tyMkd4dy1QaFhyRDlJVDdEdjlkYklUUzZqNHc?oc=5",
-      "source": "Goal.com",
-      "published": "2026-11-20T15:40:43+00:00",
-      "team": "Fiorentina",
-      "league": "Serie A",
       "category": "general",
       "status": "unverified"
     },
@@ -713,16 +753,6 @@
       "status": "unverified"
     },
     {
-      "title": "Bodø/Glimt 0-0 Lille: resultado, resumen y goles - Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN0ZNMXVvN0RzRGwyN1dTNmt3bW9PTGk2eTUzaWRmU3QyWUZqWDR2Rm9VaHNWb0FDRDQ5NHllUWIwQ3p3UGpuUVRLR05IX3NQT3F0d0R4Nk0xQmZjb2szbXdtSFpCbWczWWtHckdCa1UxZDhhY18wRTM1R083cC01VGZTZzFZbmR5NkplVG4yMEI2N1dEbnhXTEFYb0pVQQ?oc=5",
-      "source": "Caracol Radio",
-      "published": "2026-11-19T18:20:00+00:00",
-      "team": "Bodø/Glimt",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Mexico Descripción general - Goal.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNZDNqX2lMRzdUcmtTa1MyQzVqOXBzaVI0SHZNMjU0R0pva290NXFadFdFMU5za0U4bVhwUGZ5N3Q5UWxBX0NDQ0gyQXlNMmVsQ19LRVhhQnc2c0xGR0RmWFp1V2VMNW85X0djaXNidUo?oc=5",
       "source": "Goal.com",
@@ -737,19 +767,19 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVEZQTmZvZjlrRVRWVzVIZ1o0LXZLNkZkMVpZdUxNUGhaOEQzX0NuYm4yamdsVzB5cEtaY1p3cmI4c1VqVVFwSjBucEdLVVEwZVo1NzlKZFpHLXZCd3R6OERVbUhsaTlCbDVySlhtM3dxc25oUzlYSWE3Ti1vX2kxUVF4X0JNYlRrYUxfTm16MW0zNkIwakZnWHVxRTYxbmFObWYybTVYcXRleHVTQVF1akVQbDNIbDN2ODRNSXlqcXJ4TkJ4enByTGFZSUM5ajN0SmfSAdIBQVVfeXFMT0s2bVpoNkRmSGpmMnpCOUk1S2l4WFNsd21DcEpUUFZfX3o1R0lHQ3NodU9aYkJJd3RPSlBGN2F4YnU2OUpVWmV5a1J6VDExem55ZWpoNlNqNXlmeklkNW9JT0RJbmR1eVdJdVF2SWZKU09Zc0l5MVlVQzV3bE9XdGN0V2xndzI5RWYzVVRWMHZBdHNQM0lFTGNpanVWSFFoRFJSNmlIazNBeWllTG9lR0FIRkZHQlZLeGs0UEdyYzJhQjhSVHRPVzkyM3RHN3lTblh3?oc=5",
       "source": "Onda Cero",
       "published": "2026-11-19T11:53:27+00:00",
-      "team": "Levante",
+      "team": "Elche",
       "league": "LaLiga",
       "category": "general",
       "status": "unverified"
     },
     {
-      "title": "¡ALARMA LOOKMAN! LESIÓN DE ALTO GRADO EN LA RODILLA | MOMENTO ARNAU ORTIZ - OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmxtQ2pxRTdpMWllaDdJMkF5SEgtUEVUbmlOXzVnZ0VFeVZCbmpUaFhGYmpYTnRqT2w0ZjdLQWR1cy1peUh1RUxicXhQbkRTMUdMUG42eU0wQzAtR1daMENseUhTNFJqZTAxNng3aHVOU2xOX2EzNlRmZENiZzVJWHBUYklBbklVR1RpY1l1UFFUd0V2RzNGY3Y2X2ZCX2lOTFpyVmpyeGtPdHBrdnVYQg?oc=5",
-      "source": "OneFootball",
-      "published": "2026-11-19T00:19:48+00:00",
-      "team": "LASK",
+      "title": "Onana firma un nuevo contrato con el Aston Villa: \"Hasta ahora ha sido increíble\" - FotMob",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU1pVVkVEaGlSWTJjZVNqMU5WV09BZ0tlOVNjeWNDcHptX0paVnZNcVNXdWFKNXFGNURpSWRJWm9VSEY1VzFTc3dmTWlnUGYwREo3OTY3LTR0VUpKakdxRWs1X1NWbHBpMlR1NWZRR1BBMjRhNWJ2bUpVUDQxaTBVSWNMS1RWaTlIaG9YTWhlTzBCbVEzTThqdWV4N085Q3I1LWFocDJHWjQyUks4QkRrSDdmd1VuTWR0VDBMWTRZbmJqT0o5ZlZJTVdsTDFxY2NuTlhHQg?oc=5",
+      "source": "FotMob",
+      "published": "2026-11-18T21:17:58+00:00",
+      "team": "Aston Villa",
       "league": "Champions League",
-      "category": "lesion",
+      "category": "general",
       "status": "unverified"
     },
     {
@@ -773,26 +803,6 @@
       "status": "unverified"
     },
     {
-      "title": "Martínez regresa de una lesión en la victoria de Argentina - Premier League",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWDlaUk9MOS04NlcxUE1LZE15WVlJOWxsNEhFOG1MUHo2aWR5VDNTYS1LM0JYeDBCbGxDLXVUOGh1cU8zbHNkRHlnLWl4dzhRMS05SnRhbEhsOGNjYTh1TEhjRGdjMmdkWkNwUlpIaVNMQWZnSnJPSm5MZjlFWjg3M1RxRmNnZ1NJZnBhMmgzSERwaXBqUG1hOTBaZjFBcjBHNi16cnQxOA?oc=5",
-      "source": "Premier League",
-      "published": "2026-11-18T15:30:40+00:00",
-      "team": "Everton",
-      "league": "Premier",
-      "category": "lesion",
-      "status": "unverified"
-    },
-    {
-      "title": "Calendario Champions League 2026/27: equipos clasificados, partidos y eliminatorias - DAZN",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONTc1VnFLb2MxTWloaTN0LW9BN0JNZ1pxSkV2aE5UTDJiczJKZ3dVZ3RnclB3bmItOWZQUXFELUlqMEx0VzdkUWRfbGRYMS1ldkN4eUxJYnV1TGVqMGtSQU0zVHgzdC1xVUllWkZ0Yzk5cWJ5REpsYWVIZHVwT1Foam85dFlaU3V1VlBLOUV0MzNaYjVFeWxRQnExTkUtM2s3Q2tyODhfbm4yZjdRbFNBQWxITkRaSU1BYmVzdTZNTHlPYllfWW9BNV93MnJadDdnZUdXM21id0NuNkRlOE5Wa2JHWG1WM0tHNG9QOUY2bmRZN0xnSUE?oc=5",
-      "source": "DAZN",
-      "published": "2026-11-18T14:08:59+00:00",
-      "team": "Bodø/Glimt",
-      "league": "Champions League",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
       "title": "Jai Opetaia abandona el combate contra Deontay Wilder - KarloBag.eu",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU1BtWko2NzdEZlVWcFc2WnFVYV9WZDZPR0xybWtLand3elUyb2RkOGxhUmRGSjZ1cFZNRkVja3pNcGhrS2hEeFV2R3RwODQyVEJUR3dWUlVuUXBfQUVWc2paYW1YcVAtNE9xVHdaR19hZFJjMHkzN05IVXFtdXBla2NlMHFDZ1hsX3NjSHBtUkNFeHM5R0U4aUNpeU9RWlp0LTRBWGpSOWU4SHNaazF0djNIRVVwVnBjLU5r?oc=5",
       "source": "KarloBag.eu",
@@ -805,16 +815,6 @@
     {
       "title": "Dónde Ver: Lincoln City vs Wrexham en vivo (21/11) - APWin",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVpJU0VyR2tsVUkxeWcwMjBYOXpnZmRYOExrM1VTc24wdV9ILWlZTnQ1OW5kUkE0c2NoMTJMazhuUzlQb1dHRlBMVTA4MUg0UHRva2ZkYVZKQTZPMmc4TVlmNEh2RXlFNXdEa01wVEZGN2xFWTdGRFBPcEdWWXhrazN6MGV3R3pJeGUtTWpBRFoySmRENm5ZTUNKR1hKT0NqYVhDUjZB?oc=5",
-      "source": "APWin",
-      "published": "2026-11-18T08:00:00+00:00",
-      "team": "Lincoln City",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Dónde Ver: Millwall vs Queens Park Rangers en vivo (21/11) - APWin",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcDJBVjg2WS1RN2NaN19hejlaZzVwYlloT2V5THJtQUthWTUzak1lVUd3QWljVGJpUldESEsxWHd2OVpxRDZMdGctc0tHenZCZTRseWF6alVhaGJBNUtWMFlQcUpGcG83UWdiZVRPYjVHbWhEVFhqVk9EQmlGVE16SkpwU0RRUkRoWUxpV2ZDTlYwY0lETnR6YVBCam9ENVI3dXUtbjM1RjJkaGNpS196Xw?oc=5",
       "source": "APWin",
       "published": "2026-11-18T08:00:00+00:00",
       "team": "Lincoln City",
@@ -843,13 +843,33 @@
       "status": "unverified"
     },
     {
-      "title": "Aguado, centrocampista del Elche: \"La lesión fue dura, nunca había sentido tanto dolor\" - Información",
+      "title": "La lesión de Lookman es más grave de lo previsto: parte médico con palo a Nigeria - El Desmarque",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSlkwZUtpUXlxeDdXWGVPcmphZk42QWEtNnRPdlBGeFZZdUJuR2NEb0pwckZzbjlEa2dYbHBnLWxfODZpT3hTamFNTTB4WFhyY2o4NG9RaGhmLUVRVlNoS3ZLUUZMMHhzcUw4MDNVTzJoY1R5TXJWanVPOEVLZkh2bjZZNDZrVklWLXFZZV82VjF5R1ZCVFhvRDc4amlkU2RJcGNPMUFPWExVSVgtZzZoTWlWeHg3cnhFTjZ0ckJKZXFBT2J6bEJFMGZscUE?oc=5",
+      "source": "El Desmarque",
+      "published": "2026-11-17T18:22:42+00:00",
+      "team": "Monza",
+      "league": "Serie A",
+      "category": "lesion",
+      "status": "unverified"
+    },
+    {
+      "title": "Aguado, centrocampista del Elche: \"La lesión fue dura, nunca había sentido tanto dolor\" - Diario Información",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa3Nad3d5ODh2blVBTlBUM09DZ0RfbmhtWWNVSkg2QkFGd1BPWWFGZXNreUY4LVpBVVVsOTMyNklEOEdVWC1HVW55U1RCUlByb3VYVjgzdUlhbGFLQ2NCVkNhTzR3TVE4Tk02dFFZMm5hcXVfRklrVXFCNGRPTUZGQ19hTVZ3eFBFYkgzc0xyQzlIeEN6dm00Q09lRk1VSlFvalRF0gGoAUFVX3lxTE14NFNKNm85SmpRZTJBaWhMcGQ4aUNJOGNValBOZXdHR2lmdE5ZR21aUEhHdklNWmN6OTNuNUVtX25yWnVPMVJRTl9PbktwemxxUlkwT2w0X1NuRG1WdExqLXE2MkxuU2Q4YmdselUtSk00eEkwYUxKenpNa2FpcHVXbmc5U05uWUpvR0dQZlVSbjh0MF9pdnpHVzJXdFJXWGdwckRUNUFxTw?oc=5",
-      "source": "Información",
+      "source": "Diario Información",
       "published": "2026-11-17T18:21:41+00:00",
       "team": "Elche",
       "league": "LaLiga",
       "category": "lesion",
+      "status": "unverified"
+    },
+    {
+      "title": "¿A qué hora es el partido Gales vs Portugal y cómo verlo en TV y streaming online? - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2UwZWdkU3VtU21jbzFaRjRBcXpSMGxaLUtVM0Z3WVBfaTBpdENyUzFvcklxbHhKeVRUYjZBN2ZfWFlTRi1hTkFSRDA1aWNJcXF0cDVlbHFGVm13MWYtRzc1dHB3Vi1HeGNVaWpnZ09JQ25PMmpGNU1SaG1vcGNud1lyczJEQktVYlc3aW5wcUtjUlZKeWhRZmNxUnBRdUxsbWZnYjhjd2RqWUExTGdkRTAyQ2VLTVk?oc=5",
+      "source": "Sports Illustrated",
+      "published": "2026-11-17T17:45:00+00:00",
+      "team": "Cardiff",
+      "league": "Championship",
+      "category": "general",
       "status": "unverified"
     },
     {
@@ -883,13 +903,13 @@
       "status": "unverified"
     },
     {
-      "title": "Previa Gales vs Portugal: estadísticas, noticias de equipos y jugadores a seguir - Sofascore",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0t3MHB6c3p4VkpGbzh1dk9nMVZCS0dmZ3l5R3ZvMndNWTZJc25kXzJsX0J3aC1qSzFrck5XLXV4bThVUGF6ZGRteFNYcXV0VjBkNERkTFV1cHF3aGVXYnRCM3R2cnRrLW9NRjZObmFNdl80UE9iR1JyaTZHTWZWWWlGOVNiUW9kLXY1TVY2UmJfVUFyWmpQUmktUlpibWFrU1NlSlpKZVVic1g3ekZ0czd3?oc=5",
-      "source": "Sofascore",
-      "published": "2026-11-17T06:15:15+00:00",
-      "team": "Cardiff",
-      "league": "Championship",
-      "category": "general",
+      "title": "Grave lesión de José Ángel Carmona: qué tiene, tiempo de baja y posibles sustitutos - El Desmarque",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaTRhRklQb2FyLTBRaFR6NVhLNDgtYWZsZWVsajVHWE9Nd1VLb3A0SHVzOUxHRGdseFE1YW0yOFNTY0JUT0g3QjN2OHlfX1lXak5tZl9hSkthWTlDS2FFR081cDduSDY2WHU4MktpQXhkUXlLOWlHSldFelg4cm9adExRR2RpZ19VdkpzMWxzdlZ2WlBaVkhYVVJZVVR3Zy1PTUVIT0tvSHk2d0lETWtUTUpORDRmWEFaNHM1dklBckZnNU1nbGNPa1VxV0RoS3N1S0NrVjZ0Q25ZZDJhN2c?oc=5",
+      "source": "El Desmarque",
+      "published": "2026-11-17T13:03:02+00:00",
+      "team": "Fiorentina",
+      "league": "Serie A",
+      "category": "lesion",
       "status": "unverified"
     },
     {
@@ -898,46 +918,6 @@
       "source": "https://fomoera.com/",
       "published": "2026-11-17T03:25:00+00:00",
       "team": "Cardiff",
-      "league": "Championship",
-      "category": "general",
-      "status": "unverified"
-    },
-    {
-      "title": "Hansi Flick pierde al mejor defensa del Barça tras el parón de selecciones: nueva lesión muscular y alivio con De Jong - Crónica Global",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYMlJFdWtEczBJTk5TYVhMeTVNUDJqNDA1UkJ2NXEwb2pBYnJlTngyRmxRUFMwODVndEE3UFZOdFg3WVEwcFBBdzI0WkVWNW5kQkRQcThCWGFRQVlOeVJMTUlkODRIdDFXWnY3a2pMWGl3LTlhQ3pZSS0xN2lFQ1hTeXoyLXRobElIUUl2OU5OY0FJaGF3RkZPV2R1c195MkpueWhLVmxJd2NBclhuMGt2cUU3LWoyZkw3cDRDXzNQWlN3NVRSeVVvWFhfdXVJVXU0TUlVbjLSAd4BQVVfeXFMT19rZy1fWU5LaXRSRWhXR0ZNVEVYLXpxRkJicW9tTlV0X3liR04xVHh5VVd4VDVlNTVIeXpuX25INk85em9STlBtSDVTZ2x5YVZscGJhMmhWMU5zVmhGZEVzblBTY1p6WXo5c01KS0JEcEFoQ0dDWWhMWFRCT0d4bU1obDdYLURhQ01WR21hTDQyY0lKY2luZTdYSVZvbHJLR080c1NFcmc2ZXdNTEFYSDZFVEFqWVhoRTE3WWRSMVZwdWo2T0w5UG05X296X3l6TVNhelNRT2hPVGU5R2FB?oc=5",
-      "source": "Crónica Global",
-      "published": "2026-11-16T14:16:00+00:00",
-      "team": "Galatasaray",
-      "league": "Champions League",
-      "category": "lesion",
-      "status": "unverified"
-    },
-    {
-      "title": "La posible alineación titular de Portugal para enfrentar a Gales - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzBHM1BUOW1QNXVIcjI5cFB5S21NMGlJakN5d01TbkZTOTRpZU1LOVZheHZFNUM1MEJudHZyX3hRVEh5MU5QUzFWSGZJTllkOU1UcTdsVzZkQWRiNFcycl8yUXNELTM5eVVnOTk5amdwWGxsdU9vX3RBTW1weUtWZ0Jfa1M0MkM0ZlB5Um9WU0w4YjNyZk9CREFBbWlKUURiNlE?oc=5",
-      "source": "Sports Illustrated",
-      "published": "2026-11-16T09:31:48+00:00",
-      "team": "Cardiff",
-      "league": "Championship",
-      "category": "alineacion",
-      "status": "unverified"
-    },
-    {
-      "title": "El CBM Elche firma un triunfo de carácter ante el Zonzamas Lanzarote (31-28) en una tarde marcada por la lesión de Teresa Antón - Club Balonmano Elche",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ3l2aXBTbXh4N3FGd1J6N19seW54cWNmT2dMbW1neXNlV1NpTDJfSUctTU54R2ZmYlNJWlFibm0zZDVXbDJLSFJhSUI4OUt5RE1SVzNaVFdsZzBISy1BcldNam13M1pTN1RWUkluemhtc0IyU0N3LWRUbl83TC15elFQY1pmYXhYSUlIamFxWm4xT1Rsc21BSmRZTTVLaEpqaU9kZ201TDRWSWdqdExtdllkNXlPNFFvZ003LUs5Zm9SWEloVmFabGdWTU9WeVlkVzBVYUM0N1hVeGw5ZUxR?oc=5",
-      "source": "Club Balonmano Elche",
-      "published": "2026-11-16T08:33:17+00:00",
-      "team": "Elche",
-      "league": "LaLiga",
-      "category": "lesion",
-      "status": "unverified"
-    },
-    {
-      "title": "De posible semifinalista al borde del descenso: El duro presente de Leighanne Robe tras abandonar a Pumas Femenil - Récord",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOeV9mQjRGWVROSUZVRUM0MkZIdlRzME1wOUlyY3JZMl9aUk9tX1hmV1ZpT3RFZ3o1RWJLQjVaRWk2TW5ydGE0SFdsTDk5LVA2Wmh5S2E5MTFhWGpMZExNQ2FXMGw0ckhmMGlsM2djaE9vYWlXNVVwb2lUQ05kVmQzTS1QTllfZ1g0UHJQeXRyT2hhNXoxdzJMVzdHb0FGSGF4T1lNRWFhdVk2VE9PemI4bEl6LUtaMkZsX3QzWUQwRnpFYzZRLXlRTEZ0MERlT3Q2aUN6V1Ztc1pkeWJiWnRtQzg3VDVVcjBZd3VHbGIydHNlNmt1Z1hTcWhVVQ?oc=5",
-      "source": "Récord",
-      "published": "2026-11-16T04:47:00+00:00",
-      "team": "Charlton",
       "league": "Championship",
       "category": "general",
       "status": "unverified"
