@@ -7356,7 +7356,16 @@
         "Más de 2,5 goles": 0.693298
       },
       "capturedAt": "2026-11-09T09:42:56.228197+00:00",
-      "result": null
+      "result": {
+        "homeGoals": 3,
+        "awayGoals": 0,
+        "evaluatedAt": "2026-11-24T04:59:52.502874+00:00",
+        "hits": {
+          "Victoria visitante": false,
+          "Ambos marcan · Sí": false,
+          "Más de 2,5 goles": true
+        }
+      }
     },
     "560649": {
       "id": 560649,
@@ -7373,7 +7382,16 @@
         "Menos de 2,5 goles": 0.555934
       },
       "capturedAt": "2026-11-09T09:42:56.228197+00:00",
-      "result": null
+      "result": {
+        "homeGoals": 4,
+        "awayGoals": 0,
+        "evaluatedAt": "2026-11-24T04:59:52.502874+00:00",
+        "hits": {
+          "Victoria local": true,
+          "Ambos marcan · No": true,
+          "Menos de 2,5 goles": false
+        }
+      }
     },
     "564757": {
       "id": 564757,
@@ -7390,7 +7408,16 @@
         "Más de 2,5 goles": 0.565346
       },
       "capturedAt": "2026-11-09T09:42:56.228197+00:00",
-      "result": null
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 1,
+        "evaluatedAt": "2026-11-24T04:59:52.502874+00:00",
+        "hits": {
+          "Victoria visitante": false,
+          "Ambos marcan · Sí": true,
+          "Más de 2,5 goles": false
+        }
+      }
     },
     "561953": {
       "id": 561953,
@@ -9193,7 +9220,24 @@
       },
       "capturedAt": "2026-11-23T01:08:41.341783+00:00",
       "result": null
+    },
+    "561990": {
+      "id": 561990,
+      "league": "Championship",
+      "utcDate": "2026-12-08T19:45:00Z",
+      "homeId": 59,
+      "awayId": 68,
+      "homeName": "Blackburn",
+      "awayName": "Norwich",
+      "model": "poisson-v10",
+      "predictions": {
+        "Victoria visitante": 0.52474,
+        "Ambos marcan · Sí": 0.617748,
+        "Más de 2,5 goles": 0.6225
+      },
+      "capturedAt": "2026-11-24T04:59:52.502874+00:00",
+      "result": null
     }
   },
-  "updatedAt": "2026-11-23T20:35:37.866061+00:00"
+  "updatedAt": "2026-11-24T04:59:52.502874+00:00"
 }
