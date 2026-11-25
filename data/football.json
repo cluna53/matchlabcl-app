@@ -1,6 +1,6 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-11-25T03:02:09.309411+00:00",
+  "updatedAt": "2026-11-25T17:57:53.521935+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
@@ -32,7 +32,7 @@
       "id": 575404,
       "league": "Champions League",
       "utcDate": "2026-11-25T17:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 5,
       "home": {
         "id": 10233,
@@ -45,15 +45,15 @@
         "crest": "https://crests.football-data.org/81.png"
       },
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       }
     },
     {
       "id": 575405,
       "league": "Champions League",
       "utcDate": "2026-11-25T17:45:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 5,
       "home": {
         "id": 930,
@@ -66,8 +66,8 @@
         "crest": "https://crests.football-data.org/94.png"
       },
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       }
     },
     {
@@ -4115,8 +4115,19 @@
         "points": 11
       },
       {
-        "teamId": 65,
+        "teamId": 81,
         "position": 6,
+        "played": 5,
+        "won": 3,
+        "draw": 1,
+        "lost": 1,
+        "goalsFor": 14,
+        "goalsAgainst": 6,
+        "points": 10
+      },
+      {
+        "teamId": 65,
+        "position": 7,
         "played": 5,
         "won": 3,
         "draw": 1,
@@ -4127,7 +4138,7 @@
       },
       {
         "teamId": 4,
-        "position": 7,
+        "position": 8,
         "played": 5,
         "won": 3,
         "draw": 1,
@@ -4135,17 +4146,6 @@
         "goalsFor": 8,
         "goalsAgainst": 6,
         "points": 10
-      },
-      {
-        "teamId": 81,
-        "position": 8,
-        "played": 4,
-        "won": 3,
-        "draw": 0,
-        "lost": 1,
-        "goalsFor": 14,
-        "goalsAgainst": 6,
-        "points": 9
       },
       {
         "teamId": 58,
@@ -4370,24 +4370,24 @@
       {
         "teamId": 94,
         "position": 29,
-        "played": 4,
+        "played": 5,
         "won": 1,
-        "draw": 0,
+        "draw": 1,
         "lost": 3,
         "goalsFor": 8,
         "goalsAgainst": 14,
-        "points": 3
+        "points": 4
       },
       {
         "teamId": 10233,
         "position": 30,
-        "played": 4,
+        "played": 5,
         "won": 1,
-        "draw": 0,
+        "draw": 1,
         "lost": 3,
         "goalsFor": 4,
         "goalsAgainst": 10,
-        "points": 3
+        "points": 4
       },
       {
         "teamId": 1899,
@@ -4425,13 +4425,13 @@
       {
         "teamId": 930,
         "position": 34,
-        "played": 4,
+        "played": 5,
         "won": 0,
-        "draw": 1,
+        "draw": 2,
         "lost": 3,
         "goalsFor": 5,
         "goalsAgainst": 9,
-        "points": 1
+        "points": 2
       },
       {
         "teamId": 521,
