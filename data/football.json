@@ -1,10 +1,10 @@
 {
   "source": "football-data.org",
-  "updatedAt": "2026-11-26T17:42:43.205239+00:00",
+  "updatedAt": "2026-11-27T02:10:13.179230+00:00",
   "leagues": {
     "LaLiga": {
       "code": "PD",
-      "count": 23
+      "count": 24
     },
     "Premier": {
       "code": "PL",
@@ -12,7 +12,7 @@
     },
     "Championship": {
       "code": "ELC",
-      "count": 36
+      "count": 37
     },
     "Champions League": {
       "code": "CL",
@@ -20,7 +20,7 @@
     },
     "Serie A": {
       "code": "SA",
-      "count": 20
+      "count": 21
     },
     "Eredivisie": {
       "code": "DED",
@@ -3067,6 +3067,69 @@
         "id": 521,
         "name": "Lille",
         "crest": "https://crests.football-data.org/521.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 558491,
+      "league": "Serie A",
+      "utcDate": "2026-12-11T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "home": {
+        "id": 115,
+        "name": "Udinese",
+        "crest": "https://crests.football-data.org/115.png"
+      },
+      "away": {
+        "id": 470,
+        "name": "Frosinone",
+        "crest": "https://crests.football-data.org/470.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 564783,
+      "league": "LaLiga",
+      "utcDate": "2026-12-11T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "home": {
+        "id": 285,
+        "name": "Elche",
+        "crest": "https://crests.football-data.org/285.png"
+      },
+      "away": {
+        "id": 559,
+        "name": "Sevilla FC",
+        "crest": "https://crests.football-data.org/559.png"
+      },
+      "score": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 562006,
+      "league": "Championship",
+      "utcDate": "2026-12-11T20:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 21,
+      "home": {
+        "id": 60,
+        "name": "Bolton",
+        "crest": "https://crests.football-data.org/60.png"
+      },
+      "away": {
+        "id": 404,
+        "name": "Wrexham",
+        "crest": "https://crests.football-data.org/404.png"
       },
       "score": {
         "home": null,
